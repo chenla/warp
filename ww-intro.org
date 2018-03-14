@@ -16,7 +16,7 @@ bibliography:../hoard/bib.bib
 * Warp & Woof Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/appl/ww-intro.org
+:Name:     /home/deerpig/proj/chenla/warp/ww-intro.org
 :Created:  2018-02-15T20:19@Prek Leap (11.642600N-104.919210W)
 :ID:       f8ae9d01-083a-4598-84e7-249d560fca6c
 :VER:      571972838.678903093
