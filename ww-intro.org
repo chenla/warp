@@ -49,6 +49,7 @@ practices.
   cite:alexander:1979timeless
 #+end_quote
 
+#+begin_comment
 Replace architecture and building with civilization and it's
 not a bad description of W&W and APPL.
 
@@ -114,6 +115,7 @@ The whole pace-layer model will take a bit to lay out -- and
 we will have to make a case for why we are on the wrong
 path, and how we have no choice but to start from first
 principles.
+#+end_comment
 
 ** Warp & Woof
 #+begin_quote
