@@ -24,3 +24,48 @@
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+
+ - [[./ww-intro.org][Introduction]]
+
+   - 0. [[./ww-ab-initio.org][Ab initio]] -> First Principles
+     - getting rid of the onion
+       - Discard romanticism and her sister mysticism
+       - Discard dogmatism, but don't throw away good ideas
+         that happen to be part of discarded ideologies
+       - as complicated as it needs to be -- not reductionism,
+         which was the mistake that modernists made
+  
+    - 1. Principles
+      - Scientific Method
+        - observe, record, repeat, and understand 
+      - Enlightenment -- rationality and human centered
+      - progress is not growth
+      - No Zero Day -- ab initio, not tabla rasa -- we build
+        on what works and what has worked -- if it doesn't
+        work then discard it, change the system to fit human
+        nature, not human nature to fit a system.
+      - Don't be hasty -- things take as long to change as
+        they take.
+      - Be relentless as well as patient.
+      - The last to escape -- hope
+
+
+  - 2. Three Points of View
+    - Level of Detail (LOD)   -> scale
+    - Rate of Change (ROC)    -> velocity and direction
+    - Process of Change (POC) -> as a system
+
+  - 3. Dualities
+    - Part-Whole
+    - Map-Territory
+    - Metadata-Data
+
+  - 4. Structures
+
+  - 5. Boundries
+
+  - 6. Estrangement          -> beauty and connectedness
+
+  - 7. Patterns              ->
+
+  - 8. The Way (methodology) -> defined Top Down vs generative Bottom Up
