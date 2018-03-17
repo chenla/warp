@@ -135,6 +135,16 @@ principles.
 
 This is not an origin story -- that's moved to the primer.
 
+
+---
+
+Why do we need to understand POV, Dualities and Structures?
+Why are these critical to building a civilization from first
+principles?
+
+
+
+
 *** Part 1: Three Point of Views
 
 The premise is that it is helpful to always understand the Point
@@ -243,6 +253,33 @@ maintaining civilizations.
  - map      <>  territory
  - metadata <>  data
 
+
+Part-Whole
+
+
+map-territory and metdata-data are types of part-whole relationships
+
+---
+
+Map-Territory 
+
+is an more of an LOD than part-whole relationship
+
+a map is not a part, and a territory is not always a whole
+
+a map contains the structure of what it maps at a lower LOD
+
+---
+
+Metadata-Data 
+
+metadata describes threads or patterns in a whole but does
+not attempt to map the whole
+
+metadata can describe a data set, but can also be used as data
+depending on the POV
+
+
 *** Part 3. Structures
  - graphs
  - lists
@@ -257,7 +294,8 @@ maintaining civilizations.
      - sound
      - smell
      - touch
-   cogntive limits
+   cognitive limits
+   cognitive bias
    memory limits
    social limits
      - number of friends
