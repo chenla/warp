@@ -285,6 +285,33 @@ depending on the POV
  - lists
  - trees
 
+I suppose we can talk about narratives -- linear structures,
+rhizomatic structures where everthing is connected to
+everything, which I suppose is a graph, and then
+hierarchical structures which are tress.
+
+Humans think all three ways -- we think linearly as stories and
+we think as paths snaking through rhizomatic structures
+
+and I think this is how we need to put it:
+
+  - complexity is best suited to rhizomatic structures
+  - sets are lists for threads winding through those
+    structures these are ideal for modeling deterministic
+    processes. lists can be:
+    - bag -- intentionally unordered -- the order is not significant.
+    - seq -- ordered -- the order may be by time, number,
+      alphabet, magnitude or class.
+    - alt -- which is a branching list in which only a
+      single item can be chosen -- this is taken from user
+      interfaces but also multiple choice tests etc.
+  - trees for creating hierarchies -- which are nature for
+    pack animals -- trees are partial rhizomes that show a
+    specific set of causal, command and control type
+    structures.  
+
+
+
 *** Part 4. Boundries
 
  - physical and cognitive limits
@@ -378,6 +405,10 @@ than ourselves...
 Even worse, we have built up concentric layers of collective
 maps around us to the point where we don't know what is
 real and what isn't.
+
+We need to reconnect to the world and find a balance between
+being a part or being a part of a whole.
+
 
 #+begin_comment
 [2018-03-10 Sat] Tried to explain some of this to Mike
