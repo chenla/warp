@@ -28,27 +28,6 @@
  - [[./ww-intro.org][Introduction]]
 
  - 0. [[./ww-ab-initio.org][Ab initio]] -> First Principles
-   - getting rid of the onion
-     - Discard romanticism and her sister mysticism
-     - Discard dogmatism, but don't throw away good ideas
-       that happen to be part of discarded ideologies
-     - as complicated as it needs to be -- not reductionism,
-       which was the mistake that modernists made
-  
-   - principles must be mutually exclusive and irreducible
-   - principles must be free of baggage
-   - principles are not assumptions
-   - principles are at best laws, but at least facts.
-
-   - No Zero Day -- ab initio, not tabla rasa -- we build
-     on what works and what has worked -- if it doesn't
-     work then discard it, change the system to fit human
-     nature, not human nature to fit a system.
-   - Don't be hasty -- things take as long to change as
-     they take.
-   - Be relentless as well as patient.
-   - The last to escape -- hope, don't give in to despair
-
  - 1. [[./ww-principles.org][Principles]]
    - Scientific Method
      - observe, record, repeat, and understand 
@@ -68,17 +47,14 @@
    - when two different specialties within a niche
      compete with each other within an ecosystem, the
      stronger replaces the weaker.
-
  - 2. Three Points of View
    - Level of Detail (LOD)   -> scale
    - Rate of Change (ROC)    -> velocity and direction
    - Process of Change (POC) -> as a system
-
  - 3. Dualities
    - Part-Whole
    - Map-Territory
    - Meta-Data
-
  - 4. Structures
    - atoms       -> symbol, k-v, tuple, string, integer
 
@@ -86,13 +62,21 @@
    - sets        -> lists: bag, seq, alt
    - trees       -> branching lists
 
- - 5. Boundries
+   - layers      ->  
+
+ - 5. Generators
+
+   - generative grammers
+   - lisp macros -> code that generates code
+   - generative processes
+
+
+ - 6. Boundries
    - sensual
    - cognitive: limits & bias
    - memory
    - biological-environmental
-
- - 6. Estrangement          -> beauty and connectedness
+ - 7. Estrangement          -> beauty and connectedness
    - balance between being a whole, or a part of a whole, 
      a leaf on a stream, or a boat navigating a river
    - everything applies to all things in the same way
@@ -104,8 +88,7 @@
      reinforce each other and become larger than the sum of
      their parts.
    - care -- practice -- integrity
-
- - 7. Patterns              ->
+ - 8. Patterns              ->
    - patterns and anti-patterns
    - patterns identify anti-fragile groups of relationships 
    - anti-patterns destroy life, beauty and connectedness
@@ -113,8 +96,20 @@
    - patterns are not designs
    - patterns are generative processes
 
+ - 9. Scaffolds             
+    
+   You build a scaffold as a supporting structure for what
+   you are building that will be taken away when it is
+   finished and can stand on its own.  Our scaffolds is a
+   generative structure that came from Steward Brand called
+   the Pace-layer model for civilization.
 
- - 8. The Way (methodology) -> defined Top Down vs generative Bottom Up
+   The APPL will have as it's introduction, the APPL
+   pace-layer model -- not here.  Here we will only discuss
+   pace-layers as a concept and how we will use the model as
+   a foundational scaffold for APPL, Primer and Hoard.
+
+ - 10. The Way (methodology) -> defined Top Down vs generative Bottom Up
    - small steps
    - learning to see what is there, rather than trying to
      impose what you want
