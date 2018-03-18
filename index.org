@@ -8,6 +8,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Warp & Woof | Table of Contents
 :PROPERTIES:
@@ -56,8 +57,11 @@
    - Map-Territory
    - Meta-Data
  - 4. Structures
-   - atoms       -> symbol, k-v, tuple, string, integer
 
+   arrays?
+
+   - atoms       -> symbol, string, integer
+   - ????        -> k-v, triple
    - rhizomes    -> graphs
    - sets        -> lists: bag, seq, alt
    - trees       -> branching lists
@@ -66,6 +70,13 @@
 
  - 5. Generators
 
+Most generators generate random crap and chaos, but a few,
+created all of the structure that we see in the universe and
+here on earth, a handful of generators created life, and a
+handful of other generators build civilization
+
+   - cellular autonoma
+   - DNA/RNA
    - generative grammers
    - lisp macros -> code that generates code
    - generative processes
