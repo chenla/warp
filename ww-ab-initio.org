@@ -11,6 +11,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
 * Ab initio
 :PROPERTIES:
@@ -88,7 +89,7 @@ Why civilization, let alone rethink it from first priniple?
     that we haven't seen since the 1950's but still have all
     of the same problems that demand solutions that require
     a far higher percentage of people innovating than we
-    have today?
+    have today?    cite:kremer:1993population
   - progress in terms of human civilization is measured in
     the number of specializions that a society requires to
     function.  the larger the territory of an ecosystem, the
@@ -101,6 +102,7 @@ Why civilization, let alone rethink it from first priniple?
     always dynamically changing and if you aren't growing,
     you are dying.  we either progress or adjust our
     expectations for humanity and give in to the inevitable.
+
 
 -----
 
@@ -138,6 +140,115 @@ Next, what do we mean by building from first principles --
     and forget the destination, it will never live up the
     the hype anyway.
 
+
+-----
+
+Finally, what is this good for?  The idea of someone
+spending a lifetime to work out a generate grammar's for
+human civilization sounds so arcane and and removed from day
+to day life that it sounds absurd to even consider it.
+
+But consider this, civilization has emerged, evolving on its
+own, without us conciously creating it.  And since evolution
+is a messy process, civilizations have repeatedly risen and
+fallen, and from the ashes new civilizations have emerged
+that are a bit stronger and more resilient than the ones
+they replaced.  But all of this could only happen because
+until the last century, there was always more than one
+civilization on the planet.  If one civilization blew up or
+faded away, another civilization was there to reboot it.
+
+So this work in an attempt to build a scaffolding that can
+be used to build any number of civilizations, it is not
+meant to build any one civilization -- in that sense w&w and
+appl and even the primer are somewhat neutral.  the hoard,
+however will be our attempt to apply w&w, appl and primer to
+build a civilization, first to ensure that it works, and to
+act as an example of how to apply the grammar.  It's
+important that we keep this in mind as we complete this work
+and not get too cocky and think that the hoard we build is
+/the one/ ultimate hoard that will build an ideal
+civilization.  We'll be lucky if we get more than a few
+things right, but we hope that it will be good enough learn
+from and build whatever does become a stable anti-fragile
+human civilization.
+
+Second, the scaffold will be designed to try and keep us
+honest and act as a filter that will identify half-baked
+ideas, blatently dogmatic systems based on belief systems
+etc.
+
+Finally, it will act as a standard that can be used to hold
+up against other scaffolds to that future scaffolds progress
+and improve rather then degenerate and lead to destruction.
+
+
+-------- expanded -------
+
+In a sense, this is what happened as recently as in the
+America's.  Civilization emerged in the America's completely
+independently from Europe and Asia -- there was practically
+zero contact, that was any consequence until the end of the
+15th century.  Contact did more than simply pit
+civilizations against each other, they introduced and mixed
+all sorts of bacteria and viruses together from the
+different hemispheres that had never been in contact with
+each other before.  In part this is likely one reason that
+the megafauna in South America was largely replaced by the
+North American Megafauna -- as well as any number of other
+factors.  The North American species won and replaces many
+South American species and filled their ecological niches.
+
+When Europeans made substantial contact with the Americas
+they introduced very hardy diseases that had been fighting
+it out between Africa, Europe and Asia for millenia and
+human's were still largely helpless against them even in the
+rest of the world.  The Americas didn't stand a chance --
+80-90% of people's on the two continents were wiped out in a
+generation.  The Europeans took advantage of this and
+replaced filled those ecological niches.
+
+Does this justify what Europeans have done to indigenous
+peoples in the Americas, Austrailia and the Pacific and to a
+lesser extent in Africa?  No.  But in the larger scheme of
+things it can be understood as a consequence of evolutionary
+processes that have governed all life on the planet since
+life began on earth some 3.5 billion years ago.
+
+It also doesn't get Europeans off the hook either,
+civlization had advanced to the point by the middle of the
+17th century that blind evolutionary processes were no
+longer our Masters and that we knew enough to know better
+and to do better by each other.  It's interesting that it
+rook another century before these new ideas had been able to
+take hold enough to change the behavior of societies as a
+whole, but by then it was too late.  By the the last half of
+the 18th century and early 19th century when these ideas had
+finally taken hold and begun to stay people's hand, that it
+was too late.
+
+If first contact had happened two centuries later -- which
+is in the realm of the possible if European civilization had
+evolved into something more inward looking as happened in
+China.  China had made contact in the Americas as well, but
+didn't see anything that interested them, and returned home
+and never returned.  The Indian subcontinent was not so much
+insular as it was distributed.  In Asia it was only the
+Mongols that had the same ruthless insatiable wanderlust as
+the Europeans -- and if the Mongols had spent as much energy
+rebuilding what they conquered as they had in conquering in
+the first place, Europe would never have stood a chance and
+the world today would be unrecognizable.  But the Mongols
+were not culitvators, they were herders and hunters.
+Europeans, on the other hand were as much farmers as they
+were herders and hunters.  
+
+Even so, modern China as we know it, would not have been
+possible without the unification that the Mongol conquerors
+-- the mongol chinese rulers combined the paddy with the bow
+and arrow as can be literally seen in the chinese ideogram
+for country.  If not for the Mongols, China would likely
+have fallen as completely to Europeans as did India.
 
 -----
 
