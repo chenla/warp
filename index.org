@@ -34,8 +34,7 @@ bibliography:../hoard/bib.bib
      - observe, record, repeat, and understand 
    - Enlightenment -- rationality and human centered
    - progress is not growth
-
-   - man is a tranactional animal
+   - transactional man
    - slaves create surpluses
    - lots of copies keep stuff safe
    - diversity: biological (genetic) and societal
@@ -44,10 +43,11 @@ bibliography:../hoard/bib.bib
    - the larger the ecosystem the more diversity is
      possible -- this explains why civilization is now
      global, because complexity needs ever larger
-     petri-dish -- that must become the solar system.
-   - when two different specialties within a niche
-     compete with each other within an ecosystem, the
-     stronger replaces the weaker.
+     petri-dish -- that must become the solar
+     system. Tainter argues that civilizations hit maximum
+     complexity and can't sustain itself -- but this is
+     because the civ has maxed out it's ability to
+     innovate and change the parameters of the petri dish
  - 2. Three Points of View
    - Level of Detail (LOD)   -> scale
    - Rate of Change (ROC)    -> velocity and direction
@@ -73,7 +73,7 @@ bibliography:../hoard/bib.bib
 Most generators generate random crap and chaos, but a few,
 created all of the structure that we see in the universe and
 here on earth, a handful of generators created life, and a
-handful of other generators build civilization
+handful of other generators built civilization
 
    - cellular autonoma
    - DNA/RNA
