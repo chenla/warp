@@ -27,7 +27,6 @@ bibliography:../hoard/bib.bib
 
 
  - [[./ww-intro.org][Introduction]]
-
  - 0. [[./ww-ab-initio.org][Ab initio]] -> First Principles
  - 1. [[./ww-principles.org][Principles]]
    - Scientific Method
@@ -57,31 +56,24 @@ bibliography:../hoard/bib.bib
    - Map-Territory
    - Meta-Data
  - 4. Structures
-
-   arrays?
-
+   - arrays?
    - atoms       -> symbol, string, integer
    - ????        -> k-v, triple
    - rhizomes    -> graphs
    - sets        -> lists: bag, seq, alt
    - trees       -> branching lists
-
-   - layers      ->  
-
+   - layers      ->
  - 5. Generators
-
-Most generators generate random crap and chaos, but a few,
-created all of the structure that we see in the universe and
-here on earth, a handful of generators created life, and a
-handful of other generators built civilization
-
+   Most generators generate random crap and chaos, but a
+   few, created all of the structure that we see in the
+   universe and here on earth, a handful of generators
+   created life, and a handful of other generators built
+   civilization.
    - cellular autonoma
    - DNA/RNA
    - generative grammers
    - lisp macros -> code that generates code
    - generative processes
-
-
  - 6. Boundries
    - sensual
    - cognitive: limits & bias
@@ -103,12 +95,9 @@ handful of other generators built civilization
    - patterns and anti-patterns
    - patterns identify anti-fragile groups of relationships 
    - anti-patterns destroy life, beauty and connectedness
-
    - patterns are not designs
    - patterns are generative processes
-
  - 9. Scaffolds             
-    
    You build a scaffold as a supporting structure for what
    you are building that will be taken away when it is
    finished and can stand on its own.  Our scaffolds is a
@@ -119,7 +108,6 @@ handful of other generators built civilization
    pace-layer model -- not here.  Here we will only discuss
    pace-layers as a concept and how we will use the model as
    a foundational scaffold for APPL, Primer and Hoard.
-
  - 10. The Way (methodology) -> defined Top Down vs generative Bottom Up
    - small steps
    - learning to see what is there, rather than trying to
