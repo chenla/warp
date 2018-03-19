@@ -176,3 +176,54 @@ introduce three concepts, each of which will be the core of a Core
 POV, but also are critical understanding any one of the three POVS.
 These are, Level of Detail, Rate of Change, and Process of Change.
 
+*** Level of Detail (LOD)
+
+https://en.wikipedia.org/wiki/Level_of_detail
+
+LOD is a concept and technique used in 3D modeling that involves
+decreasing the complexity of a model as it moves away from the viewer,
+or physical POV relative to the model.
+
+LOD is a useful way of looking at anything in terms of how much detail
+can be displayed or understood.
+
+  - we think of threats in terms of distance and the amount of detail
+    you can take in -- don't fire until you see the whites of their
+    eyes.  Storm clouds on the horizon, or the threat is right on top
+    of us.  The farther away a threat is the more time you have to
+    react, the more time to plan and model the problem because the
+    farther away it is, the less information you have to deal with in
+    evaluating the threat and how to react to it.  The closer it
+    becomes the more information you have to content with and the less
+    time you have to process all of that information.
+
+Think of information in a physical Library in terms of LOD.  Standing
+outside the building you can gauge very roughly how large a library it
+is by the size of the building.  Entering the building you apprach the
+catalog file drawers.  The more drawers the more books and other
+material in the library.  If the library is openstack, you can then
+walk into the stacks and see the library in terms of floors of
+rows of shelves, step slower and you are in a single row and you can
+see the different shelves of books.  Step closer and you can read the
+spines of the books on the shelf in front you and you see more detail,
+the type of book, cloth, papeback, library binding etc.  And you can
+see the title of the book, the authors name and the publishers logo or
+imprint.  You can also see roughly how big the book is, in terms of
+thickness (number of pages) and the height of the book.  Take down a
+book and you open to the title and copyright pages and you see more
+metadata that gives you an idea of who created the book, when and
+where it was published and perhaps the library catalog entry that you
+would have seen in the library catalog file drawers.  Turn to the
+Table of contents and you see an outline of the book and get an idea
+of it's structure -- leaf through the book and you'll have an idea of
+the size of the font and how much information is on each page, are
+there illustations? footnotes?  Then, finally turn to the first page
+of the first chapter and you've come to the highest level of detail in
+the book.  When you are reading, you an no longer see the book in
+lower detail -- though your mental model that you made when looking at
+the book from lower LODs provides you with a means of understanding
+where you are reading, relative to the whole book.
+
+On the Internet search engines are a means of scanning a large number
+of things at a lower level of detail so that you can decide which one
+might be closer to what you are looking for.
