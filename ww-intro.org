@@ -194,55 +194,7 @@ the speed of light but making the point that the speed of
 light is the maximum speed that things can propagate, most
 things are propagating far slower.
 
-
-#+begin_quote
-The distinction between past, present and future is only a
-stubbornly persistent illusion.
-
-— Albert Einstein
-#+end_quote
-
-The Origin POC is still a little unclear -- but I think that
-it will basically boil down to how when we talk about LOD
-and ROC we are talking about substance (as the term is used
-in philosophy) that from the time of Aristotle has claimed
-as the only way to understand and argue about the world.
-Sustance changes over time, but that change is accidental
-and does not change form so that it still remains
-essentially the same thing.  But things can also be thought
-of as processes that are in a constant state of changing and
-becoming something else.  The NYC as substance assumes that
-it may change over time but it is still the same NYC from
-when it was a small settlement called New Amsterdam till
-today.  Process philosophy argues that it is not the same
-city even from one moment to the next -- ala you can never
-step in the same river twice.  So when you compare POC with
-ROC you are considering not only how fast things change, but
-the substance of how substances transform over time.
-Understanding things as process and that things change over
-time to become completely different things is important --
-we tend to use words, events and historical figures as if
-they were contemporaries from our own present understanding
-of the world -- they were not what we think of them today --
-we have reinvented them and are continually reinventing
-everything around us -- history is what is written -- what
-was said -- which is a moving target as we write new things.
-The past is not a static fixed thing because out
-understanding is not a static fixed thing.  This is
-important in so many different areas.  For example, in USA,
-when people argue that interpretation of the constitution
-must be in done as it was intended when it was written in
-the 18th century.  Is this even possible?  We can not know
-what their original intend was because our understanding of
-what we think their original intent was is constantly
-changing.  The past is always an invention of the present.
-This does not mean that it's not important to strive to
-understand what that original intent is, it's just that our
-understanding is changing and will never stop changing,
-which in some respects negates the original intention of
-what we set out to do in the first place.  POC has enormous
-implications for everything from contracts to education to
-agriculture to business.
+--------
 
 Taken together these three models will give us a set of
 powerful tools for understanding, planning, building, and
