@@ -12,7 +12,7 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Three Points of View
+* 2. Three Points of View
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww.points-of-view.org
@@ -197,6 +197,30 @@ can be displayed or understood.
     becomes the more information you have to content with and the less
     time you have to process all of that information.
 
+    This becomes very important because of the concept of discounting
+    -- we discount things that are far away -- we put off dealing with
+    anything that is not percieved as an immediate threat -- we can
+    plan for the future, which is one of the things that sets us apart
+    from other animals, but we're still not very good at it.  The
+    lower the detail, the lower the threat the less weight we give to
+    it.  The larger something is, the more we pay attention to it, and
+    that includes very small threats like a poisonous spider, the
+    spider itself is small, but the pain or even threat of death is
+    very large and detailed.
+
+    So LOD is at the heart of how we determine what is and what isn't
+    important -- spending a dollar on a bag of crispes is small,
+    relative to how much money the average person in the developed
+    world spends every month or in a lifetime, but buying a car is
+    somethiing that will impact your life for years.  Buying a house
+    will impact your life for decades or even the rest of your life.
+
+The forest and the trees -- a low LOD allows us to see the big
+picture, uncluttered by detail -- a high LOD immerses us in detail
+making it difficult or impossible to see larger or longer processes at
+work.  
+
+
 Think of information in a physical Library in terms of LOD.  Standing
 outside the building you can gauge very roughly how large a library it
 is by the size of the building.  Entering the building you apprach the
@@ -224,9 +248,32 @@ lower detail -- though your mental model that you made when looking at
 the book from lower LODs provides you with a means of understanding
 where you are reading, relative to the whole book.
 
-On the Internet search engines are a means of scanning a large number
-of things at a lower level of detail so that you can decide which one
-might be closer to what you are looking for.
+Now we need an example of temporal LOD
+
+We mix and match things when we compare different things together --
+we don't always compare two things at the same LOD -- this is very
+useful.
+
+A low LOD in a short scientific paper might be very different from the
+short LOD in a book.  So a paper that is mentioned in passing a larger
+work describes that paper from a low LOD, which is useful
+understanding that paper in context with other related papers.  But
+you might then place that paper beside the book and refer to it in
+order to see in detail how the paper might provide even more context
+with the larger picture in the book.
+
+The concept of the length of the coast of England -- you can always
+add or subtract one from something -- zeno's paradox -- you can always
+cut something in half.  So setting an LOD is also a means of defining
+something.  A definition is as much a description of what something is
+as it excludes what something is not.
+
+LOD is key to understanding the part-whole relationship which we will
+discuss in it's own chapter.
+
+LOD is key to the Map-Territory relationship, which we will discuss in
+more detail in it's own chapter.
+
 
 *** Rate of Change (ROC)
 
