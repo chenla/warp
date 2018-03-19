@@ -27,7 +27,7 @@
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Introduction
+** TL;DR
 
    - Point of View
    - Level of Detail (LOD)   -> scale
@@ -35,3 +35,53 @@
    - Process of Change (POC) -> as a system
 
 
+*** What is a point of View?
+
+
+In philosophy a point of view (POV) is a "stated matter of
+consideration", taken from an individual's perspective. In this sense
+a POV is entirely subjective.  But a POV can also be seen as something
+that at least theoretically is objective.
+
+In physics, and in particular, the Theory of Relativity, everything is
+understood to what can be observed from a particular time and place,
+or more specifically an /inertial frame of reference/.  This is the
+point in time or space where the observer is looking and everything
+that is observed is relative to that position.  If something is close
+or far away, or fast or slow all depends on if the observer is
+traveling at the same speed and direction as what is being observed,
+which means that from that POV both the observer and the observed are
+stationary relative to each other.
+
+
+From wikipedia -- Propositional attitudes:
+
+  The internal structure of a point of view may be analysed similarly
+  to the concept of a propositional attitude. A propositional attitude
+  is an attitude, i.e., a mental state held by an agent toward a
+  proposition.
+   -- https://en.wikipedia.org/wiki/Point_of_view_(philosophy)
+
+POVs are critical to the concept of a worldview.
+
+A World View is a mental model of the world that establishes cognitive
+orientation for where you are relative to the world.  Worldviews are a
+mixture of memories of things observed and experenced, assertations of
+what those things are and mean, and conjecture that fill in the blanks
+in that model.  If you are in a room that has a door that you have
+never seen opened, you will include in your mental model the
+conjecture that there is either a room leading to another room or
+corrider in the building or that it is an outside wall that will take
+you outside the building.  There is also the possibility that it is a
+fake door that doesn't open or lead to anywhere.  Worldviews are full
+of such conjectures that are constantly being updated and expanded as
+more information is added to the model.
+
+The maker of the model is always at the center of the model -- I am
+here and the rest of the universe radiates out from where I am at any
+given moment.
+
+This is the case for pretty much anything animal that has a brain, as
+well as groups, an ant colony has a collective worldview as much as
+a group of close friends, a department in a company, a government, a
+church congregation or even a religion that spans the globe.
