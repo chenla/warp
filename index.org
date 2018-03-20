@@ -27,8 +27,8 @@ bibliography:../hoard/bib.bib
 
 
  - [[./ww-intro.org][Introduction]]
- - 0. [[./ww-ab-initio.org][Ab initio]] -> First Principles
- - 1. [[./ww-principles.org][Principles]]
+ - 0.  [[./ww-ab-initio.org][Ab initio]]             -> First Principles
+ - 1.  [[./ww-principles.org][Principles]]
    - Scientific Method
      - observe, record, repeat, and understand 
    - Enlightenment -- rationality and human centered
@@ -47,16 +47,16 @@ bibliography:../hoard/bib.bib
      complexity and can't sustain itself -- but this is
      because the civ has maxed out it's ability to
      innovate and change the parameters of the petri dish
- - 2. [[./ww.points-of-view.org][Three Points of View]]
+ - 2.  [[./ww.points-of-view.org][Three Points of View]]
    - Point of View
    - Level of Detail (LOD)   -> scale
    - Rate of Change (ROC)    -> velocity and direction
    - Process of Change (POC) -> as a system
- - 3. Dualities
+ - 3.  Dualities
    - Part-Whole
    - Map-Territory
    - Meta-Data
- - 4. Structures
+ - 4.  Structures
    - arrays?
    - atoms       -> symbol, string, integer
    - ????        -> k-v, triple
@@ -64,7 +64,7 @@ bibliography:../hoard/bib.bib
    - sets        -> lists: bag, seq, alt
    - trees       -> branching lists
    - layers      ->
- - 5. Generators
+ - 5.  Generators
    Most generators generate random crap and chaos, but a
    few, created all of the structure that we see in the
    universe and here on earth, a handful of generators
@@ -75,12 +75,12 @@ bibliography:../hoard/bib.bib
    - generative grammers
    - lisp macros -> code that generates code
    - generative processes
- - 6. Boundries
+ - 6.  Boundries
    - sensual
    - cognitive: limits & bias
    - memory
    - biological-environmental
- - 7. Estrangement          -> beauty and connectedness
+ - 7.  Estrangement          -> beauty and connectedness
    - balance between being a whole, or a part of a whole, 
      a leaf on a stream, or a boat navigating a river
    - everything applies to all things in the same way
@@ -92,14 +92,13 @@ bibliography:../hoard/bib.bib
      reinforce each other and become larger than the sum of
      their parts.
    - care -- practice -- integrity
- - 8. Patterns              ->
+ - 8.  Patterns              ->
    - patterns and anti-patterns
    - patterns identify anti-fragile groups of relationships 
    - anti-patterns destroy life, beauty and connectedness
    - patterns are not designs
    - patterns are generative processes
- - 9. Scaffolds             
-   You build a scaffold as a supporting structure for what
+ - 9.  Scaffolds You build a scaffold as a supporting structure for what
    you are building that will be taken away when it is
    finished and can stand on its own.  Our scaffolds is a
    generative structure that came from Steward Brand called
@@ -115,3 +114,4 @@ bibliography:../hoard/bib.bib
      impose what you want
 
    - finance 
+
