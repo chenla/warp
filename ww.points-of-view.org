@@ -29,12 +29,7 @@
 
 ** TL;DR
 
-   - Point of View
-   - Level of Detail (LOD)   -> scale
-   - Rate of Change (ROC)    -> velocity and direction
-   - Process of Change (POC) -> as a system
-
-
+** TOC
 *** What is a point of View?
 
 
@@ -378,6 +373,11 @@ of what we set out to do in the first place.  POC has enormous
 implications for everything from contracts to education to agriculture
 to business.
 
+Systems best thought of as ongoing processes rather than something
+with a beginning or end -- which has historic interest, but most of
+life is taken up with the present -- 
+
+
 *** LOD, ROC and POC as Point of Views
 
 Now that we understand what a Point of View is, and it's importance
@@ -409,3 +409,35 @@ terms of LOD, ROC and POC.
 *** Scale
 *** Propagation
 *** Process
+
+When thinking of the present as process, you are in the moment --
+there is no past or future -- the past and future are only real when
+you have a surplus of time to think about them -- if you are being
+chased by a bear, you aren't going to be thinking about where you are
+going to eat lunch, you are too busy not becoming the bear's lunch.
+
+But when thinking of systems we are looking at a process from a lower
+LOD.
+
+When we think about something like Moore's Law, we are looking at ROC
+at a lower LOD.
+
+We're not very good at thinking of the past as being in the present,
+but it is -- the past is still with us, it's just decayed and
+overwritten by other things --
+
+the big bang is something that can be understood as one big present --
+because light travels at a fixed speed, when we look at distant 
+objects we are looking at light that has taken a long time to get here
+-- we are effectively looking at things that happened long in the past
+-- but there is no way of seeing how they are now in the present --
+and in the same way, the light from what we are doing now, will travel
+through space at a set speed and might be seen by others in the
+distant future -- but they will be seeing us as we are now, not as we
+are when they see us.
+
+
+  - Systems as process
+  - ERP -- business processes
+  - Education as lifelong process
+
