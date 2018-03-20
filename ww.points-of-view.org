@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Three Points of View
+#+TITLE: Points of View
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -30,7 +30,7 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
-** TOC
+** Table of Contents
 *** What is a point of View?
 
 
