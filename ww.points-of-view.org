@@ -417,6 +417,10 @@ describing context as a POV.  It's important to understand them as
 different POVs but in practice we will almost always be talking in
 terms of LOD, ROC and POC.
 
+You can mix and match these three to create any number of POVs, but we
+will focus on four which will provide a jumping off point for creating
+a wide variety of POVs that we will use over and over.
+
 *** Scale
 
 Scale determines POV relative to the distance from a frame of
