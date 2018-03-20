@@ -11,8 +11,9 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
 
-* 2. Three Points of View
+* 2. Points of View
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww.points-of-view.org
@@ -178,6 +179,16 @@ https://en.wikipedia.org/wiki/Level_of_detail
 LOD is a concept and technique used in 3D modeling that involves
 decreasing the complexity of a model as it moves away from the viewer,
 or physical POV relative to the model.
+
+We use the term LOD rather than distance because distance is a
+relative term -- is distance the space traveled by light in a given
+time?  Is distence a measure of units, and if so what units?  What is
+the accuracy of those units?  Is a day's walk, the same as 10
+kilometers?
+
+LOD clears away all of that and is simply the amount of detail that
+can be observed from a given frame of reference.  The less detail, the
+farther away it is, the closer the more detail that can be observed.
 
 LOD is a useful way of looking at anything in terms of how much detail
 can be displayed or understood.
@@ -407,6 +418,41 @@ different POVs but in practice we will almost always be talking in
 terms of LOD, ROC and POC.
 
 *** Scale
+
+Scale determines POV relative to the distance from a frame of
+reference, the distence determines the LOD from any given distence.
+
+Scale works separately in space or in time or as one or the
+other depending on if your POV is a Process or a Narrative.
+
+Since we use the concept of LOD, rather than any specific standard of
+measurement -- it doesn't require an ideal references meter stick kept
+in a environmentally stable vault, or sophisticated light sources and
+timing equipment to measure how far light travels in a given period of
+time.  These are important concepts and tools, but as a universal
+means of understanding a POV they don't help.
+
+*** Narrative
+
+Unlike process, a narrative POV views things as continuum of snapshots
+of different states of the present.  Each snapshot becomes a point in
+time where the state is frozen.  When you move forward or backward in
+time you move to previous or future frozen states.  When understood
+this way, the whole idea of time as a place doesn't work very well.
+
+Human brains are designed to think this way -- we think in terms of a
+present relative to a distinct past, an illusion created my memories
+of when the present was not the same as it is now.
+
+Narratives are an effective means of modeling the world where there
+are memories of things that are no longer the same as in the present.
+
+Narratives are move in a single direction, from past to present and
+from present to future.   You can zoom in and out of narratives to see
+more or less LOD, and narratives can be sped up or slowed down at
+different rates than the events are happening in the narrative by
+zooming in and out to provide more temporal LOD.
+
 *** Propagation
 *** Process
 
