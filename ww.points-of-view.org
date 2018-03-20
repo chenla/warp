@@ -440,15 +440,18 @@ time where the state is frozen.  When you move forward or backward in
 time you move to previous or future frozen states.  When understood
 this way, the whole idea of time as a place doesn't work very well.
 
-Human brains are designed to think this way -- we think in terms of a
-present relative to a distinct past, an illusion created my memories
-of when the present was not the same as it is now.
+Entropy gives time a direction, it is a one-way process -- you can't
+unstir a cup of coffee.
+
+This is where we get the illusion of time as a lie -- we think in
+terms of a present relative to a past, an illusion created my
+memories of when the present was not the same as it is now.
 
 Narratives are an effective means of modeling the world where there
 are memories of things that are no longer the same as in the present.
 
 Narratives are move in a single direction, from past to present and
-from present to future.   You can zoom in and out of narratives to see
+from present to future.  You can zoom in and out of narratives to see
 more or less LOD, and narratives can be sped up or slowed down at
 different rates than the events are happening in the narrative by
 zooming in and out to provide more temporal LOD.
@@ -465,6 +468,8 @@ time the observer sees X but on the other side of the galaxy at the
 same time but different place the observer sees Y because change has
 does not propagate at the same rate.
 
+Propagation, like timem is a one-way process.
+
 Change is not instantaneous, it is tied to the physical laws of the
 universe.  Change can only change as fast as those physical laws
 allow.
@@ -478,6 +483,17 @@ light.
 
 The exception is quantum entanglement -- but at the moment this isn't
 important unless we develop tech that leverages 
+
+Change is also relative to the distance between two things -- the
+shorter the distence the faster things change between them -- at
+microscopic and atomic scales this is very important.
+
+As we will see in the Pace-Layer model, the maximum ROC (speed of
+light) might be important at very large scales, but there are all
+sorts of scales -- different things happen at different temporal
+scales in a society -- there are processes that happen slower or
+faster or even vary, changing at different rates at different times
+depending on what is changing.
 
 *** Process
 
