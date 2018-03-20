@@ -47,7 +47,7 @@ bibliography:../hoard/bib.bib
      complexity and can't sustain itself -- but this is
      because the civ has maxed out it's ability to
      innovate and change the parameters of the petri dish
- - 2.  [[./ww.points-of-view.org][Three Points of View]]
+ - 2.  [[./ww.points-of-view.org][Points of View]]
    - Point of View
    - Level of Detail (LOD)   -> scale
    - Rate of Change (ROC)    -> velocity and direction
