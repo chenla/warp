@@ -497,6 +497,17 @@ more or less LOD, and narratives can be sped up or slowed down at
 different rates than the events are happening in the narrative by
 zooming in and out to provide more temporal LOD.
 
+Now -- what about non-linear narritives -- aka arthurian prose
+cycles.  these are branching narratives, rhizomatic structures, which
+are essentially graphs -- and we need to think of narratives as a
+broader set of structures than beginning middle end.
+
+That might be right -- of the four POVs here we don't have a
+graph-based POV -- narratives are stuck with entropic one way
+processes but they don't have to be one damn thing after another they
+don't have to be Ariadne's thread through the maze, they can encompus
+the maze and the threads that weave through them.
+
 *** Propagation
 
 Specifically causal propagation -- 
