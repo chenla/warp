@@ -77,7 +77,7 @@ bibliography:../hoard/bib.bib
    - generative processes
  - 6.  Boundries
    - sensual
-   - cognitive: limits & bias
+   - cognitive limits & bias
    - memory
    - biological-environmental
  - 7.  Estrangement          -> beauty and connectedness
@@ -113,5 +113,5 @@ bibliography:../hoard/bib.bib
    - learning to see what is there, rather than trying to
      impose what you want
 
-   - finance 
+ 
 
