@@ -30,6 +30,11 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+ - The Nature of Dualities
+ - Dualities in Nature
+ - Part-Whole
+ - Map-Territory
+ - Meta-Data
 
 
 
