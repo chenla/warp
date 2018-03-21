@@ -31,3 +31,22 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 
 ** Table of Contents
+
+   - Scientific Method
+     - observe, record, repeat, and understand 
+   - Enlightenment -- rationality and human centered
+   - progress is not growth
+   - transactional man
+   - slaves create surpluses
+   - lots of copies keep stuff safe
+   - diversity: biological (genetic) and societal
+     (specialties) determine if a
+     system is anti-fragile or not.  
+   - the larger the ecosystem the more diversity is
+     possible -- this explains why civilization is now
+     global, because complexity needs ever larger
+     petri-dish -- that must become the solar
+     system. Tainter argues that civilizations hit maximum
+     complexity and can't sustain itself -- but this is
+     because the civ has maxed out it's ability to
+     innovate and change the parameters of the petri dish
