@@ -53,6 +53,22 @@ observed, which means that from that POV both the observer and the
 observed are stationary relative to each other.
 
 
+#+begin_quote
+New proofs would come much easier if there were a single universal
+coordinate system that worked for every problem and every
+configuration of space-time. But as Einstein discovered during those
+fraught, wandering years, the universe doesn’t admit any one
+privileged choice of coordinates.
+
+“It’s not just that we don’t have such a choice,” said
+Weatherall. “It’s that one of the things we take Einstein to have
+taught us is that it would be a mistake to expect there to be such a
+choice.”
+
+— [[https://www.quantamagazine.org/how-einstein-lost-his-bearings-and-with-them-general-relativity-20180314/][How Einstein Lost His Bearings, and With Them, General Relativity]]
+#+end_quote
+
+
 From wikipedia -- Propositional attitudes:
 
   The internal structure of a point of view may be analysed similarly
