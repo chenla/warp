@@ -109,7 +109,7 @@ bibliography:../hoard/bib.bib
    pace-layer model -- not here.  Here we will only discuss
    pace-layers as a concept and how we will use the model as
    a foundational scaffold for APPL, Primer and Hoard.
- - 10. The Way (methodology) 
+ - 10. [[./ww-the-way.org][The Way]] 
    - defined Top Down vs generative Bottom Up
    - small steps
    - learning to see what is there, rather than trying to
