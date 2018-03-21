@@ -36,3 +36,4 @@ bibliography:../hoard/bib.bib
  - patterns are not designs
  - patterns are generative processes
 
+cite:alexander:1979timeless,alexander:1977pattern  
