@@ -32,13 +32,6 @@ bibliography:../hoard/bib.bib
  - 2.  [[./ww.points-of-view.org][Points of View]]
  - 3.  [[./ww-dualities.org][Dualities]]
  - 4.  [[./ww-structures.org][Structures]]
-   - arrays?
-   - atoms       -> symbol, string, integer
-   - ????        -> k-v, triple
-   - rhizomes    -> graphs
-   - sets        -> lists: bag, seq, alt
-   - trees       -> branching lists
-   - layers      ->
  - 5.  [[./ww-generators.org][Generators]]
    Most generators generate random crap and chaos, but a
    few, created all of the structure that we see in the

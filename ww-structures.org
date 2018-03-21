@@ -31,5 +31,12 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+   - atoms       -> symbol, string, integer
+   - ????        -> k-v, triple
+   - rhizomes    -> graphs
+   - sets        -> lists: bag, seq, alt
+   - trees       -> branching lists
+   - layers      ->
 
 
+What about arrays?
