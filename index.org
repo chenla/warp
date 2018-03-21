@@ -80,7 +80,7 @@ bibliography:../hoard/bib.bib
    - cognitive limits & bias
    - memory
    - biological-environmental
- - 7.  Estrangement
+ - 7.  [[./ww-estrangement.org][Estrangement]]
    - balance between being a whole, or a part of a whole, 
      a leaf on a stream, or a boat navigating a river
    - everything applies to all things in the same way
