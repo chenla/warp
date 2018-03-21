@@ -64,7 +64,7 @@ bibliography:../hoard/bib.bib
    - sets        -> lists: bag, seq, alt
    - trees       -> branching lists
    - layers      ->
- - 5.  Generators
+ - 5.  [[./ww-generators.org][Generators]]
    Most generators generate random crap and chaos, but a
    few, created all of the structure that we see in the
    universe and here on earth, a handful of generators
