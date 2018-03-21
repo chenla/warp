@@ -75,7 +75,7 @@ bibliography:../hoard/bib.bib
    - generative grammers
    - lisp macros -> code that generates code
    - generative processes
- - 6.  Boundries
+ - 6.  [[./ww-boundries.org][Boundries]]
    - sensual
    - cognitive limits & bias
    - memory
