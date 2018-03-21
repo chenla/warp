@@ -52,7 +52,7 @@ bibliography:../hoard/bib.bib
    - Level of Detail (LOD)   -> scale
    - Rate of Change (ROC)    -> velocity and direction
    - Process of Change (POC) -> as a system
- - 3.  Dualities
+ - 3.  [[./ww-dualities.org][Dualities]]
    - Part-Whole
    - Map-Territory
    - Meta-Data
@@ -112,6 +112,7 @@ bibliography:../hoard/bib.bib
    - small steps
    - learning to see what is there, rather than trying to
      impose what you want
+     
 
- 
+     
 
