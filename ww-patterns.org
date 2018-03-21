@@ -30,3 +30,9 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+ - patterns and anti-patterns
+ - patterns identify anti-fragile groups of relationships 
+ - anti-patterns destroy life, beauty and connectedness
+ - patterns are not designs
+ - patterns are generative processes
+

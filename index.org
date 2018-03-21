@@ -36,11 +36,6 @@ bibliography:../hoard/bib.bib
  - 6.  [[./ww-boundries.org][Boundries]]
  - 7.  [[./ww-estrangement.org][Estrangement]]
  - 8.  [[./ww-patterns.org][Patterns]]
-   - patterns and anti-patterns
-   - patterns identify anti-fragile groups of relationships 
-   - anti-patterns destroy life, beauty and connectedness
-   - patterns are not designs
-   - patterns are generative processes
  - 9.  [[./ww-scaffolds.org][Scaffolds]] 
    Scaffold as a supporting structure for what
    you are building that will be taken away when it is
