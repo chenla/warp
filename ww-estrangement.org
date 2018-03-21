@@ -31,3 +31,21 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+ - balance between being a whole, or a part of a whole, 
+    a leaf on a stream, or a boat navigating a river
+ - everything applies to all things in the same way
+ - free will is limited, but not deterministic
+ - consciousness is an illusion
+ - control -- fear is about uncertainty and powerlessness
+ - quality and care       -> intentionality and contribution
+ - beauty and order, order is a set of relationships that
+   reinforce each other and become larger than the sum of
+   their parts.
+ - care -- practice -- integrity
+
+
+Alienation? 
+  - [[https://aeon.co/essays/in-the-1950s-everybody-cool-was-a-little-alienated-what-changed][A History of Alienation]] | Aeon
+  - One Dimensional Man cite:marcuse:2002one-dimensional
+  - Henry David Thoreau?  
+
