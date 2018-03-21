@@ -202,6 +202,22 @@ time?  Is distence a measure of units, and if so what units?  What is
 the accuracy of those units?  Is a day's walk, the same as 10
 kilometers?
 
+#+begin_quote
+Mount Everest’s height seems to be subject to two competing forces. On
+the one hand, the collision of two continental plates (Asia and India)
+causes a certain amount of uplift each year, perhaps about a
+centimeter or so, although there seems to be some disagreement. On the
+other hand, other forces, such as erosion and melting glaciers, can
+cause a decrease in height. While it’s unclear how much it changes
+each year, we now know for certain that the height is never exactly
+constant. We also know that Mount Everest is moving laterally at quite
+a nice clip: six centimeters per year, making its location also a
+mesofact, one of those slowly changing pieces of knowledge.
+
+-- Half-Life of Facts cite:arbesman:2012half-life
+#+end_quote
+
+
 LOD clears away all of that and is simply the amount of detail that
 can be observed from a given frame of reference.  The less detail, the
 farther away it is, the closer the more detail that can be observed.
