@@ -31,5 +31,15 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+Most generators generate random crap and chaos, but a few,
+created all of the structure that we see in the universe and
+here on earth, a handful of generators created life, and a
+handful of other generators built civilization.
+
+   - cellular autonoma
+   - DNA/RNA
+   - generative grammers
+   - lisp macros -> code that generates code
+   - generative processes
 
 
