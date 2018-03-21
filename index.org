@@ -92,7 +92,7 @@ bibliography:../hoard/bib.bib
      reinforce each other and become larger than the sum of
      their parts.
    - care -- practice -- integrity
- - 8.  Patterns
+ - 8.  [[./ww-patterns.org][Patterns]]
    - patterns and anti-patterns
    - patterns identify anti-fragile groups of relationships 
    - anti-patterns destroy life, beauty and connectedness
