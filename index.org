@@ -56,7 +56,7 @@ bibliography:../hoard/bib.bib
    - Part-Whole
    - Map-Territory
    - Meta-Data
- - 4.  Structures
+ - 4.  [[./ww-structures.org][Structures]]
    - arrays?
    - atoms       -> symbol, string, integer
    - ????        -> k-v, triple
