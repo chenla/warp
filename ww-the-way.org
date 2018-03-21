@@ -30,6 +30,13 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+ - defined Top Down vs generative Bottom Up
+ - small steps
+ - learning to see what is there, rather than trying to
+   impose what you want
+
+---
 
 
-
+ - Timeless Way of Building cite:alexander:1979timeless
+ - Design with Nature cite:mcharg:1969design

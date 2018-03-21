@@ -38,10 +38,6 @@ bibliography:../hoard/bib.bib
  - 8.  [[./ww-patterns.org][Patterns]]
  - 9.  [[./ww-scaffolds.org][Scaffolds]] 
  - 10. [[./ww-the-way.org][The Way]] 
-   - defined Top Down vs generative Bottom Up
-   - small steps
-   - learning to see what is there, rather than trying to
-     impose what you want
      
 
      
