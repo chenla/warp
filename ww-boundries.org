@@ -31,3 +31,7 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+ - sensual
+ - cognitive limits & bias
+ - memory
+ - biological-environmental
