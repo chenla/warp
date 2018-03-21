@@ -27,7 +27,7 @@ bibliography:../hoard/bib.bib
 
 
  - [[./ww-intro.org][Introduction]]
- - 0.  [[./ww-ab-initio.org][Ab initio]]             -> First Principles
+ - 0.  [[./ww-ab-initio.org][Ab initio]] 
  - 1.  [[./ww-principles.org][Principles]]
    - Scientific Method
      - observe, record, repeat, and understand 
@@ -80,7 +80,7 @@ bibliography:../hoard/bib.bib
    - cognitive limits & bias
    - memory
    - biological-environmental
- - 7.  Estrangement          -> beauty and connectedness
+ - 7.  Estrangement
    - balance between being a whole, or a part of a whole, 
      a leaf on a stream, or a boat navigating a river
    - everything applies to all things in the same way
@@ -92,13 +92,14 @@ bibliography:../hoard/bib.bib
      reinforce each other and become larger than the sum of
      their parts.
    - care -- practice -- integrity
- - 8.  Patterns              ->
+ - 8.  Patterns
    - patterns and anti-patterns
    - patterns identify anti-fragile groups of relationships 
    - anti-patterns destroy life, beauty and connectedness
    - patterns are not designs
    - patterns are generative processes
- - 9.  Scaffolds You build a scaffold as a supporting structure for what
+ - 9.  [[./ww-scaffolds.org][Scaffolds]] 
+   Scaffold as a supporting structure for what
    you are building that will be taken away when it is
    finished and can stand on its own.  Our scaffolds is a
    generative structure that came from Steward Brand called
@@ -108,7 +109,8 @@ bibliography:../hoard/bib.bib
    pace-layer model -- not here.  Here we will only discuss
    pace-layers as a concept and how we will use the model as
    a foundational scaffold for APPL, Primer and Hoard.
- - 10. The Way (methodology) -> defined Top Down vs generative Bottom Up
+ - 10. The Way (methodology) 
+   - defined Top Down vs generative Bottom Up
    - small steps
    - learning to see what is there, rather than trying to
      impose what you want
