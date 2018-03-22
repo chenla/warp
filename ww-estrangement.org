@@ -43,9 +43,18 @@ bibliography:../hoard/bib.bib
    their parts.
  - care -- practice -- integrity
 
+** References
 
 Alienation? 
-  - [[https://aeon.co/essays/in-the-1950s-everybody-cool-was-a-little-alienated-what-changed][A History of Alienation]] | Aeon
+  - [[https://aeon.co/essays/in-the-1950s-everybody-cool-was-a-little-alienated-what-changed][A History of Alienation]] | Aeon cite:jay:2018alienation
   - One Dimensional Man cite:marcuse:2002one-dimensional
-  - Henry David Thoreau?  
+  - Zen and the Art of Motorcycle Maintainence  cite:pirsig:2008zen
+  - White Collar cite:mills:1951white
+  - Wikipedia: White Collar (book) cite:wiki:2017white-collar-book
+  - Wikipedia: Social Alienation cite:wiki:2018social-alienation
+
+
+
+  - https://en.wikipedia.org/wiki/Self-estrangement
+  - https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation 
 
