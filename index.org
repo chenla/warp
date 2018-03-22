@@ -35,7 +35,7 @@ bibliography:../hoard/bib.bib
  -  5. [[./ww-generators.org][Generators]]
  -  6. [[./ww-boundries.org][Boundries]]
  -  7. [[./ww-estrangement.org][Estrangement]]
- -  8. Succession
+ -  8. [[./ww-succession.org][Succession]]
    - succession
    - keystones
      - concepts
