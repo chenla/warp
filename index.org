@@ -27,17 +27,34 @@ bibliography:../hoard/bib.bib
 
 
  - [[./ww-intro.org][Introduction]]
- - 0.  [[./ww-ab-initio.org][Ab initio]] 
- - 1.  [[./ww-principles.org][Principles]]
- - 2.  [[./ww.points-of-view.org][Points of View]]
- - 3.  [[./ww-dualities.org][Dualities]]
- - 4.  [[./ww-structures.org][Structures]]
- - 5.  [[./ww-generators.org][Generators]]
- - 6.  [[./ww-boundries.org][Boundries]]
- - 7.  [[./ww-estrangement.org][Estrangement]]
- - 8.  [[./ww-patterns.org][Patterns]]
- - 9.  [[./ww-scaffolds.org][Scaffolds]] 
- - 10. [[./ww-the-way.org][The Way]] 
+ -  0. [[./ww-ab-initio.org][Ab initio]] 
+ -  1. [[./ww-principles.org][Principles]]
+ -  2. [[./ww.points-of-view.org][Points of View]]
+ -  3. [[./ww-dualities.org][Dualities]]
+ -  4. [[./ww-structures.org][Structures]]
+ -  5. [[./ww-generators.org][Generators]]
+ -  6. [[./ww-boundries.org][Boundries]]
+ -  7. [[./ww-estrangement.org][Estrangement]]
+ -  8. Succession
+   - succession
+   - keystones
+     - concepts
+     - niches
+       - specializations
+     - standards
+     - designs
+   - reversibility
+     - upgrade & degrade
+   - ecological
+   - economic
+   - cultural
+   - technological
+
+
+
+ -  9. [[./ww-patterns.org][Patterns]]
+ - 10. [[./ww-scaffolds.org][Scaffolds]] 
+ - 11. [[./ww-the-way.org][The Way]] 
      
 
      
