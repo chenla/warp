@@ -28,16 +28,16 @@ bibliography:../hoard/bib.bib
 
  - [[./ww-intro.org][Introduction]]
  - 00. [[./ww-ab-initio.org][Ab initio]] 
- - 01. [[./ww-principles.org][Principles]]
- - 02. [[./ww.points-of-view.org][Points of View]]
- - 03. [[./ww-dualities.org][Dualities]]
- - 04. [[./ww-structures.org][Structures]]
- - 05. [[./ww-generators.org][Generators]]
- - 06. [[./ww-boundries.org][Boundries]]
- - 07. [[./ww-estrangement.org][Estrangement]]
- - 08. [[./ww-scaffolds.org][Scaffolds]] 
-   - Pace-Layers
-   - [[./ww-succession.org][Succession]] Model
+ - 01. [[./ww.points-of-view.org][Points of View]]
+ - 02. [[./ww-dualities.org][Dualities]]
+ - 03. [[./ww-structures.org][Structures]]
+ - 04. [[./ww-generators.org][Generators]]
+ - 05. [[./ww-boundries.org][Boundries]]
+ - 06. [[./ww-estrangement.org][Estrangement]]
+ - 07. [[./ww-scaffolds.org][Scaffolds]] 
+   - [[./ww-pace-layers.org][Pace-Layers]]
+   - [[./ww-succession.org][Succession]]
+ - 08. [[./ww-principles.org][Principles]]
  - 09. [[./ww-patterns.org][Patterns]]
  - 11. [[./ww-the-way.org][The Way]] 
      
