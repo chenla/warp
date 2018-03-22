@@ -27,17 +27,17 @@ bibliography:../hoard/bib.bib
 
 
  - [[./ww-intro.org][Introduction]]
- -  0. [[./ww-ab-initio.org][Ab initio]] 
- -  1. [[./ww-principles.org][Principles]]
- -  2. [[./ww.points-of-view.org][Points of View]]
- -  3. [[./ww-dualities.org][Dualities]]
- -  4. [[./ww-structures.org][Structures]]
- -  5. [[./ww-generators.org][Generators]]
- -  6. [[./ww-boundries.org][Boundries]]
- -  7. [[./ww-estrangement.org][Estrangement]]
- -  8. [[./ww-succession.org][Succession]]
- -  9. [[./ww-patterns.org][Patterns]]
- - 10. [[./ww-scaffolds.org][Scaffolds]] 
+ - 00. [[./ww-ab-initio.org][Ab initio]] 
+ - 01. [[./ww-principles.org][Principles]]
+ - 02. [[./ww.points-of-view.org][Points of View]]
+ - 03. [[./ww-dualities.org][Dualities]]
+ - 04. [[./ww-structures.org][Structures]]
+ - 05. [[./ww-generators.org][Generators]]
+ - 06. [[./ww-boundries.org][Boundries]]
+ - 07. [[./ww-estrangement.org][Estrangement]]
+ - 08. [[./ww-scaffolds.org][Scaffolds]] 
+ - 09. [[./ww-succession.org][Succession]]
+ - 10. [[./ww-patterns.org][Patterns]]
  - 11. [[./ww-the-way.org][The Way]] 
      
 
