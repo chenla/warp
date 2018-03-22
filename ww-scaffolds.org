@@ -31,6 +31,8 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+*** [[./ww-pace-layers.org][Pace-Layers]]
+
 Pace and Shearing Layers
 
    Scaffold as a supporting structure for what
@@ -43,3 +45,4 @@ Pace and Shearing Layers
    pace-layer model -- not here.  Here we will only discuss
    pace-layers as a concept and how we will use the model as
    a foundational scaffold for APPL, Primer and Hoard.
+*** [[./ww-succession.org][Succession]]
