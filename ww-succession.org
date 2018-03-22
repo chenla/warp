@@ -30,16 +30,18 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
- - succession
+ - succession models
+ - reversibility
+   - upgrade & degrade
  - keystones
+   - species
    - concepts
    - niches
    - specializations
    - standards
    - designs
- - reversibility
-   - upgrade & degrade
- - ecological
- - economic
- - cultural
- - technological
+ - stages
+   - ecological
+   - economic
+   - technological
+   - cultural
