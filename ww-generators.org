@@ -43,3 +43,26 @@ handful of other generators built civilization.
    - generative processes
 
 
+  - phase changes -- small changes that trigger systemic change.
+
+
+The model in half-life that talks about grid -- randomly
+drop grains of sand on different square, and set how many
+grains a square can hold before it triggers a cascade that
+sends grains into adjascent squares.
+
+Generative grammers have to work something like that -- they
+are processes and most importantly is that they can cascade
+to generate more order -- to become antifragile.
+
+---
+
+where in w&w do we put fragility, resiliance and
+antigragile?
+
+          estrangement?
+
+I think part will go there -- what are the things that make
+something strong or beautiful
+
+and then we put how to generate them here....
