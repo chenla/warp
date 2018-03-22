@@ -30,23 +30,64 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+Principles are organized along the same lines as the
+Pace-Layer model that is explained
+/Part 8. Scaffords/Pace-Layers/ and in /APPL/A Summary of
+the Language/.
+
 ** Table of Contents
 
-   - Scientific Method
-     - observe, record, repeat, and understand 
+ - Cosmos
+   - Entro. Evo, Info
+     - Entropy
+     - Evolution
+     - Information
+   - Lots of Copies Keep Stuff Safe
+ 
+ - Bios
+   
+ - Anthros 
+   - Nature of Man
+     - Limitations -- (state as principles -- discussed
+       Part 6. Boundries)
+     - Transactional man
+   - What Complexity Wants
+     - the petri dish
+     - diversity and specialization extend the petri dish 
+     - larger systems support larger complexity, so given
+       the chance, as two petri dishes meet, either one dies
+       or they merge.
+
+     Tainter argues that civilizations hit maximum
+     complexity and can't sustain itself -- rather civs max
+     out their ability to innovate and change the parameters
+     of the petri dish -- they hit the edge of the petri
+     dish because they could not find a way to grow.
+
+ - Culture
+   - Lingua Franca 
+      - Spoken Language
+      - Written Lanuage
+   - Measurement
+      - Time
+      - Space
+      - Matter
+      - Energy 
+   - Protocols
+     - Legible Addresses
+     - Token Exchange
+     - HTTP
+     - TCP/IP 
    - Enlightenment -- rationality and human centered
-   - progress is not growth
-   - transactional man
-   - slaves create surpluses
-   - lots of copies keep stuff safe
-   - diversity: biological (genetic) and societal
-     (specialties) determine if a
-     system is anti-fragile or not.  
-   - the larger the ecosystem the more diversity is
-     possible -- this explains why civilization is now
-     global, because complexity needs ever larger
-     petri-dish -- that must become the solar
-     system. Tainter argues that civilizations hit maximum
-     complexity and can't sustain itself -- but this is
-     because the civ has maxed out it's ability to
-     innovate and change the parameters of the petri dish
+     - progress is not growth
+     - scientific Method2
+       - observe, record, repeat, and understand 
+   - Slaves create surpluses
+     - The Slave Paradox
+     - cultivation -- plant slaves
+     - domestication -- slave species
+     - slavery -- state-supported human slaves
+     - workers -- machine+worker defacto slaves
+     - robots -- machine-cog-robot slaves
+
+
