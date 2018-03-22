@@ -36,8 +36,9 @@ bibliography:../hoard/bib.bib
  - 06. [[./ww-boundries.org][Boundries]]
  - 07. [[./ww-estrangement.org][Estrangement]]
  - 08. [[./ww-scaffolds.org][Scaffolds]] 
- - 09. [[./ww-succession.org][Succession]]
- - 10. [[./ww-patterns.org][Patterns]]
+   - Pace-Layers
+   - [[./ww-succession.org][Succession]] Model
+ - 09. [[./ww-patterns.org][Patterns]]
  - 11. [[./ww-the-way.org][The Way]] 
      
 
