@@ -66,3 +66,6 @@ I think part will go there -- what are the things that make
 something strong or beautiful
 
 and then we put how to generate them here....
+
+Or do we strip that out of estrangment and create it's own
+section....
