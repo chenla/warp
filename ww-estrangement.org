@@ -37,10 +37,12 @@ bibliography:../hoard/bib.bib
  - Nature of Order
    - life is self organizing matter and energy, life
      gravitates towards organization sees it as living, as
-     beauty, holy
+     beauty, divine -- which are objective
  - Alienation
  - The Narrow Gate -- between our strengths and weaknesses
-   - Nature of Work
+   - Care
+   - Practice
+   - Rest
 
 ------
 
