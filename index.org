@@ -35,6 +35,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./ww-boundries.org][Boundries]]
  - 06. [[./ww-estrangement.org][Estrangement]]
  - 07. [[./ww-scaffolds.org][Scaffolds]] 
+   - [[./ww-entities.org][Entities]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession]]
  - 08. [[./ww-principles.org][Principles]]
