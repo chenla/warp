@@ -38,7 +38,7 @@ bibliography:../hoard/bib.bib
    - [[./ww-entities.org][Entities]]
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
-   - [[./ww-succession.org][Succession]]
+   - [[./ww-succession.org][Succession-Stages]]
  - 08. [[./ww-principles.org][Principles]]
  - 09. [[./ww-patterns.org][Patterns]]
  - 11. [[./ww-the-way.org][The Way]] 
