@@ -30,3 +30,13 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+
+
+ - What is an Entity Model
+ - FRBR
+
+
+ - Concept
+ - Expression
+ - Manifestation
+ - Instance
