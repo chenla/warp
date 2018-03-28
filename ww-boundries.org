@@ -34,19 +34,45 @@ bibliography:../hoard/bib.bib
  - Petri Dish
    - positive feedback loops
    - negative feedback loops
+
+ - Systems
+#+begin_comment
+Need to show how biosphere's work, and integrate the
+boundries for each part of the system.  This is to show the
+acceptible range within each system and the load it can
+take, and mechanisms for regulating each part.
+
+The Bios p-layer is certainly not homogenus -- we need a
+pace-layer model which is mirrors the larger societal
+pace-layer model so the two can be placed side by side.
+#+end_comment
+
+ - Planetary Systems
+   - Biosphere
+     - Stratosphere
+     - Atmosphere
+     - Hydrosphere
+   - Lithosphere 
+
  - Planetary Boundries
-   - Climate change
-   - Biodiversity loss
-   - Nitrogen cycle
-   - Phosphorus
-   - Ocean acidification
-   - Land use
-   - Freshwater
-   - Ozone depletion
-   - Atmospheric aerosols
-   - Chemical pollution
 
-
+   - Boundries
+     - Climate change
+     - Biosphere
+       - functional diversity
+       - genetic diversity
+     - Biodiversity loss
+     - Biochemical Flows
+       - Nitrogen cycle
+       - Phosphorus
+     - Ocean
+       - acidification
+     - Land use
+     - Freshwater
+     - Ozone depletion
+     - Atmosphere
+       - aerosols
+     - Chemical pollution
  - Human Nature
    - nurture vs nature
    - instinct
