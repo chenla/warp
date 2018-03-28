@@ -36,42 +36,37 @@ bibliography:../hoard/bib.bib
  - patterns are not designs
  - patterns are generative processes
 ----
-1. The timeless way
-2. The quality without a name
-5. Being alive
-4. Patterns of events
-5. Patterns of space
-6. Patterns which are alive
-
-7. The multiplicity of living patterns 
-8. The quality itself
-
+#+begin_comment
+THE TIMELESS WAY
+  - 01. The timeless way
+  - 02. The quality without a name
+  - 05. Being alive
+  - 04. Patterns of events
+  - 05. Patterns of space
+  - 06. Patterns which are alive
+  - 07. The multiplicity of living patterns 
 THE GATE
-
-p. The flower and the seed
-10. Our pattern languages
-
-1. Our pattern languages (cont.)
-2. The creative power of language
-j. The breakdown of language
-4. Patterns which can be shared
-5. The reality of patterns
-6. The structure of a language
-7. TVztf evolution of a common language for a town
-
+  - 08. The quality itself
+  - 09. The flower and the seed
+  - 10. Our pattern languages
+  - 11. Our pattern languages (cont.)
+  - 12. The creative power of language
+  - 13. The breakdown of language
+  - 14. Patterns which can be shared
+  - 15. The reality of patterns
+  - 16. The structure of a language
+  - 17. The evolution of a common language for a town
 THE WAY
-
-8. The genetic power of language
-9. Differentiating space
-
-0. One pattern at a time
-/. Shaping one building
-2. Shaping a group of buildings
-3. 77/.<? process of construction
-4. 77; 0 process of repair
-5. 77;£ slow emergence of a town
-6. Its ageless character
-
+  - 18. The genetic power of language
+  - 19. Differentiating space
+  - 20. One pattern at a time
+  - 21. Shaping one building
+  - 22. Shaping a group of buildings
+  - 23. The process of construction
+  - 24. The process of repair
+  - 25. It's slow emergence of a town
+  - 26. Its ageless character
+#+end_comment
 
 
 
