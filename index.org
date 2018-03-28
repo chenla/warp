@@ -26,22 +26,31 @@ bibliography:../hoard/bib.bib
 :END:
 
 
+Volume I
  - [[./ww-intro.org][Introduction]]
  - 00. Plan
+ - 03. Civilis
+   - definition
+   - one or many?
+   - specialization -- system niche
+   - civitas, polis
+   - nation and state
+   - how to hold together
+     - propagation, linguistic, cultural
  - 01. [[./ww-ab-initio.org][Ab initio]] 
  - 02. Nature of Order
    - Entropy
    - Evolution
    - Information
- - 03. Nature of Humans
- - 04. [[./ww-principles.org][Principles]]
+ - 00. [[./ww-boundries.org][Boundries]]
  - 05. [[./ww-estrangement.org][Estrangement]]
+ - 04. [[./ww-principles.org][Principles]]
+Volume II
  - 06. [[./ww.points-of-view.org][Points of View]]
  - 07. [[./ww-dualities.org][Dualities]]
  - 08. [[./ww-structures.org][Structures]]
  - 09. [[./ww-generators.org][Generators]]
- - 10. [[./ww-boundries.org][Boundries]]
- - 11. [[./ww-scaffolds.org][Scaffolds]] 
+ - 11. [[./ww-scaffolds.org][Scaffolds]]
    - [[./ww-entities.org][Entities]]
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
@@ -50,6 +59,12 @@ bibliography:../hoard/bib.bib
    - [[./ww-slavery.org][Slavery]]
    - Stores
    - Capacity
+Volume III
  - 13. [[./ww-patterns.org][Patterns]]
  - 14. [[./ww-the-way.org][The Way]]
 
+Volume IV 
+  - Appendix
+  - Bibliography
+  - Index
+  - Colophon
