@@ -72,7 +72,9 @@ Types of surpluses:
   - History
 
   - Muscle -- tools extended the hand, machines extended
-    muscle.
+    muscle.  The washing machine transformed domestic work.
+    Domestic work was dominated by gathering fuel, food,
+    water and washing clothes.
  
   - Time -- environmental surplus.  The electric light bulb
     freed man from day-night cycles.  Insulated, heated and
