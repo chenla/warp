@@ -30,4 +30,68 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+Civilization is based on the assumption that it can produce
+more goods and services than are required for physical
+surival.  Homer would not have been able to write anything
+if he was too busy trying to find food everyday, maintain
+his shelter and help protect this from nature, natural
+predators and other people trying to take those things from
+him.
+
+This makes it possible to increase the number of
+specializations in a group to include specialties that are
+indirectly related to survival, or support the complexity of
+a group with a large number of specializations.
+
+Surplus explosion since 1800 -- history of surpluses, there
+were almost none before 1800, and what surpluses there were
+supported a very very small elite.  Most surpluses in
+history came from slavery or other class equiviliants --
+serfs, peasants, indentiture, prisoners
+
+Then the industrial revolution came along and changed
+everything -- agriculture got the tractor, which changed
+agriculture forever allowing a small rural population to
+grow food for a largely urban mass population -- the
+assembly line, palletization, containerization -- the fork
+life and shipping container effectively wiped out dock
+workers and workers loading trucks and railroad cars.
+Electric hand tools, loaders, crains and dozers, transformed
+construction -- and vastly reducing the amount of labor
+needed to construct buildings.  The assembly line, and a
+vast number of industrial machines reduced the labor
+required before to a handful of semi-skilled people.  Life
+was still hard -- but it was better.
+
 ** Table of Contents
+
+Types of surpluses:
+  - production (labor, energy)
+  - goods (grain, tinned food)
+  - services (unused capacity)
+  - History
+
+  - Muscle -- tools extended the hand, machines extended
+    muscle.
+ 
+  - Time -- environmental surplus.  The electric light bulb
+    freed man from day-night cycles.  Insulated, heated and
+    cooled buildings made it possible to extend working
+    hours into times that were too cold or too hot to work.
+    The time honored Siesta is dead or dieing.  Growing
+    seasons are extended through the use of green houses etc.
+  - [[./ww-slavery.org][Slavery]]
+  - Stores
+    - natural -- groundwater, oil, gas & coal, carbon
+    - stockpiles -- 
+    - caches -- are temporary stores used to even out
+      propagation in distributed systems.
+  - Capacity -- is a potential store.
+    also a kind of cache, that is usually used
+    to even out the difference between low and high loads on
+    a system.
+    - transporation
+    - processing
+    - transmission
+
+Centralised and Distributed Surpluses
