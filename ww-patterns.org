@@ -30,12 +30,24 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
- - patterns and anti-patterns
- - patterns identify anti-fragile groups of relationships 
- - anti-patterns destroy life, beauty and connectedness
- - patterns are not designs
- - patterns are generative processes
-----
+ - Patterns
+   - civilization
+   - buildings and towns
+   - shearing layers -> for made things
+   - biological life
+
+
+
+   - not all life is biological
+   - patterns & anti-patterns
+   - patterns as relationships clusters
+   - anti-patterns -> destroy life, beauty and connectedness
+   - patterns are concepts not designs
+   - patterns as generative processes
+
+   - shearing layers
+     - 
+
 #+begin_comment
 THE TIMELESS WAY
   - 01. The timeless way
