@@ -28,10 +28,11 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** TL;DR
+
+What does it mean to start from first principles?
 
 ** Table of Contents
-
-
 
   - getting rid of the onion
     - Discard romanticism and her sister mysticism
@@ -40,10 +41,10 @@ bibliography:../hoard/bib.bib
     - as complicated as it needs to be -- not reductionism,
     which was the mistake that modernists made
   
-  - principles must be mutually exclusive and irreducible
-  - principles must be free of baggage
+  - mutually exclusive and irreducible
+  - free of baggage
   - principles are not assumptions
-  - principles are at best laws, but at least facts.
+  - at best laws, but at least facts.
 
   - No Zero Day -- ab initio, not tabla rasa -- we build
     on what works and what has worked -- if it doesn't
