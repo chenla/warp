@@ -31,5 +31,62 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+  - Entropy
+  - Evolution
+  - Information
 
+  - Pattern Recognition
 
+It is likely that not only humans, but all complex life, has evolved
+to process information about the world and instinctively identify
+order when they see it.
+
+We do this hierarchically, with a large array of pattern recognizers
+at the bottom looking for primitive patterns.  If there is a positive
+match that pattern is past up the hierarchy to a layer that looks for
+patterns amid the recognized patterns -- this continues up layer by
+layer until complex patterns,  that's an apple, I can eat it.  or that
+is a big ass storm on the horizon, I better head into port.
+
+Our brains are at base, pattern recognition machines.  Patterns in the
+chaos are meaningful because order indicates a number of things:
+
+  - potential food
+  - potential danger
+  
+the better the order, the more complex the order, the more interesting
+it is.
+
+Humans combine this capibility with abstract thinking to create all
+sorts of meta patterns, analogies, metaphors, good and evil, right and
+wrong. 
+
+And at the heart of this are concepts like beauty and transcendental
+concepts of the divine -- which recognize patterns that are greater
+than the sum of their parts.
+
+-------
+
+This is so deeply wired that they are core to happiness and well
+being.  If we are surrounded by complex patterns we recognize as
+beautiful and divine, it materially contributes to our quality of
+life.
+
+This is what most people are really talking about when they talk about
+the divine, mystical or God.  They are seeing something that we are
+designed to see, that we have no choice but seeing, with the deep
+understanding that these things are bigger than we are, and are in
+many cases beyond our ability to articulate or even understand.  Most
+of us are content to appreciate....
+
+Beauty is not decorative, it is not something you tack on at the end,
+it is intrinsic to the very nature and process of human cognition.
+
+I don't think we are special in this regard -- most of not all higher
+level animals have a strong sense of beauty which is essential to
+their well being as well.
+
+This then lays the foundations for ESTRANGEMENT, where we come to
+terms with how Modern Man has become estranged from this deep
+understanding of beautiy, complexity and our relationship to the world
+and our place in it. 
