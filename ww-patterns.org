@@ -35,5 +35,52 @@ bibliography:../hoard/bib.bib
  - anti-patterns destroy life, beauty and connectedness
  - patterns are not designs
  - patterns are generative processes
+----
+1. The timeless way
+2. The quality without a name
+5. Being alive
+4. Patterns of events
+5. Patterns of space
+6. Patterns which are alive
 
-cite:alexander:1979timeless,alexander:1977pattern  
+7. The multiplicity of living patterns 
+8. The quality itself
+
+THE GATE
+
+p. The flower and the seed
+10. Our pattern languages
+
+1. Our pattern languages (cont.)
+2. The creative power of language
+j. The breakdown of language
+4. Patterns which can be shared
+5. The reality of patterns
+6. The structure of a language
+7. TVztf evolution of a common language for a town
+
+THE WAY
+
+8. The genetic power of language
+9. Differentiating space
+
+0. One pattern at a time
+/. Shaping one building
+2. Shaping a group of buildings
+3. 77/.<? process of construction
+4. 77; 0 process of repair
+5. 77;£ slow emergence of a town
+6. Its ageless character
+
+
+
+
+** References
+
+- Alexander, C., The timeless way of building (1979), :
+  Oxford University Press.
+  cite:alexander:1979timeless
+- Alexander, C., Ishikawa, S., & Silverstein, M., A pattern
+  language: towns, buildings, construction (1977), : Oxford
+  University Press.
+  cite:alexander:1977pattern  
