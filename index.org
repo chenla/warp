@@ -40,7 +40,11 @@ bibliography:../hoard/bib.bib
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession-Stages]]
- - 09. [[./ww-principles.org][Principles]]
- - 10. [[./ww-patterns.org][Patterns]]
- - 11. [[./ww-the-way.org][The Way]]
+ - 09. [[./www-surpluses.org][Surpluses]]
+   - [[./ww-slavery.org][Slavery]]
+   - Stores
+   - Capacity
+ - 10. [[./ww-principles.org][Principles]]
+ - 11. [[./ww-patterns.org][Patterns]]
+ - 12. [[./ww-the-way.org][The Way]]
 
