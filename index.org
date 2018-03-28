@@ -38,7 +38,7 @@ Volume I
    - how to hold together
      - propagation, linguistic, cultural
  - 01. [[./ww-ab-initio.org][Ab initio]] 
- - 02. Nature of Order
+ - 02. [[./ww-order.org][Nature of Order]]
    - Entropy
    - Evolution
    - Information
