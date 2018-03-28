@@ -31,3 +31,20 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 
 ** Table of Contents
+
+Definition of slavery
+
+  - A brief history of slavery
+
+  - The Slave Paradox
+
+
+
+
+  - cultivation -- plant slaves
+  - domestication -- slave species
+  - slavery -- state-supported human slaves
+  - workers -- machine+worker defacto slaves
+  - robots -- machine-cog-robot slaves
+
+** References
