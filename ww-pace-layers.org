@@ -30,5 +30,33 @@
 ** TL;DR
 ** Table of Contents
 
-- Pace Layers
-- Shearing Layers
+- Pace-Layers
+  - Complex Societies
+  - Biospheres
+  - Geological
+  - Stellar
+  - Shearing-Layers -> for made things
+
+#+begin_comment
+Questions:
+
+What are the equivelent of the Nitrogen Cycle or Groundwater
+Recharge Cycle for civilizations?
+
+Pace-Layers are relative to each other -- but is there
+another way of looking at that?  Do p-layers need to employ
+units of measure?
+#+end_comment
+
+Shearing layers are not only for buildings
+
+An axe has a shearing layer of a head and a handle, the
+handle has a separate life from the head.
+
+But this is only when a made thing follows the REPAIRABLE
+and UPGRADABLE patterns
+
+Machines -- let's use three examples:
+  - Cars
+  - Washing Machines
+  - Computers
