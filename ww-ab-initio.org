@@ -58,8 +58,6 @@ What does it mean to start from first principles?
 
 ** Civilization from First Principles
 
-Decartes from the preface to the Principles of Philosophy (1644):
-
 #+begin_quote
 I should have desired, in the first place, to explain in it what
 philosophy is, by commencing with the most common matters, as, for
@@ -82,6 +80,8 @@ former. It will accordingly be necessary thereafter to endeavor so to
 deduce from those principles the knowledge of the things that depend
 on them, as that there may be nothing in the whole series of
 deductions which is not perfectly manifest.
+
+— Decartes, Preface, Principles of Philosophy (1644)
 #+end_quote
 
 Why civilization, let alone rethink it from first priniple?
