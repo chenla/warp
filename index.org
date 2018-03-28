@@ -29,22 +29,27 @@ bibliography:../hoard/bib.bib
  - [[./ww-intro.org][Introduction]]
  - 00. Plan
  - 01. [[./ww-ab-initio.org][Ab initio]] 
- - 02. [[./ww.points-of-view.org][Points of View]]
- - 03. [[./ww-dualities.org][Dualities]]
- - 04. [[./ww-structures.org][Structures]]
- - 05. [[./ww-generators.org][Generators]]
- - 06. [[./ww-boundries.org][Boundries]]
- - 07. [[./ww-estrangement.org][Estrangement]]
- - 08. [[./ww-scaffolds.org][Scaffolds]] 
+ - 02. Nature of Order
+   - Entropy
+   - Evolution
+   - Information
+ - 03. Nature of Humans
+ - 04. [[./ww-principles.org][Principles]]
+ - 05. [[./ww-estrangement.org][Estrangement]]
+ - 06. [[./ww.points-of-view.org][Points of View]]
+ - 07. [[./ww-dualities.org][Dualities]]
+ - 08. [[./ww-structures.org][Structures]]
+ - 09. [[./ww-generators.org][Generators]]
+ - 10. [[./ww-boundries.org][Boundries]]
+ - 11. [[./ww-scaffolds.org][Scaffolds]] 
    - [[./ww-entities.org][Entities]]
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession-Stages]]
- - 09. [[./www-surpluses.org][Surpluses]]
+ - 12. [[./www-surpluses.org][Surpluses]]
    - [[./ww-slavery.org][Slavery]]
    - Stores
    - Capacity
- - 10. [[./ww-principles.org][Principles]]
- - 11. [[./ww-patterns.org][Patterns]]
- - 12. [[./ww-the-way.org][The Way]]
+ - 13. [[./ww-patterns.org][Patterns]]
+ - 14. [[./ww-the-way.org][The Way]]
 
