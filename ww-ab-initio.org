@@ -28,6 +28,33 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+
+** Table of Contents
+
+
+
+  - getting rid of the onion
+    - Discard romanticism and her sister mysticism
+    - Discard dogmatism, but don't throw away good ideas
+    that happen to be part of discarded ideologies
+    - as complicated as it needs to be -- not reductionism,
+    which was the mistake that modernists made
+  
+  - principles must be mutually exclusive and irreducible
+  - principles must be free of baggage
+  - principles are not assumptions
+  - principles are at best laws, but at least facts.
+
+  - No Zero Day -- ab initio, not tabla rasa -- we build
+    on what works and what has worked -- if it doesn't
+    work then discard it, change the system to fit human
+    nature, not human nature to fit a system.
+  - Don't be hasty -- things take as long to change as
+    they take.
+  - Be relentless as well as patient.
+  - The last to escape -- hope, don't give in to despair
+
+
 ** Civilization from First Principles
 
 Decartes from the preface to the Principles of Philosophy (1644):
@@ -252,25 +279,3 @@ have fallen as completely to Europeans as did India.
 
 -----
 
-
-
-   - getting rid of the onion
-     - Discard romanticism and her sister mysticism
-     - Discard dogmatism, but don't throw away good ideas
-       that happen to be part of discarded ideologies
-     - as complicated as it needs to be -- not reductionism,
-       which was the mistake that modernists made
-  
-   - principles must be mutually exclusive and irreducible
-   - principles must be free of baggage
-   - principles are not assumptions
-   - principles are at best laws, but at least facts.
-
-   - No Zero Day -- ab initio, not tabla rasa -- we build
-     on what works and what has worked -- if it doesn't
-     work then discard it, change the system to fit human
-     nature, not human nature to fit a system.
-   - Don't be hasty -- things take as long to change as
-     they take.
-   - Be relentless as well as patient.
-   - The last to escape -- hope, don't give in to despair
