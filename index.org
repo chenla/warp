@@ -56,7 +56,17 @@ Volume III
    - currency
    - direct trade
  - 00. Social Contract
-   - what you get & what you give 
+   - what you get & what you give
+
+   - the family unit
+   - inheritance
+ 
+   - rights
+     - basic income a little below happiness threshold
+   - obligations
+
+   - 
+
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
  - 00. Loops
