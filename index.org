@@ -45,7 +45,7 @@ Volume II
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession-Stages]]
-   - Goldilocks-Thresholds 
+   - [[./ww-goldilocks.org][Goldilocks-Thresholds]] 
    -> range of desirable parameters
    SEE cite:christian:2011history,wiki:2018goldilocks-principle  
    Also SEE cite:chaisson:2004complexity
