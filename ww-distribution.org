@@ -31,5 +31,13 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
-
+  - income models
+    - basic income
+    - maximum income
+    - maximum savings 
+  - income caps with surplus cascading into collective and
+    common equity.
+  - Equity Model
+  - equity in common and collective property over private
+    ownership 
 
