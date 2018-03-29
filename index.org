@@ -29,7 +29,7 @@ bibliography:../hoard/bib.bib
 Volume I
  - [[./ww-intro.org][Introduction]]
  - 00. Plan
- - 03. Civilis
+ - 01. Civilis
    - definition
    - one or many?
    - specialization -- system niche
@@ -37,35 +37,67 @@ Volume I
    - nation and state
    - how to hold together
      - propagation, linguistic, cultural
- - 01. [[./ww-ab-initio.org][Ab initio]] 
- - 02. [[./ww-order.org][Nature of Order]]
+ - 02. [[./ww-ab-initio.org][Ab initio]] 
+ - 03. [[./ww-order.org][Nature of Order]]
    - Entropy
    - Evolution
    - Information
- - 00. [[./ww-boundries.org][Boundries]]
+ - 04. [[./ww-boundries.org][Boundries]]
  - 05. [[./ww-estrangement.org][Estrangement]]
- - 04. [[./ww-principles.org][Principles]]
+ - 06. [[./ww-principles.org][Principles]]
 Volume II
- - 06. [[./ww.points-of-view.org][Points of View]]
- - 07. [[./ww-dualities.org][Dualities]]
+ - 07. [[./ww.points-of-view.org][Points of View]]
+ - 08. [[./ww-dualities.org][Dualities]]
  - 08. [[./ww-structures.org][Structures]]
  - 09. [[./ww-generators.org][Generators]]
- - 11. [[./ww-scaffolds.org][Scaffolds]]
+ - 10. [[./ww-scaffolds.org][Scaffolds]]
    - [[./ww-entities.org][Entities]]
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession-Stages]]
- - 12. [[./www-surpluses.org][Surpluses]]
+ - 11. [[./www-surpluses.org][Surpluses]]
    - [[./ww-slavery.org][Slavery]]
    - Stores
    - Capacity
- - 13. Atoms
-   - [[./ww-patterns.org][Patterns]]
-   - Keystones?
-   - Designs?
-   - Rules
- - 00. Identity
 Volume III
+ - 12. [[./ww-patterns.org][Patterns]]
+   - Patterns and Processes
+     - Patterns
+     - Rules
+   - Pattern Languages
+   - Pattern Entity Model
+     - pattern (concept)
+       - Keystone (expression)
+         - Design (manifestation)
+   - Rule Entity Model
+     - thesis (concept)
+       - declaration (expression)
+         - rule (manifestation)
+ - 13. Identity
+   - An Identity Model
+     - External Identities
+     - Internal Identities
+     - What the model is not
+       - not a label, lifestyle choice, class, nationality,
+         gender (biological or self-assigned), sexual
+         orientation, generation, occupation, ethnic group
+         (aka race), religious, ideological or political
+         belief or affiliation).
+     - Individuals
+     - Groups
+   - Social Paritioning
+   - Privacy
+   - Access Control
+   - Authentication
+   - Life Stages
+   - Enity Model
+     - Identity
+     - Persona
+     - Roles
+ - 
+
+
+Volume IV
  - 00. Loops
    - Iteration
    - REPL
@@ -81,7 +113,7 @@ Volume III
    - Finance
  
  - 00. [[./ww-the-way.org][The Way]] -> methodolgy
-Volume IV 
+Volume V 
  - Appendix
  - Bibliography
  - Index
