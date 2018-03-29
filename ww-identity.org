@@ -59,6 +59,16 @@ bibliography:../hoard/bib.bib
 
       
 
+** References
 
+*** Dunbar Number
 
+- Dunbar, R. I., Neocortex size as a constraint on group
+  size in primates, Journal of human evolution, 22(6),
+  469–493 (1992).
+  http://dx.doi.org/10.1016/0047-2484(92)90081-J
+  cite:dunbar:1992neocortex
+- Wikipedia, , /Dunbar's number --- wikipedia, the free
+  encyclopedia/ (2017).
+  cite:wiki:2017dunbars-number
 
