@@ -31,6 +31,29 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 
 ** Table of Contents
+  - An Identity Model
+    - External Identities
+    - Internal Identities
+    - What the model is not
+      - not a label, lifestyle choice, class, nationality,
+        gender (biological or self-assigned), sexual
+        orientation, generation, occupation, ethnic group
+        (aka race), religious, ideological or political
+        belief or affiliation).
+      - Individuals
+      - Groups
+  - Social Paritioning
+  - Privacy
+  - Access Control
+  - Authentication
+  - Life Stages
+  - Enity Model
+    - Identity
+    - Persona
+    - Roles
+
+      
+
 
 
 
