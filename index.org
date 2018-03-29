@@ -73,7 +73,7 @@ Volume III
      - thesis (concept)
        - declaration (expression)
          - rule (manifestation)
- - 13. Identity
+ - 13. [[./ww-identity.org][Identity]]
    - An Identity Model
      - External Identities
      - Internal Identities
@@ -94,8 +94,8 @@ Volume III
      - Identity
      - Persona
      - Roles
- - 
-
+ - 00. Transactions
+ - 00. Distribution
 
 Volume IV
  - 00. Loops
