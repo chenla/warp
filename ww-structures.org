@@ -81,4 +81,7 @@ identity that can participate in elections that choose
 leaders.
 
 In all cases, the benifits of property and wealth controlled
-(owned) by a group self-propagates to the leaders.
+(owned) by a group self-propagates to the leaders.  This
+self-propagation is an important concept because if people
+are considered property, then the wealth that they produce
+is owned by those who have control or claim ownership.
