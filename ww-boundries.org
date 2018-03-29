@@ -36,8 +36,9 @@ bibliography:../hoard/bib.bib
      - positive feedback loops
      - negative feedback loops
    - Being the Right Size cite:haldane:1928being
-
-
+   - People Don't Scale
+ - Egalitarian Zone -> smaller and we don't survive, larger
+   and we treat each other as property. 
 
  - Systems
 #+begin_comment
