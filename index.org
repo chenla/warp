@@ -53,8 +53,20 @@ Volume III
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-identity.org][Identity]]
  - 00. Transactions
- - 00. Distribution
-
+   - currency
+   - direct trade
+ - 00. Social Contract
+   - what you get & what you give 
+ - 00. [[./ww-distribution.org][Distribution]]
+   - income models
+     - basic income
+     - maximum income
+     - maximum savings 
+   - income caps with surplus cascading into collective and
+     common equity.
+   - Equity Model
+   - equity in common and collective property over private
+     ownership 
 Volume IV
  - 00. Loops
    - Iteration
