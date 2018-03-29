@@ -31,6 +31,11 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 
 ** Table of Contents
+  - Legibility
+  - Rights
+    - Property -> ownership of wealth and property
+    - Accountability
+    - Obligations ->
   - An Identity Model
     - External Identities
     - Internal Identities
