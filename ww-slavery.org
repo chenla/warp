@@ -32,7 +32,40 @@ bibliography:../hoard/bib.bib
 
 ** Table of Contents
 
-Definition of slavery
+ - Definition of slavery :: Any semi, or self-directed
+   entity capable of producing wealth that is controlled
+   or effectively owned by another entity whose wealth
+   self-propagates to the controlling entity.
+
+ - Institutional Slavery (physical, crude, inflexible, scales)
+
+ - Free Market Industrial Slavery (semi-skilled, physical
+   but flexible, scales).
+
+ - Free Market Knowledge-Worker Slavery (skilled,
+   semi-physical, highly flexible, scales).
+
+ - 
+
+
+ - Machine-Cog Slaves and cognitive thresholds.
+
+ - The Right to a Life According to your Nature -- Salitan,
+   and omnivore's dilemma. 
+
+   the thing is though, that ultimately, we human's, by
+   accepting this principle, are not exempt from it being
+   applied to us in the future -- I'm not talking about
+   those that have used this tact to justify slavery, by
+   claiming that the enslaved are too stupid to know better
+   and are content being enslaved -- it would have to work
+   at the level where humans would be free to do pretty much
+   anything they want, not be limmited by what others claim
+   is what they want.
+
+
+
+---
 
 Any semi, or self-directed entity capable of producing
 wealth that is controlled or effectively owned by another
@@ -63,7 +96,7 @@ and family pressure keeps them from moving to another city.
 
 The problem is that unless a factory is effectively owned by
 it's workers, there is no mechanism for workers to be able
-to not effectively be slaves.  The wealth they create is not
+to not effectively be slaves. The wealth they create is not
 theirs.
 
 Famously, the person who invented the Post-It made millions
