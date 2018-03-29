@@ -45,6 +45,12 @@ Volume II
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession-Stages]]
+   - Goldilocks-Thresholds 
+   -> range of desirable parameters
+   SEE cite:christian:2011history,wiki:2018goldilocks-principle  
+   Also SEE cite:chaisson:2004complexity
+
+   - Scope-Layers -> layer by difficulty and detail
  - 11. [[./www-surpluses.org][Surpluses]]
    - [[./ww-slavery.org][Slavery]]
    - Stores
@@ -86,3 +92,16 @@ Volume V
  - Bibliography
  - Index
  - Colophon
+
+** References
+
+  - Chaisson, E. J., Complexity: an energetics agenda,
+    Complexity, 9(3), 14–21 (2004).
+    cite:chaisson:2004complexity 
+  - Christian, D., The history of our world in 18 minutes,
+    TED Talk. March, (), (2011).
+    cite:christian:2011history
+  - contributors, W., /Goldilocks principle --- wikipedia,
+    the free encyclopedia/ (2018).
+    cite:wiki:2018goldilocks-principle 
+
