@@ -28,7 +28,7 @@ bibliography:../hoard/bib.bib
 
 Volume I
  - [[./ww-intro.org][Introduction]]
- - 00. Plan
+ - 00. [[../wip/wip-plan.org][Plan of the Work]]
  - 01. [[./ww-civilization.org][Civilis]]
  - 02. [[./ww-ab-initio.org][Ab initio]] 
  - 03. [[./ww-order.org][Nature of Order]]
@@ -45,8 +45,7 @@ Volume II
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession-Stages]]
-   - [[./ww-goldilocks.org][Goldilocks-Thresholds]] 
-  
+   - [[./ww-goldilocks.org][Goldilocks-Thresholds]]
    - Scope-Layers -> layer by difficulty and detail
  - 11. [[./www-surpluses.org][Surpluses]]
    - [[./ww-slavery.org][Slavery]]
