@@ -51,7 +51,7 @@ bibliography:../hoard/bib.bib
  - Machine-Cog Slaves and cognitive thresholds.
 
  - The Right to a Life According to your Nature -- Salitan,
-   and omnivore's dilemma. 
+   and omnivore's dilemma.cite:pollan:2007omnivore 
 
    the thing is though, that ultimately, we human's, by
    accepting this principle, are not exempt from it being
@@ -129,3 +129,8 @@ any prey that day, but another party did.
   - robots -- machine-cog-robot slaves
 
 ** References
+
+ - Pollan, M., The omnivore's dilemma: a natural history of
+   four meals (2007), : Penguin Books.
+   cite:pollan:2007omnivore 
+
