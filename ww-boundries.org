@@ -31,9 +31,13 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
- - Petri Dish
-   - positive feedback loops
-   - negative feedback loops
+ - Scale
+   - Petri Dish
+     - positive feedback loops
+     - negative feedback loops
+   - Being the Right Size cite:haldane:1928being
+
+
 
  - Systems
 #+begin_comment
@@ -54,7 +58,7 @@ pace-layer model so the two can be placed side by side.
      - Hydrosphere
    - Lithosphere 
 
- - Planetary Boundries
+ - Planetary Boundries cite:steffen:2015planetary
 
    - Boundries
      - Climate change
@@ -85,12 +89,16 @@ pace-layer model so the two can be placed side by side.
 
 
 ** References
- - Carey, S., The origin of concepts (2009), : Oxford University Press, USA.
-   cite:carey:2009origin
+ - Carey, S., The origin of concepts (2009), : Oxford
+   University Press, USA.  cite:carey:2009origin
+ - Haldane, J. B. S., On being the right size, Harpers, (),
+   (1928).
+   cite:haldane:1928being
  - Steffen, W., Richardson, K., Rockstr\"om, Johan, Cornell,
    S. E., Fetzer, I., Bennett, E. M., Biggs, R., …,
    Planetary boundaries: guiding human development on a
    changing planet, Science, 347(6223), 1259855 (2015).
-   cite:steffen:2015planetary
+   cite:steffen:2015planetary 
+   cite:rockstrom:2009safe
  - Wikipedia, , /Planetary boundaries --- wikipedia, the free encyclopedia/ (2017).
    cite:wiki:2017planetary-boundries
