@@ -31,5 +31,12 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+  - definition
+  - one or many?
+  - specialization -- system niche
+  - civitas, polis
+  - nation and state
+  - how to hold together
+    - propagation, linguistic, cultural
 
 
