@@ -31,12 +31,54 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
-   - atoms       -> symbol, string, integer
-   - ????        -> k-v, triple
-   - rhizomes    -> graphs
-   - sets        -> lists: bag, seq, alt
-   - trees       -> branching lists
-   - layers      ->
+*** Data Structures
+ - atoms       -> symbol, string, integer
+ - ????        -> k-v, triple
+ - rhizomes    -> graphs
+ - sets        -> lists: bag, seq, alt
+ - trees       -> branching lists
+ - layers      -> What about arrays?
 
+*** Social Structures
 
-What about arrays?
+individual is atomic unit
+
+*** Egalitarian Structures
+  - mated pair = couple - economic unite
+  - pair + children = nuclear family
+  - pair + children, and parents = extended family
+  - band = base hunter-gather unit, human equiv of a pack
+  - clan = band that are made up of members who are blood
+    relations.
+
+*** Corporate Structures
+
+Corporate -- a virtual person that operates according to a
+set of rules, that may or may not be owned by other
+entities.
+
+*** Sovereign Structures
+
+Corporation + sovereignty = state
+
+Sovereignty is typically justified by supernatural 
+
+It is common for royals to claim that they hold their
+positions by the authority of a deity, who backs up their
+position with the force of that deity (in this life or the
+next) -- with the implication that if you do not recognize
+their authority you are challenging God.
+
+This has morphed into moving authority from a deity to an
+ethnic group with squatter rights.  That if you go against
+the authority that lays claim to representing that ethnic,
+religious or cultural group you are attacking everyone in
+that group.
+
+The enlightenment morphed this still further to define a
+nation as a collection of any group with a shared national
+identity that can participate in elections that choose
+leaders.
+
+In all cases, the benifits of property and wealth controlled
+(owned) by a group self-propagates to the leaders.
