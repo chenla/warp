@@ -59,13 +59,30 @@ Volume II
    - [[./ww-slavery.org][Slavery]]
    - Stores
    - Capacity
+ - 13. Atoms
+   - [[./ww-patterns.org][Patterns]]
+   - Keystones?
+   - Designs?
+   - Rules
+ - 00. Identity
 Volume III
- - 13. [[./ww-patterns.org][Patterns]]
- -     keystones?
- -     designs?
- - 14. [[./ww-the-way.org][The Way]]
+ - 00. Loops
+   - Iteration
+   - REPL
+   - principles -> patterns -> primer -> hoard -> instance
+ - 00. Feedback
+   - Triggers
+   - Ledgers
+   - Cascades
+ - 00. Middle
+   - Agency 
+   - Federation
+   - Boostrap
+   - Finance
+ 
+ - 00. [[./ww-the-way.org][The Way]] -> methodolgy
 Volume IV 
-  - Appendix
-  - Bibliography
-  - Index
-  - Colophon
+ - Appendix
+ - Bibliography
+ - Index
+ - Colophon
