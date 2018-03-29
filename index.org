@@ -64,9 +64,7 @@ Volume III
    - rights
      - basic income a little below happiness threshold
    - obligations
-
-   - 
-
+   -
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
  - 00. Loops
@@ -82,7 +80,6 @@ Volume IV
    - Federation
    - Boostrap
    - Finance
- 
  - 00. [[./ww-the-way.org][The Way]] -> methodolgy
 Volume V 
  - Appendix
