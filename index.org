@@ -29,7 +29,7 @@ bibliography:../hoard/bib.bib
 Volume I
  - [[./ww-intro.org][Introduction]]
  - 00. Plan
- - 01. Civilis
+ - 01. [[./ww-civilization.org][Civilis]]
    - definition
    - one or many?
    - specialization -- system niche

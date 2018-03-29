@@ -1,0 +1,35 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Civilis
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Civilis
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/ww-civilization.org
+:Created:  2018-03-29T09:15@Prek Leap (11.642600N-104.919210W)
+:ID:       dcebab12-82b3-4757-834a-289a23414c58
+:VER:      575561807.552927464
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:IBK3-5173
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+** Table of Contents
+
+
+
