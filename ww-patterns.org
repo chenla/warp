@@ -30,6 +30,21 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+  - Patterns and Processes
+    - Patterns
+    - Rules
+  - Pattern Languages
+  - Pattern Entity Model
+    - pattern (concept)
+      - Keystone (expression)
+        - Design (manifestation)
+  - Rule Entity Model
+    - thesis (concept)
+      - declaration (expression)
+        - rule (manifestation)
+
+------
+
  - Patterns
    - civilization
    - buildings and towns

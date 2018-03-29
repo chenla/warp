@@ -32,9 +32,6 @@ Volume I
  - 01. [[./ww-civilization.org][Civilis]]
  - 02. [[./ww-ab-initio.org][Ab initio]] 
  - 03. [[./ww-order.org][Nature of Order]]
-   - Entropy
-   - Evolution
-   - Information
  - 04. [[./ww-boundries.org][Boundries]]
  - 05. [[./ww-estrangement.org][Estrangement]]
  - 06. [[./ww-principles.org][Principles]]
@@ -54,18 +51,6 @@ Volume II
    - Capacity
 Volume III
  - 12. [[./ww-patterns.org][Patterns]]
-   - Patterns and Processes
-     - Patterns
-     - Rules
-   - Pattern Languages
-   - Pattern Entity Model
-     - pattern (concept)
-       - Keystone (expression)
-         - Design (manifestation)
-   - Rule Entity Model
-     - thesis (concept)
-       - declaration (expression)
-         - rule (manifestation)
  - 13. [[./ww-identity.org][Identity]]
  - 00. Transactions
  - 00. Distribution
