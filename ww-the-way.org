@@ -42,6 +42,32 @@ between nodes and grow until everything is connected.
   - workflow 
 
   - infrastructure stack
+    - power
+    - fuel
+    - waste
+    - water
+    - information
+    - tranportation (physical and virtual)
+      - roads, waterways, airspace
+      - maps of physical space
+      - what's happening in that space 
+        -- weather, traffic, potholes, accidents etc.
+    - vehicles
+      - physical vehicles
+        - types: trucks, drones, ships, cars, trains
+        - ownership or self-ownership
+        - finance
+        - storage
+        - maintainance
+        - parts supply chain
+        - decomissioning and recycling 
+      - status (working, maintainance, replacement)
+      - energy to run vehicles
+        - fuel -- and fuel stations
+        - grid -- recharge, third-rail etc
+      - agents for piloting vehicles
+      - systems for managing traffic
+      - logistic mapping and routing 
   - succession 
     - pioneer stage
       - sparse nodes, like early Internet
