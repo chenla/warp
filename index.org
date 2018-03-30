@@ -74,11 +74,12 @@ Volume IV
    - Cascades
    - Iteration
  - 00. Feedback
-   - Triggers
-   - Ledgers
-
-
-
+   - Positive Feedback
+   - Negative Feedback
+   - Triggers -> Threshold
+   - Listeners
+   - Recorders
+   - Context -> putting feedback in context
  - 00. Middle
    - Agency 
    - Federation
