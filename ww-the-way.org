@@ -35,8 +35,22 @@ bibliography:../hoard/bib.bib
  - learning to see what is there, rather than trying to
    impose what you want
 
----
+
+** References
 
 
- - Timeless Way of Building cite:alexander:1979timeless
- - Design with Nature cite:mcharg:1969design
+ - Alexander, C., The timeless way of building (1979), :
+   Oxford University Press.
+   cite:alexander:1979timeless
+ - McHarg, I., Design with nature (1969), : Doubleday.
+   cite:mcharg:1969design
+
+
+cite:alexander:2012battle,alexander:2004vision,alexander:2004process,alexander:2004phenomenon,alexander:2004luminous,alexander:1977pattern,alexander:1975oregon,alexander:1965city,alexander:1964notes,alexander:2012battle,alexander:2004vision,alexander:2004process,alexander:2004phenomenon
+
+
+ - Alexander, C., The luminous ground: the nature of order,
+   book 4: an essay on the art of building and the nature of
+   the universe (the nature of order) (2003), : CES
+   Publishing.
+   cite:alexander:2004luminous
