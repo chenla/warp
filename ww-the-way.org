@@ -30,10 +30,39 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
- - defined Top Down vs generative Bottom Up
- - small steps
- - learning to see what is there, rather than trying to
-   impose what you want
+ -- build iteratively bottom up, understand and manage top down
+  -- no beginning or end, start anywhere, create infrastructure between nodes and grow until everything is connected
+
+  -- loops
+  -- tool chains 
+  -- workflow 
+
+  -- infrastructure stack
+      --  succession - plan pioneer stage, and posit mature stage
+           -- pioneer -- sparse nodes, like early Internet, dummy nodes
+           -- mature -- 
+  -- specialization  niche
+      -- identify problem or need 
+      -- imagine solution form hypothesis
+      -- collect patterns, form language
+      -- identify inputs, side effects and desired outputs
+      -- anticipate end of life, and recycling/repurposing as input to other niches and processes
+      -- sketch out process, start end
+      -- break into steps
+      -- identify feedback mechanisms
+      -- sketch out rules and process logic
+
+       -- build model, test scenarios
+       -- build prototype - alpha
+       -- build beta and try in production
+       -- build release candidate put into production
+       -- collect feedback, fix bugs, identify new features
+       -- loop add features, test, release 
+       -- when something breaks roll back
+       -- monitor feedback for maintain and management -- anticipate failures
+       -- when stable, replicate while developing new features and fixes
+
+
 
 
 ** References
