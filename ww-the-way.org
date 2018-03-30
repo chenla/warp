@@ -38,6 +38,9 @@ between nodes and grow until everything is connected.
 
 ** Table of Contents
 
+Infrastructure needs to be general -- outline of vehicles
+below is too specific and needs to go into the primer.
+
   - infrastructure stack
     - power
     - fuel
@@ -65,6 +68,12 @@ between nodes and grow until everything is connected.
       - agents for piloting vehicles
       - systems for managing traffic
       - logistic mapping and routing 
+
+
+
+
+
+
   - succession 
     - pioneer stage
       - sparse nodes, like early Internet
