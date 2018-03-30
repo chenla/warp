@@ -70,19 +70,25 @@ Volume III
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
  - 00. Loops
-   - Iteration
    - REPL
-   - principles -> patterns -> primer -> hoard -> instance
+   - Cascades
+   - Iteration
  - 00. Feedback
    - Triggers
    - Ledgers
-   - Cascades
+
+
+
  - 00. Middle
    - Agency 
    - Federation
    - Boostrap
    - Finance
  - 00. [[./ww-the-way.org][The Way]] -> methodolgy
+
+
+
+
 Volume V 
  - Appendix
  - Bibliography
