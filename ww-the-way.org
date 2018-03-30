@@ -46,9 +46,19 @@ bibliography:../hoard/bib.bib
    cite:mcharg:1969design
 
 
-cite:alexander:2012battle,alexander:2004vision,alexander:2004process,alexander:2004phenomenon,alexander:2004luminous,alexander:1977pattern,alexander:1975oregon,alexander:1965city
+cite:alexander:2012battle,alexander:2004vision,alexander:2004process,alexander:2004phenomenon,alexander:2004luminous
 
 
+ - Alexander, C., Ishikawa, S., & Silverstein, M., A pattern
+   language: towns, buildings, construction (1977), : Oxford
+   University Press.
+   cite:alexander:1977pattern
+ - Alexander, C., The oregon experiment (1975), : Oxford
+   University Press.
+   cite:alexander:1975oregon
+ - Alexander, C., & Mumford, L., A city is not a tree, In ,
+   Architectural forum (pp. 58–62) (1965). : .
+   cite:alexander:1965city
  - Alexander, C., Notes on the synthesis of form (1964), :
    Harvard University Press.
    cite:alexander:1964notes
