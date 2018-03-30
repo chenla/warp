@@ -29,18 +29,31 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
-** Table of Contents
- - build iteratively bottom up, understand and manage top down
-  - no beginning or end, start anywhere, create infrastructure between nodes and grow until everything is connected
 
-  - loops
+Build iteratively bottom up, understand and manage top down.
+
+No beginning or end, start anywhere, create infrastructure
+between nodes and grow until everything is connected.
+
+
+** Table of Contents
+
   - tool chains 
   - workflow 
 
   - infrastructure stack
-    - succession - plan pioneer stage, and posit mature stage
-      - pioneer -- sparse nodes, like early Internet, dummy nodes
-      - mature -- 
+  - succession 
+    - pioneer stage
+      - sparse nodes, like early Internet
+      - dummy nodes
+      - surrogate nodes
+    - intermediate stages
+    - mature stage
+
+
+
+
+
   - specialization  niche
     - identify problem or need 
     - imagine solution form hypothesis
