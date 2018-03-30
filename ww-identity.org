@@ -57,7 +57,8 @@ bibliography:../hoard/bib.bib
     - Persona
     - Roles
 
-      
+      what is the origin of the military rule that junior officers speak first to
+      avoid intimidation by senior officers
 
 ** References
 
