@@ -83,19 +83,6 @@ Volume IV
  - 00. Toolchains
  - 00. Workflow
  - 00. [[./ww-infrastructure.org][Infrastructure]]
-   - Federation -> distributed and self-owned - no franchise
-   - Boostrap   -> how to build the monster from nothing
-   - Finance    -> finance succession stages
-   - Physical   -> infrastructure stack
-     - fuel
-     - waste
-     - water
-     - information
-     - tranportation
-   - Virtual    -> mirrors physical
-     - ERP -- process modeling and management
-     - monitoring & collection
-     - logic -- rulesets and running ML code
  - 00. [[./ww-the-way.org][The Way]] -> methodolgy
 Volume V 
  - Appendix

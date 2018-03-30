@@ -34,7 +34,19 @@ Infrastructure needs to be general -- outline of vehicles
 below is too specific and needs to go into the primer.
 
 ** Table of Contents
-
+  - Federation -> distributed and self-owned - no franchise
+  - Boostrap   -> how to build the monster from nothing
+  - Finance    -> finance succession stages
+  - Physical   -> infrastructure stack
+    - fuel
+    - waste
+    - water
+    - information
+    - tranportation
+  - Virtual    -> mirrors physical
+    - ERP -- process modeling and management
+    - monitoring & collection
+    - logic -- rulesets and running ML code
 
 ** Primer
 
