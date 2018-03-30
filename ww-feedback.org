@@ -30,6 +30,10 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
-
-
+  - Positive Feedback
+  - Negative Feedback
+  - Triggers -> Threshold
+  - Listeners
+  - Recorders
+  - Context -> putting feedback in context
 
