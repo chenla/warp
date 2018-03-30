@@ -70,9 +70,6 @@ Volume III
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
  - 00. [[./ww-loops.org][Loops]]
-   - REPL
-   - Cascades
-   - Iteration
  - 00. [[./ww-feedback.org][Feedback]]
  - 00. Toolchains
  - 00. Workflow

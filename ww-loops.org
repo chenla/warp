@@ -29,7 +29,15 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+I know that we have positive and negative feedback Feedback, but these
+are also loops and should be mentioned here as well
+
+
 ** Table of Contents
+  - REPL
+  - Cascades
+  - Iteration
 
 
 
