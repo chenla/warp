@@ -46,9 +46,22 @@ bibliography:../hoard/bib.bib
    cite:mcharg:1969design
 
 
-cite:alexander:2012battle,alexander:2004vision,alexander:2004process,alexander:2004phenomenon,alexander:2004luminous,alexander:1977pattern,alexander:1975oregon,alexander:1965city,alexander:1964notes,alexander:2012battle,alexander:2004vision
+cite:alexander:2012battle,alexander:2004vision,alexander:2004process,alexander:2004phenomenon,alexander:2004luminous,alexander:1977pattern,alexander:1975oregon,alexander:1965city
 
 
+ - Alexander, C., Notes on the synthesis of form (1964), :
+   Harvard University Press.
+   cite:alexander:1964notes
+ - Alexander, C., Neis, H. J., & Alexander, M. M., The
+   battle for the life and beauty of the earth: a struggle
+   between two world-systems (2012), : Oxford University
+   Press.
+   cite:alexander:2012battle
+ - Alexander, C., A vision of a living world: the nature of
+   order, book 3: an essay on the art of building and the
+   nature of the universe (the nature of order) (2004), :
+   Center for Environmental Structure.
+   cite:alexander:2004vision
  - Alexander, C., The process of creating life: nature of
    order, book 2: an essay on the art of building and the
    nature of the universe (the nature of order) (2004), :
