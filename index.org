@@ -57,7 +57,11 @@ Volume III
  - 00. Transactions
    - currency
    - direct trade
- - 00. Social Contract
+ - 00. Citizens
+   - define citizen -> broadly, anything with self agency
+     that is part of the system that is entitled to rights,
+     benifits and obligations.  This is broader than humans,
+     we need to include a wide range of the cognitive specturm.
    - what you get & what you give
 
    - the family unit
