@@ -46,9 +46,27 @@ bibliography:../hoard/bib.bib
    cite:mcharg:1969design
 
 
-cite:alexander:2012battle,alexander:2004vision,alexander:2004process,alexander:2004phenomenon,alexander:2004luminous
+cite:alexander:2012battle
 
 
+cite:alexander:2004vision 
+
+
+
+cite:alexander:2004process
+
+
+ - Alexander, C., The phenomenon of life: nature of order,
+   book 1: an essay on the art of building and the nature of
+   the universe (the nature of order) (2004), : CES
+   Publishing.
+   cite:alexander:2004phenomenon
+
+ - Alexander, C., The luminous ground: the nature of order,
+   book 4: an essay on the art of building and the nature of
+   the universe (the nature of order) (2003), : CES
+   Publishing.
+   cite:alexander:2004luminous
  - Alexander, C., Ishikawa, S., & Silverstein, M., A pattern
    language: towns, buildings, construction (1977), : Oxford
    University Press.
