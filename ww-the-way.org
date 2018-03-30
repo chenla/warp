@@ -69,11 +69,6 @@ below is too specific and needs to go into the primer.
       - systems for managing traffic
       - logistic mapping and routing 
 
-
-
-
-
-
   - succession 
     - pioneer stage
       - sparse nodes, like early Internet

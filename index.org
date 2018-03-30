@@ -82,7 +82,7 @@ Volume IV
    - Context -> putting feedback in context
  - 00. Toolchains
  - 00. Workflow
- - 00. Infrastructure
+ - 00. [[./ww-infrastructure.org][Infrastructure]]
    - Federation -> distributed and self-owned - no franchise
    - Boostrap   -> how to build the monster from nothing
    - Finance    -> finance succession stages
