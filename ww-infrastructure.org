@@ -1,0 +1,38 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Infrastructure
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Infrastructure
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/ww-infrastructure.org
+:Created:  2018-03-30T20:10@Prek Leap (11.642600N-104.919210W)
+:ID:       86af1f15-565b-4e37-816b-d730cbed2f2f
+:VER:      575687467.712771573
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:AWA4-4877
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+
+Infrastructure needs to be general -- outline of vehicles
+below is too specific and needs to go into the primer.
+
+** Table of Contents
+
+
