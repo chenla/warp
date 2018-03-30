@@ -38,35 +38,16 @@ bibliography:../hoard/bib.bib
 
 ** References
 
-
  - Alexander, C., The timeless way of building (1979), :
    Oxford University Press.
    cite:alexander:1979timeless
  - McHarg, I., Design with nature (1969), : Doubleday.
    cite:mcharg:1969design
-
-
-cite:alexander:2012battle
-
-
-cite:alexander:2004vision 
-
-
-
-cite:alexander:2004process
-
-
- - Alexander, C., The phenomenon of life: nature of order,
-   book 1: an essay on the art of building and the nature of
-   the universe (the nature of order) (2004), : CES
-   Publishing.
-   cite:alexander:2004phenomenon
-
- - Alexander, C., The luminous ground: the nature of order,
-   book 4: an essay on the art of building and the nature of
-   the universe (the nature of order) (2003), : CES
-   Publishing.
-   cite:alexander:2004luminous
+ - Alexander, C., Neis, H. J., & Alexander, M. M., The
+   battle for the life and beauty of the earth: a struggle
+   between two world-systems (2012), : Oxford University
+   Press.
+   cite:alexander:2012battle
  - Alexander, C., Ishikawa, S., & Silverstein, M., A pattern
    language: towns, buildings, construction (1977), : Oxford
    University Press.
