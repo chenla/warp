@@ -80,16 +80,14 @@ Volume IV
    - Listeners
    - Recorders
    - Context -> putting feedback in context
+ - 00. Toolchains
+ - 00. Workflow
  - 00. Middle
    - Agency 
    - Federation
    - Boostrap
    - Finance
  - 00. [[./ww-the-way.org][The Way]] -> methodolgy
-
-
-
-
 Volume V 
  - Appendix
  - Bibliography
