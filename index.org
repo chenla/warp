@@ -69,7 +69,7 @@ Volume III
    -
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
- - 00. Loops
+ - 00. [[./ww-loops.org][Loops]]
    - REPL
    - Cascades
    - Iteration
