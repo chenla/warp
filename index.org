@@ -57,7 +57,7 @@ Volume III
  - 00. Transactions
    - currency
    - direct trade
- - 00. Citizens
+ - 00. [[./ww-citizens.org][Citizens]]
 
 Citizen Polis & Citizen Domus
 
