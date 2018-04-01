@@ -31,3 +31,19 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+  - Lingua Franca
+    - cros pace-layer legibility 
+    - Spoken Language
+    - Written Lanuage
+    - Machine Languages
+  - Measurement
+    - Time
+    - Space
+    - Matter
+    - Energy 
+  - Protocols
+    - Legible Addresses
+    - Token Exchange
+    - HTTP
+    - TCP/IP
+
