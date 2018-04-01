@@ -64,6 +64,19 @@ the DNA by RNA into proteins that actually build stuff.
      designed to be able to continually add additional
      feedback loops that pass feedback to higher layers of
      abstraction.
+
+     The other important thing that needs to be built in is
+     that you need to be able to improve things potentially
+     at every step of a running process, it is part of the
+     REPL, not something done outside and added to the
+     process.  Code today is written outside of the running
+     process but when a craftsman is making something, he
+     looks to see how to improve the process and what  he
+     makes as he makes or composes.  This is what is missing
+     from industrial workflows and toolchains. and this
+     means that feedback loops need multiple higher layers
+     of pattern recognition to learn to tweak themselves as
+     they work.
  - Composition
    - process of writing, design, research
    - 
