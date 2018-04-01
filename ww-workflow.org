@@ -32,3 +32,8 @@ bibliography:../hoard/bib.bib
 
 ** Table of Contents
 
+ - Toolchains
+ - Composition
+ - Rollback -> Reversibility
+ - Documentation
+ - History

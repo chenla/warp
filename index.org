@@ -67,11 +67,6 @@ Volume IV
  - 00. [[./ww-loops.org][Loops]]
  - 00. [[./ww-feedback.org][Feedback]]
  - 00. [[./ww-workflow.org][Workflow]]
-   - Toolchains
-   - Composition
-   - Rollback -> Reversibility
-   - Documentation
-   - History
  - 00. Replication 
  - 00. [[./ww-infrastructure.org][Infrastructure]]
 Volume V
