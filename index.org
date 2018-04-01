@@ -29,6 +29,14 @@ bibliography:../hoard/bib.bib
 Volume I
  - [[./ww-intro.org][Introduction]]
  - 00. [[../wip/wip-plan.org][Plan of the Work]]
+ - 00. [[../wip/wip-ww-synopsis.org][Synopsis]]
+   - [[../wip/wip-ww-synopsis.org][Warp & Woof Synopsis]]
+   - [[../wip/wip-appl-synopsis.org][Pace-Layer Pattern Language Synopsis]]
+   - [[../wip/wip-primer-synopsis.org][Primer Synopsis]]
+   - [[../wip/wip-hoard-synopsis.org][Hoard Synopsis]]
+   - [[../wip/wip-arc-synopsis.org][Arc Synopsis]]
+ - 00. Contents Volume I
+ - 00. Introduction to Volume I
  - 01. [[./ww-civilization.org][Civilis]]
  - 02. [[./ww-ab-initio.org][Ab initio]] 
  - 03. [[./ww-order.org][Nature of Order]]
@@ -36,6 +44,8 @@ Volume I
  - 05. [[./ww-estrangement.org][Estrangement]]
  - 06. [[./ww-principles.org][Principles]]
 Volume II
+ - 00. Contents Volume II
+ - 00. Introduction to Volume II
  - 07. [[./ww.points-of-view.org][Points of View]]
  - 08. [[./ww-dualities.org][Dualities]]
  - 08. [[./ww-structures.org][Structures]]
@@ -56,9 +66,12 @@ Volume II
    - Caches
    - Capacity
 Volume III
+ - 00. Contents Volume III
+ - 00. Introduction to Volume III
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-identity.org][Identity]]
- - 00. Transactions/Trade/Commerce/Markets/Economies/Negotium
+ - 00. Commerce
+   - Transactions/Trade/Markets/Economies/Negotium
    - currency
    - direct trade -> my fish for your pint of beer
  - 00. [[./ww-standards.org][Standards]]
@@ -66,12 +79,16 @@ Volume III
  - 00. [[./ww-citizens.org][Citizens]]
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
+ - 00. Contents Volume IV
+ - 00. Introduction to Volume IV
  - 00. [[./ww-loops.org][Loops]]
  - 00. [[./ww-feedback.org][Feedback]]
  - 00. [[./ww-workflow.org][Workflow]]
  - 00. Replication 
  - 00. [[./ww-infrastructure.org][Infrastructure]]
 Volume V
+ - 00. Contents Volume V
+ - 00. Introduction to Volume V
  - 00. [[./ww-the-way.org][The Way]]
  - 00. Succession
  - 00. Niche
@@ -81,7 +98,8 @@ Volume V
  - 00. Deployment
  - 00. Iteration
  - 00. Running Processes
-Volume VI 
+Volume VI
+ - Preface Volume IV
  - Appendix
    - keystone papers
  - Bibliography
