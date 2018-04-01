@@ -30,4 +30,8 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
+ - State Legability
+ - Machine Legibility
+ - Transparency
+ - Accountability
 

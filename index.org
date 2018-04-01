@@ -63,10 +63,6 @@ Volume III
    - direct trade -> my fish for your pint of beer
  - 00. [[./ww-standards.org][Standards]]
  - 00. [[./ww-legibility.org][Legability]]
-   - State Legability
-   - Machine Legibility
-   - Transparency
-   - Accountability
  - 00. [[./ww-citizens.org][Citizens]]
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
