@@ -30,9 +30,21 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
-** Table of Contents
+There is workflow for a person, for a group and for system
+processes.  The last may sound strange but I think this is
+the right way of thinking about it.
 
+If a Pattern Language is a concept and a Primer is a expression
+then the hoard is an instance.
+
+The Primer is the DNA, and the Hoard is the translation of
+the DNA by RNA into proteins that actually build stuff.
+
+** Table of Contents
+ - Tools
+   - dynamic, extensible, self-documenting
  - Toolchains
+   - Pipes
  - Composition
  - Rollback -> Reversibility
  - Documentation
