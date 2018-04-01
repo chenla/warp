@@ -45,10 +45,15 @@ Volume II
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession Stages & Stacks]]
-   - [[./ww-goldilocks.org][Goldilocks-Thresholds]]
+   - [[./ww-goldilocks.org][Goldilocks-Thresholds]] / Spectrum/Range/Zone
  - 11. [[./www-surpluses.org][Surpluses]]
+   - Stored, Potential & Kinetic
+     - Stockpiled -> subject to entropy, has a shelf life
+     - Potential  -> surplus capacity
+     - kinetic    -> on the hoof, battery charge, in-transit 
    - [[./ww-slavery.org][Slavery]]
    - Stores
+   - Caches
    - Capacity
 Volume III
  - 12. [[./ww-patterns.org][Patterns]]
@@ -63,7 +68,10 @@ Volume IV
  - 00. [[./ww-feedback.org][Feedback]]
  - 00. Workflow
    - Toolchains
- - 00. Composition
+   - Composition
+   - Rollback -> Reversibility
+   - Documentation
+   - History
  - 00. Replication 
  - 00. [[./ww-infrastructure.org][Infrastructure]]
 Volume V
@@ -71,9 +79,11 @@ Volume V
    - Succession
    - Niche
    - Plan
+   - Development
    - Build
-   - Deploy
-   - Poduction
+   - Deployment
+   - Iteration
+   - Running Processes
 Volume VI 
  - Appendix
    - keystone papers
