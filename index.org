@@ -62,7 +62,7 @@ Volume III
    - currency
    - direct trade -> my fish for your pint of beer
  - 00. [[./ww-standards.org][Standards]]
- - 00. Legability
+ - 00. [[./ww-legibility.org][Legability]]
    - State Legability
    - Machine Legibility
    - Transparency

@@ -1,0 +1,33 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Legibility
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Legibility
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/ww-legibility.org
+:Created:  2018-04-01T21:37@Prek Leap (11.642600N-104.919210W)
+:ID:       b6a4c81a-40c1-46de-ab63-b9a711e70db8
+:VER:      575865523.511239207
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:PGS2-4335
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+** Table of Contents
+
