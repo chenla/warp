@@ -41,11 +41,18 @@ The Primer is the DNA, and the Hoard is the translation of
 the DNA by RNA into proteins that actually build stuff.
 
 ** Table of Contents
+ - Workflow
+   - step based procedural process 
  - Tools
    - dynamic, extensible, self-documenting
+   - a tool does one thing -> some things that are called
+     tools are actually toolchains packaged as tools such as
+     word processers.
  - Toolchains
-   - Pipes
+   - Steps and Pipes 
  - Composition
+   - process of writing, design, research
+   - 
  - Rollback -> Reversibility
  - Documentation
  - History
