@@ -65,19 +65,7 @@ way to grow.
 #+end_comment
 
  - Culture
-   - Lingua Franca 
-      - Spoken Language
-      - Written Lanuage
-   - Measurement
-      - Time
-      - Space
-      - Matter
-      - Energy 
-   - Protocols
-     - Legible Addresses
-     - Token Exchange
-     - HTTP
-     - TCP/IP 
+
    - Enlightenment -- rationality and human centered
      - progress is not growth
      - scientific Method2
