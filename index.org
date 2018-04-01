@@ -61,7 +61,7 @@ Volume III
  - 00. Transactions/Trade/Commerce/Markets/Economies/Negotium
    - currency
    - direct trade -> my fish for your pint of beer
- - 00. Standards
+ - 00. [[./ww-standards.org][Standards]]
    - Lingua Franca
       - cros pace-layer legibility 
       - Spoken Language
