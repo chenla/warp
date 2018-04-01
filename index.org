@@ -54,21 +54,27 @@ Volume II
 Volume III
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-identity.org][Identity]]
- - 00. Transactions
+ - 00. Transactions/Trade/Commerce/Markets/Economies
    - currency
-   - direct trade
+   - direct trade -> my fish for your pint of beer
  - 00. [[./ww-citizens.org][Citizens]]
  - 00. [[./ww-distribution.org][Distribution]]
 Volume IV
  - 00. [[./ww-loops.org][Loops]]
  - 00. [[./ww-feedback.org][Feedback]]
- - 00. Toolchains
  - 00. Workflow
+   - Toolchains
  - 00. Composition
  - 00. Replication 
  - 00. [[./ww-infrastructure.org][Infrastructure]]
 Volume V
- - 00. [[./ww-the-way.org][The Way]] -> methodolgy
+ - 00. [[./ww-the-way.org][The Way]]
+   - Succession
+   - Niche
+   - Plan
+   - Build
+   - Deploy
+   - Poduction
 Volume VI 
  - Appendix
    - keystone papers

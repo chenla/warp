@@ -38,15 +38,13 @@ between nodes and grow until everything is connected.
 
 ** Table of Contents
 
-  - succession 
-    - pioneer stage
+  - Succession- pioneer stage
       - sparse nodes, like early Internet
       - dummy nodes
       - surrogate nodes
     - intermediate stages
     - mature stage
-  - specialization  niche
-
+  - Specialization  niche
   - Plan - development
     - identify problem or need 
     - imagine solution form hypothesis
