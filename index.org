@@ -76,14 +76,14 @@ Volume IV
  - 00. [[./ww-infrastructure.org][Infrastructure]]
 Volume V
  - 00. [[./ww-the-way.org][The Way]]
-   - Succession
-   - Niche
-   - Plan
-   - Development
-   - Build
-   - Deployment
-   - Iteration
-   - Running Processes
+ - 00. Succession
+ - 00. Niche
+ - 00. Plan
+ - 00. Development
+ - 00. Build
+ - 00. Deployment
+ - 00. Iteration
+ - 00. Running Processes
 Volume VI 
  - Appendix
    - keystone papers
