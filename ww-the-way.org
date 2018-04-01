@@ -44,8 +44,8 @@ between nodes and grow until everything is connected.
       - surrogate nodes
     - intermediate stages
     - mature stage
-  - Specialization  niche
-  - Plan - development
+  - Niche
+  - Development
     - identify problem or need 
     - imagine solution form hypothesis
     - collect patterns
@@ -62,14 +62,15 @@ between nodes and grow until everything is connected.
     - build prototype - alpha
     - build beta and try in production
     - build release candidate put into production
-  - Deploy
+  - Deployment
     - collect feedback, fix bugs
     - identify new features
     - loop add features, test, release 
     - when something breaks roll back
     - monitor feedback for maintain and management --
       anticipate failures
-  - Production 
+  - Iteration
+  - Running Processes
     - when stable, replicate while developing new features and fixes
 
 ** References
