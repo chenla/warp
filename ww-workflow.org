@@ -49,7 +49,21 @@ the DNA by RNA into proteins that actually build stuff.
      tools are actually toolchains packaged as tools such as
      word processers.
  - Toolchains
-   - Steps and Pipes 
+   - Steps and Pipes
+     Feedback and test between steps -> this is far more
+     important than almost anything else.  The better you
+     can test and know when something is finished, and even
+     better the quality of something when it is finished is
+     the difference between an assembly line and a master
+     craftsman.  We need to bake that into automated
+     processes so that they not only can test but learn how
+     to improve and that means dealing with ambiguity.
+
+     The more feedback loops built into processes the
+     better, and that means that processes need to be
+     designed to be able to continually add additional
+     feedback loops that pass feedback to higher layers of
+     abstraction.
  - Composition
    - process of writing, design, research
    - 
