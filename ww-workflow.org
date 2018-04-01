@@ -40,6 +40,34 @@ then the hoard is an instance.
 The Primer is the DNA, and the Hoard is the translation of
 the DNA by RNA into proteins that actually build stuff.
 
+---
+
+Feedback and test between steps -> this is far more
+important than almost anything else.  The better you can
+test and know when something is finished, and even better
+the quality of something when it is finished is the
+difference between an assembly line and a master craftsman.
+We need to bake that into automated processes so that they
+not only can test but learn how to improve and that means
+dealing with ambiguity.
+
+The more feedback loops built into processes the better, and
+that means that processes need to be designed to be able to
+continually add additional feedback loops that pass feedback
+to higher layers of abstraction.
+
+The other important thing that needs to be built in is that
+you need to be able to improve things potentially at every
+step of a running process, it is part of the REPL, not
+something done outside and added to the process.  Code today
+is written outside of the running process but when a
+craftsman is making something, he looks to see how to
+improve the process and what he makes as he makes or
+composes.  This is what is missing from industrial workflows
+and toolchains. and this means that feedback loops need
+multiple higher layers of pattern recognition to learn to
+tweak themselves as they work.
+
 ** Table of Contents
  - Workflow
    - step based procedural process 
@@ -50,33 +78,7 @@ the DNA by RNA into proteins that actually build stuff.
      word processers.
  - Toolchains
    - Steps and Pipes
-     Feedback and test between steps -> this is far more
-     important than almost anything else.  The better you
-     can test and know when something is finished, and even
-     better the quality of something when it is finished is
-     the difference between an assembly line and a master
-     craftsman.  We need to bake that into automated
-     processes so that they not only can test but learn how
-     to improve and that means dealing with ambiguity.
-
-     The more feedback loops built into processes the
-     better, and that means that processes need to be
-     designed to be able to continually add additional
-     feedback loops that pass feedback to higher layers of
-     abstraction.
-
-     The other important thing that needs to be built in is
-     that you need to be able to improve things potentially
-     at every step of a running process, it is part of the
-     REPL, not something done outside and added to the
-     process.  Code today is written outside of the running
-     process but when a craftsman is making something, he
-     looks to see how to improve the process and what  he
-     makes as he makes or composes.  This is what is missing
-     from industrial workflows and toolchains. and this
-     means that feedback loops need multiple higher layers
-     of pattern recognition to learn to tweak themselves as
-     they work.
+   - Feedback and in-process self-improvement
  - Composition
    - process of writing, design, research
    - 
