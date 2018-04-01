@@ -44,9 +44,8 @@ Volume II
    - [[./ww-entities.org][Entities]]
    - [[./ww-ontologies.org][Ontologies]]
    - [[./ww-pace-layers.org][Pace-Layers]]
-   - [[./ww-succession.org][Succession-Stages]]
+   - [[./ww-succession.org][Succession Stages & Stacks]]
    - [[./ww-goldilocks.org][Goldilocks-Thresholds]]
-   - Scope-Layers -> layer by difficulty and detail
  - 11. [[./www-surpluses.org][Surpluses]]
    - [[./ww-slavery.org][Slavery]]
    - Stores
