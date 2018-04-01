@@ -68,6 +68,18 @@ and toolchains. and this means that feedback loops need
 multiple higher layers of pattern recognition to learn to
 tweak themselves as they work.
 
+---
+
+This is critically important if the MIDDLE is to be able to
+do the job envisioned -- it needs to be a highly distributed
+ML system generated bottom up from very flexible and
+fine-grained iterative self-improving feeback loops.  In
+effect we need a system that is constantly intentionally
+practicing it's craft.  It also needs to know when it
+doesn't understand and ask questions, and not necessarily
+take the answers literally, but weave them into the process
+-- answers are not the same as directives.
+
 ** Table of Contents
  - Workflow
    - step based procedural process 
@@ -81,7 +93,7 @@ tweak themselves as they work.
    - Feedback and in-process self-improvement
  - Composition
    - process of writing, design, research
-   - 
+   - iteration by approximation
  - Rollback -> Reversibility
  - Documentation
  - History
