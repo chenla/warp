@@ -37,24 +37,43 @@ the Language/.
 
 ** Table of Contents
 
- - Cosmos
-   - Entro. Evo, Info
-     - Entropy
-     - Evolution
-     - Information
-   - Lots of Copies Keep Stuff Safe
- - Bios
- - Anthros 
-   - Nature of Man
-     - Limitations -- (state as principles -- discussed
-       Part 6. Boundries)
-     - Transactional man
-   - What Complexity Wants
-     - the petri dish
-     - diversity and specialization extend the petri dish 
-     - larger systems support larger complexity, so given
-       the chance, as two petri dishes meet, either one dies
-       or they merge.
+   - Enlightenment
+     - not Romantic
+   - Rationality
+     - appealing to empirical based reasoning
+
+     - intuition/deduction (a priori/a postereriori)
+
+     - methodology in which truth is not sensory
+     - skepticism 
+
+     - utilitarian
+     - pragmatic
+     - secular
+     - humanist
+
+     - Enlightened Self Interest
+     - Empathic Reciprocity
+
+   - Democratic Process
+     - As goldilock zone between violence of anarchy and
+       violence of popularism/totalitarianism/oligarchies
+     - Egalitarian
+   - Human Scales: Self, Domus/Band, Polis
+   - Scientific Process
+     https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
+     - Empirical 
+       - evidence based
+     - Hypothesis development
+     - Prediction
+     - Testable and repeatable
+     - Record/Document and Share
+     - Analysis
+     - External Review
+     - Consensus
+   - Progress
+     - not same as growth
+
 
 #+begin_comment
 Tainter argues that civilizations hit maximum complexity and
@@ -64,9 +83,3 @@ hit the edge of the petri dish because they could not find a
 way to grow.
 #+end_comment
 
- - Culture
-
-   - Enlightenment -- rationality and human centered
-     - progress is not growth
-     - scientific Method2
-       - observe, record, repeat, and understand 
