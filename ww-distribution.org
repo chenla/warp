@@ -31,13 +31,40 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
-  - income models
-    - basic income
-    - maximum income
-    - maximum savings 
-  - income caps with surplus cascading into collective and
-    common equity.
-  - Equity Model
-  - equity in common and collective property over private
-    ownership 
+  - Creation & Ownership
 
+  - Goods 
+    - discreet item
+    - stuff that flows
+  - Services
+    - work performed
+  - Wealth
+    - income models
+      - basic income
+      - maximum income
+      - maximum savings 
+    - income caps with surplus cascading into collective and
+      common equity.
+    - Equity Model
+    - equity in common and collective property over private
+      ownership 
+  - Transfer 
+    - Transactions
+      - exchange of goods, prisoner swap
+    - Currencies/Tokens
+    - Exchange (Barter)
+      - anything crossing systems and types of units
+      - my fish for your pint of beer
+    - Credit -- guarantees
+    - Hostages -- collateral
+  - Mechanisms
+    - Grid
+    - Net
+    - Mesh
+    - Sneakernet
+  - Physical Layer
+    - Roads
+    - Airspace
+    - Cables (copper, glass, etc.)
+    - Wireless Frequencies
+    - 
