@@ -63,9 +63,15 @@ the Language/.
      possible to communicate to places that the author had
      never been and into the future.  This triggered a
      cognitive revolution that was not to be matched until
-     the industrial revolution -- 
-
-
+     the industrial revolution -- The industrial revolution
+     began earlier than many thought, and a number of
+     keystone inventions laid the groundwork for it over
+     several centuries -- including the printing press, the
+     concept of external power sources such as wind and
+     water (not as propulsive power, but to power tools,
+     laying the groundwork for machines).  Other keystone
+     inventions included standardization of measures, time
+     measurement, the printing press, etc.
 
    - Enlightenment
      - a few pockets of civilization, in ancient Greece, India and
