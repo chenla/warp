@@ -30,9 +30,6 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
-
-
-
   - definition
   - one or many?
   - specialization -- system niche
@@ -43,7 +40,6 @@ bibliography:../hoard/bib.bib
 
 
 ** Getting up to speed
-
 
 We are not starting with an origin story -- that doesn't
 belong here and will have it's place at several layers of
@@ -141,7 +137,7 @@ Getting up to Date:
        still in the middle of.
 
 
-*** Human Civilization in a Nutshell
+** Human Civilization in a Nutshell
 
 This is not an origin story -- that's moved to the primer.
 
