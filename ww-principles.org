@@ -40,9 +40,16 @@ the Language/.
    - Enlightenment
      - scientific revolution kicked it off
      - based on rationality, science, and progress (Pinker's def)
-     - the Copernican revolution
-     - the Darwinian revolution
      - Bacon, Decartes, Locke and Spinoza
+     - place in the universe
+       - the Copernican revolution -> we are not at the center
+       - the Darwinian revolution -> we are not apart from nature
+
+     - combined with Industrial Revolution, began, in 1800 a
+       transformation in human existence.
+       - war, violence, poverty, education, human rights
+         etc. all began a massive upwards curve that we are
+         still in the middle of.
 
 
      - not Romantic
