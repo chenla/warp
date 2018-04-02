@@ -37,6 +37,8 @@ the Language/.
 
 ** Table of Contents
 
+Getting up to Date:
+
    - Before the enlightenment the big shift was first
      development of spoken language.  But memory was still
      RAM, that only existed in living memory.  But this was
@@ -72,6 +74,17 @@ the Language/.
      laying the groundwork for machines).  Other keystone
      inventions included standardization of measures, time
      measurement, the printing press, etc.
+
+   - The steam revolution was at the heart of the industrial
+     revolution -- 
+
+     steam was crude and wasteful, which was replaced by the
+     internal combustion engine which bypassed steam and
+     moved fire directly into the engine.
+
+   - The electric revolution vastlly reduced the number of
+     moving parts and replaced fire completely and was far
+     more flexible.
 
    - Enlightenment
      - a few pockets of civilization, in ancient Greece, India and
