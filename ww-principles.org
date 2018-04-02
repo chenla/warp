@@ -37,6 +37,17 @@ the Language/.
 
 ** Table of Contents
 
+We are not starting with an origin story -- that doesn't
+belong here and will have it's place at several layers of
+abstraction in our story.  But in order to understand how to
+build a civilization from first principles we need to
+understand how the evolution of specialization, scale and
+technology have gotten us from being hunter gatherers ten
+thousand years ago, to where we are today.  We don't have to
+go into too much detail here but we need a broad outline of
+how it all happened so we know how we got here, where we are
+now and where we are going.
+
 Getting up to Date:
 
    - Before the enlightenment the big shift was first
@@ -91,8 +102,9 @@ Getting up to Date:
      large scales, but human scales with machines at human
      scales and machines that worked at scales far smaller
      than human scales -- this which made possible the first
-     cognitive machines.
-
+     cognitive machines.  It not only created machine
+     cognition, but machine memory -- memory that could be
+     used to think internally within cognitive machines.
 
    - Enlightenment
      - a few pockets of civilization, in ancient Greece, India and
