@@ -91,7 +91,15 @@ Volume V
  - 00. Iteration
  - 00. Running Processes
 Volume VI
- - Preface Volume IV
+ - 00. Contents Volume VI
+ - 00. Introduction Volume VI
+ - 00. APPL
+ - 00. Primer
+ - 00. Hoard
+ - 00. Middle
+ - 00. Arc
+Volume VII
+ - Preface Volume VII
  - Appendix
    - keystone papers
  - Bibliography
