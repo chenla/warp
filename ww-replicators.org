@@ -48,10 +48,17 @@ A large part of this will talk about communications,
     - Division     -> as in cell division
     - Assimilation -> additive
   - Copy errors
+    entropy and complexity makes errors inevitable
     - mutations
     - flaws
     - impurities
     - noise
+  - Error Detection
+    - comparison with reference instance
+    - checksums
+    - QA tests
   - Error Correction
     - Redundancy
       - example: QR Code
+  - Introducing Error
+    - bombard dna with radiation to produce mutations
