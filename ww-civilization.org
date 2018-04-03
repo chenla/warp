@@ -30,13 +30,31 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 ** Table of Contents
-  - definition
-  - one or many?
-  - specialization -- system niche
-  - civitas, polis
-  - nation and state
-  - how to hold together
+  - Definition
+  - One or many?
+  - Specialization -- system niche
+  - Civitas, polis
+  - Nation and state
+  - How to hold together
     - propagation, linguistic, cultural
+  - Ecosystem
+    - Civilizations have seldom been understood as being a
+      layer that we inhabit in a larger biosphere -- that
+      the ecosystem we belong to is as much a part of
+      civilization as anything else.  Pretty much everything
+      written about civilization only talks about ecosystems
+      in terms of resources -- as if resources were external
+      to the system.  A civilization in the middle of an Ice
+      Age will be very different from a civilization during
+      an era with a clement climate.  It is not enough to
+      only talk in terms of carrying capacity, but also
+      climate patterns, biodiversity, how difficult or easy
+      is it to extract raw materials from the lithosphere.
+    - Carrying Capacity
+    - We can not understand civilizations without
+      understanding the niche that Man plays in the larger
+      ecosystem and climate that she belongs to.
+    
 
 
 ** Getting up to speed
@@ -97,7 +115,7 @@ Getting up to Date:
      internal combustion engine which bypassed steam and
      moved fire directly into the engine.
 
-   - The electric revolution vastlly reduced the number of
+   - The electric revolution vastly reduced the number of
      moving parts and replaced fire completely and was far
      more flexible.
 
