@@ -97,3 +97,40 @@ Types of surpluses:
     - transmission
 
 Centralised and Distributed Surpluses
+
+** Capacity
+
+#+begin_quote
+I recognize that idea is jarring – that “my property” would
+be free for the taking just because I was not using it. But
+do you recognize why the idea is jarring? The assumption
+that fuels the dissonance about property “free for the
+taking” is that the taken property is exhaustible. I may not
+be using my car at the moment, but that doesn’t mean you
+should have the right to take it since your use of my care
+will, to some degree, deplete the property I have. Cars are
+exhaustible resources. Spectrum is not. When I use a bit of
+spectrum at a particular moment in time, that spectrum is
+just as good after I’m finished as it was before. My use in
+no way exhausts the resource. And more important, when
+spectrum is not used, its value as a resource is not
+saved. Unused spectrum, like an empty seat on an airplane,
+is a resource that is lost forever.
+
+— cite:lessig:2001future-of-ideas
+#+end_quote
+
+This is a good argument for potential capacity.  However I
+thought that it was a bit odd to use spectrum as an example
+because it is not an infinite resource, it has a maximum
+carrying capacity -- unlike network bandwidth, which can be
+increased by adding more network cables and improving
+technology to increase carrying capacity.
+
+It's always more efficient to use something at close to
+maximum carrying capacity -- in many cases, like a computer,
+running a small load on the machine uses the same
+electricity as running it at full capacity, and does not
+shorten it's lifespan.  So the heavier the load, the lower
+the cost of the server over its lifetime.
+
