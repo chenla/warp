@@ -80,7 +80,7 @@ Volume IV
  - 18. [[./ww-loops.org][Loops]]
  - 19. [[./ww-feedback.org][Feedback]]
  - 20. [[./ww-workflow.org][Workflow]]
- - 21. Replicators
+ - 21. [[./ww-replicators.org][Replicators]]
    - Clone        -> duplicate
    - Grow         -> seccession
    - Fabricate    -> fashion out of raw materials
