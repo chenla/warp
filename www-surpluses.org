@@ -65,6 +65,11 @@ was still hard -- but it was better.
 
 ** Table of Contents
 
+- Stored, Potential & Kinetic
+  - Stockpiled -> subject to entropy, has a shelf life
+  - Potential  -> surplus capacity
+  - kinetic    -> on the hoof, battery charge, in-transit 
+
 Types of surpluses:
   - production (labor, energy)
   - goods (grain, tinned food)
