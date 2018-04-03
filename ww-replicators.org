@@ -31,3 +31,9 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+   - Clone        -> duplicate
+   - Grow         -> seccession
+   - Fabricate    -> fashion out of raw materials
+   - Recombinate  -> merge two variations as in DNA
+   - Division     -> as in cell division
+   - Assimilation -> additive
