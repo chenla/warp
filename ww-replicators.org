@@ -44,9 +44,9 @@ A large part of this will talk about communications,
 
 
   - Replication
-    - manufacturing
-    - biological
-    - information
+    - hard: manufacturing
+    - wet:  chemical/biological
+    - soft: information
   - Methods of Replication
     - Clone        -> duplicate
     - Grow         -> seccession
@@ -72,6 +72,9 @@ A large part of this will talk about communications,
     - comparison with reference instance
     - checksums
     - QA tests
+  - Feedback Mechanisms
+    - how errors that are detected are then sent to a mechanism for
+      correcting them.
   - Error Correction
     Without error correction, copies will continually drift from the
     original with additional errors introduced and then errors will be
@@ -82,3 +85,5 @@ A large part of this will talk about communications,
       - example: QR Code
   - Introducing Error
     - bombard dna with radiation to produce mutations
+    - evolutionary processes are built on random errors producing
+      variations that improve a design.
