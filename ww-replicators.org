@@ -30,6 +30,13 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+w&w -> patterns -> keystone reference -> design -> instance
+
+This section is all about the different ways that designs are turned
+into instances which are exemplar's of that design.
+
+
+
 A large part of this will talk about communications, 
 
 
@@ -47,6 +54,14 @@ A large part of this will talk about communications,
     - Recombinate  -> merge two variations as in DNA
     - Division     -> as in cell division
     - Assimilation -> additive
+  - Tolerances
+    In copying, what are the tolerances or amount of variation that is
+    allowable for it to be considered a faithful, exact, or rough copy
+    of something.  This is an important part of the design or
+    specification for what is being replicated.  In the case of many
+    things including living organisms or machines with moving parts,
+    if tolerances are exceeded, the machine won't work or the organism
+    will not survive.  
   - Copy errors
     entropy and complexity makes errors inevitable
     - mutations
