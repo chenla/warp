@@ -29,8 +29,15 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+Civilization -> comes from the word civitis meaning city.
+The ancient greeks used the word polis to mean city, but it
+was also the closest thing they had to the concept of
+civilization.  This is a good place to start -- and grounds
+us at human scales.
+
 ** Table of Contents
-  - Definition
+  - Definition 
   - One or many?
   - Specialization -- system niche
   - Civitas, polis
