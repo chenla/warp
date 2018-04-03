@@ -29,11 +29,23 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+A large part of this will talk about communications, 
+
+
 ** Table of Contents
 
-   - Clone        -> duplicate
-   - Grow         -> seccession
-   - Fabricate    -> fashion out of raw materials
-   - Recombinate  -> merge two variations as in DNA
-   - Division     -> as in cell division
-   - Assimilation -> additive
+  - Types of Replication
+    - Clone        -> duplicate
+    - Grow         -> seccession
+    - Fabricate    -> fashion out of raw materials
+    - Recombinate  -> merge two variations as in DNA
+    - Division     -> as in cell division
+    - Assimilation -> additive
+  - Copy errors
+    - mutations
+    - flaws
+    - impurities
+    - noise
+  - Error Correction
+    - Redundancy
