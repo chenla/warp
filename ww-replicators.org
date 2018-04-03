@@ -35,7 +35,12 @@ A large part of this will talk about communications,
 
 ** Table of Contents
 
-  - Types of Replication
+
+  - Replication
+    - manufacturing
+    - biological
+    - information
+  - Methods of Replication
     - Clone        -> duplicate
     - Grow         -> seccession
     - Fabricate    -> fashion out of raw materials
@@ -49,3 +54,4 @@ A large part of this will talk about communications,
     - noise
   - Error Correction
     - Redundancy
+      - example: QR Code
