@@ -80,7 +80,13 @@ Volume IV
  - 18. [[./ww-loops.org][Loops]]
  - 19. [[./ww-feedback.org][Feedback]]
  - 20. [[./ww-workflow.org][Workflow]]
- - 21. Replication 
+ - 21. Replicators
+   - Clone        -> duplicate
+   - Grow         -> seccession
+   - Fabricate    -> fashion out of raw materials
+   - Recombinate  -> merge two variations as in DNA
+   - Division     -> as in cell division
+   - Assimilation -> additive
  - 22. [[./ww-infrastructure.org][Infrastructure]]
 Volume V
  - 00. Contents Volume V
