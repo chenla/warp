@@ -73,6 +73,11 @@ A large part of this will talk about communications,
     - checksums
     - QA tests
   - Error Correction
+    Without error correction, copies will continually drift from the
+    original with additional errors introduced and then errors will be
+    copied and then errors will be made copying errors and so on. This
+    the process that changes an event into news, news into history,
+    history into legand, and legand into myth.
     - Redundancy
       - example: QR Code
   - Introducing Error
