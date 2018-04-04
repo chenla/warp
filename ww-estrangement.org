@@ -39,16 +39,7 @@ bibliography:../hoard/bib.bib
      gravitates towards organization sees it as living, as
      beauty, divine -- which are objective
  - [[./ww-alienation.org][Alienation]]
-   - Marx's theory of alienation
-   - quote's from ZAMM cite:pirsig:2008zen
-   - Modernism
-
-   - Soleri cite:soleri:2012lean-linear-city,soleri:1999arcology
-   - References
-     cite:wiki:2018social-alienation,jay:2018alienation,wiki:2017white-collar-book,mills:1951white
-
-
- - The Narrow Gate -- between our strengths and weaknesses
+- The Narrow Gate -- between our strengths and weaknesses
    - Care
    - Practice
    - Rest
