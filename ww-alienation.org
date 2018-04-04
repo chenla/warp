@@ -33,20 +33,19 @@ bibliography:../hoard/bib.bib
 
 
   - Start with Olson cite:olson:1970special
-  - Then estrangment described by Havlock cite:havelock:1963preface
+  - Then estrangment described by Havelock cite:havelock:1963preface
+  - Then Alexander
+  - quote's from ZAMM cite:pirsig:2008zen
+  - Then Soleri cite:soleri:1999arcology
+  - Then Mills White Collar cite:mills:1951white
+
+  - Then about how alienation has become internalized cite:jay:2018alienation
 
   - Marx's theory of alienation cite:wiki:2018marx-theory-of-alienation
-  - quote's from ZAMM
   - Modernism
-
-  - Soleri
-
 
 ** References
 
- - contributors, W., /Social alienation --- wikipedia, the free
-  encyclopedia/ (2018).
-  cite:wiki:2018social-alienation
  - Havelock, E. A., Preface to plato (history of the greek mind)
    (1963), : Harvard University Press.
    cite:havelock:1963preface
@@ -61,8 +60,11 @@ bibliography:../hoard/bib.bib
  - Pirsig, R. M., Zen and the art of motorcycle maintenance: an inquiry
    into values (2008), : Harper Perennial Modern Classics.
    cite:pirsig:2008zen
- Wikipedia, /Marx's theory of alienation --- wikipedia, the free
+ - Wikipedia, /Marx's theory of alienation --- wikipedia, the free
    encyclopedia/ (2018).  cite:wiki:2018marx-theory-of-alienation
+ - Wikipedia, /Social alienation --- wikipedia, the free
+  encyclopedia/ (2018).
+  cite:wiki:2018social-alienation
  - Wikipedia, /White collar: the american middle classes ---
    wikipedia, the free encyclopedia/ (2017).
    cite:wiki:2017white-collar-book 
