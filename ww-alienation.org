@@ -32,8 +32,40 @@ bibliography:../hoard/bib.bib
 ** Table of Contents
 
 
-  - Start with Olson cite:olson:1970special
+  - Start with Olson cite:olson:1970special 
+
   - Then estrangment described by Havelock cite:havelock:1963preface
+
+  - next dislocation was Copernicus, and Darwin together with
+    industrialization -- cut us off from our connection to the natural
+    world.  not in a romantic sense, but physically cut us off
+
+  - man saw himself in opposition to nature.  that the natural was
+    trying to kill you, and strove to bring it under control, our
+    urban environments eschewed natural materials -- replacing them
+    with paint, and stone and tile that was clearly under man's thumb
+
+  - the enlightenment ushered in rationality and prosperity but it
+    left us adrift and apart we desperately wanted to be at the center
+    of things -- we inately understood that we could see the world
+    very differently from other animals and that we had a sense of
+    ourselves and the future that they lacked -- and we were
+    constantly grasping for ways to understand this power our minds
+    had -- it was lonely -- but if it was part of a divine plan,
+    because god too was as lonely and as conscious as we were, then it
+    must be all right.
+
+  - Ford's assembly line created perfect copies of things numbered in
+    the millions -- each the same as every other -- our material world
+    was not something we as individuals had control over, our instinct
+    to adapt the world around us had been destroyed by perfect
+    identical copies.   There were no subtle variations, each adapted
+    slightly differently and in harmony with each other -- Walmart had
+    none this -- just stacks and row after row of identical copies in
+    the windowless warrens illuminated by harsh fluorescents.
+
+
+
   - Then Alexander
   - The bleak alien minimalism of Modernism
   - quote's from ZAMM cite:pirsig:2008zen
