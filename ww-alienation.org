@@ -32,11 +32,10 @@ bibliography:../hoard/bib.bib
 ** Table of Contents
 
 
-  - Start with Olson
+  - Start with Olson cite:olson:1970special
+  - Then estrangment described by Havlock cite:havelock:1963preface
 
-  - Then estrangment described by Havlock
-
-  - Marx's theory of alienation
+  - Marx's theory of alienation cite:wiki:2018marx-theory-of-alienation
   - quote's from ZAMM
   - Modernism
 
@@ -44,9 +43,6 @@ bibliography:../hoard/bib.bib
 
 
 ** References
-
-
-
 
  - contributors, W., /Social alienation --- wikipedia, the free
   encyclopedia/ (2018).
@@ -65,7 +61,9 @@ bibliography:../hoard/bib.bib
  - Pirsig, R. M., Zen and the art of motorcycle maintenance: an inquiry
    into values (2008), : Harper Perennial Modern Classics.
    cite:pirsig:2008zen
- - Wikipedia, , /White collar: the american middle classes ---
+ Wikipedia, /Marx's theory of alienation --- wikipedia, the free
+   encyclopedia/ (2018).  cite:wiki:2018marx-theory-of-alienation
+ - Wikipedia, /White collar: the american middle classes ---
    wikipedia, the free encyclopedia/ (2017).
    cite:wiki:2017white-collar-book 
  - Soleri, P., Arcology: the city in the image of man (1999), :
