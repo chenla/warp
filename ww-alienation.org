@@ -31,6 +31,11 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+
+  - Start with Olson
+
+  - Then estrangment described by Havlock
+
   - Marx's theory of alienation
   - quote's from ZAMM
   - Modernism
@@ -46,6 +51,9 @@ bibliography:../hoard/bib.bib
  - contributors, W., /Social alienation --- wikipedia, the free
   encyclopedia/ (2018).
   cite:wiki:2018social-alienation
+ - Havelock, E. A., Preface to plato (history of the greek mind)
+   (1963), : Harvard University Press.
+   cite:havelock:1963preface
  - Jay, M., /A history of alienation/ (2018).
    cite:jay:2018alienation 
  - Mills, C. W., White collar: the american middle classes (1951), :
