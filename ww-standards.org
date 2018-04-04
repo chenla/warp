@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Standard
+#+TITLE: Standards
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -32,18 +32,30 @@ bibliography:../hoard/bib.bib
 ** Table of Contents
 
   - Lingua Franca
-    - cros pace-layer legibility 
+    - cross pace-layer legibility 
     - Spoken Language
     - Written Lanuage
+    - Text Encoding
+      - Unicode
     - Machine Languages
+    - Markup Languages
+    - Incantation Languages
   - Measurement
     - Time
+      - the second
+      - seconds from epoch
+      - time measurement and planetary bodies
+        - timeslips & leap years
+      - human diurnal cycles 
+      - calendars
     - Space
-    - Matter
-    - Energy 
+    - Mass
+    - Energy
+    - Weight & Gravity 
   - Protocols
     - Legible Addresses
     - Token Exchange
     - HTTP
     - TCP/IP
+  - APIs
 
