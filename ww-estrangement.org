@@ -38,7 +38,7 @@ bibliography:../hoard/bib.bib
    - life is self organizing matter and energy, life
      gravitates towards organization sees it as living, as
      beauty, divine -- which are objective
- - Alienation
+ - [[./ww-alienation.org][Alienation]]
    - Marx's theory of alienation
    - quote's from ZAMM cite:pirsig:2008zen
    - Modernism
