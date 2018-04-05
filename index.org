@@ -70,14 +70,6 @@ Volume III
  - 15. [[./ww-legibility.org][Legibility]]
  - 16. [[./ww-citizens.org][Citizens]]
  - 00. [[./ww-polis.org][Polis]]
-   - ancient greek city-states
-   - polis and nones
-   - monastic estates - familia intus & familia foris
-     cite:horn:1979plan v1.p341
-   - settlement hierarchy
-     - cite:wiki:2018settlement-hierarchy
-     - mollison, alexander, ca doxiadis, ka doxiadis, soleri
-   - Agora, Stoa & Pynx cite:sennett:2016pynx
  - 17. [[./ww-distribution.org][Distribution]]
 Volume IV
  - 00. Contents Volume IV
