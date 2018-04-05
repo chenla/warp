@@ -38,6 +38,111 @@ bibliography:../hoard/bib.bib
   - soleri cite:soleri:1999arcology
 
 
+** Christopher Alexander
+
+   #+CAPTION: Ideal Settlement Hierarchy
+   | NAME                             | Population |
+   |----------------------------------+------------|
+   | Region                           | 8 million  |
+   | Major City                       | 500,000    |
+   | Communities & Small Towns        | 5-10,000   |
+   | Neighborhoods                    | 500-100    |
+   | House Cluster & Work Communities | 30-50      |
+   | Families & Work Groups           | 1-15       |
+    — SOURCE:  cite:alexander:1977pattern p.4
+
+** Mollison
+
+| NAME                          |        Population |
+|-------------------------------+-------------------|
+| Work Group                    |               1-3 |
+| Volunteer & Coop              |               4-6 |
+| Social - recreational or team |               7-6 |
+| Minimal Group                 |             30-40 |
+| Regional Organization         |            40-200 |
+| Village or Hamlet             |           300-600 |
+| Tribe (upper limit)           |           1-5,000 |
+| Town & Large Bioregion        |          7-40,000 |
+| Cities (disfunctional)        | 15,000-10 million |
+— SOURCE: cite:mollison:1988designers p.531
+
+
+** CA Doxiadis
+
+#+begin_quote
+Doxiadis believed that the conclusion from biological and
+social experience was clear: to avoid chaos we must organize
+our system of life from Anthropos (individual) to
+Ecumenopolis (global city) in hierarchical levels,
+represented by human settlements. So he articulated a
+general hierarchical scale with fifteen levels of Ekistic
+Units:
+
+Names of Units and Population Scale (final version, from
+C.A.Doxiadis' last book, ACTION for Human Settlements,
+p. 186, Athens Center of Ekistics, 1976): Note: The
+population figures below are for Doxiadis' ideal future
+ekistic units for the year 2100 at which time he estimated
+(in 1968) that Earth would achieve zero population growth at
+a population of 50,000,000,000 with human civilization being
+powered by fusion energy.
+
+— cite:wiki:2018ekistics
+#+end_quote
+
+   #+CAPTION: Settlement Hierarchy CA 2100
+   | NAME                         | Population  |
+   |------------------------------+-------------|
+   | Anthropos                    | 1           |
+   | room                         | 2           |
+   | house                        | 5           |
+   | housegroup (hamlet)          | 40          |
+   | small neighborhood (village) | 250         |
+   | neighborhood                 | 1,500       |
+   | small polis (town)           | 10,000      |
+   | polis (city)                 | 75,000      |
+   | small metropolis             | 500,000     |
+   | metropolis                   | 4 million   |
+   | small megalopolis            | 25 million  |
+   | megalopolis                  | 150 million |
+   | small eperopolis             | 750 million |
+   | eperopolis                   | 7.5 billion |
+   | Ecumenopolis                 | 50 billion  |
+
+** KA Doxiadis
+
+#+begin_quote
+In this example, an isolated building is at the lowest
+point, and the ecumenopolis is at the top with the greatest
+number of people:[3]
+
+(Note: This settlement hierarchy is adapted from the work of
+Konstantinos Apostolos Doxiadis for the actual current world
+situation as of 2010 as opposed to Doxiadis' idealized
+settlement hierarchy for the year 2100 that he outlined in
+his 1968 book Ekistics.)
+
+—  cite:wiki:2018settlement-hierarchy
+#+end_quote
+
+  #+CAPTION: Settlement Hierarchy CA 2010
+  | NAME              | Population (CA 2010)      |
+  |-------------------+---------------------------|
+  | Ecumenopolis      | 3,4 billion               |
+  | Megalopolis       | >10 million               |
+  | Conurbation       | 3-10 million              |
+  | Metropolis        | 1-3 million               |
+  | Large city        | 300,000 - <1 million      |
+  | City              | 100,000-300,000           |
+  | Large town        | 20,000-100,000            |
+  | Town              | 1,000-20,000              |
+  | Village           | 100's-1,000's             |
+  | Hamlet            | <100                      |
+  | Isolated dwelling | 1-2 buildings or families |
+  — SOURCE: cite:wiki:2018settlement-hierarchy
+
+
+
 ** References
 
 
