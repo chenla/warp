@@ -68,7 +68,7 @@ Complex systems make that impossible -- but I believe we can
 learn to shape civilization slowly over time towards desired
 outcomes -- as Kevin Kelly observed, you can tell what will
 be inevitable but now the specific form that that
-inevitibility will take.
+inevitibility will take. cite:kelly:2016inevitable
 
 What this works sets out to do is to create methodologies
 for understanding and modeling civilization and then work to
@@ -1464,7 +1464,7 @@ settlement is essentially built.  Can they adapt, and in
 order to adapt how will it impact their original designs?
 
 
-* Footnotes
+** Footnotes
 
 [fn:1] What about language?  Origins lays out our history which is
 tells what our metaphysics and physics.  The nuts and bolts of laguage
@@ -1478,3 +1478,9 @@ versions of it, the fashion layer tries out new ideas which are
 filtered and refined until they change the lowest layers.
 
 
+** References
+
+  - Kelly, K., The inevitable: understanding the 12
+    technological forces that will shape our future
+    (2016), : Viking.
+    cite:kelly:2016inevitable
