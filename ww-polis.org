@@ -78,7 +78,7 @@ because the solutions simply don't scale.
     - polis and nones
   - monastic estates - familia intus & familia foris
     cite:horn:1979plan v1.p341
-  - settlement hierarchy
+  - [[./ww-settlement-hierarchies.org][Settlement Hierarchies]]
     - cite:wiki:2018settlement-hierarchy
     - mollison, alexander, ca doxiadis, ka doxiadis, soleri
   - Agora, Stoa & Pynx cite:sennett:2016pynx
