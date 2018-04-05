@@ -40,7 +40,7 @@ bibliography:../hoard/bib.bib
 
 ** Christopher Alexander
 
-   #+CAPTION: Ideal Settlement Hierarchy
+   #+CAPTION: Settlement Hierarchy
    | NAME                             | Population |
    |----------------------------------+------------|
    | Families & Work Groups           | 1-15       |
@@ -51,8 +51,9 @@ bibliography:../hoard/bib.bib
    | Region                           | 8 million  |
     — SOURCE:  cite:alexander:1977pattern p.4
 
-** Mollison
+** Bill Mollison
 
+  #+CAPTION: Effective Group Size
   | NAME                         |        Population |
   |------------------------------+-------------------|
   | Work Group                   |               1-3 |
@@ -126,19 +127,19 @@ powered by fusion energy.
    | NAME                         | Population  |
    |------------------------------+-------------|
    | Anthropos                    | 1           |
-   | room                         | 2           |
-   | house                        | 5           |
-   | housegroup (hamlet)          | 40          |
-   | small neighborhood (village) | 250         |
-   | neighborhood                 | 1,500       |
-   | small polis (town)           | 10,000      |
-   | polis (city)                 | 75,000      |
-   | small metropolis             | 500,000     |
-   | metropolis                   | 4 million   |
-   | small megalopolis            | 25 million  |
-   | megalopolis                  | 150 million |
-   | small eperopolis             | 750 million |
-   | eperopolis                   | 7.5 billion |
+   | Room                         | 2           |
+   | House                        | 5           |
+   | Housegroup (hamlet)          | 40          |
+   | Small neighborhood (village) | 250         |
+   | Neighborhood                 | 1,500       |
+   | Small Polis (town)           | 10,000      |
+   | Polis (city)                 | 75,000      |
+   | Small Metropolis             | 500,000     |
+   | Metropolis                   | 4 million   |
+   | Small Megalopolis           | 25 million  |
+   | Megalopolis                  | 150 million |
+   | Small Eperopolis             | 750 million |
+   | Eperopolis                   | 7.5 billion |
    | Ecumenopolis                 | 50 billion  |
 
 
