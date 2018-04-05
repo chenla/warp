@@ -53,18 +53,50 @@ bibliography:../hoard/bib.bib
 
 ** Mollison
 
-  | NAME                          |        Population |
-  |-------------------------------+-------------------|
-  | Work Group                    |               1-3 |
-  | Volunteer & Coop              |               4-6 |
-  | Social - recreational or team |               7-6 |
-  | Minimal Group                 |             30-40 |
-  | Regional Organization         |            40-200 |
-  | Village or Hamlet             |           300-600 |
-  | Tribe (upper limit)           |           1-5,000 |
-  | Town & Large Bioregion        |          7-40,000 |
-  | Cities (disfunctional)        | 15,000-10 million |
+  | NAME                         |        Population |
+  |------------------------------+-------------------|
+  | Work Group                   |               1-3 |
+  | Volunteer & Coop             |               4-6 |
+  | Social: Recreational or team |               7-6 |
+  | Minimal Group                |             30-40 |
+  | Regional Organization        |            40-200 |
+  | Village or Hamlet            |           300-600 |
+  | Tribe (upper limit)          |           1-5,000 |
+  | Town & Large Bioregion       |          7-40,000 |
+  | Cities (disfunctional)       | 15,000-10 million |
   — SOURCE: cite:mollison:1988designers p.531
+
+** KA Doxiadis
+
+#+begin_quote
+In this example, an isolated building is at the lowest
+point, and the ecumenopolis is at the top with the greatest
+number of people:
+
+(Note: This settlement hierarchy is adapted from the work of
+Konstantinos Apostolos Doxiadis for the actual current world
+situation as of 2010 as opposed to Doxiadis' idealized
+settlement hierarchy for the year 2100 that he outlined in
+his 1968 book Ekistics.)
+
+—  cite:wiki:2018settlement-hierarchy
+#+end_quote
+
+  #+CAPTION: Settlement Hierarchy CA 2010
+  | NAME              | Population (CA 2010)      |
+  |-------------------+---------------------------|
+  | Isolated dwelling | 1-2 buildings or families |
+  | Hamlet            | <100                      |
+  | Village           | 100's-1,000's             |
+  | Large town        | 20-100,000                |
+  | Town              | 1,000-20,000              |
+  | City              | 100-300,000               |
+  | Large city        | 300,000 - <1 million      |
+  | Metropolis        | 1-3 million               |
+  | Conurbation       | 3-10 million              |
+  | Megalopolis       | >10 million               |
+  | Ecumenopolis      | 3,4 billion               |
+  — SOURCE: cite:wiki:2018settlement-hierarchy
 
 
 ** CA Doxiadis
@@ -109,50 +141,18 @@ powered by fusion energy.
    | eperopolis                   | 7.5 billion |
    | Ecumenopolis                 | 50 billion  |
 
-** KA Doxiadis
-
-#+begin_quote
-In this example, an isolated building is at the lowest
-point, and the ecumenopolis is at the top with the greatest
-number of people:
-
-(Note: This settlement hierarchy is adapted from the work of
-Konstantinos Apostolos Doxiadis for the actual current world
-situation as of 2010 as opposed to Doxiadis' idealized
-settlement hierarchy for the year 2100 that he outlined in
-his 1968 book Ekistics.)
-
-—  cite:wiki:2018settlement-hierarchy
-#+end_quote
-
-  #+CAPTION: Settlement Hierarchy CA 2010
-  | NAME              | Population (CA 2010)      |
-  |-------------------+---------------------------|
-  | Isolated dwelling | 1-2 buildings or families |
-  | Hamlet            | <100                      |
-  | Village           | 100's-1,000's             |
-  | Large town        | 20-100,000                |
-  | Town              | 1,000-20,000              |
-  | City              | 100-300,000               |
-  | Large city        | 300,000 - <1 million      |
-  | Metropolis        | 1-3 million               |
-  | Conurbation       | 3-10 million              |
-  | Megalopolis       | >10 million               |
-  | Ecumenopolis      | 3,4 billion               |
-  — SOURCE: cite:wiki:2018settlement-hierarchy
-
 
 
 ** References
 
 
-  - Mollison, B., Permaculture: a designers' manual
-    (1988), : Tagari.
-    cite:mollison:1988designers
   - Alexander, C., Ishikawa, S., & Silverstein, M., A
     pattern language: towns, buildings, construction
     (1977), : Oxford University Press.
     cite:alexander:1977pattern
+  - Mollison, B., Permaculture: a designers' manual
+    (1988), : Tagari.
+    cite:mollison:1988designers
   - Soleri, P., Arcology: the city in the image of man
     (1999), : Bridgewood Press,.
     cite:soleri:1999arcology
