@@ -46,25 +46,25 @@ bibliography:../hoard/bib.bib
    | Region                           | 8 million  |
    | Major City                       | 500,000    |
    | Communities & Small Towns        | 5-10,000   |
-   | Neighborhoods                    | 500-100    |
+   | Neighborhoods                    | 500-1,000  |
    | House Cluster & Work Communities | 30-50      |
    | Families & Work Groups           | 1-15       |
     — SOURCE:  cite:alexander:1977pattern p.4
 
 ** Mollison
 
-| NAME                          |        Population |
-|-------------------------------+-------------------|
-| Work Group                    |               1-3 |
-| Volunteer & Coop              |               4-6 |
-| Social - recreational or team |               7-6 |
-| Minimal Group                 |             30-40 |
-| Regional Organization         |            40-200 |
-| Village or Hamlet             |           300-600 |
-| Tribe (upper limit)           |           1-5,000 |
-| Town & Large Bioregion        |          7-40,000 |
-| Cities (disfunctional)        | 15,000-10 million |
-— SOURCE: cite:mollison:1988designers p.531
+  | NAME                          |        Population |
+  |-------------------------------+-------------------|
+  | Work Group                    |               1-3 |
+  | Volunteer & Coop              |               4-6 |
+  | Social - recreational or team |               7-6 |
+  | Minimal Group                 |             30-40 |
+  | Regional Organization         |            40-200 |
+  | Village or Hamlet             |           300-600 |
+  | Tribe (upper limit)           |           1-5,000 |
+  | Town & Large Bioregion        |          7-40,000 |
+  | Cities (disfunctional)        | 15,000-10 million |
+  — SOURCE: cite:mollison:1988designers p.531
 
 
 ** CA Doxiadis
@@ -114,7 +114,7 @@ powered by fusion energy.
 #+begin_quote
 In this example, an isolated building is at the lowest
 point, and the ecumenopolis is at the top with the greatest
-number of people:[3]
+number of people:
 
 (Note: This settlement hierarchy is adapted from the work of
 Konstantinos Apostolos Doxiadis for the actual current world
@@ -133,8 +133,8 @@ his 1968 book Ekistics.)
   | Conurbation       | 3-10 million              |
   | Metropolis        | 1-3 million               |
   | Large city        | 300,000 - <1 million      |
-  | City              | 100,000-300,000           |
-  | Large town        | 20,000-100,000            |
+  | City              | 100-300,000               |
+  | Large town        | 20-100,000                |
   | Town              | 1,000-20,000              |
   | Village           | 100's-1,000's             |
   | Hamlet            | <100                      |
