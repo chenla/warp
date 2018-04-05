@@ -86,13 +86,18 @@ because the solutions simply don't scale.
 
 ** References
 
+  - Downing, F., & Hubka, T. C., Diagramming: a visual
+    language, Perspectives in Vernacular Architecture, 2(),
+    44–52 (1986).
+    http://dx.doi.org/10.2307/3514315publisherJSTOR
+    cite:downing:1986diagramming
   - Horn, W., Born, E., Jones, C. W., & Dupree, A. H., The
     plan of st. gall: a study of the architecture \& economy
     of, \& life in a paradigmatic carolingian monastery
     (1979), : University of California Press Berkeley, Los
     Angeles and London.
     cite:horn:1979plan v1.p341
-  - HUBKA, T., Big house, little house, back house, barn:
+  - Hubka, T., Big house, little house, back house, barn:
     the connected farm buildings of new england., , (),
     (1984).
     cite:hubka:1984big-house
