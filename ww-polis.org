@@ -30,19 +30,59 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+We have already discussed how the concept of civilization is
+rooted in the concept of cities, the polis, from where we
+also get the word politics.
 
+Now that we have a clear understanding of what a citizen is,
+we can move from being a migratory or wandering
+hunter-gatherer to a sedentary urbanite.  A band of
+hunter-gatherers resolved conflicts by either moving or
+fighting.  Urban Man makes moving difficult without
+significant disruption and social and material loss.  So
+urban Man needed to find ways of non-violently resolving
+conflicts between neighbors -- from where we get words like
+negotiation, which come from the word /negotium/, the
+opposite of /otium/ which is a time of quiet contemplation.
+Negotium encompused the social, the day to day business and
+intercourse with her neighbors.
 
+We need a model for the concept of polis as the atomic unit
+of civilization as a physical and social fabric that makes
+politics and commerce possible.
+
+We will then discuss the relationship between the urban and
+rural, as an economic relationship that creates tensions
+because of the inequality between the two sides in terms of
+wealth (urban areas have a higher concentration of wealth),
+access to and quality of services, which we will see can be
+understood as a problem of propagation of information,
+wealth and logistics.
+
+Finally we will look at mechanisms for how all of these
+problems can be solved and how they have been solved in the
+past.
+
+In the end, as we have seen over and over, is that the
+limiting factor for any of these solutions is scale.  Once
+we move to scales larger than humans are designed for, we
+see systemic problems emerge that can never be resolved
+because the solutions simply don't scale.
 
 ** Table of Contents
 
+  - rural, urban, cosmopolitan
+
   - ancient greek city-states
-  - polis and nones
+  - town-gown
+    - polis and nones
   - monastic estates - familia intus & familia foris
     cite:horn:1979plan v1.p341
   - settlement hierarchy
     - cite:wiki:2018settlement-hierarchy
     - mollison, alexander, ca doxiadis, ka doxiadis, soleri
   - Agora, Stoa & Pynx cite:sennett:2016pynx
+  - Neighborhood and identity cite:hubka:1984big-house
 
 ** References
 
@@ -52,6 +92,10 @@ bibliography:../hoard/bib.bib
     (1979), : University of California Press Berkeley, Los
     Angeles and London.
     cite:horn:1979plan v1.p341
+  - HUBKA, T., Big house, little house, back house, barn:
+    the connected farm buildings of new england., , (),
+    (1984).
+    cite:hubka:1984big-house
   - Wikipedia, , /Settlement hierarchy --- wikipedia, the
     free encyclopedia/ (2018).
     cite:wiki:2018settlement-hierarchy
