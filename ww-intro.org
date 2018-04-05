@@ -30,6 +30,175 @@ bibliography:../hoard/bib.bib
 
 ** Introduction
 
+At present. civilization is still at the whim of
+evolutionary natural selection, random mutations happening,
+with the successful ones replacing older ones.  We might
+think we are in charge, but only as individuals, and even
+then... not so much.
+
+Mankind is at the brink of being able to take conscious
+control over dna -- within a few decades we will be in
+complete control of the design of all biological systems --
+but that is mucking with individual genomes -- there are
+larger meta structures of how these organisms organize and
+interact to form large complex systems.  These systems exist
+outside of human scale -- either too small or too large and
+slow for us to easily see, let along understand, let along
+change or control in any meaningful way.
+
+Civilization is one such system -- and our clumsy attempts
+at steering civilization or even understanding it is not
+enough.  Collectively we are making a mess of things -- we
+need to start understanding how civilization works, and how
+we can shape and eventually manage it before we overrun the
+petri-dish and trigger a massive die-off and collapse.
+
+We need to work out a genome for human civilization and then
+a CRISPR type mechanism for fixing things and test new ideas
+in controlled ways.
+
+This will never work if we take a top-down command and
+control approach -- we need to understand how to inject
+changes from the bottom up and when they've been tested and
+work, then let them propagate.
+
+We'll never be able to control civilization in the same way
+that say you can control a car when driving down the road.
+Complex systems make that impossible -- but I believe we can
+learn to shape civilization slowly over time towards desired
+outcomes -- as Kevin Kelly observed, you can tell what will
+be inevitable but now the specific form that that
+inevitibility will take.
+
+What this works sets out to do is to create methodologies
+for understanding and modeling civilization and then work to
+make desired outcomes inevitable -- once they become
+inevitable they can be shaped to some extent -- thought
+there is no way of knowing what form that will eventually
+take.
+
+I am, personally, a extremely pessimistic person, I have
+never seen much hope for the human enterprise in any short
+term and I still believe that we are all too capable of
+derailing the progress man has made since 1800.
+
+But that doesn't mean that I'm not going to try.  I've
+always personally believed that the only way you can truly
+fail is if you give up.  Steven Pinker's relentless optimism
+about the reality of human progress and that it can continue
+to not only improve but that improvement can continue to
+accelerate has worn me down to the point where I admit that
+he has a made a very good case.
+
+But this will not happen unless all of us work together to
+make sure that this happens.  The challenges ahead of
+humanity just in this century alone almost beggers the
+imagination.  It will take every ounce of imagination,
+strength and as Pirsig said, gumption to make it happen.
+
+A framework for understanding and changing the genome for
+human civilization would be a very useful part of this
+effort -- if successful it would make it possible to
+coordinate our efforts better, identify what things are
+being worked on and what areas aren't getting enough
+attention.  It could help provide metrics for understanding
+where we stand, where we are going and provide clues of how
+to correct mistakes and move more clearly in the right
+direction.
+
+This is an audacious undertaking -- and something that I
+have been working on full time for nearly two decades.  The
+project has now come to the point where all the pieces are
+coming together and the broad outline is visible.
+
+Now that I've reached this stage, the project needs to make
+the transition from being a solo effort to a building a team
+to begin filling in the blanks, run experiments in the form
+of projects that are designed to make practical improvements
+in people's lives today, while learning to map out the
+genome, how it works and how to improve it.  Some of this
+work will be traditional R&D, some NGO projects.  But the
+vast majority of the projects will be designed to be
+not-for-profit.  In other words they will be designed to
+make a profit, and be self-sustaining, but the larger goal
+for each project will be to materially improve people's
+lives first, and making a profit second.
+
+The entire zero-sum mantra of "maximizing shareholder value"
+is nothing short of obscene, and growing at all costs, when
+growth is simply making a small group of people wealthy
+should be considered to be the lowest of human activities
+and should be held in the same contempt and a crime against
+humanity.  The problem is that the system has so corrupted
+us, that most people can't understand that the world was not
+always this way, and it doesn't have to be in the future.
+We can all strive to give everyone a high standard of
+living, a life with purpose, without fear, or pain.
+
+We can not tolerate zero-sum anything any longer.
+Everything we do must be designed to be positive sum --
+things that help me as much as they help you and everyone
+else.
+
+Any time someone tells you, that you have to suffer in order
+to achieve an important goal is selling you a lie.  If
+something doesn't make financial and economic sense, there
+is something wrong, because it won't work, and the only
+people who will subscribe to it are well-meaning chumps.
+What DOES work is to teach people how to change their
+behavior to do things in ways that improve their lives --
+this is difficult, we aren't very good at changing -- and
+this is why it won't happen overnight.  The older you are
+the less capacity you have to change.
+
+For this reason, it's good that we we still have time enough
+to teach the next generation positive-sum habits.  It's very
+likely that human lifespans will increase to hundreds of
+years or even longer in the next few decades.  That is good
+news, because it still gives most of the zero-sum generation
+time to die before we start sticking around for significant
+fractions of millenia.
+
+And as these new generations grow older and older, they will
+be old enough to have seen and understand much longer term
+processes than we short-timers can today.  This will be
+crucial to the long term survival of our species and
+successful stewardship of our planet, and eventually the
+rest of the solar system as humanities childshood ends and
+take the first steps towards becoming a a mature
+technological species.
+
+The most terrible crimes against mankind since the 20th
+century were the Year-Zero men
+
+It is hoped that we are nearing a time when it will become
+impossible for another of these monsters to take control.
+
+The next step is to eradicate the Zero-Sum men and women
+whose whole existence is to take from you to profit me.
+
+Building a positive-sum genome for human civilization from
+first principles would be a good first step.
+
+Can we pull this off?  The pessimist in me is shouting in
+one ear that it's a real long shot.  But then, the tiny
+optimist's voice is whispering in my other ear is saying,
+"hey, that loudmouth might be right, but what have you got
+to loose.  It's worth a shot, isn't it?"
+
+
+
+
+
+
+
+
+
+
+
+-------------------
+
+
 W&W will be to APPL that /A Timeless Way of Building/ 
 (TWB) cite:alexander:1979timeless is to APL. cite:alexander:1977pattern
 
