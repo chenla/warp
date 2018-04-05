@@ -29,6 +29,10 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+
+
+
 ** Table of Contents
 
   - ancient greek city-states
@@ -39,3 +43,20 @@ bibliography:../hoard/bib.bib
     - cite:wiki:2018settlement-hierarchy
     - mollison, alexander, ca doxiadis, ka doxiadis, soleri
   - Agora, Stoa & Pynx cite:sennett:2016pynx
+
+** References
+
+  - Horn, W., Born, E., Jones, C. W., & Dupree, A. H., The
+    plan of st. gall: a study of the architecture \& economy
+    of, \& life in a paradigmatic carolingian monastery
+    (1979), : University of California Press Berkeley, Los
+    Angeles and London.
+    cite:horn:1979plan v1.p341
+  - Wikipedia, , /Settlement hierarchy --- wikipedia, the
+    free encyclopedia/ (2018).
+    cite:wiki:2018settlement-hierarchy
+  - Sennett, R., The pnyx and the agora, In (Eds.),
+    Designing Politics: the limits of design (pp. 6–9)
+    (2016). : London School of Economics and Political
+    Science.
+    cite:sennett:2016pynx
