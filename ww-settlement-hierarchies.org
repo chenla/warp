@@ -1,0 +1,33 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Settlement Hierarchies
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../hoard/bib.bib
+
+* Settlement Hierarchies
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/ww-settlement-hierarchies.org
+:Created:  2018-04-05T09:43@Prek Leap (11.642600N-104.919210W)
+:ID:       5746fa26-6d9d-4e5d-ac94-74c8bd4a7a16
+:VER:      576168249.026184418
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:VLM4-4825
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+** Table of Contents
+
