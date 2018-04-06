@@ -41,12 +41,6 @@ biological processes, but also include in Wet social systems used by
 biological systems.  So politics is Wet, while logistics is Soft, and
 the electrical grid is Hard.
 
-
-#+begin_comment
-How much can we or need to expand on this?  It deserves it's own
-chapter but what to put in it?
-#+end_comment
-
 ** Table of Contents
 
   - HARD -> define
@@ -58,4 +52,4 @@ chapter but what to put in it?
     - DNA/RNA is both Wet (chemical) and Soft (information).
     - Computer Hardware is both Hard (transistors and chips) and Soft
       (bios)
-    - 
+  - 
