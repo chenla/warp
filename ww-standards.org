@@ -13,7 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
-* Standard
+* Standards
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-standards.org
