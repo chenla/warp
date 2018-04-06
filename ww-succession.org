@@ -124,8 +124,6 @@ and including the Graeco-Roman historians).
 — cite:wiki:2018the-new-science
 #+end_quote
 
-
-
  - Succession stacks
    use POC so that succession is treated as a stack, not
    one stage replacing another.  This is useful to apply LOD

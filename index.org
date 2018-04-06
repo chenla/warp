@@ -72,7 +72,7 @@ Volume III
  - 17. [[./ww-polis.org][Polis]] 
  - 18. Tools
  - 19. Machines
- - 20. Energy
+ - 20. [[./ww-energy.org][Energy]]
  - 21. [[./ww-structures.org][Structures]]
  - 22. [[./ww-distribution.org][Distribution]]
  - 23. [[./ww-infrastructure.org][Infrastructure]]
