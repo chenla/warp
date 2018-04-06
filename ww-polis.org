@@ -109,6 +109,30 @@ WET
       - Corporations -> virtual person
       - States       -> sovereign groups
 
+  - Proposed
+
+    The goal here is to create the most flexible structure possible.
+
+    - Person     -> Individual person (person is member of
+                    Mankind), corporation. Has rights, but
+                    no liability, equity or group membership
+    - Citizen    -> Person who has rights, obligations and
+                    equity in group.
+    - Ward       -> Persons lacking cognitive ability for self
+                    determination.
+    - Union      -> legal collective between 2 or more Persons
+    - Domus      -> Household/Workshop (typically a
+                    corporate person) no larger than 40 Persons.
+    - Guild      -> Corporate person, who can not hold
+                    property, take part in poltical
+                    activities but may have powers such as 
+                    judicial, or security or credidation.
+    - Polis      -> (polis + nomes)
+    - Federation -> group of polis and or guilds -- may be
+                    permanent or for a project.  Do not have
+                    same rights as a Polis (can not control 
+                    territory) or other functions
+                    that super powers hold today.
 
 
 
