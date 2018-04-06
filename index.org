@@ -46,7 +46,7 @@ Volume I
 Volume II
  - 00. Contents Volume II
  - 00. Introduction Volume II
- - 07. [[./ww.points-of-view.org][Points of View]]
+ - 07. [[./ww-points-of-view.org][Points of View]]
  - 08. [[./ww-dualities.org][Dualities]]
  - 09. [[./ww-generators.org][Generators]]
  - 10. [[./ww-scaffolds.org][Scaffolds]]
@@ -84,8 +84,7 @@ Volume IV
  - 26. [[./ww-feedback.org][Feedback]]
  - 27. [[./ww-workflow.org][Workflow]]
  - 28. [[./ww-replicators.org][Replicators]]
- - 29. Succession
-   - Niche
+ - 29. Elements/Ingredients -- Initial Conditions -- Thresholds
  - 30. Development
    - Plan
    - Build
