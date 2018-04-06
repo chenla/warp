@@ -44,13 +44,15 @@ systems collapse and revert to lower levels of complexity,
 which creates opportunities for increasing complexity again.
 This is often cyclical and has been seen repeatedly from
 major extinction events on earth, to the collapse of complex
-societies.  The tendancy is, that after a collapse, the new
+societies.  The tendency is, that after a collapse, the new
 system that emerges from the ashes has "learned" from it's
 previous mistakes and is replaced by a more robust and even
 more complex system -- so that the system is cyclical in
 nature, but is also iterative and increases in complexity
 with each new cycle.
 
+The most dramatic of these cycles in in major extinction
+events.
 
 ** Table of Contents
  - Succession models
@@ -71,7 +73,8 @@ with each new cycle.
    - economic
    - technological
    - cultural
-   - ages of man  cite:wiki:2018ages-of-man
+   - [[./ww-ages-of-man.org][Ages of Man]]
+      cite:wiki:2018ages-of-man
      - Hesiod -- golden, silver, bronze, heroic, iron
      - Ovid -- golden, silver, bronze, iron
      - Vico - ages of man, heros, gods
