@@ -72,25 +72,26 @@ Volume III
  - 17. [[./ww-polis.org][Polis]] 
  - 18. Tools
  - 19. Machines
- - 20. [[./ww-structures.org][Structures]]
- - 21. [[./ww-distribution.org][Distribution]]
- - 22. [[./ww-infrastructure.org][Infrastructure]]
+ - 20. Energy
+ - 21. [[./ww-structures.org][Structures]]
+ - 22. [[./ww-distribution.org][Distribution]]
+ - 23. [[./ww-infrastructure.org][Infrastructure]]
 Volume IV
  - 00. Contents Volume IV
  - 00. Introduction Volume IV
- - 23. [[./ww-loops.org][Loops]]
- - 24. [[./ww-feedback.org][Feedback]]
- - 25. [[./ww-workflow.org][Workflow]]
- - 26. [[./ww-replicators.org][Replicators]]
- - 27. [[./ww-the-way.org][The Way]]
- - 28. Succession
+ - 24. [[./ww-the-way.org][The Way]]
+ - 25. [[./ww-loops.org][Loops]]
+ - 26. [[./ww-feedback.org][Feedback]]
+ - 27. [[./ww-workflow.org][Workflow]]
+ - 28. [[./ww-replicators.org][Replicators]]
+ - 29. Succession
    - Niche
- - 29. Development
+ - 30. Development
    - Plan
    - Build
    - Deployment
    - Iteration
- - 30. Operation
+ - 31. Operation
 Volume V
  - 00. Contents Volume V
  - 00. Introduction Volume V
