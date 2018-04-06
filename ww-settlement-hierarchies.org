@@ -136,11 +136,24 @@ powered by fusion energy.
    | Polis (city)                 | 75,000      |
    | Small Metropolis             | 500,000     |
    | Metropolis                   | 4 million   |
-   | Small Megalopolis           | 25 million  |
+   | Small Megalopolis            | 25 million  |
    | Megalopolis                  | 150 million |
    | Small Eperopolis             | 750 million |
    | Eperopolis                   | 7.5 billion |
    | Ecumenopolis                 | 50 billion  |
+
+
+** Soleri
+
+   #+CAPTION: 
+   | NAME      | Population              | Levels |
+   |-----------+-------------------------+--------|
+   | Farm      | 1 family  (in balance)  |      1 |
+   | Town      | 50,000                  |      3 |
+   | Suburbia  | Countless (destructive) |      1 |
+   | Megalopy  | 5 million (wasteful)    |      5 |
+   | Archology | 1 million               |    200 |
+   
 
 
 
