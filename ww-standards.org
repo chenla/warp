@@ -59,3 +59,11 @@ bibliography:../hoard/bib.bib
     - TCP/IP
   - APIs
 
+*** Data Structures
+ - atoms       -> symbol, string, integer
+ - ????        -> k-v, triple
+ - rhizomes    -> graphs
+ - sets        -> lists: bag, seq, alt
+ - trees       -> branching lists
+ - layers      -> What about arrays?
+
