@@ -29,5 +29,33 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+In the second wave of artificial intelligence research, before the
+onset of the long AI Winter, it was said that there are three types of
+intelligence, Hard, Soft and Wet.  This holds true for understanding
+many things from Energy, Infrastructure, etc.
+
+In Japan, it's common for people to use the term Hard and Soft as a
+shorthand for Hardware and Software.  We add to that Wet, for
+biological processes, but also include in Wet social systems used by
+biological systems.  So politics is Wet, while logistics is Soft, and
+the electrical grid is Hard.
+
+
+#+begin_comment
+How much can we or need to expand on this?  It deserves it's own
+chapter but what to put in it?
+#+end_comment
+
 ** Table of Contents
 
+  - HARD -> define
+  - SOFT -> define
+  - WET  -> define
+  - HSW uses different types of measurement
+  - HSW are often different layers in succession stages and stacks
+  - There are hard soft and wet elements within each category 
+    - DNA/RNA is both Wet (chemical) and Soft (information).
+    - Computer Hardware is both Hard (transistors and chips) and Soft
+      (bios)
+    - 
