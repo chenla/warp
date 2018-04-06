@@ -71,8 +71,9 @@ because the solutions simply don't scale.
 
 ** Table of Contents
 
-  - rural, urban, cosmopolitan
 
+HARD
+  - rural, urban, cosmopolitan
   - ancient greek city-states
   - town-gown
     - polis and nones
@@ -81,6 +82,37 @@ because the solutions simply don't scale.
   - [[./ww-settlement-hierarchies.org][Settlement Hierarchies]]
   - Agora, Stoa & Pynx cite:sennett:2016pynx
   - Neighborhood and identity cite:hubka:1984big-house
+WET
+  - Social Structures
+    - Nature
+      - Mates
+      - Hives, Colonies
+      - Packs
+      - Herds, Flocks, Schools 
+    - Kinship
+      - mated pair = couple - economic unit
+      - pair + children = nuclear family
+      - pair + children, and parents = extended family
+      - band = base hunter-gather unit, human equiv of a pack
+      - clan = band that are made up of members who are blood
+        relations.
+      - Barkota (polynesia)
+    - Polities
+      - chiefdom
+      - tribe
+      - nation
+      - city-state
+      - state
+      - nation-state
+    - Corporate Structures
+      - Cooperatives -> partnerships, clubs, etc
+      - Corporations -> virtual person
+      - States       -> sovereign groups
+
+
+
+
+
 
 ** References
 
