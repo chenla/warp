@@ -30,6 +30,9 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+The way that we organize information, matter and energy is
+how we organize power.
+
 We have already discussed how the concept of civilization is
 rooted in the concept of cities, the polis, from where we
 also get the word politics.
@@ -134,8 +137,23 @@ WET
                     territory) or other functions
                     that super powers hold today.
 
+SOFT
 
+   Basically this is what I'm calling MIDDLE, which makes up
+   all of the automation that links all of the Hard and Wet
+   parts of Polis together.
 
+   To paraphrase Einstein, MIDDLE has to be as complicated as it
+   needs to be but not more.
+
+   MIDDLE is hardware (machines) and Software (cognitive and
+   clockwork) that is meant to replace middlemen in the
+   system, which reduces inefficiencies and opportunities
+   for rent seeking, replaces slavery with sub-cognitive AI
+   and clockwork processes.  The MIDDLE is especially
+   designed to provide machine-cog that manages processes
+   that are too fast and small or large and slow for humans
+   to be able to do themselves.
 
 
 ** References
