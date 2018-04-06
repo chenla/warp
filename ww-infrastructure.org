@@ -33,6 +33,27 @@ bibliography:../hoard/bib.bib
 Infrastructure needs to be general -- outline of vehicles
 below is too specific and needs to go into the primer.
 
+Infrastructure is all about flow networks -> things that
+move through a network, such as vehicles, electricity,
+information, money, water, and waste.
+
+Again, infrastructure will be Hard, Wet and Soft but it will
+also be a stack with physical, transport, protocol layers
+etc.  There will be several stacks, transport, utilities,
+security, financial, judicial, diplomatic and political.
+
+Infrastructure is also broken into succession stages that
+should, when possible be reversible and gracefully degrade.
+
+Infrastructure embodies not only physical networks, but
+institutional processes such as functions performed by
+libraries, judiciary, military, diplomacy, healthcare,
+education and financial systems.
+
+Finally infrastructure needs to be understood in terms of
+shearing layers, with different layers having different 
+rates of change.
+
 ** Table of Contents
   - Federation -> distributed and self-owned - no franchise
   - Boostrap   -> how to build the monster from nothing
@@ -48,7 +69,7 @@ below is too specific and needs to go into the primer.
     - monitoring & collection
     - logic -- rulesets and running ML code
 
-** Primer
+** Move to Primer
 
   - infrastructure stack
     - power
