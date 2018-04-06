@@ -29,5 +29,32 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+Talk in terms of energy as a fuel, a descrete substance, and flow, a
+substance that 
+
 ** Table of Contents
 
+HARD
+  - fuel -> chemical and electrical
+  - flow -> electrical -- though I suppose gas cold be treated as a
+    flow
+  - measured -> in joules and watts
+  - mechanisms
+    - kenetic   -> muscle, wind, water, sunlight
+    - potential -> stored
+
+    - direct    -> muscle, mechanical (turning a shaft)
+    - muscle, wind, water, sunlight, 
+    - indirect heat-to-steam-to-piston, internal combustion - heat-to-piston  
+    - sunlight converted into sugars
+    - sunlight converted into electricity
+    - atoms split or fused -> heat -> electricity
+
+WET
+  - fuel -> food
+  - flow -> oxygen
+  - measured in calories 
+
+SOFT
+  - measured in watt/hours
