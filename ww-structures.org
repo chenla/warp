@@ -36,19 +36,6 @@ bibliography:../hoard/bib.bib
 
 individual is atomic unit
 
-*** Egalitarian Structures
-  - mated pair = couple - economic unite
-  - pair + children = nuclear family
-  - pair + children, and parents = extended family
-  - band = base hunter-gather unit, human equiv of a pack
-  - clan = band that are made up of members who are blood
-    relations.
-
-*** Corporate Structures
-
-Corporate -- a virtual person that operates according to a
-set of rules, that may or may not be owned by other
-entities.
 
 *** Sovereign Structures
 
