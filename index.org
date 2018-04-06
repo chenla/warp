@@ -95,11 +95,11 @@ Volume IV
 Volume V
  - 00. Contents Volume V
  - 00. Introduction Volume V
- - 31. APPL
- - 32. Primer
- - 33. Hoard
- - 34. Middle
- - 35. Arc
+ - 32. APPL
+ - 33. Primer
+ - 34. Hoard
+ - 35. Middle
+ - 36. Arc
 Volume VI
  - Preface Volume VI
  - Appendix
