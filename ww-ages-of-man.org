@@ -31,10 +31,18 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
-  - Hesiod -- golden, silver, bronze, heroic, iron
-  - Ovid -- golden, silver, bronze, iron
-  - Vico - ages of man, heros, gods
 
+  - Ancient
+    - Hesiod -- golden, silver, bronze, heroic, iron
+    - Ovid -- golden, silver, bronze, iron
+  - Medieval
+    - Vico - ages of man, heros, gods
+
+
+
+  - Modern
+    - The Axial Age 
+      cite:jaspers:1977origin-goal,wiki:2018axial-age
 ** Vico
 
      
@@ -117,3 +125,8 @@ and including the Graeco-Roman historians).
   - Wikipedia, , /Ages of man --- wikipedia, the free
     encyclopedia/ (2018).
     cite:wiki:2018ages-of-man
+  - Wikipedia, , /Axial age --- wikipedia, the free encyclopedia/ (2018).
+    cite:wiki:2018axial-age
+  - Jaspers, K., The origin and goal of history (1977), :
+    Greenwood Press Reprint.  cite:jaspers:1977origin-goal
+
