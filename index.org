@@ -55,7 +55,7 @@ Volume II
    - [[./ww-pace-layers.org][Pace-Layers]]
    - [[./ww-succession.org][Succession Stages & Stacks]]
    - [[./ww-goldilocks.org][Goldilocks-Thresholds]] / Spectrum/Range/Zone
-   - Hard Soft Wet
+   - [[./ww-hard-soft-wet.org][Hard Soft Wet]]
  - 11. [[./www-surpluses.org][Surpluses]]
    - [[./ww-slavery.org][Slavery]]
    - Stores
