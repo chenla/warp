@@ -152,7 +152,14 @@ At the same time, patterns can not be as specific as say an OSHA
 standard.  Those issues are dealt with more specifically in a keystone
 design and then very specifically in a hoard design.
 
+*** How to make a tool
 
+The design of the tool can not be separated from how a tool is made.
+There are patterns that will deal with this -- patterns for making
+handles for screw drivers or axe or hammer handles and how they are
+attached to the heads of the implement.  Tool construction patterns
+are typically not part of a tool pattern, but they must be linked to
+in the pattern.
 
 
 ** Table of Contents
