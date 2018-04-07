@@ -70,3 +70,16 @@ success as a species.
     also be because it allowed a larger number of less skilled people
     to be able to do work that was before the sole domain of Master
     craftsman.
+
+
+
+  - Unix philosophy that each tool should do one task very well and
+    then have a standardized system where every tool took standard
+    input in the form of text, and returned standard output which
+    could be used as input to another tool using a concept called
+    Pipes. This created a modular toolchain that could be repurposed
+    in a multitude of different ways.  Scripting languages extended
+    this even further making it relatively easy to both create missing
+    tools in a chain, or to aggreate toolchains into single script
+    that behaved as a tool in it's own right.
+
