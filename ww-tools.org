@@ -29,5 +29,25 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+A tool is anything that has been adapted or fashioned to extend the
+the limitations of mind or body.  That covers an enormous amount of
+ground and as such makes it difficult to create a model for tools and
+tool use.
+
+Jane Goodall's famous observation of a chimpanzee adapting a twig to
+become a tool for extracting termites from a termite mound was a
+revalation and made it clear that Man is not the only tool builder on
+the planet.  And this extends beyond primates with Otters using tools
+to open shellfish, and Crows and Ravens being adapt at fashioning a
+number of found items to complete tasks.
+
+But Man is still unique in the sheer number and complexity of the
+tools created and uses.
+
+
+
+
+
 ** Table of Contents
 
