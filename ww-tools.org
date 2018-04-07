@@ -50,7 +50,19 @@ how little it has to say on the subject as well as its brevity,
 considering how critical tools are to our day to day survival and
 success as a species.
 
+Difference between a machine and a tool --> some machines are
+considered to be both -- an electric hand drill is both tool and
+machine because it uses an electric motor.  But as a general rule, if
+something is powered by an external power source it is ususally
+considered to be a machine rather than a tool.
 
+In this sense a piano is a tool, but an organ is a machine.
+
+A hand powered millstone is a tool, but when contected to gears which
+are powered by wind spinning blades it becomes a machine.
+
+Is a sail boat a tool or machine?  A bicycle could be seen as a tool,
+and a motorbike a machine.
 
 ** Table of Contents
 
@@ -125,7 +137,7 @@ success as a species.
     - Information tools
     - Weaving tools
     - Guiding tools -> measures, chalk lines, t-squares, calipers
-    - Opitcs -> telescope, microscope
+    - Opitcs -> telescope, microscope, glasses
     - Measuring -> pedometer, osciliscope
     - Sleds -> sliding things
     - Bearings ->
