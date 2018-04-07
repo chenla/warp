@@ -56,13 +56,17 @@ success as a species.
 
 
   - Tools are an extension of the hand -- as a general rule.
+
   - Simply tools are more powerful and flexible than complex tools,
     but more difficult to master.
+
   - A Master is marked as someone who fashions customized tools as
     part of their methodology and workflow.  Painters used to now only
     make their own canvases, but their own brushes and paints as well.
+
   - Standardization of tools is important -- they become parts of
     larger technological cultures.
+
   - Specialization of tools let to a sort of Cambrian explosion of
     different types of specialized tools at the beginning of the
     Industrial revolution.  This was, in part, because specialized
@@ -83,3 +87,54 @@ success as a species.
     tools in a chain, or to aggreate toolchains into single script
     that behaved as a tool in it's own right.
 
+  - another important advancement was standardized attatchments, so
+    that a drill could use any number of different "drill" bits of
+    different sizes that cold be swapped out so that one drill could
+    be used to make a wide variety of different sized holes.
+
+    - socket wrenches
+    - screw drivers
+    - saw blades
+    - sandpaper
+    - fishing rods, reels, hooks, lures, sinkers
+
+
+  - standard connectors and plugs for power sources -- electrical,
+    both socket and battery as well as pneumatic tools.
+
+  - Tool Categories
+    - Woodworking
+    - Metalworking
+    - Agriculuture
+    - Cooking  
+    - Warfare
+
+  - Classes of tools
+    - Cutting -> shearing, sawing
+    - Pounding -> hammers, maul
+    - Clasping, clamping and holding things together
+    - Pincing, squeezing, crimping
+    - Torque -- Twisting things
+    - Chemical -- temperature, ignition
+    - Produce Light
+    - Move air (fans, and suction)
+    - Fastening tools -- welding, riveting, nails, screws)
+    - application of material flow -> pens, glue gun, 
+    - Shaping tools (molds, jigs, trowels)
+    - Moving tools -- shovels, rakes,
+    - Information tools
+    - Weaving tools
+    - Guiding tools -> measures, chalk lines, t-squares, calipers
+    - Opitcs -> telescope, microscope
+    - Measuring -> pedometer, osciliscope
+    - Sleds -> sliding things
+    - Bearings ->
+    - Wheeled tools -> barrows and most vehicles 
+    - Excavating ->
+    - Compression -> rollers
+    - Pulleys
+    - Gears
+    - Ropes, Belts and Cables
+    - Shields -> welding mask, gloves, safety glasses
+    - Biological -> proteins etc
+    - 
