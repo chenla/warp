@@ -108,6 +108,22 @@ diagnostiic in nature, understanding how systems work, determining
 what went wrong and how to return it to a working state as close as
 possible to it's original form.
 
+*** Tool Environments
+
+Tools are often designed to work within specific environments as part
+of an ecosystem made up of multiple tools.  The tools in automobile
+repair shop is designed around the assumption that the vehicle can be
+lifted so that it can accessed from any side or from beneath the
+vehicle.  Many of the tools require compressed air, others
+electricity, all, that anything worked on can be properly illuminated.
+
+The tools in a wood working shop will be different and used
+differently from those by a carpenter working on the construction of a
+building.
+
+So lighting, heating, power sources, work benches, lifts, and boxes,
+racks, bins, drawers and shelves will all be designed around the
+toolchains and workflows required.
 
 *** Tool Patterns
 
@@ -167,7 +183,6 @@ single purpose or general purpose?
     - saw blades
     - sandpaper
     - fishing rods, reels, hooks, lures, sinkers
-
 
   - standard connectors and plugs for power sources -- electrical,
     both socket and battery as well as pneumatic tools.
