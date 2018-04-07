@@ -50,6 +50,8 @@ how little it has to say on the subject as well as its brevity,
 considering how critical tools are to our day to day survival and
 success as a species.
 
+*** Difference between machines and tools
+
 Difference between a machine and a tool --> some machines are
 considered to be both -- an electric hand drill is both tool and
 machine because it uses an electric motor.  But as a general rule, if
@@ -68,6 +70,8 @@ All of this becomes increasingly important as we build cognitive
 machines which can autonomously or at least semi-autonomously use self
 determination to choose and use a variety of tools to achieve a goal.
 
+*** Tool Cultures and Traditions
+
 Groups of tools belong to cultural traditions with their own
 methodology and philosophy.  The Japanese develped a traditional of
 woodworking and contruction that is distinct from that in the West.
@@ -75,6 +79,37 @@ woodworking and contruction that is distinct from that in the West.
 Construction sites in the West divide work and the use of tools very
 differently from how it is done in the East.
 
+Tools are created differently for different skill levels.  Power tools
+for people with little or no skill trade off safety issues at the
+expense of how power and precision.  And since consumer grade tools
+are not expected to be be used often, quality of the tool is purposely
+kept low in order to keep the production costs down.  Single use,
+disposable tools take this to it's logical conclusion.
+
+Tools to create many identical copies of something must be both
+powerful and precise, but not flexible.  This is one reason that an
+automobile assembly line takes so long to "retool". The assembly line
+tools are designed for very specific functions and very specific
+tolerances.
+
+Tools in a fabrication shop that develops prototypes need to be as
+powerful, precise and as flexible as possible since there is no way of
+knowing ahead of time what will be built.  Such tools are designed for
+bottom up iterative design and development, where an assembly line is
+top down and deterministic.
+
+Tools used to repair things are in their own category as well.  Repair
+shops are often dealing with a wide range of different products
+created by assembly lines -- so need the power and precision of the
+assembly line tools, but not the same infinite flexibility as tools in
+a fabrication shop.  Repair shops typically deal with specified ranges
+of specifications that are repeated over and over.  Repair shops are
+diagnostiic in nature, understanding how systems work, determining
+what went wrong and how to return it to a working state as close as
+possible to it's original form.
+
+
+*** Tool Patterns
 
 We need a systematic way of organizing tools that we can use in
 developing tool patterns -- the patterns need to take into account the
