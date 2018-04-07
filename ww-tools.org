@@ -64,10 +64,35 @@ are powered by wind spinning blades it becomes a machine.
 Is a sail boat a tool or machine?  A bicycle could be seen as a tool,
 and a motorbike a machine.
 
+All of this becomes increasingly important as we build cognitive
+machines which can autonomously or at least semi-autonomously use self
+determination to choose and use a variety of tools to achieve a goal.
+
+Groups of tools belong to cultural traditions with their own
+methodology and philosophy.  The Japanese develped a traditional of
+woodworking and contruction that is distinct from that in the West.
+
+Construction sites in the West divide work and the use of tools very
+differently from how it is done in the East.
+
+
+We need a systematic way of organizing tools that we can use in
+developing tool patterns -- the patterns need to take into account the
+goal, the nature and properties of the materials to be used, the
+physics of how the finished product will function, the aesthetics of
+what it will look like, the indended life cycle of what is created --
+is this to be temporary, short term, long term, or permanent?
+
+Can the tool be extended, can it be combined with other tools?  Is it
+single purpose or general purpose?
+
+
 ** Table of Contents
 
 
-  - Tools are an extension of the hand -- as a general rule.
+  - Tools are an extension of the hand -- as a general rule.  But the
+    hand is an extension of mind -- mind directs the hand and any tool
+    that extends it.
 
   - Simply tools are more powerful and flexible than complex tools,
     but more difficult to master.
@@ -86,8 +111,6 @@ and a motorbike a machine.
     also be because it allowed a larger number of less skilled people
     to be able to do work that was before the sole domain of Master
     craftsman.
-
-
 
   - Unix philosophy that each tool should do one task very well and
     then have a standardized system where every tool took standard
