@@ -131,11 +131,28 @@ We need a systematic way of organizing tools that we can use in
 developing tool patterns -- the patterns need to take into account the
 goal, the nature and properties of the materials to be used, the
 physics of how the finished product will function, the aesthetics of
-what it will look like, the indended life cycle of what is created --
+what it will look like, the intended life cycle of what is created --
 is this to be temporary, short term, long term, or permanent?
 
 Can the tool be extended, can it be combined with other tools?  Is it
 single purpose or general purpose?
+
+*** Tool use or operation
+
+It's also important that each tool is understood in how it is to be
+used and the requiments needed to operate it.  Using a maul to split
+wood requires more force than using a hammer to pound a finishing
+nail.  Safety considerations are part of this.
+
+So each tool must include the ergonomics of the tools operation,
+safety parameters and finally the process of how the tool is to be
+used within those parameters.
+
+At the same time, patterns can not be as specific as say an OSHA
+standard.  Those issues are dealt with more specifically in a keystone
+design and then very specifically in a hoard design.
+
+
 
 
 ** Table of Contents
