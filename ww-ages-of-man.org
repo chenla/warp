@@ -36,14 +36,35 @@ bibliography:../hoard/bib.bib
     - Hesiod -- golden, silver, bronze, heroic, iron
     - Ovid -- golden, silver, bronze, iron
   - Medieval
-    - Vico - ages of man, heros, gods
+    - Vico - ages of man, heroes, gods
 
+-------------
 
+  - The Axial Age -> global transition to monothesim
+    cite:jaspers:1977origin-goal,wiki:2018axial-age
 
-  - Modern
-    - The Axial Age 
-      cite:jaspers:1977origin-goal,wiki:2018axial-age
 ** Vico
+
+The thing I like most about Vico's cyclical ages is that
+it's all about entropy, but in reverse.
+
+In the Age of Man we have all the facts, we know people's
+names, when they were born, what they wrote, who they knew
+and where they were buried.
+
+But most of this information is lost by the time of the Age
+of Heroes.  We only know very roughly when that person was
+alive or died.  We can't be sure of their name, or indeed,
+if their deeds were in fact the work of a single man, or
+acts of several people that were attributed to that person.
+The edges of the stories get worn down smooth, with no
+ambiguity and anything that isn't required by the story has
+been forgotten.  By the time we reach the Age of Gods, ther
+heroes have been so worn down that they become amplified
+into myths -- pure story, where the person behind it has
+been evaporated like the Cheshire Cat, leaving only the
+story behind.
+
 
      
 #+begin_quote
