@@ -119,10 +119,25 @@ WET
         - Force of Arms      -> least flexible
         - Populist Mandate   
         - Democratic Mandate -> most flexible
+      - Branches of State
+        - Executive
+        - Judicial
+        - Legislative
+        - Journalistic
+      - State Layers
+        - Office Holders
+        - Departments & Ministries
+        - Bureaucratic -> Mandarins
+      - Contractual
+        - Declarations and Compacts
+        - Constitutions
+        - Laws 
     - Corporate Structures
       - Cooperatives -> partnerships, clubs, etc
       - Corporations -> virtual person
       - States       -> sovereign groups
+
+
 
   - Proposed
 
