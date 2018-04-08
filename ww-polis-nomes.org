@@ -58,11 +58,16 @@ to 150 people while walking from his home to the Assembly.
 
 ** Table of Contents
 
-  - Polis as Civilization's Atomic Unit
-  - A Polis as a Human Scale Settlement
-  - Population for an ideal urban range.
 
-  - Nomes as a regional Atomic Unit
-  - Nomes as a Bioregion
+  - Polis
+    - As Civilization's Atomic Unit
+    - Human Scale Settlement
+    - Urban Population Range
+
+  - Nomes 
+    - As a Regional Atomic Unit
+    - As a Bioregion
+    - As part of a Polis Administration & Infrastructure
+
 
 
