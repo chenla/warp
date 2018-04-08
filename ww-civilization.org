@@ -37,30 +37,48 @@ civilization.  This is a good place to start -- and grounds
 us at human scales.
 
 ** Table of Contents
-  - Definition 
-  - One or many?
-  - Specialization -- system niche
-  - Civitas, polis
-  - Nation and state
-  - How to hold together
+  - 01. Definitions I. One or many?
+  - 02. Definitions II. Historical
+    - Ba Ba Ba: Us vs. the Other
+    - A Clash of cultures, states, religions, or ideologies
+    - A Parade of Great Men
+    - Human Nature as Social Drivers
+  - 03. Definition III. Complex System
+    - DNA's Grand Experiment 
+    - Cerebral Cortex: Extended and Externalized 
+    - Holarchy
+      - Self-Organizing Holarchic Open System (SOHO)
+      - Civilization is a sub-holon of the bios-layer 
+    - A Fabric of Process
+    - A Very Slow AI
+  - 04. Specialization
+  - 05. Polis as Building Block
+    - Of Nations and States
+  - 06. Carrying Capacity
+  - 07. Holding it together
     - propagation, linguistic, cultural
-  - Ecosystem
-    - Civilizations have seldom been understood as being a
-      layer that we inhabit in a larger biosphere -- that
-      the ecosystem we belong to is as much a part of
-      civilization as anything else.  Pretty much everything
-      written about civilization only talks about ecosystems
-      in terms of resources -- as if resources were external
-      to the system.  A civilization in the middle of an Ice
-      Age will be very different from a civilization during
-      an era with a clement climate.  It is not enough to
-      only talk in terms of carrying capacity, but also
-      climate patterns, biodiversity, how difficult or easy
-      is it to extract raw materials from the lithosphere.
-    - Carrying Capacity
-    - We can not understand civilizations without
-      understanding the niche that Man plays in the larger
-      ecosystem and climate that she belongs to.
+  - 08. Complex Societies as Systems
+  - 09. Pace-Layer Model
+    - *Bios Layer* :Civilizations have seldom been
+      understood as being a layer that we inhabit in a
+      larger biosphere -- that the ecosystem we belong to is
+      as much a part of civilization as anything else.
+      Pretty much everything written about civilization only
+      talks about ecosystems in terms of resources -- as if
+      resources were external to the system.  A civilization
+      in the middle of an Ice Age will be very different
+      from a civilization during an era with a clement
+      climate.  It is not enough to only talk in terms of
+      carrying capacity, but also climate patterns,
+      biodiversity, how difficult or easy is it to extract
+      raw materials from the lithosphere.
+    - *Anthros Layer*
+    - *Culture Layer*
+    - *Governance Layer*
+    - *Infrastructure Layer*
+    - *Commerce Layer* 
+    - *Fashion Layer* 
+  - 10. Civilization As Generative Genome
     
 
 
