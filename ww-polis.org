@@ -107,6 +107,18 @@ WET
       - city-state
       - state
       - nation-state
+    - Legitimacy -> claim to power
+      - Sovereignty
+      - Claim
+        - Heredity
+        - Divine (monarch or theocractic),
+        - Populist or Fascist
+        - Ideological (rule by isms)
+        - Elected Representitive
+      - Mandate
+        - Force of Arms      -> least flexible
+        - Populist Mandate   
+        - Democratic Mandate -> most flexible
     - Corporate Structures
       - Cooperatives -> partnerships, clubs, etc
       - Corporations -> virtual person

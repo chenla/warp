@@ -31,9 +31,6 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 
 #+begin_comment
-This is actually a Pattern -- do we want to put this here or
-move it to APPL?
-
 So how much of this, if any, should be in w&w and how much
 in APPL?  The thing is, there are lot of things in the TOC
 do not belong in the patterns -- I want to show the whole
