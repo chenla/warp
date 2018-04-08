@@ -43,7 +43,7 @@ us at human scales.
     - A Clash of cultures, states, religions, or ideologies
     - A Parade of Great Men
     - Human Nature as Social Drivers
-  - 03. Definition III. Complex System
+  - 03. Definitions III. Complex System
     - DNA's Grand Experiment 
     - Cerebral Cortex: Extended and Externalized 
     - Holarchy
@@ -79,8 +79,16 @@ us at human scales.
     - *Commerce Layer* 
     - *Fashion Layer* 
   - 10. Civilization As Generative Genome
-    
-
+  - 11. Cherry Picking: Towards Civilization From First Principles
+    - All Things Apply To Everyone
+    - Only Human Scales
+    - Adjusting for Human Nature
+    - More Eggs in More Baskets
+    - Never Evenly Distributed
+    - Rejoicing in Diversity
+    - Embracing Uncertainty
+    - Generative Plans, Designs, and Management 
+    - Gracefully Degrade 
 
 ** Getting up to speed
 
