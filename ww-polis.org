@@ -130,7 +130,7 @@ WET
                     property, take part in poltical
                     activities but may have powers such as 
                     judicial, or security or credidation.
-    - Polis      -> (polis + nomes)
+    - [[./ww-polis-nomes.org][Polis]]      -> (polis + nomes)
     - Federation -> group of polis and or guilds -- may be
                     permanent or for a project.  Do not have
                     same rights as a Polis (can not control 
