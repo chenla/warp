@@ -40,6 +40,21 @@ heirarchy from person to federation and how that fits
 together -- and the points that tie them together and then
 the specifics be put into the patterns...
 
+The cool thing for me as I write this is that this is the
+level at which we drill down into w&w where we begin to make
+the cross-over into APPL.  At this level, about three levels
+down from the top, where the distinction gets blurry.
+
+w&w should show in the how patterns form larger abstract
+patterns on this side, but then on the other side of APPL
+you'll see the same abstract pattern in the Primer which
+outlines the reference specifications and the nuts and bolts
+of how it fits together and works, but in that case it will
+be a manifestation, where it will be an instance in the
+hoard.  The hoard, remember, is the information and running
+code for a specific instance of a civilization.
+
+
 ** Table of Contents
 
   - Polis
