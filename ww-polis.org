@@ -119,29 +119,39 @@ WET
         - Force of Arms      -> least flexible
         - Populist Mandate   
         - Democratic Mandate -> most flexible
-      - Branches of State
-        - Executive
-        - Judicial
-        - Legislative
-        - Journalistic
-      - State Layers
-        - Office Holders
-        - Departments & Ministries
-        - Bureaucratic -> Mandarins
-      - Contractual
-        - Declarations and Compacts
-        - Constitutions
-        - Laws 
     - Corporate Structures
       - Cooperatives -> partnerships, clubs, etc
       - Corporations -> virtual person
       - States       -> sovereign groups
 
+SOFT
 
+Anything on paper, rules, proceedures, constitutions etc are
+in essence software that use human agents to execute their
+code -- code is written in a special language designed to be
+unambigious in meaning and intent of how it is to be executed.
 
-  - Proposed
+    - Branches of State
+      - Executive
+      - Judicial
+      - Legislative
+      - Journalistic
+    - State Layers
+      - Office Holders
+      - Departments & Ministries
+      - Bureaucratic -> Mandarins
+    - Contractual
+      - Declarations and Compacts
+      - Constitutions
+      - Laws
 
-    The goal here is to create the most flexible structure possible.
+---------
+
+  - Proposed -> to be divided between w&w, appl, primer and
+    hoard. 
+
+    The goal here is to create the most flexible structure
+    possible.
 
     - Person     -> Individual person (person is member of
                     Mankind), corporation. Has rights, but
@@ -164,23 +174,26 @@ WET
                     territory) or other functions
                     that super powers hold today.
 
-SOFT
+    - Where possible, all software should be made machine
+      understandable and single focus machine executible
+      software applications that can't be tampered with (hey
+      blockchain) used to replace human agents.
 
-   Basically this is what I'm calling MIDDLE, which makes up
-   all of the automation that links all of the Hard and Wet
-   parts of Polis together.
+      In the *hoard* this is will be called MIDDLE, which
+      makes up all of the automation that links all of the
+      Hard and Wet parts of Polis together.
 
-   To paraphrase Einstein, MIDDLE has to be as complicated as it
-   needs to be but not more.
+      To paraphrase Einstein, MIDDLE has to be as complicated
+      as it needs to be but not more.
 
-   MIDDLE is hardware (machines) and Software (cognitive and
-   clockwork) that is meant to replace middlemen in the
-   system, which reduces inefficiencies and opportunities
-   for rent seeking, replaces slavery with sub-cognitive AI
-   and clockwork processes.  The MIDDLE is especially
-   designed to provide machine-cog that manages processes
-   that are too fast and small or large and slow for humans
-   to be able to do themselves.
+      MIDDLE is hardware (machines) and Software (cognitive
+      and clockwork) that is meant to replace middlemen in
+      the system, which reduces inefficiencies and
+      opportunities for rent seeking, replaces slavery with
+      sub-cognitive AI and clockwork processes.  The MIDDLE
+      is especially designed to provide machine-cog that
+      manages processes that are too fast and small or large
+      and slow for humans to be able to do themselves.
 
 
 ** Sovereign Structures
