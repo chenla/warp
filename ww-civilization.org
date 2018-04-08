@@ -51,6 +51,7 @@ us at human scales.
       - Civilization is a sub-holon of the bios-layer 
     - A Fabric of Process
     - A Very Slow AI
+  - 00. [[./ww-narrative-synopsis.org][A Narrative Synopsis]]
   - 04. Specialization
   - 05. Polis as Building Block
     - Of Nations and States
@@ -88,20 +89,9 @@ us at human scales.
     - Rejoicing in Diversity
     - Embracing Uncertainty
     - Generative Plans, Designs, and Management 
-    - Gracefully Degrade 
+    - One Step Forward, Two Steps Back
 
 ** Getting up to speed
-
-We are not starting with an origin story -- that doesn't
-belong here and will have it's place at several layers of
-abstraction in our story.  But in order to understand how to
-build a civilization from first principles we need to
-understand how the evolution of specialization, scale and
-technology have gotten us from being hunter gatherers ten
-thousand years ago, to where we are today.  We don't have to
-go into too much detail here but we need a broad outline of
-how it all happened so we know how we got here, where we are
-now and where we are going.
 
 Getting up to Date:
 
@@ -186,109 +176,5 @@ Getting up to Date:
      - war, violence, poverty, education, human rights
        etc. all began a massive upwards curve that we are
        still in the middle of.
-
-
-** Human Civilization in a Nutshell
-
-This is not an origin story -- that's moved to the primer.
-
-However it's useful to have a synopsis of human history that
-will provide context for the work:
-
-
-Humans don't scale, we are pre-programed to live in packs (bands) which are
-spaced far enough apart to not compete with each other.  The closer these
-groups get to each other the more competition and violence between them.
-
-When Man became sedentary, and settlements were established too close to
-each other that they competed for resources, conflict was inevitable and
-10,000 years pretty much unending warefare ensued.
-
-Small settlements found that if they merged (by one conquering another) the
-larger settlement had an edge the smaller ones.  But humans are not good at
-living together in sizes larger than a band, so hierarchies were
-established which placed a few people at the top, controlling all of the
-land in the settlement and any wealth created, and the rest under them,
-were treated as property themselves with any wealth they created
-auto-propagating to those at the top.  This was the beginning of slavery.
-
-If each band is a petri dish, and two petri dishes come into contact with
-each other, one will win and other other loose and the resources of the
-looser become part of the winner's petri dish.
-
-But a curious thing happened.  The surpluses controlled by the few at the
-top gave them free time to think and spend time doing things that were not
-directly related to survival.  The larger a settlement became the more
-specializations were required to maintain it.  So just below the elite at
-the top another small group emerged who were given enough wealth to do
-nothing but think and come up with ideas and solve problems.  This could
-not have happened without slavery.
-
-Slavery, in it's most basic form, treats people as draft animals that can
-think.  But not think too much because they are too busy doing physical
-labor with little more than hand tools.  All institutional slavery is based
-on hard physical labor using human muscle.
-
-When machines evolved from tools with power sources that did not depend on
-human muscle, the old slavery model didn't work any longer.  You needed
-people with minimal education literacy and numerancy to be able to operate
-the machines.  So slavery was quickly replaced with employees who had
-minimum education and had been conditioned to do what they were told and
-stay in one place for very long hours and do the same task over and over.
-These workers didn't have to be treated as property, they did more than
-slaves did, and didn't run away because they had the illusion of being
-free, when for all practical purposes they had no choice but work as an
-industrial slave, or work in the fields far harder in the countryside.  The
-factory was a better life than subsistence farming.  Everything was
-standardized so workers and machines were interchangeable so iif a worker
-ran away, there was no shortage of people from the countryside to replace
-them.
-
-Machines transformed slavery and gave the slaves a better life, though they
-were still effectively slaves.  But because of the man-machine duo, each
-person could produce vastly more wealth than before.  This made it possible
-to increase the size of the intellectual class who think and solve
-problems, this unleashed the beginning of an age of innovation and
-discovery that is growing exponentially.  The more problems solved, the
-better the lives of the slaves have become.
-
-The next thing that happened was almost as strange.  Production had become
-so efficient that it outstripped need.  It soon became obvious to the
-elites that their slaves were the best market for all of this extra
-production capacity -- so slaves were conditioned to buy not just what they
-needed, but what they desired.  This kept them happy slaves and created
-even more wealth for the elite and increased the thinking class even more.
-
-This created the conditions for making most wars and violence something
-that hurt the elites instead of increasing their wealth.  If everyone
-agreed not to kill each other everyone could accrue far more wealth and the
-slaves could increase their wealth a bit more and expect that their
-position would increase, slowly, but would improve so long as they played
-the game and agreed to stay slaves.
-
-This brings us up to where we were about 20 years ago.  But things are set
-to change again as dramatically as they did when slaves became workers.
-
-First, all of the petri dishes have effectively become one -- we're run out
-of desirable territory to populate.   So we've created a nation state
-system which is effectively frozen for the time being.
-
-Next we learned to communicate at very long distances at speeds which
-effectively makes the entire planet from the perspective of communication
-and news propagation the same as if everything was living next door to each
-other,
-
-Next we have learned to make machines think -- not think as well as us
-(yet) but they can think well enough to control machines and decrease the
-number of people needed to operate machines.
-This is happening so fast, and machines are learning to think better and
-better that it's likely in a few decades that most machines will not
-require people to operate them.  In other words, a hell of a lot of slaves
-(billions of them) will be out of the slave business.  But they will still
-be in the consumption business.  Without anyone to consumer what is
-produced, there is no reason to produce it.  So we'll take the surplus
-wealth created by thinking machines operating our machines that create
-wealth and give that wealth to the former slaves and most of the wealth
-will still go to the elites.
 
 
