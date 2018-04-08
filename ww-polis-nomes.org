@@ -30,6 +30,27 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+#+begin_quote
+If we turn back in history we find, however, that, throughout the long
+evolution of human settlements, people in all parts of the world tended to
+build an urban settlement which reached an optimum size of 50,000 people
+and physical dimensions such that everyone was within a 10-minute distance
+from the center(Ref. 4). There is no question that, for people who depend
+on walking as a
+means of locomotion, this unit is the optimum one from th e point of view
+of movement and social interaction through direct contacts between people.
+Also, experience has shown that, for people who can walk, it is a maximum
+one from the standpoint of aesthetics; for example, creation of the Place
+de la Concorde in Paris cut from the total 3500-meter length of the Champs
+Elysees a length of 2100 meters, a distance from which one can reach, and
+enjoy, the Arc de Triomphe on foot. It is also perhaps an optimum one from
+the social point of view; for example, Pericles in ancient Athens could get
+a reasonable sample of public opinion by meet ing 100 to 150 people while
+walking from his home to the Assembly.
+
+-- Ekistics, the Science of Human Settlements
+   Constantinos A. Doxiadis
+#+end_quote
 
 ** Table of Contents
 
