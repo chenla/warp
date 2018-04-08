@@ -30,6 +30,7 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+#+begin_comment
 This is actually a Pattern -- do we want to put this here or
 move it to APPL?
 
@@ -53,6 +54,7 @@ of how it fits together and works, but in that case it will
 be a manifestation, where it will be an instance in the
 hoard.  The hoard, remember, is the information and running
 code for a specific instance of a civilization.
+#+end_comment
 
 
 ** Table of Contents
