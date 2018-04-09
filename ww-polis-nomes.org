@@ -71,6 +71,8 @@ code for a specific instance of a civilization.
     - As Part of a Polis Administration & Infrastructure
 
 
+
+
 ** Urban Population Range
 
 We define here the broad outlines of what an ideal Polis is
@@ -99,5 +101,6 @@ get a reasonable sample of public opinion by meet ing 100 to
 150 people while walking from his home to the Assembly.
 
 -- Ekistics, the Science of Human Settlements
-   Constantinos A. Doxiadis
+   Constantinos A. Doxiadis cite:doxiadis:1972ekistics
 #+end_quote
+
