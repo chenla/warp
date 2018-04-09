@@ -82,8 +82,11 @@ interest" we cross not only the regional but also state and
 national borders to set up multicultural alliances.
 
 — Permaculture Designer's Manual cite:mollison:1988designers p.510
-
 #+end_quote
+
+The quote is mostly to point to  Mollison's section on
+bioregions as a base unit which becomes the nones to the
+polis in the bioregion.
 
 
 
