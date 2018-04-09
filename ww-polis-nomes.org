@@ -72,6 +72,20 @@ code for a specific instance of a civilization.
 
 
 
+** Bioregion
+
+#+begin_quote
+The [bio]region is our home address, the place where we
+develop our culture, and take part in bioregional networks.
+Through global associations and "families of common
+interest" we cross not only the regional but also state and
+national borders to set up multicultural alliances.
+
+— Permaculture Designer's Manual cite:mollison:1988designers p.510
+
+#+end_quote
+
+
 
 ** Urban Population Range
 
@@ -161,8 +175,10 @@ representative of the world's population.
      cite:borras:1994towards
    - Doxiadis, C. A., Ekistics, the science of human
      settlements, Ekistics, (), 237–247 (1972).
-     cite:doxiadis:1972ekistics 
-
+     cite:doxiadis:1972ekistics
    - Haldane, J. B. S., On being the right size, Harpers,
      (), (1928).
      cite:haldane:1928being
+   - Mollison, B., Permaculture: a designers' manual
+     (1988), : Tagari.
+     cite:mollison:1988designers
