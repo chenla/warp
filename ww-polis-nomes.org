@@ -124,6 +124,11 @@ newspapers.
 
 ** References 
 
+   - Borras-Alomar, S., Christiansen, T., & Rodriguez-Pose,
+     A., Towards a ‘europe of the regions'? visions and
+     reality from a critical perspective, Regional \&
+     Federal Studies, 4(2), 1–27 (1994).
+     cite:borras:1994towards
    - Doxiadis, C. A., Ekistics, the science of human
      settlements, Ekistics, (), 237–247 (1972).
      cite:doxiadis:1972ekistics 
