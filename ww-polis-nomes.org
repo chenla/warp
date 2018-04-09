@@ -104,3 +104,30 @@ get a reasonable sample of public opinion by meet ing 100 to
    Constantinos A. Doxiadis cite:doxiadis:1972ekistics
 #+end_quote
 
+
+#+begin_quote
+And just as there is a best size for every animal, so the same is true for
+every human institution. In the Greek type of democracy all the citizens
+could listen to a series of orators and vote directly on questions of
+legislation. Hence or philosophers held that a small city was the largest
+possible democratic state. The English invention of representative
+government made a democratic nation possible, and the possibility was first
+realized in the United States, and later elsewhere. With the development of
+broadcasting it has once more become possible for every citizen to listen to
+the political views of representative orators, and the future may perhaps see
+the return of the national state to the Greek form of democracy. Even the
+referendum has been made possible only by the institution of daily
+newspapers.
+
+— On Being the Right Size cite:haldane:1928being
+#+end_quote
+
+** References 
+
+   - Doxiadis, C. A., Ekistics, the science of human
+     settlements, Ekistics, (), 237–247 (1972).
+     cite:doxiadis:1972ekistics 
+
+   - Haldane, J. B. S., On being the right size, Harpers,
+     (), (1928).
+     cite:haldane:1928being
