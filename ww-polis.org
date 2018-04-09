@@ -76,11 +76,11 @@ because the solutions simply don't scale.
 
 
 HARD
-  - rural, urban, cosmopolitan
+  - rural, urban, cosmopolitan -> 
   - ancient greek city-states
   - town-gown
     - polis and nones
-  - monastic estates - familia intus & familia foris
+  - monastic estates - /familia intus/ & /familia foris/
     cite:horn:1979plan v1.p341
   - [[./ww-settlement-hierarchies.org][Settlement Hierarchies]]
   - Agora, Stoa & Pynx cite:sennett:2016pynx
@@ -107,6 +107,16 @@ WET
       - city-state
       - state
       - nation-state
+
+      ---
+      SEE: https://www.eurozine.com/change-course-human-history/
+
+      - seasonal polities -> harvest, birthing (as in
+        sheep), political meetings.
+      - hunting parties -> adhoc single purpose temporary groups
+      
+
+
     - Legitimacy -> claim to power
       - Sovereignty
       - Claim
