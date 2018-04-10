@@ -197,6 +197,18 @@ other.  Our theses is a social fiction that defines how we
  - [[./theses-notes.org][Theses Notes]]
 
 
+** Footnotes
+
+[fn:1] What about language?  Origins lays out our history which is
+tells what our metaphysics and physics.  The nuts and bolts of laguage
+will be in the Triv.  but I'm talking about something deeper, more
+structural -- language both spoken, written and executable -- a
+language of the long now that will change far slower than language at
+the upper pace layers -- it will change, but over centuries and
+milennia not years and decades.  It should be something that is stable
+for long periods of time.  Different pace-layers will have different
+versions of it, the fashion layer tries out new ideas which are
+filtered and refined until they change the lowest layers.
 
 
 
