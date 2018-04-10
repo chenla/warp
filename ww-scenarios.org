@@ -35,18 +35,38 @@ This may well be split into a separate volume.  My fear is that the
 scenarios are misunderstood in the way that Soleri's fantastic 30 designs
 for arcologies were misunderstood -- my myself most of all.
 
-Because his theory and argument for Argology was so short, dense and
-graphical and the bulk of the book was made up of the designs most
-people focused on the designs as top down structures that were
-intended to be built and look to be exactly what he drew.  This is not
-surprising because this is how modern architecture does things.  The
-architect designs something on paper and then hands it over to
-engineers to build it.
+Because his theory and argument for Argology was so short,
+dense and graphical and the bulk of the book was made up of
+the designs most people focused on the designs as top down
+structures that were intended to be built and look to be
+exactly what he drew.  This is not surprising because this
+is how modern architecture does things.  The architect
+designs something on paper and then hands it over to
+engineers to build it. That isn't what Soleri indended at
+all.
 
-That isn't what Soleri indended at all.  And it could be seen in the
-work done on Arcosanti.  The design was, you could say, aspirational
-and as construction took place the design radically changed as they
-gained experience and took into account things on the ground.
+#+begin_quote
+This work has a critical part and a constructive part.  They
+are treated concurrently in the first section, where
+criticism is coupled with what in my view is a perspective
+suggesting a greater coherance.  To help focus this problem
+I have amplified it greatly.  I do not feel this invalidates
+the resultss because the argument is kept in the context
+that a peach not being a potato and not a peach being yellow
+or peachy; and the results are not a blueprint for a
+city-civilization but only a guideline toward a new option.
+After this first part follows the development of thirty
+schemes based on theoretical propositions and then a
+proposed microexperiment in Arcosanti by the Cosanti
+Foundation.
+
+-- Paolo Soleri, 1969  cite:soleri:1999arcology
+#+end_quote
+
+And it could be seen in the work done on Arcosanti.  The
+design was, you could say, aspirational and as construction
+took place the design radically changed as they gained
+experience and took into account things on the ground.
 
 What they missed, is what Alexandar keeps trying to teach us -- is
 that if you are going to build something bottom up, it can't be done
@@ -196,3 +216,8 @@ settlement is essentially built.  Can they adapt, and in
 order to adapt how will it impact their original designs?
 
 
+** References
+
+  - Soleri, P., Arcology: the city in the image of man
+    (1999), : Bridgewood Press,.
+   cite:soleri:1999arcology
