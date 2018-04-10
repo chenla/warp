@@ -29,6 +29,28 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+#+begin_comment
+What are pattern languages -- how they work, how to make
+them, how to use them.
+
+Need a chapter on what patterns are NOT.  Many of the
+pattern languages and there are a lot of them, do not seem
+to understand that patterns are not simply another
+methodology you use in software or construction projects,
+they are meant to reveal sets of complex relationships which
+defy description.  They work on a nonverbal level as much as
+the verbal, they are not classification systems.  Patterns
+are only useful if those patterns have been woven into your
+brain, you have to master them through conscious practice,
+experiment and contemplation.  If you don't they are just
+another checklist of attributes or features to add to a
+design or project.  Patterns are not snap together modular
+Lego Bricks.  When they have been used that way people
+wonder why they don't work.
+
+#+end_comment
+
 ** Table of Contents
   - Patterns and Processes
     - Patterns
