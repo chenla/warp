@@ -412,32 +412,6 @@ principles.
 
 ** Warp & Woof
 
-*** Part 7. The Way (placeholder)
-
-Like in TWB's part of the same name, The Way describes how
-to put everything together from the first six Parts as a way
-of parsing the world, and putting what you have learned
-together to understand things, to build and maintain complex
-societies, build structures and settlements, protect and
-shepard ecosystems, industrial production, build software
-and networks and not least, live a Good Life.
-
-The thing is, that there is no one methodology to
-this. That's hard, but W&W is a generative grammer and
-toolkit for creating methodologies for building and using
-pattern languages to build and use Primers.
-
-you can use w&w to build any number of methodologies -- so
-long as you are aware that they are living processes that
-are not set in stone -- they must designed to adapt to
-changes, to encourage experimentation and careful adoption
-of what is found to work.  They are not to be chiseled in
-stone or codified or turned into dogma -- like Pirate Law,
-in /Pirates of the Caribbean/, they are more guidelines than
-laws.
-
-
-
 ** APPL
 
 #+begin_comment
