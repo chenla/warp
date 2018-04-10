@@ -30,13 +30,13 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
-No shit, a tl;dr for a introduction
+No shit, a tl;dr for an introduction
 
 ** Table of Contents
 
   - a generative genome for Mankind
   - /ab initio/ on the shoulders of giants
-  - a narrative of extension & externalization
+  - of a history of extension & externalization
   - inevitable but unpredictible: anticipating post-scarcity 
   - the enlightenment rebooted
   - the fifty year window
@@ -201,7 +201,7 @@ optimist's voice is whispering in my other ear is saying,
 to loose.  It's worth a shot, isn't it?"
 
 
--------------------
+** of a history of extension & externalization
 
 If pressed to sum up Mankind in a few sentences I would say
 that Sapiens (the sub species of Man that we belong to)
@@ -291,6 +291,8 @@ of the group and gave them to a few people who were in power
 and a handful of others whose job it was to think.  That
 system is called slavery.
 
+
+** the enlightenment rebooted
 
 
 #+begin_quote
@@ -409,20 +411,6 @@ principles.
 #+end_comment
 
 ** Warp & Woof
-#+begin_quote
-1. warp and woof(Noun)
-
-   The threads in a woven fabric, comprised of the warp
-   (threads running lengthwise) and woof (threads running
-   crosswise) to create the texture of the fabric.
-
-2. warp and woof(Noun)
-
-   The fundamental structure of any process or system.
-
-— [[http://www.definitions.net/definition/warp%20and%20woof][warp and woof]] | definitions.net
-— [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
-#+end_quote
 
 
 

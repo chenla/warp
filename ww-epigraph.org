@@ -31,5 +31,20 @@ bibliography:../hoard/bib.bib
 ** Epigraph: Warp & Woof
 ** Epigraph: Volume 1
 
+#+begin_quote
+1. warp and woof(Noun)
+
+   The threads in a woven fabric, comprised of the warp
+   (threads running lengthwise) and woof (threads running
+   crosswise) to create the texture of the fabric.
+
+2. warp and woof(Noun)
+
+   The fundamental structure of any process or system.
+
+— [[http://www.definitions.net/definition/warp%20and%20woof][warp and woof]] | definitions.net
+— [[https://en.wiktionary.org/wiki/warp_and_woof][warp and woof]] | Wiktionary
+#+end_quote
+
 
 
