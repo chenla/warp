@@ -43,6 +43,9 @@ scaffold for APPL, Primer and Hoard.
 
 
 ** Table of Contents
-
-- [[./ww-pace-layers.org][Pace-Layers]]
-- [[./ww-succession.org][Succession]]
+  - [[./ww-entities.org][Entities]]
+  - [[./ww-ontologies.org][Ontologies]]
+  - [[./ww-pace-layers.org][Pace-Layers]]
+  - [[./ww-succession.org][Succession Stages & Stacks]]
+  - [[./ww-goldilocks.org][Goldilocks-Thresholds]] / Spectrum/Range/Zone
+  - [[./ww-hard-soft-wet.org][Hard Soft Wet]]
