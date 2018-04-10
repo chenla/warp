@@ -30,7 +30,27 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+After that is the Archive of all recorded memory and
+experience.
 
+Arcs are designed to collect, organize and filter material
+over very long time frames.  At set intervals, material in
+collections is evaluated and filtered.  This could be
+something like every 1, 10, 100 and 1,000 years.
+
+Arcs can be either public or dark -- dark arcs are not
+directly accessible and will only respond to requests for
+things that have been lost.  Dark arcs will also monitor
+public arcs to see what is missing and make that material
+available to be found and added.
+
+Dark arcs will be part of the slow internet -- running at
+negative bandwidth speeds -- -1G, -2G, -3G etc speeds, as
+slow as -5G.
+
+After a massive loss of recorded knowledge after a disaster,
+war or other temporary sanity, dark arcs will determine when
+people are ready to have that lost knowledge restored.
 
 
 ** Table of Contents
