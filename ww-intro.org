@@ -412,31 +412,6 @@ principles.
 
 ** Warp & Woof
 
-*** Part 4. Boundries
-
- - physical and cognitive limits
-
-   sensual limits
-     - light & color
-     - sound
-     - smell
-     - touch
-   cognitive limits
-   cognitive bias
-   memory limits
-   social limits
-     - number of friends
-     - group size
-     - generational
-     - change thresholds
-   temporal limits
-   biological
-     - atmosphere
-     - temperature
-     - food
-     - sleep -- diurnal cycles 
-     - size
-     - age  
 
 *** Part 5. Estrangement
 :PROPERTIES:
