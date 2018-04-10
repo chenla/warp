@@ -90,7 +90,7 @@ Volume IV
 Volume V
  - 00. Contents Volume V
  - 00. Introduction Volume V
- - 32. APPL
+ - 32. [[./ww/appl.org][APPL]]
  - 33. Primer
  - 34. Hoard
  - 35. Middle
