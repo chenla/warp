@@ -29,5 +29,38 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+After the primer is the Hoard -- the library of descriptive
+and prescriptive knowledge.  This will be a map but a very
+detailed map whose territory is the archive.
+
+This will be the knowledge that is assembled to build a
+civilization from first principles -- this will include
+designs, standards, recipes, facts, proceedures, best
+practices.
+
+The idea is that you will pick out your patterns and create
+your pattern language which is at the core of a master
+generative plan -- then you use the knowledge from the Hoard
+to build it.
+
+A pattern might be for outdoor windows, and what they must
+incorporate to work.  The Hoard will provide the information
+for obtaining or creating the building material, wooden,
+plastic or metal frame, plate glass, glazing, screws,
+caulking and all of the tools needed to build it and then
+more general proscriptive steps that make up the art of
+glass making, and window framing.
+
+The Archive will be all of the primary documents that the
+Hoard is built on.
+
+----
+
+But don't forget that the Hoard has two parts -- map and
+territory, so the graph database that weaves it together is
+just as important as the items in it.
+
+
 ** Table of Contents
 
