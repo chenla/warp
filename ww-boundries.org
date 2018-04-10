@@ -68,6 +68,7 @@ pace-layer model so the two can be placed side by side.
        - genetic diversity
      - Biodiversity loss
      - Biochemical Flows
+       - Carbon Cycle
        - Nitrogen cycle
        - Phosphorus
      - Ocean
@@ -83,6 +84,25 @@ pace-layer model so the two can be placed side by side.
    - instinct
      SEE: cite:pinker:2003blank
  - Human Boundries
+   - Environment and Input
+     - Atmosphere composition
+     - Atmospheric pressure
+     - Temperature range
+     - Radiation range
+     - Gravity
+     - Potable Water
+     - Symbiotic Microbes and Bacteria ???
+     - Food
+       - Calories
+       - Nutritional Requirements
+     - Sleep 
+     - Light (and diurnal cycles)
+     - Human social contact
+     - Sex
+     - Rest (not same as sleep)
+   - Environment and Output
+     - Speed, agility etc.
+     - Mental limits
    - Individual 
      - sensual
      - cognitive limits
