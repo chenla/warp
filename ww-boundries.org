@@ -81,11 +81,15 @@ pace-layer model so the two can be placed side by side.
  - Human Nature
    - nurture vs nature
    - instinct
+     SEE: cite:pinker:2003blank
  - Human Boundries
    - Individual 
      - sensual
      - cognitive limits
      - cognitive bias
+       - echo chambers
+       - epistemic bubbles 
+         SEE: [[https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult?utm_medium=feed&utm_source=rss-feed][Escape the Echo Chamber]] | C Thi Ngueyen, Aeon 2018
    - Social
 
 
@@ -95,6 +99,9 @@ pace-layer model so the two can be placed side by side.
  - Haldane, J. B. S., On being the right size, Harpers, (),
    (1928).
    cite:haldane:1928being
+ - Pinker, S., The blank slate: the modern denial of human
+   nature (2003), : Penguin Books.
+   cite:pinker:2003blank
  - Steffen, W., Richardson, K., Rockstr\"om, Johan, Cornell,
    S. E., Fetzer, I., Bennett, E. M., Biggs, R., …,
    Planetary boundaries: guiding human development on a
