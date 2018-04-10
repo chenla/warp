@@ -30,9 +30,65 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
-** Table of Contents
-*** What is a point of View?
+The premise is that it is helpful to always understand the Point
+of View (POV) -- or perspective that you are looking at
+something because when you change your POV you change the
+context of what you are seeing and will often see things you
+didn't see before, or even see things in a completely
+different way than you saw before.
 
+We define three different perspectives:
+
+  - LOD : Level of Detail
+  - ROC : Rate of Change
+  - POC : Process of Change
+
+These three POVs form the foundation for how everything else
+*everything* in APPL, Primer & Hoard are understood.
+
+Each POV becomes increasingly more complex and abstract, but
+each builds on the one before and let's you see the same
+thing from a different perspective.  It does not negate the
+other POVs so much as enriches them and provides a more
+powerful toolbox for modeling and understanding.
+
+For example, let's look at the Origin Story that will start
+the Primer.
+
+The Origin LOD is basically Big History -- a linear timeline
+with a beginning (big bang) middle (from BB to now) and the
+end (projected heat death of the universe).  The narrative
+is organized around tipping points where complexity reaches
+a critical mass that changes the nature of the universe, and
+then later life on earth and eventually us.  This is a
+fantastic narrative and is a perfect way of easing people
+into the origin story which can be understood like any other
+origin story.
+
+The Origin ROC is basically a finer grained version of Big
+History that uses the concept of causal propagation (think
+Light Cones) to understand that different things change at
+different speeds and that all of these things are mixed
+together.  It's the embodiment of Gibson's the future is
+already here isn't just not evenly distributed.  Brand's
+Pace-Layers is a good way of understanding this, as well as
+Light Cones and causal propagation of change happening at
+the speed of light but making the point that the speed of
+light is the maximum speed that things can propagate, most
+things are propagating far slower.
+
+--------
+
+Taken together these three models will give us a set of
+powerful tools for understanding, planning, building, and
+maintaining civilizations.
+
+** Table of Contents
+
+
+** Points of View
+
+*** What is a point of View?
 
 In philosophy a point of view (POV) is a "stated matter of
 consideration", taken from an individual's perspective. In
