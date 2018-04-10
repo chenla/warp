@@ -92,7 +92,7 @@ Volume V
  - 00. Introduction Volume V
  - 32. [[./ww/appl.org][APPL]]
  - 33. [[./ww-primer.org][Primer]]
- - 34. Hoard
+ - 34. [[./ww-hoard.org][Hoard]]
  - 35. Middle
  - 36. Arc
 Volume VI
