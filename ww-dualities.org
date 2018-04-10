@@ -29,6 +29,14 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+#+begin_comment
+Barely touched this here -- but actually this section has
+been thought out more than most of the work which goes back
+to the Sticky Stuff paper in 2006..  Next will be to go
+through and pull in all my other notes and references
+#+end_comment
+
 ** Table of Contents
  - The Nature of Dualities
  - Dualities in Nature
