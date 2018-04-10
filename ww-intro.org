@@ -28,6 +28,20 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** TL;DR
+
+No shit, a tl;dr for a introduction
+
+** Table of Contents
+
+  - a generative genome for Mankind
+  - /ab initio/ on the shoulders of giants
+  - a narrative of extension & externalization
+  - inevitable but unpredictible: anticipating post-scarcity 
+  - the enlightenment rebooted
+  - the fifty year window
+
+
 ** Introduction
 
 At present. civilization is still at the whim of
