@@ -99,6 +99,8 @@ pace-layer model so the two can be placed side by side.
      - Light (and diurnal cycles)
      - Human social contact
      - Sex
+     - Sensory Stimulation
+     - Environmental Feedback
      - Rest (not same as sleep)
    - Environment and Output
      - Speed, agility etc.
