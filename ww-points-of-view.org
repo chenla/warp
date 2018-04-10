@@ -30,9 +30,14 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
-The premise is that it is helpful to always understand the Point
-of View (POV) -- or perspective that you are looking at
-something because when you change your POV you change the
+#+begin_comment
+This obviously has to be rewritten so that it is a summart
+rather than given as an specific example used as summary. 
+#+end_comment
+
+The premise is that it is helpful to always understand the
+Point of View (POV) -- or perspective that you are looking
+at something because when you change your POV you change the
 context of what you are seeing and will often see things you
 didn't see before, or even see things in a completely
 different way than you saw before.
