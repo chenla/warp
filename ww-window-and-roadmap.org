@@ -29,5 +29,17 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+A Roadmap for Mankind over the next 50 years to move from
+being a centralized global civilization, with crtical
+knowledge, infrastructure and wealth pooled in a handful of
+people, places, and organizations, to a distributed
+multiplanetary civilization reflecting the needs of a
+rapidly shrinking population on earth and an increasingly
+hostile climate.
+
+
 ** Table of Contents
 
+
+ 
