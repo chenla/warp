@@ -34,12 +34,12 @@ No shit, a tl;dr for an introduction
 
 ** Table of Contents
 
-  - a generative genome for Mankind
-  - /ab initio/ on the shoulders of giants
-  - of a history of extension & externalization
+  - A Generative Genome for Mankind
+  - From First Principles
+  - Extension & Externalization
   - inevitable but unpredictible: anticipating post-scarcity 
-  - the enlightenment rebooted
-  - the fifty year window
+  - Enlightenment Rebooted
+  - Fifty Year Window
 
 
 ** Introduction
@@ -201,7 +201,7 @@ optimist's voice is whispering in my other ear is saying,
 to loose.  It's worth a shot, isn't it?"
 
 
-** of a history of extension & externalization
+** Extension & Externalization
 
 If pressed to sum up Mankind in a few sentences I would say
 that Sapiens (the sub species of Man that we belong to)
@@ -292,7 +292,7 @@ and a handful of others whose job it was to think.  That
 system is called slavery.
 
 
-** the enlightenment rebooted
+** Enlightenment Rebooted
 
 
 #+begin_quote
