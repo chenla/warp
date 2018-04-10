@@ -215,6 +215,42 @@ them to abandon a lot of their initial assumptions after the
 settlement is essentially built.  Can they adapt, and in
 order to adapt how will it impact their original designs?
 
+---
+
+It remains to be seen how useful this exercise will be as it
+will be based on conjecture of how complex systems will
+evolve over time.  It's like predicting the weather, once
+you get past a few days, it's all rubbish except as long
+term trends.
+
+Each scenario will have a timeline of events and metrics.
+
+We can classify each scenario as within a goldilocks
+spectrum with a too hot, too cold and just right scenarios
+for each of the three /Plans/.
+
+We will need to put restraints on the parameters of each
+scenario that are based on empirical metrics that we have to
+date.
+
+Each Plan will start with a base design, an intended
+generatative succession plan broken into stages and then
+take those plans and subject them to the events in the
+scenario and how the plans have to be adapted over time and
+what the outcomes are.
+
+Ideally we should also have a fourth un-plan which acts as a
+control and uses the present as a starting /plan/ and see
+how continuing on as we are now compares to the our
+generative designs.
+
+Finally, we will have to do all this as a group project,
+that bring together people with a wide range of expertise in
+different fields -- who meet together to do this in person,
+but will also be backed up with computational models, and
+possibly crowd sourcing scenarios over the internet in the
+form of multiple small games to see how people might really
+react in such situations.
 
 ** References
 
