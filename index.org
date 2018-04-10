@@ -94,7 +94,7 @@ Volume V
  - 33. [[./ww-primer.org][Primer]]
  - 34. [[./ww-hoard.org][Hoard]]
  - 35. Middle
- - 36. Arc
+ - 36. [[./ww-arc.org][Arc]]
 Volume VI
  - Preface Volume VI
  - Appendix
