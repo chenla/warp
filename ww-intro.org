@@ -279,12 +279,20 @@ system is called slavery.
 
 
 
+#+begin_quote
+The Enlightenment (the movement) was based on empericism and
+experimentation far more than pure rationalism, even though
+enlightenment (the philosophical concept) might have been
+formulated in different terms.
+
+— /r/j9461: [[https://www.wsj.com/articles/the-dark-side-of-the-enlightenment-1523050206][Comment on The Dark Side of the Enlightenment]] | WSJ
+  https://www.reddit.com/r/slatestarcodex/comments/8azimq/the_dark_side_of_the_enlightenment/dx3axmb/
+#+end_quote
 
 
 
 
-
-** Notes
+* Notes
 
 
 W&W will be to APPL that /A Timeless Way of Building/ 
