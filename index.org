@@ -95,6 +95,9 @@ Volume V
  - 34. [[./ww-hoard.org][Hoard]]
  - 35. Middle
  - 36. [[./ww-arc.org][Arc]]
+ - 37. [[./ww-scenarios.org][Scenarios]]
+
+
 Volume VI
  - Preface Volume VI
  - Appendix
