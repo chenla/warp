@@ -318,6 +318,24 @@ concept) might have been formulated in different terms.
 #+end_quote
 
 
+#+begin_quote
+How can we help our brains to realise that things are
+getting better? Think of the world as a very sick premature
+baby in an incubator. After a week, she is improving, but
+she has to stay in the incubator because her health is still
+critical. Does it make sense to say that the infant’s
+situation is improving? Yes. Does it make sense to say it is
+bad? Yes, absolutely. Does saying “things are improving”
+imply that everything is fine, and we should all not worry?
+Not at all: it’s both bad and better. That is how we must
+think about the current state of the world.
+
+— [[https://www.theguardian.com/world/commentisfree/2018/apr/11/good-news-at-last-the-world-isnt-as-horrific-as-you-think][Good news at last: the world isn’t as horrific as you
+think]] | Hans Rosling, The Guardian 2018
+#+end_quote
+
+
+
 
 
 * Notes
