@@ -29,5 +29,39 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+In a nutshell, Middle is automated infrastructure, everything in the
+middle of everything else.
+
+In fact, my conception of it as it stands is to take over a large part
+of what government, utilities, logistics, and the financial sector do
+today.
+
+If it works -- Middle is infastructure that makes fine-grained
+distributed systems possible for both its and bits.
+
+Middle is simply an infrastructure for creating just-in-time
+single-use adhoc value chains it doesn't matter if it's an email, or a
+container-ship, a process is created, broken into steps, agents
+located to complete each step and and ensure that each step is done
+correctly.
+
+Each step only has to deal with the step they have contracted to do.
+
+So if you have a pizza shop, all you have to do is make the pizzas.
+You don't have to buy ingrediants, or do accounting, or take orders,
+make deliveries -- just take the order, the system will ensure you
+have the ingrediants (at the quality and quantity you need) tell the
+system when the pizza will be ready, and as it's put in the box there
+will be an agent to pick it up.
+
+Even the cardboard in the box, will be part of it's own chain -- that
+starts with making the corregated cardboard, die-cutting the
+cardboard, printing the box, getting it to the pizza shop, and then
+eventually collecting the empty box (along with all other cardboard)
+and sending it to a company who recycles cardboard which is then sent
+to cardboard companies as raw material for making more pizza boxes.
+
+
 ** Table of Contents
 
