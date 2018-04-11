@@ -26,7 +26,7 @@ bibliography:../hoard/bib.bib
 :END:
 
 
-Volume I
+Volume I Foundations
  - [[./ww-epigraph.org][Epigraph]]
  - [[./ww-intro.org][Introduction]]
  - 00. [[../wip/wip-plan.org][Plan of the Work]] - prolegomenon
@@ -39,7 +39,7 @@ Volume I
  - 04. [[./ww-estrangement.org][Estrangement]]
  - 05. [[./ww-boundries.org][Boundries]]
  - 06. [[./ww-principles.org][Principles]]
-Volume II
+Volume II Frameworks
  - 00. Contents Volume II
  - 00. [[./ww-intro-vol-2.org][Introduction]] Volume II
  - 07. [[./ww-points-of-view.org][Points of View]]
@@ -50,7 +50,7 @@ Volume II
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-standards.org][Standards]]
  - 14. [[./ww-legibility.org][Legibility]]
-Volume III
+Volume III Components
  - 00. Contents Volume III
  - 00. [[./ww-intro-vol-3.org][Introduction]] Volume III
  - 15. [[./ww-identity.org][Identity]]
@@ -62,7 +62,7 @@ Volume III
  - 21. [[./ww-structures.org][Structures]]
  - 22. [[./ww-distribution.org][Distribution]]
  - 23. [[./ww-infrastructure.org][Infrastructure]]
-Volume IV
+Volume IV Methodologies
  - 00. Contents Volume IV
  - 00. [[./ww-intro-vol4.org][Introduction]] Volume IV
  - 24. [[./ww-the-way.org][The Way]]
@@ -77,7 +77,7 @@ Volume IV
    - Deployment
    - Iteration
  - 31. Operation
-Volume V
+Volume V  Workflow
  - 00. Contents Volume V
  - 00. [[./ww-intro-vol-5.org][Introduction]] Volume V
  - 32. [[./ww/appl.org][APPL]]
@@ -85,12 +85,16 @@ Volume V
  - 34. [[./ww-hoard.org][Hoard]]
  - 35. [[./ww-middle.org][Middle]]
  - 36. [[./ww-arc.org][Arc]]
+Volume VI Implementation
+ - 00. [[./ww-intro-vol-6.org][Introduction]] Volume VI
  - 37. [[./ww-scenarios.org][Scenarios]]
  - 38. [[./ww-window-and-roadmap.org][Window & Roadmap]]
-Volume VI
- - [[./ww-intro-vol-6.org][Preface]] Volume VI
+Volume VII
+ - Contents Volume VII 
+ - Preface Volume VII
  - Appendix
    - keystone papers
+   - shoulders
  - Bibliography
  - Ontography
  - Index
