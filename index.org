@@ -62,7 +62,7 @@ Volume II
  - 14. [[./ww-legibility.org][Legibility]]
 Volume III
  - 00. Contents Volume III
- - 00. Introduction Volume III
+ - 00. [[./ww-intro-vol-3.org][Introduction]] Volume III
  - 15. [[./ww-identity.org][Identity]]
  - 16. [[./ww-citizens.org][Citizens]]
  - 17. [[./ww-polis.org][Polis]] 
