@@ -40,37 +40,41 @@ civilization.
 
 ** TL;DR
 
-In a nutshell, Middle is automated infrastructure, everything in the
-middle of everything else.
+In a nutshell, Middle is automated infrastructure,
+everything in the middle of everything else.
 
-In fact, my conception of it as it stands is to take over a large part
-of what government, utilities, logistics, and the financial sector do
-today.
+In fact, my conception of it as it stands is to take over a
+large part of what government, utilities, logistics, and the
+financial sector do today.
 
-If it works -- Middle is infastructure that makes fine-grained
-distributed systems possible for both its and bits.
+If it works -- Middle is infastructure that makes
+fine-grained distributed systems possible for both its and
+bits.
 
 Middle is simply an infrastructure for creating just-in-time
-single-use adhoc value chains it doesn't matter if it's an email, or a
-container-ship, a process is created, broken into steps, agents
-located to complete each step and and ensure that each step is done
-correctly.
+single-use adhoc value chains it doesn't matter if it's an
+email, or a container-ship, a process is created, broken
+into steps, agents located to complete each step and and
+ensure that each step is done correctly.
 
-Each step only has to deal with the step they have contracted to do.
+Each step only has to deal with the step they have
+contracted to do.
 
-So if you have a pizza shop, all you have to do is make the pizzas.
-You don't have to buy ingrediants, or do accounting, or take orders,
-make deliveries -- just take the order, the system will ensure you
-have the ingrediants (at the quality and quantity you need) tell the
-system when the pizza will be ready, and as it's put in the box there
-will be an agent to pick it up.
+So if you have a pizza shop, all you have to do is make the
+pizzas.  You don't have to buy ingrediants, or do
+accounting, or take orders, make deliveries -- just take the
+order, the system will ensure you have the ingrediants (at
+the quality and quantity you need) tell the system when the
+pizza will be ready, and as it's put in the box there will
+be an agent to pick it up.
 
-Even the cardboard in the box, will be part of it's own chain -- that
-starts with making the corregated cardboard, die-cutting the
-cardboard, printing the box, getting it to the pizza shop, and then
-eventually collecting the empty box (along with all other cardboard)
-and sending it to a company who recycles cardboard which is then sent
-to cardboard companies as raw material for making more pizza boxes.
+Even the cardboard in the box, will be part of it's own
+chain -- that starts with making the corregated cardboard,
+die-cutting the cardboard, printing the box, getting it to
+the pizza shop, and then eventually collecting the empty box
+(along with all other cardboard) and sending it to a company
+who recycles cardboard which is then sent to cardboard
+companies as raw material for making more pizza boxes.
 
 
 ** Table of Contents
@@ -88,42 +92,48 @@ to cardboard companies as raw material for making more pizza boxes.
  - minimize or eliminate liquidity whenever possible (using money is a
    failure).
 
-The middle itself is not a middleman -- it is a federated distributed
-system that everyone contributes to.  If you want to join the network,
-you by a server that runs X times the number of containers you need to
-do your business -- that extra capacity is aggregated to run Middle.
+** Notes
 
-If Middle needs more capacity, it will provision it by upping the
-amount of power each node is required to provide when they replace
-their server.
+The middle itself is not a middleman -- it is a federated
+distributed system that everyone contributes to.  If you
+want to join the network, you by a server that runs X times
+the number of containers you need to do your business --
+that extra capacity is aggregated to run Middle.
 
-Middle only will work if it can anticipate and plan many moves ahead,
-and constantly adjust when anticipated demand acceed or are lower than
-it expects.  This means shuffling around resources that have already
-been allocated.
+If Middle needs more capacity, it will provision it by
+upping the amount of power each node is required to provide
+when they replace their server.
 
-So let's go back to pizza boxes.  Let's say that Middle believes that
-because of a sporting event, that X number of pizzas will be ordered
-during that event.  So in anticipation, X number of boxes are
-delivered to the shops expected to make those pies.  But something
-happens, perhaps the event is canceled, and those boxes will be
-sitting there for a while until they can be used.  But, unexpectedly,
-in another city, there is a change where suddenly there is a surge in
-pizza orders -- instead of sending boxes from the cardboard company to
-those shops, some of the unused boxes from the other city are picked
-up and sent to the other city.  In reality there are all sorts of
-things wrong with this scenario -- for example, printed boxes for one
-city may not work in another.  But the idea here is that the system is
-flexible enough to use final destinations as a sort of distributed
-cache network -- where anyone can knock on their neighbor's door to
-borrow a cup of sugar.
+Middle only will work if it can anticipate and plan many
+moves ahead, and constantly adjust when anticipated demand
+acceed or are lower than it expects.  This means shuffling
+around resources that have already been allocated.
 
-Centralized just-in-time is brittle -- if there is a problem with the
-central system (say like the Bangkok floods) then the whole system
-grinds to a halt.  But if everyone is part of the cache, giving and
-taking as needed, then if there is a failure of any certain
-percentage of nodes, the system can rebalance and route around the
-problems while it is being fixed.
+So let's go back to pizza boxes.  Let's say that Middle
+believes that because of a sporting event, that X number of
+pizzas will be ordered during that event.  So in
+anticipation, X number of boxes are delivered to the shops
+expected to make those pies.  But something happens, perhaps
+the event is canceled, and those boxes will be sitting there
+for a while until they can be used.  But, unexpectedly, in
+another city, there is a change where suddenly there is a
+surge in pizza orders -- instead of sending boxes from the
+cardboard company to those shops, some of the unused boxes
+from the other city are picked up and sent to the other
+city.  In reality there are all sorts of things wrong with
+this scenario -- for example, printed boxes for one city may
+not work in another.  But the idea here is that the system
+is flexible enough to use final destinations as a sort of
+distributed cache network -- where anyone can knock on their
+neighbor's door to borrow a cup of sugar.
+
+Centralized just-in-time is brittle -- if there is a problem
+with the central system (say like the Bangkok floods) then
+the whole system grinds to a halt.  But if everyone is part
+of the cache, giving and taking as needed, then if there is
+a failure of any certain percentage of nodes, the system can
+rebalance and route around the problems while it is being
+fixed.
 
 
  
