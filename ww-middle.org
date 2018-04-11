@@ -65,3 +65,55 @@ to cardboard companies as raw material for making more pizza boxes.
 
 ** Table of Contents
 
+
+ - identifying wants, needs, and what you have
+ - assemblying a process
+ - breaking into steps
+   - what input does each step require?
+   - what hardware, tools, machines etc are needed?
+   - what level quality for each step (tolerances, etc)
+   - what level of skill, expertise?
+   - how much time to complete?
+   - what feedback loops are needed for quality control
+ - minimize or eliminate liquidity whenever possible (using money is a
+   failure).
+
+The middle itself is not a middleman -- it is a federated distributed
+system that everyone contributes to.  If you want to join the network,
+you by a server that runs X times the number of containers you need to
+do your business -- that extra capacity is aggregated to run Middle.
+
+If Middle needs more capacity, it will provision it by upping the
+amount of power each node is required to provide when they replace
+their server.
+
+Middle only will work if it can anticipate and plan many moves ahead,
+and constantly adjust when anticipated demand acceed or are lower than
+it expects.  This means shuffling around resources that have already
+been allocated.
+
+So let's go back to pizza boxes.  Let's say that Middle believes that
+because of a sporting event, that X number of pizzas will be ordered
+during that event.  So in anticipation, X number of boxes are
+delivered to the shops expected to make those pies.  But something
+happens, perhaps the event is canceled, and those boxes will be
+sitting there for a while until they can be used.  But, unexpectedly,
+in another city, there is a change where suddenly there is a surge in
+pizza orders -- instead of sending boxes from the cardboard company to
+those shops, some of the unused boxes from the other city are picked
+up and sent to the other city.  In reality there are all sorts of
+things wrong with this scenario -- for example, printed boxes for one
+city may not work in another.  But the idea here is that the system is
+flexible enough to use final destinations as a sort of distributed
+cache network -- where anyone can knock on their neighbor's door to
+borrow a cup of sugar.
+
+Centralized just-in-time is brittle -- if there is a problem with the
+central system (say like the Bangkok floods) then the whole system
+grinds to a halt.  But if everyone is part of the cache, giving and
+taking as needed, then if there is a failure of any certain
+percentage of nodes, the system can rebalance and route around the
+problems while it is being fixed.
+
+
+ 
