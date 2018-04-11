@@ -29,5 +29,46 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
-** Table of Contents
 
+The first volume lays out the broad foundation for the work,
+what is civilization, how did it emerge, what forms has it
+taken throughout history, what are the driving forces behind
+it.  This lays the groundwork for understanding different
+ways that civilization might work in a technologically
+advanced post-scarcity future that we are starting to see
+the beginnings of today which we will get into in detail in
+Volume III.
+
+Then what do we mean by first principles? In a word, it is
+what Paul Graham called, when describing the design of the
+programming laguage Arc,  "no onions in the varnish":
+
+#+begin_quote
+In /The Periodic Table/, Primo Levi tells a story that
+happened when he was working in a varnish factory. He was a
+chemist, and he was fascinated by the fact that the varnish
+recipe included a raw onion. What could it be for? No one
+knew; it was just part of the recipe. So he investigated,
+and eventually discovered that they had started throwing the
+onion in years ago to test the temperature of the varnish:
+if it was hot enough, the onion would fry.
+
+We're going to try not to include any onions in Arc.
+
+— [[http://www.paulgraham.com/arcll1.html][Arc at 3 Weeks]] | Paul Graham, 2001
+#+end_quote
+
+
+** Table of Contents
+ - [[./ww-epigraph.org][Epigraph]]
+ - [[./ww-intro.org][Introduction]]
+ - 00. [[../wip/wip-plan.org][Plan of the Work]] - prolegomenon
+ - 00. [[../wip/wip-ww-synopsis.org][Synopsis]]
+ - 00. Contents Volume I
+ - 00. [[./ww-intro-vol-1.org][Introduction]] Volume I
+ - 01. [[./ww-civilization.org][Civilis]]
+ - 02. [[./ww-ab-initio.org][Ab initio]] 
+ - 03. [[./ww-order.org][Nature of Order]]
+ - 04. [[./ww-boundries.org][Boundries]]
+ - 05. [[./ww-estrangement.org][Estrangement]]
+ - 06. [[./ww-principles.org][Principles]]
