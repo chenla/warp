@@ -30,6 +30,59 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+In one sense humans are in the same boat as the animals and
+plants that we have domesticated (or, depending on your POV,
+who have domesticated us) SEE Michael Pollan
+cite:pollan:2007omnivore
+
+#+begin_quote
+Corn is the hero of its own story, and though we humans
+played a crucial supporting role in its rise to world
+domination, it would be wrong to suggest we have been
+calling the shots, or acting always in our own best
+interests. Indeed, there is every reason to believe that
+corn has succeeded in domesticating us.  To some extent this
+holds true for all of the plants and animals that take part
+in the grand coevolutionary bargain with humans we call
+agriculture. Though we insist on speaking of the "invention"
+of agriculture as if it were our idea, like double-entry
+bookkeeping or the lightbulb, in fact it makes just as much
+sense to regard agriculture as a brilliant (if unconscious)
+evolutionary strategy on the part of the plants and animals
+involved to get us to advance their interests. By evolving
+certain traits we happen to regard as desirable, these
+species got themselves noticed by the one mammal in a
+position not only to spread their genes around the world,
+but to remake vast swathes of that world in the image of the
+plants' preferred habitat. No other group of species gained
+more from their association with humans than the edible
+grasses, and no grass has reaped more from agriculture than
+/Zea mays/, today the world's most important cereal crop.
+
+— cite:pollan:2007omnivore
+#+end_quote
+
+
+That in all cases, for plants, animals, ourselves and soon
+the cognitive machines which will soon join us, that we need
+to stop thinking in terms of exploition and start thinking
+of finding ways of maximizing whatever their natures are,
+that give them a fulfilled life and leverage what those
+things are to do the work of ecosystems and our
+civilization.
+
+Work doesn't have to be exploitive, but provides purpose and
+meaning to our lives.  When we give people, animal, plants
+and machines that opportunity, we can achieve all of our
+goals
+
+These are positive-sum scenarios -- exploitation is zero-sum
+wasteful and expensive.  There is no justification for
+zero-sum exploitation if you have a positive-sum alternative
+that works better..
+
+
+
 ** Table of Contents
 
  - Definition of slavery :: Any semi, or self-directed
