@@ -44,7 +44,7 @@ what Paul Graham called, when describing the design of the
 programming laguage Arc,  "no onions in the varnish":
 
 #+begin_quote
-In /The Periodic Table/, Primo Levi tells a story that
+In /The Periodic Table/,[fn:1] Primo Levi tells a story that
 happened when he was working in a varnish factory. He was a
 chemist, and he was fascinated by the fact that the varnish
 recipe included a raw onion. What could it be for? No one
@@ -72,3 +72,53 @@ We're going to try not to include any onions in Arc.
  - 04. [[./ww-boundries.org][Boundries]]
  - 05. [[./ww-estrangement.org][Estrangement]]
  - 06. [[./ww-principles.org][Principles]]
+
+
+** References
+
+  - Levi, P., The Periodic Table (1995), : Schocken.
+    cite:levi:1995periodic-table
+
+* Footnotes
+
+[fn:1] "I started to tell the story of the onion in the
+boiled linseed oil. This, in fact, was a dining room for a
+company of varnish manufacturers, and it is well known that
+boiled linseed oil has for many centuries constituted the
+fundamental raw material of our art. It is an ancient art
+and therefore noble: its most remote testimony is in Genesis
+6:14, where it is told how, in conformity with a precise
+specification of the Almighty, Noah coated (probably with a
+brush) the Ark’s interior and exterior with melted
+pitch. But it is also a subtly fraudulent art, like that
+which aims at concealing the substratum by conferring on it
+the color and appearance of what it is not: from this point
+of view it is related to cosmetics and adornment, which are
+equally ambiguous and almost equally ancient arts (Isaiah
+3:16). Given therefore its pluri-millenial origins, it is
+not so strange that the trade of manufacturing varnishes
+retains in its crannies (despite the innumerable
+solicitations it modernly receives from kindred techniques)
+rudiments of customs and procedures abandoned for a long
+time now.  So, returning to boiled linseed oil, I told my
+companions at table that in a prescription book published
+about 1942 I had found the advice to introduce into the oil,
+toward the end of the boiling, two slices of onion, without
+any comment on the purpose of this curious additive. I had
+spoken about it in 1949 with Signor Giacomasso Olindo, my
+predecessor and teacher, who was then more than seventy and
+had been making varnishes for fifty years, and he, smiling
+benevolently behind his thick white mustache, had explained
+to me that in actual fact, when he was young and boiled the
+oil personally, thermometers had not yet come into use: one
+judged the temperature of the batch by observing the smoke,
+or spitting into it, or, more efficiently, immersing a slice
+of onion in the oil on the point of a skewer; when the onion
+began to fry, the boiling was finished.  Evidently, with the
+passing of the years, what had been a crude measuring
+operation had lost its significance and was transformed into
+a mysterious and magical practice.
+
+— Levi, P., The Periodic Table (1995), : Schocken.
+  cite:levi:1995periodic-table
+
