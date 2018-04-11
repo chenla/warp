@@ -29,5 +29,31 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+how we divide things and increase complexity
+
+systems are made up of different components that are filled
+by specialized sub-processes.  The larger the system, the
+more it tends to become more complex, by larger processess
+to become finer-grained in order to adapt to variations in
+the larger territory/population.
+
+A sub process could be a plant or animal in an ecosystem, or
+it could be a specialization in a society/civilization.
+
+Several things happen to specialists -- first, the domain of
+a specialist process is called a niche.  If the specialist
+that fills that niche dies or the parameters for that niche
+change so that the specialist no longer has the ability to
+fulfill the needs of that process you get an empty niche
+which eventually is filled by a new specialist that evolves
+to fill that niche.
+
+when two ecosystems come into contact and effectively merge,
+and there are now two different specialists that fill the
+same niche, over time, one of the two specialists is found
+to be better than the other and takes over that niche.  We
+see this over and over in natural history and in societies.
+
 ** Table of Contents
 
