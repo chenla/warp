@@ -74,7 +74,7 @@ Volume III
  - 23. [[./ww-infrastructure.org][Infrastructure]]
 Volume IV
  - 00. Contents Volume IV
- - 00. Introduction Volume IV
+ - 00. [[./ww-intro-vol4.org][Introduction]] Volume IV
  - 24. [[./ww-the-way.org][The Way]]
  - 25. [[./ww-loops.org][Loops]]
  - 26. [[./ww-feedback.org][Feedback]]
