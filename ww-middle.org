@@ -28,6 +28,16 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+
+** Epigraph
+
+#+begin_quote
+It takes and industrial civilization to build an industrial
+civilization.
+
+— Vernor Vinge
+#+end_quote
+
 ** TL;DR
 
 In a nutshell, Middle is automated infrastructure, everything in the
