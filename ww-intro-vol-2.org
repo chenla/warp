@@ -13,7 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
-* Introduction Volume II
+* Introduction Volume II Frameworks
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-intro-vol-2.org
@@ -29,5 +29,40 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
-** Table of Contents
 
+There are few absolutes.  And even when there are, even
+those are subject to any number of ways of looking and
+understanding them depending on when, where and how they are
+observed or measured.
+
+In too many cases, we form opinions, make judgements or jump
+to conclusions on the basis of a specific context in which
+we observe something.  It's hard enough to get through the
+day and manage to make measured, rational choices in the
+little time we have from a single context.  There just isn't
+time to take in more than one or two different
+perspectives.  But for things that stick around long enough
+to be observed repeatedly over time, the accumulation of
+experience of observing from different perspectives gives us
+an increasingly complex and detailed understanding of the
+world around us.  The familiar is something that is built up
+over time, the unfamiliar is too new to yet be trusted or
+fully understood.
+
+We need to build up a collection of tools for understanding
+how the world works and is organized as a means of
+understanding, making decsions and building a civilization.
+
+This Volume is all about building up a toolbox of such
+techniques.  But it is also about 
+
+
+** Table of Contents
+ - 07. [[./ww-points-of-view.org][Points of View]]
+ - 08. [[./ww-dualities.org][Dualities]]
+ - 09. [[./ww-generators.org][Generators]]
+ - 10. [[./ww-scaffolds.org][Scaffolds]]
+ - 11. Specializations
+ - 12. [[./ww-patterns.org][Patterns]]
+ - 13. [[./ww-standards.org][Standards]]
+ - 14. [[./ww-legibility.org][Legibility]]
