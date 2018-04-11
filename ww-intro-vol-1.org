@@ -41,7 +41,8 @@ Volume III.
 
 Then what do we mean by first principles? In a word, it is
 what Paul Graham called, when describing the design of the
-programming laguage Arc,  "no onions in the varnish":
+programming laguage Arc, that theree would be "no onions in
+the varnish":
 
 #+begin_quote
 In /The Periodic Table/,[fn:1] Primo Levi tells a story that
@@ -57,6 +58,62 @@ We're going to try not to include any onions in Arc.
 
 — [[http://www.paulgraham.com/arcll1.html][Arc at 3 Weeks]] | Paul Graham, 2001
 #+end_quote
+
+This is not meant to discard the past, as much as ensure
+that what is included from the past is fully understood and
+has a purpose that is no longer have any meaning or use.
+We can accuse many things in traditional cultures of being
+onions, and this has been used as an excuse to toss out
+everything and begin clean, /tabla rasa/  This is not our
+intention at all.  There are very good reasons for many
+traditions and rituals that have been carried
+down the centuries and millennia to the present.  Many of
+these practices connect ground us in a shared cultural
+narrative that grounds us, and connects us to the land and
+to each other.  It's important that these things are not
+lost.  However there are many onions that should be at least
+understood if they are to be retained, and discard them if
+they do more harm than good.
+
+The practice in the sciences of always trying to start from
+first principles is that many times we are led down false
+paths from the initial assumptions that they are based on.
+For this reason we must ensure that the civilization we
+build is on a solid rational and empirical foundation.
+Anyone who has rennovated an old house will tell you that if
+you don't have a solid foundation, you can put in an
+enormous amount of work and effort into rebuilding the upper
+structure but will still have a rotton
+
+#+begin_quote
+A sound house needs a firm foundation, a good roof, and
+tight walls.  No amount of rennovation will compensate for a
+crumbling foundation.  It makes absolutely no sense to
+remodel the interior of a house without first making sure
+that the house stands on solid ground....
+
+Structural work is the starting pint of a logical chain.
+For example, changing the foundation will affect any work
+done inside the house.  Wall finishes will crack, doors and
+windows will stick or skew open, partitions and loors will
+go out of level and plumb.  Also, structural work frequently
+results in the exposure of the vitals of the house to the
+elements....
+
+[A] psychological factor... must never be underestimated. An
+unwholesome amount of drudge labor and great sums of money
+can be poured into a mud-filled fondation hole.  When the
+job is finished and the hole is backfilled after weeks of
+had work, nothing has visibly changed.  Of course you have
+the satisfaction of knowing that at least your house will
+stand safely and that whatever else you do rests on a firm
+footing.  But it isn't /dramatic/ enough.
+
+— Old Houses: A Rebuilder's Manual | George Nash
+  cite:nash:1980old-houses p.24-25
+#+end_quote
+
+
 
 
 ** Table of Contents
@@ -78,6 +135,10 @@ We're going to try not to include any onions in Arc.
 
   - Levi, P., The Periodic Table (1995), : Schocken.
     cite:levi:1995periodic-table
+  - Nash, G., Old houses, a rebuilder's manual (1980), :
+    Prentice Hall Direct. p.24-25
+    cite:nash:1980old-houses 
+
 
 * Footnotes
 
