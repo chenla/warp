@@ -41,17 +41,11 @@ Volume I
  - 06. [[./ww-principles.org][Principles]]
 Volume II
  - 00. Contents Volume II
- - 00. [[./ww-intro-vol-2.org][IntroducPtion]] Volume II
+ - 00. [[./ww-intro-vol-2.org][Introduction]] Volume II
  - 07. [[./ww-points-of-view.org][Points of View]]
  - 08. [[./ww-dualities.org][Dualities]]
  - 09. [[./ww-generators.org][Generators]]
  - 10. [[./ww-scaffolds.org][Scaffolds]]
-   - [[./ww-entities.org][Entities]]
-   - [[./ww-ontologies.org][Ontologies]]
-   - [[./ww-pace-layers.org][Pace-Layers]]
-   - [[./ww-succession.org][Succession Stages & Stacks]]
-   - [[./ww-goldilocks.org][Goldilocks-Thresholds]] / Spectrum/Range/Zone
-   - [[./ww-hard-soft-wet.org][Hard Soft Wet]]
  - 11. [[./www-surpluses.org][Surpluses]]
    - [[./ww-slavery.org][Slavery]]
    - Stores
