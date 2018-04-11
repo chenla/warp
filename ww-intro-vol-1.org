@@ -13,7 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
-* Introduction Volume I
+* Introduction Volume I Foundations
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-intro-vol-1.org
