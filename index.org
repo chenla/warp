@@ -98,7 +98,7 @@ Volume V
  - 37. [[./ww-scenarios.org][Scenarios]]
  - 38. [[./ww-window-and-roadmap.org][Window & Roadmap]]
 Volume VI
- - Preface Volume VI
+ - [[./ww-intro-vol-6.org][Preface]] Volume VI
  - Appendix
    - keystone papers
  - Bibliography
