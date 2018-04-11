@@ -162,8 +162,8 @@ into place.
  - 01. [[./ww-civilization.org][Civilis]]
  - 02. [[./ww-ab-initio.org][Ab initio]] 
  - 03. [[./ww-order.org][Nature of Order]]
- - 04. [[./ww-boundries.org][Boundries]]
- - 05. [[./ww-estrangement.org][Estrangement]]
+ - 04. [[./ww-estrangement.org][Estrangement]]
+ - 05. [[./ww-boundries.org][Boundries]]
  - 06. [[./ww-principles.org][Principles]]
 
 
