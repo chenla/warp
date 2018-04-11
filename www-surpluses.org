@@ -71,7 +71,11 @@ was still hard -- but it was better.
     - kinetic    -> on the hoof, battery charge, in-transit
   - Types of Supluses:
     - Production
-      - Animal
+      - Sun shines, Wind blows, Water flows, Gravity pulls
+      - Chemical -> Fire burns
+      - Atomic & Nuclear
+      - Animal -> burden, leveraging their natures
+      - Plant  -> leverging their natures
       - [[./ww-slavery.org][Slavery]]
       - Machine
       - Machine-Cognition
