@@ -46,7 +46,7 @@ Volume II Frameworks
  - 08. [[./ww-dualities.org][Dualities]]
  - 09. [[./ww-generators.org][Generators]]
  - 10. [[./ww-scaffolds.org][Scaffolds]]
- - 11. Specializations -> how we divide things and increase complexity
+ - 11. [[./ww-specializations.org][Specializations]] 
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-standards.org][Standards]]
  - 14. [[./ww-legibility.org][Legibility]]
