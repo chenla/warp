@@ -80,10 +80,6 @@ first principles is that many times we are led down false
 paths from the initial assumptions that they are based on.
 For this reason we must ensure that the civilization we
 build is on a solid rational and empirical foundation.
-Anyone who has rennovated an old house will tell you that if
-you don't have a solid foundation, you can put in an
-enormous amount of work and effort into rebuilding the upper
-structure but will still have a rotton
 
 #+begin_quote
 A sound house needs a firm foundation, a good roof, and
@@ -113,7 +109,15 @@ footing.  But it isn't /dramatic/ enough.
   cite:nash:1980old-houses p.24-25
 #+end_quote
 
-
+This is challange that Warp & Woof takes up, to have put in
+the "drudge labor" needed to set things on a solid footing.
+If at times as you labor through these seemingly
+interminable six volumes that it will never end, imagine the
+effort it took to put this together.  But just as you can't
+rebuild an old house without replacing a rottom foundation,
+we must take stock of our civilization an its foundations
+and ensure that they are placed on a strong and durable
+footing.
 
 
 ** Table of Contents
