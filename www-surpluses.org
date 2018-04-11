@@ -65,43 +65,24 @@ was still hard -- but it was better.
 
 ** Table of Contents
 
-- Stored, Potential & Kinetic
-  - Stockpiled -> subject to entropy, has a shelf life
-  - Potential  -> surplus capacity
-  - kinetic    -> on the hoof, battery charge, in-transit 
-
-Types of surpluses:
-  - production (labor, energy)
-  - goods (grain, tinned food)
-  - services (unused capacity)
-  - History
-
-  - Muscle -- tools extended the hand, machines extended
-    muscle.  The washing machine transformed domestic work.
-    Domestic work was dominated by gathering fuel, food,
-    water and washing clothes.
- 
-  - Time -- environmental surplus.  The electric light bulb
-    freed man from day-night cycles.  Insulated, heated and
-    cooled buildings made it possible to extend working
-    hours into times that were too cold or too hot to work.
-    The time honored Siesta is dead or dieing.  Growing
-    seasons are extended through the use of green houses etc.
-  - [[./ww-slavery.org][Slavery]]
-  - Stores
-    - natural -- groundwater, oil, gas & coal, carbon
-    - stockpiles -- 
-    - caches -- are temporary stores used to even out
-      propagation in distributed systems.
-  - Capacity -- is a potential store.
-    also a kind of cache, that is usually used
-    to even out the difference between low and high loads on
-    a system.
-    - transporation
-    - processing
-    - transmission
-
-Centralised and Distributed Surpluses
+  - Potential & Kinetic Stores
+    - Stockpiled -> subject to entropy, has a shelf life
+    - Potential  -> surplus capacity
+    - kinetic    -> on the hoof, battery charge, in-transit
+  - Types of Supluses:
+    - Production
+      - Animal
+      - [[./ww-slavery.org][Slavery]]
+      - Machine
+      - Machine-Cognition
+      - Time
+        - speed (communication and transporation)
+        - light (extra time from electric light) 
+    - Stores, Reserves & Stockpiles
+      - goods (grain, tinned food)
+      - services (unused capacity)
+    - Caches (network)
+    - Capacity
 
 ** Capacity
 
