@@ -77,8 +77,8 @@ was still hard -- but it was better.
       - Animal -> burden, leveraging their natures
       - Plant  -> leverging their natures
       - [[./ww-slavery.org][Slavery]]
-      - Machine
-      - Machine-Cognition
+      - Machine clockwork
+      - Machine cognition
       - Time
         - speed (communication and transporation)
         - light (extra time from electric light) 
