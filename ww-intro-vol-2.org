@@ -461,9 +461,22 @@ by machine learning software applications.
 
 ** References 
 
-- Koestler, A., The ghost in the machine (1989), : Arkama
-  Books. 
-  cite:koestler:1989ghost
+  - Brand, S., How buildings learn: what happens after
+    they’re built (1995), : Penguin Books.
+    cite:brand:1995how-buildings
+  - Brand, S., Clock of the long now: time and
+    responsibility: the ideas behind the world's slowest
+    computer (2000), : Basic Books.
+    cite:brand:2000clock-long-now
+  - Brand, S., Whole Earth Discipline (2010), : Penguin Books.
+    cite:brand:2010whole-earth-discipline
+  - Koestler, A., The ghost in the machine (1989), : Arkama
+    Books. 
+    cite:koestler:1989ghost
+  - Turner, F., From counterculture to cyberculture: stewart
+    brand, the whole earth network, and the rise of digital
+    utopianism (2006), : University of Chicago Press.
+    cite:turner:2006counterculture-cyberculture
 
 * Footnotes
 
