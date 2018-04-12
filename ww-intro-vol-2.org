@@ -335,8 +335,32 @@ variations on the same story that Charles Dickens wrote?
 The FRBR model does this by breaking up all variations into
 a hierarchy of what they call /entities/.  The top most
 entity is a work, which is a concept that represents the
-work and all it's incarnations as a whole.  This work
-then has multiple /expressions/ of that work.
+work and all it's incarnations as a whole.  This work then
+has multiple /expressions/ of that work.  An expression is
+the arrangement of words or other media in a specific order.
+An expression might be Dicken's original text of the work.
+There are some who say that a translation into another
+language constitutes a new work, and others that the
+translation is a separate expression of the same work.  I
+support the latter.  Each expression is then divided into
+different /manifestations/ of the book.  A manifestation is
+a specific formating and design of an expression.  There
+might be a hard cover manifesetion, a paperback
+manifestation, a large print version, a version with
+illustrations and another without.  Again, there is
+disagreement on the specifics of how these are determined
+but the general principle still holds.  Finally, copies or
+instances of a manifestation are made.  This might be a copy
+of the paperback book sitting on your desk, or it might be a
+digital copy of an epub file in a ebook reader.
+
+The Entity-model of concept, expression, manifestation and
+instance can be applied to a wide number of different
+applications and is an imporant means of organizing any
+concept or design that is replicated in many different forms
+and formats by different groups for different purposes.
+
+
 
 ** Table of Contents
  - 07. [[./ww-points-of-view.org][Points of View]]
