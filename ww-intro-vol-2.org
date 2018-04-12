@@ -60,6 +60,8 @@ in contexts that are natural and understandable.  And then
 once it is built continue to use our full arsenal of tools
 to monitor, measure and mange it properly.
 
+*** Point of Views
+
 We start with four concepts that are in many respects the
 most important for our entire undertaking, it's as simple as
 the R.E.M. song, /Stand/:
@@ -138,6 +140,10 @@ Points of View with different combinations of LOD, ROC, and
 LOC are the footings, or pilings sunk deep in the earth on
 which we can build the walls of our foundations.
 
+  *EXAMPLES*
+
+*** Dualities
+
 Nature is awash in dualities.  In 1801 Thomas Young
 performed an experient that demonstrated that light has a
 /wave-particle/ duality.  Light, as well as electrons and
@@ -184,7 +190,11 @@ owned by a company.  Civilizations and Ecosystems are large
 scale holarchies made up of countless overlapping and nested
 holonic structures.
 
-Another important similar duality, which the Map-Territory
+  *EXAMPLES*
+
+*** Map-Territory
+
+Another important duality, which the Map-Territory
 relationship.  A map is a simplified representation of a
 larger territory.  For example, a territory might be a city,
 which has maps made of it showing streets, trains lines,
@@ -227,7 +237,7 @@ in very poor shape, the abode of beasts and beggars. No
 other traces of the geographical disciplines are to be seen
 throughout the land.”
 
-— Jorge Luis Borges in A Universal History of Infamy, 1946
+— Jorge Luis Borges, /A Universal History of Infamy/, 1946
 #+end_quote
 
 The map-territory is different from a holon duality in that
@@ -251,6 +261,10 @@ distinction.
 From considering dualities we can consider the processes and
 mechanisms that determine how things become something else.
 We call these /generators/
+
+  *EXAMPLES*
+
+*** Generators
 
 Generators are extremely important to understanding POC as a
 process of the evolution of everything from ants, to
@@ -298,6 +312,10 @@ and largely ego driven.  Bottom up design and construction
 is adaptive, collaborative and responsive to change and
 needs.
 
+  *EXAMPLES*
+
+*** Scaffolds
+
 Now we turn to the enormous topic of scaffolds which will
 make up the bulk of this volume.  A scaffold is a structure
 that is put into place to provide support for a structure
@@ -313,6 +331,8 @@ civilizations, hierarchical-entity models, ontologies,
 pace-layers, succession layers and stacks, goldilocks
 thresholds or zones, and finally the division between hard,
 wet and soft.
+
+*** Entity Models
 
 Entity models have their roots in a rather dry document
 called /Functional Requirements for Bibliographic Records/
@@ -359,6 +379,30 @@ instance can be applied to a wide number of different
 applications and is an imporant means of organizing any
 concept or design that is replicated in many different forms
 and formats by different groups for different purposes.
+
+  *EXAMPLES*
+
+*** Ontologies
+
+  *EXAMPLES*
+
+*** Pace-Layers
+
+  *EXAMPLES*
+
+*** Succession Stages
+
+  *EXAMPLES*
+
+*** Goldilocks Thresholds
+
+  *EXAMPLES*
+
+*** Hard Soft Wet
+
+  *EXAMPLES*
+
+*** Specializations
 
 
 
