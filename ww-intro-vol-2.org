@@ -442,12 +442,12 @@ layers/.
 
 Brand used a six layer model:
 
-  | Fashion        |   |
-  | Commerce       |   |
-  | Infrastructure |   |
-  | Governance     |   |
-  | Culture        |   |
-  | Nature         |   |
+  | Fashion        | The fastest and most erratic scale, measured in minutes, hours and days |
+  | Commerce       |                                                                         |
+  | Infrastructure |                                                                         |
+  | Governance     |                                                                         |
+  | Culture        | Slowest Human Scales in hundreds and thousands of years                 |
+  | Nature         | Slowest, working at evolutionary and geological times scales            |
 
 
 The pace-layer model is one of the most powerful scaffolds
