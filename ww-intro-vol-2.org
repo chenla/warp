@@ -133,6 +133,12 @@ beginning, middle and end, with us at any given time in the
 walking in the middle of the road towards a endlessly
 receding horizon.
 
+Understanding what we observe in the world as a different
+Points of View with different combinations of LOD, ROC, and
+LOC are the footings, or pilings sunk deep in the earth on
+which we can build the walls of our foundations.
+
+
 
 ** Table of Contents
  - 07. [[./ww-points-of-view.org][Points of View]]
