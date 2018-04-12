@@ -166,24 +166,25 @@ exactly what Havelock claims Homer's works are, an cultural
 encyclopedia for pre-literate Greek civilization that
 contained most of the practical knowledge that the culture
 wished to preserve and pass down from one generation to the
-next.  According to Havelock, this is what Plato was railing
-against in his attack of Poetry.  So is this where the
-estrangement began?  I've been making that arguement
-throughout my notes lately, and it seems to bear up -- in
-moving from societies based collective knowledged passed on
-to future generations spoken languages, which were prone to
-high levels of copying errors, to collective knowledge based
-written tradition that had far fewer copying errors, and
-allowed people to move much of that practical cultural
-knowledge from living memory into written memory made
-rational thought, and the sciences to advance in a way that
-would have been impossible otherwise.  Written languages are
-not simply extentions of long term memory, they are
-extension of working memory, that allows to offload
-information as it occurs to you while working out a problem
-and then come back to it.  It makes iterative processes
-possible by preserving the state of a work in progress while
-working on a new iteration of that work, or problem.
+next.  According to Havelock, cite:havelock:1963preface this
+is what Plato was railing against in his attack of Poetry.
+So is this where the estrangement began?  I've been making
+that arguement throughout my notes lately, and it seems to
+bear up -- in moving from societies based collective
+knowledged passed on to future generations spoken languages,
+which were prone to high levels of copying errors, to
+collective knowledge based written tradition that had far
+fewer copying errors, and allowed people to move much of
+that practical cultural knowledge from living memory into
+written memory made rational thought, and the sciences to
+advance in a way that would have been impossible otherwise.
+Written languages are not simply extentions of long term
+memory, they are extension of working memory, that allows to
+offload information as it occurs to you while working out a
+problem and then come back to it.  It makes iterative
+processes possible by preserving the state of a work in
+progress while working on a new iteration of that work, or
+problem.
 
 The rational and later the scientific revolutions were all
 built on these foundations.  High Modernism as defined by
@@ -238,6 +239,10 @@ Enlightenment
     8993–8999 (2010).
     http://dx.doi.org/10.1073/pnas.0914630107
     cite:pinker:2010cognitive
+
+  - Havelock, E. A., Preface to plato (history of the greek
+    mind) (1963), : Harvard University Press.
+    cite:havelock:1963preface
 
 High Modernism
 
