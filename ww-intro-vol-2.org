@@ -430,6 +430,32 @@ by machine learning software applications.
 
 *** Pace-Layers
 
+The Pace-Layer model was first developed by Stewart Brand as
+a means of showing how different layers in civilization
+changed at different rates of
+change.cite:brand:2000clock-long-now The concept was a
+generalization of the idea in a previous book
+cite:brand:1995how-buildings that buildings are made up of
+different layers which change, maintained or rennovated at
+different rates of change, which he called /shearing
+layers/.
+
+Brand used a six layer model:
+
+  | Fashion        |   |
+  | Commerce       |   |
+  | Infrastructure |   |
+  | Governance     |   |
+  | Culture        |   |
+  | Nature         |   |
+
+
+The pace-layer model is one of the most powerful scaffolds
+that we will use in building and manageing human societies
+and civilizations.  Our pace-layer model expands on Brand's
+model as we will later see in A Pace-Layer Pattern Language
+(APPL) in a later volume.
+
   *EXAMPLES*
 
 *** Succession Stages
