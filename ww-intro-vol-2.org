@@ -248,6 +248,55 @@ library.  There is no useful distinction in between the two,
 only the context of how it is used detemines the a
 distinction.
 
+From considering dualities we can consider the processes and
+mechanisms that determine how things become something else.
+We call these /generators/
+
+Generators are extremely important to understanding POC as a
+process of the evolution of everything from ants, to
+cathedrals and social networks.  Complex systems which
+encompus any number of dualistic natures are inheriently
+unpredictible in the instance, but predictible in the
+aggregate.  In mathematics the Possion distribution states
+that if you create an equal grid of a hundred squares and
+then drop pebbles from above onto the grid, with an equal
+chance of any one pebble landing on any one grid, that you
+can reliably predict how squares will have no pebbles, how
+many will have three pebbles, how many will have 10 pebbles
+etc.  But there is no way of knowing which squares will
+contain which number of pebbles in advance.
+
+Generators can be thought of as machines that drop those
+pebbles on the grid.  You know what the grid looks like, the
+preconditions, and you know the characteristics of the
+pebbles and understand when it's complete you won't know
+what it will look like, but you'll have a very clear idea
+that it will work the way it's needed, so long as what you
+need is that specific distribution of pebbles on a grid of a
+specific size.  In other words, the distribution is
+inevitble but the exact arrangement is not.
+
+The important thing to understand about this process is that
+it is far better than a top down, command and control
+approach to design, finance and construction because it will
+make allowances for variations that weren't taken into
+account in the initial planning and development stage.  It
+will adapt to those unknowns and become closer to what you
+need, rather than the preconcieved notion of what you
+thought you wanted when you began the exercise.
+
+In this way, generators are not determinisitic -- they are
+not plans or blueprints that specify exactly how something
+will look or be constructed -- they only provide the basic
+list of ingrediants and the desired features and
+characteristics of what is to be made and ensure that the
+process determines that it will meet the goals of the
+project, rather than the initial planning of the project
+that was done without full knowledge of what would be needed
+to complete it.  Top down planning and construction is blind
+and largely ego driven.  Bottom up design and construction
+is adaptive, collaborative and responsive to change and
+needs.
 
 
 ** Table of Contents
