@@ -51,10 +51,87 @@ fully understood.
 
 We need to build up a collection of tools for understanding
 how the world works and is organized as a means of
-understanding, making decsions and building a civilization.
+understanding, making decisions and building a civilization.
 
-This Volume is all about building up a toolbox of such
-techniques.  But it is also about 
+This Volume is all about building up a cognitive toolbox of
+techniques that can be used to build a /familiar/
+civilization that can be looked at from every possible angle
+in contexts that are natural and understandable.  And then
+once it is built continue to use our full arsenal of tools
+to monitor, measure and mange it properly.
+
+We start with four concepts that are in many respects the
+most important for our entire undertaking, it's as simple as
+the R.E.M. song, /Stand/:
+
+#+begin_verse
+Your feet are going to be on the ground
+Your head is there to move you around
+If wishes were trees, the trees would be falling
+Listen to reason, season is calling
+
+Stand in the place where you live
+Now face north
+Think about direction
+Wonder why you haven't before
+
+Now stand in the place where you work
+Now face west
+Think about the place where you live
+Wonder why you haven't before
+
+If wishes were trees, the trees would be falling
+Listen to reason, reason is calling
+Your feet are going to be on the ground
+Your head is there to move you around
+
+— Stand | Green, R.E.M (1988)
+#+end_verse
+
+We start from what we can observe from where we are
+standing, this is perspective, or your /Point of View/
+(POV).  Work out what direction you are looking in, and how
+far or close something is relative to where you are
+standing.  We call this Level of Detail (LOD).  Now watch
+for things changing.  Get a feel for how fast or slow things
+are changing relative to the steady beat of your heart where
+you are standing.  Use a metronome, stopwatch or even a
+calendar if it will help you along.  This is the /Rate of
+Change/ (ROC).  Now comes the one that has become difficult
+for some people, but is how things really are.  Understand
+that everything around you, near and far, fast and slow are
+in a constant complex dance of change.  The past doesn't
+recede behind you and the future doesn't stretch off before
+you.  Everything is right where you are, where everything is
+in the process of becoming something else.  The past is not
+gone, it's still right here in the present, but is changed
+as entropy wears things down, cools things off and scatters
+everything to the wind.  This is the Process of Change
+(POC).
+
+We can understand the world using these three different
+Points of Views, as LOD -- how close or far something is.
+Or as ROC -- how fast or slow things change and how fast or
+slow that change propagates towards or away from you.  And
+finally how all of these things are all happening at the
+same time, near and far, hot and cold, slow and fast as a
+single relentless irreversible process.  You can't unstir
+milk poured into a cup of coffee and you can never stand in
+the same river twice.
+
+Save ourselves, this is how pretty much all creatures on our
+plant see and experience the world.  We are not wrong and
+they are also right.  But we are alone in having the
+cognitive ability to understand goal oriented behavior.  We
+can see that one thing leads to another which leads to
+another which causes something to happen.  Your dog can't do
+that.  Our close cousins the Chimpanzee's can't do that.
+And that small thing has made possible everything Sapiens
+(the sub species of Man that we belong to) possible.  But it
+also leads to the illusion that time is a road with a
+beginning, middle and end, with us at any given time in the
+walking in the middle of the road towards a endlessly
+receding horizon.
 
 
 ** Table of Contents
