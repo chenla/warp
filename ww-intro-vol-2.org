@@ -239,7 +239,15 @@ Metadata is ostensibly, data that describes data.  In this
 sense it is type of  map of the data.  But metadata can also
 be seen as a subset of the data and like the Map-Territory
 relationship is another expession of the Level of Detail
-Point of View (LOD POV) 
+Point of View (LOD POV).  But in many cases, metadata can be
+treated as data in its own right in some contexts and
+metadata in another.  A card catalog of metadata describing
+books in a library is both a collection of data, but also
+can be seen as a data describing individual volumes in the
+library.  There is no useful distinction in between the two,
+only the context of how it is used detemines the a
+distinction.
+
 
 
 ** Table of Contents
