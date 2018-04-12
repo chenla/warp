@@ -384,6 +384,48 @@ and formats by different groups for different purposes.
 
 *** Ontologies
 
+In information science an ontology is a kind of knowledge
+graph (also known as a thesaurus) that provides a formal
+naming scheme for terms for concepts that defines those
+terms by their relationship to other terms.
+
+A dictionary defines terms using words, so that a duck might
+be defined as "Any bird of the subfamily Anatin[ae], family
+Anatid[ae]."
+
+In a thesaurus a duck would be defined relative to broader,
+narrower and related terms.  In the following example:
+
+  | TT | Top Term       |
+  | BT | Broader Term   |
+  | PT | Preferred Term |
+  | UF | USED For       |
+  | NT | Narrower Term  |
+
+#+begin_example
+  - TT Bird
+    - BT Water Fowl 
+    - BT Anatin[ae] (Subfamily), Anatid[ae] (Family)
+      - PT Duck
+      - UF duke, doke (Old English)
+        - NT River Ducks, Sea Ducks
+        - NT Common Domestic Duck (Anas boschas)
+#+end_example
+
+An ontology using relationships can easily be represented as
+a directed graph and has the added advantage of being
+machine understandable.  This can be achieved by using XXX
+notation to represent each relationship as a triple that has
+a object, subject and predicate.
+
+#+begin_example
+
+#+end_example
+
+
+Such a graph can be imported into a Graph Database and used
+by machine learning software applications.
+
   *EXAMPLES*
 
 *** Pace-Layers
