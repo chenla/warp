@@ -298,6 +298,23 @@ and largely ego driven.  Bottom up design and construction
 is adaptive, collaborative and responsive to change and
 needs.
 
+Now we turn to the enormous topic of scaffolds which will
+make up the bulk of this volume.  A scaffold is a structure
+that is put into place to provide support for a structure
+that is under construction until that new structure can
+stand on it's own.  Some scaffolds, such as bamboo or metal
+scaffolds which are errected on a construction site are
+removed at the end of the project.  But most scaffolds for
+information structures remain after construction is
+complete, even though they can not be seen, or may never
+even be referred to afterwards.  We will examine six broad
+types of scaffolds that will be important to building
+civilizations, hierarchical-entities, ontologies,
+pace-layers, succession layers and stacks, goldilocks
+thresholds or zones, and finally the division between hard,
+wet and soft.
+
+
 
 ** Table of Contents
  - 07. [[./ww-points-of-view.org][Points of View]]
