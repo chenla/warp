@@ -138,6 +138,37 @@ Points of View with different combinations of LOD, ROC, and
 LOC are the footings, or pilings sunk deep in the earth on
 which we can build the walls of our foundations.
 
+Nature is awash in dualities.  In 1801 Thomas Young
+performed an experient that demonstrated that light has a
+/wave-particle/ duality.  Light, as well as electrons and
+even molecules can be observed as a wave, or it can be
+observed as a series of particles, but you can only measure
+it as one or the other.  Observing as a wave means you can't
+observe it as a particle and vice versa.  Richard Feynman
+called it "a phenomenon which is impossible […] to explain
+in any classical way, and which has in it the heart of
+quantum mechanics. In reality, it contains the only mystery
+[of quantum mechanics]."[fn:1]
+
+Dualities can be found almost everywhere you look, from the
+Taoist 陰陽(ying-yang) ☯ duality[fn:2] of dualistic-monism
+where condradictory opposites such as dark-bright,
+good-evil, negative-positive, fire-water intertangle and can
+exist as a single unity existing as both contradictory
+things simutaneousely.  But these contradictions can also be
+thought of as a spectrum with each opposite existing on each
+extreme end from the other.  But as a spectrum, there is no
+place where one becomes the other.  In formulating his
+theory of evolution, Darwin disliked the concept of a
+species.  After decades of careful observation of barnacles
+and other living things he understood that there rather than
+life being made up of different species, there were only a
+near infinite number of variations from one individual to
+the next.  Where does one draw the line and call one
+variation one species, and another variation a different
+one?
+
+
 
 
 ** Table of Contents
@@ -149,3 +180,11 @@ which we can build the walls of our foundations.
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-standards.org][Standards]]
  - 14. [[./ww-legibility.org][Legibility]]
+
+* Footnotes
+
+[fn:2] https://www.fileformat.info/info/unicode/char/262f/index.htm
+
+[fn:1]  Feynman, Richard P.; Robert B. Leighton; Matthew
+Sands (1965). The Feynman Lectures on Physics,
+Vol. 3. Addison-Wesley. pp. 1.1–1.8. ISBN 0201021188.
