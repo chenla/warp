@@ -168,7 +168,78 @@ the next.  Where does one draw the line and call one
 variation one species, and another variation a different
 one?
 
+If this is still too abstract to seem of much practical use
+we can turn to Arthur Koestler's concept of the holon which
+he introduced in his book, The ghost in the machine.
+cite:koestler:1989ghost  A holon is a struture that has a
+dual nature in which every part can be seen as a single
+whole, as well as a part of a larger structure.  The human
+heart is a single whole structure which is also a part of
+the larger human body.  Looking into a holon you see things
+as wholes, but looking out, they are seen as parts.  A tree
+is a whole, which is also part of a larger forrest.  A car
+battery is a whole, which is part of a larger automobile,
+which might in turn be a part of a larger fleet of cars
+owned by a company.  Civilizations and Ecosystems are large
+scale holarchies made up of countless overlapping and nested
+holonic structures.
 
+Another important similar duality, which the Map-Territory
+relationship.  A map is a simplified representation of a
+larger territory.  For example, a territory might be a city,
+which has maps made of it showing streets, trains lines,
+buildings, monuments and rivers.  Topographic maps represent
+the three-dimensional geography of city, showing hills and
+depressions as well as geological and man made features.
+
+But a map is always a subset of a territory, the more
+information that is included in a map, the less useful it
+becomes.  So an abstract representation of the commuter
+subway system for the city of Osaka is very useful even
+though it's a poor means of showing the spatial
+realtionships and distances between stations.  While a
+detailed city map with roads and train stations is a poor
+means of understanding how to navigate the train system,
+there is no way of seeing the train system as a whole in the
+clutter of the territory.
+
+A map is a territory that is seen from far away where you
+can't see as much detail as when you are close.  In this
+sense it is an epression of the Level of Detail Point of
+View (LOD POV).
+
+Taken to an extreme, a map that has been made at a scale of
+1:1 is perfectly detailed, and perfectly useless.
+
+#+begin_quote
+“In this empire, the art of cartography was taken to such a
+peak of perfection that the map of a single province took up
+an entire city and the map of the empire, an entire
+province. In time, these oversize maps outlived their
+usefulness and the college of cartographers drew a map of
+the empire equal in format to the empire itself, coinciding
+with it point by point. The following generations, less
+obsessed with the study of cartography, decided that this
+overblown map was useless and somewhat impiously abandoned
+it to the tender mercies of the sun and seasons. There are
+still some remains of this map in the western desert, though
+in very poor shape, the abode of beasts and beggars. No
+other traces of the geographical disciplines are to be seen
+throughout the land.”
+
+— Jorge Luis Borges in A Universal History of Infamy, 1946
+#+end_quote
+
+The map-territory is different from a holon duality in that
+a map is not a part of a whole, but a representation of a
+part or aspect of a whole.  This is a useful tool which can
+be seen in the Data-Metadata duality.
+
+Metadata is ostensibly, data that describes data.  In this
+sense it is type of  map of the data.  But metadata can also
+be seen as a subset of the data and like the Map-Territory
+relationship is another expession of the Level of Detail
+Point of View (LOD POV) 
 
 
 ** Table of Contents
@@ -180,6 +251,13 @@ one?
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-standards.org][Standards]]
  - 14. [[./ww-legibility.org][Legibility]]
+
+
+** References 
+
+- Koestler, A., The ghost in the machine (1989), : Arkama
+  Books. 
+  cite:koestler:1989ghost
 
 * Footnotes
 
