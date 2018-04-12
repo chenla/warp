@@ -120,7 +120,8 @@ I need more feedback to make sure I'm on track.
      gravitates towards organization sees it as living, as
      beauty, divine -- which are objective
  - [[./ww-alienation.org][Alienation]]
-- The Narrow Gate -- between our strengths and weaknesses
+ - High Modernism as the opposite of the Enlightenment
+ - The Narrow Gate -- between our strengths and weaknesses
    - Care
    - Practice
    - Rest
@@ -139,17 +140,58 @@ I need more feedback to make sure I'm on track.
    their parts.
  - care -- practice -- integrity
 
+** High Modernism
+
+#+begin_quote
+The grand schemes for improving the human condition that our
+century has witnessed failed because of an error in their
+perception of human knowledge. High modernists thought they
+knew better than ordinary human beings how society
+works. They aimed to replace the common understanding of
+social life with scientific knowledge. But scientific
+knowledge is too abstract to capture our understanding of
+local circumstances -- the practical knowledge the ancient
+Greeks called metis, which carried Odysseus though his
+adventures. This is the knowledge that modern governments
+ignored when they attempted to resettle peasant farmers in
+newly constructed villages. It is the knowledge urban
+planners lack when they try to construct cities according to
+a simple, comprehensive design.
+
+—  [[https://archive.nytimes.com/www.nytimes.com/books/98/04/19/reviews/980419.19graylt.html][The Best-Laid Plans]] |  John Gray, NYT April 19, 1998
+#+end_quote
+
+
 ** References
+
+Enlightenment
+
+  - Pinker, S., The blank slate: the modern denial of human
+    nature (2003), : Penguin Books.
+    cite:pinker:2003blank
+  - Pinker, S., The better angels of our nature: why
+    violence has declined (2012), : Penguin Books.
+    cite:pinker:2012better-angels
+  - Pinker, S., The cognitive niche: coevolution of
+    intelligence, sociality, and language, Proceedings of
+    the National Academy of Sciences, 107(Supplement 2),
+    8993–8999 (2010).
+    http://dx.doi.org/10.1073/pnas.0914630107
+    cite:pinker:2010cognitive
 
 High Modernism
 
+  - Saul, J. R., Voltaire's bastards: the dictatorship of
+    reason in the west (1993), : Vintage.
+    cite:saul:1993voltaires-bastards
   - Scott, J. C., Seeing like a state: how certain schemes
     to improve the human condition have failed (1998), :
     Yale University Press.
     cite:scott:1998seeing
-
   - [[http://calnewport.com/blog/2018/04/11/the-disturbing-high-modernism-of-silicon-valley/][The Disturbing High Modernism of Silicon Valley]] | Cal
     Newport 2018
+  - [[https://archive.nytimes.com/www.nytimes.com/books/98/04/19/reviews/980419.19graylt.html][The Best-Laid Plans]] |  John Gray, NYT April 19, 1998
+
 
 Alienation? 
   - [[https://aeon.co/essays/in-the-1950s-everybody-cool-was-a-little-alienated-what-changed][A History of Alienation]] | Aeon cite:jay:2018alienation
