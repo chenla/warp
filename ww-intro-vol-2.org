@@ -309,12 +309,34 @@ information structures remain after construction is
 complete, even though they can not be seen, or may never
 even be referred to afterwards.  We will examine six broad
 types of scaffolds that will be important to building
-civilizations, hierarchical-entities, ontologies,
+civilizations, hierarchical-entity models, ontologies,
 pace-layers, succession layers and stacks, goldilocks
 thresholds or zones, and finally the division between hard,
 wet and soft.
 
+Entity models have their roots in a rather dry document
+called /Functional Requirements for Bibliographic Records/
+which is commonly called FRBR (pronounced furbur).  The
+problem that FRBR was meant to solve was the profusion of
+variations, editions, print runs etc of individual works.  A
+work like Charles Dicken's /A Christmas Carol/ has been
+reprinted by hundreds of different publishers, in different
+formats with different typographical design, illustrations,
+annotations, line-numbers, running commentary etc. Add to
+this that the novella has been translated into hundreds of
+different languages and has been turned into radio plays,
+has audio books editions which are recordings of a person
+reading the book, television and full length movie
+adaptations and so on and so forth. But the story, and in
+most cases the text and arrangment of words is the same.
+How can you catalog and organize this great mass of
+variations on the same story that Charles Dickens wrote?
 
+The FRBR model does this by breaking up all variations into
+a hierarchy of what they call /entities/.  The top most
+entity is a work, which is a concept that represents the
+work and all it's incarnations as a whole.  This work
+then has multiple /expressions/ of that work.
 
 ** Table of Contents
  - 07. [[./ww-points-of-view.org][Points of View]]
