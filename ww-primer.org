@@ -30,6 +30,79 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+The Primer, despite its name, is not actually meant for use
+by end-users.  The Primer builds Pattern Language for
+generating a Hoard which will be a sort of Application
+(tho that term is to be used extremely loosely that will
+start from the assumption that the user has nothing, not
+even the means for basic survival.
+
+It will start as simple pictographs asking basic questions
+such as, do you have food?  Can you make fire? Do you have a
+shelter? Can you read? etc. and then guide the user through
+eachh step until they have mastered basic survival and have
+surplus time to learn more.  The system will be, in some
+respects similar to "The Young Ladies Illustrated Primer" in
+Neal Stephenson's novel /The Diamond Age/, but instead of
+targeting pre-teen girls, it will target anyone, even if
+they are living through a Mad Max post-apocolypse scenario.
+
+The system will determine what level of civilization that
+you are currently living in, and unlock all levels up to the
+level that you are in and start from there.
+
+The Hoard, which is generated from the Primer, is not merely
+an instructional device, but a complete infrastructure for
+building and maintaining a post-scarcity distributed
+multi-planet civilization. If you are laughing right now,
+good.  As I write this, of course we don't have a
+post-scarcity distributed multi-planet civilization.  You
+might well imagine a collapse that will leave you living in
+a Mad Max type scenario, but we aren't suggesting to rebuild
+things back to the way they were and pack things up, saying
+Mission Accomplished.  Look how well that turned out for
+George W. Bush?
+
+We are looking ahead to what is possible, using known
+science and the bleeding edge technology and base what we
+are capable of building on that.
+
+This is a moving target, most things that are true as I
+write this today will be outdated or at least superceded by
+new disoveries in a decade or less.  So this is why we are
+building this in the way we are.  We are not providing an
+instruction manual for building a future civilization, but a
+toolkit that will constantly be improved and evolve as
+things change, for generating successive iterative stages of
+civilization with the goal of creating a stable multi-planet
+post-scarcity civilization for Mankind that will be a place
+that we will want our children's children to live in.
+
+Is this aspirational?  In part, yes.  But it is an
+experiement as a first step down a very long road to make a
+better world for future generations.
+
+So think of the Primer as a tool for building a genome for
+generating a series of civilizations, that will improve with
+each iteration, a framework to help us continue to progress,
+steer us away from pitfalls and collapse scenarios.  If
+there is a collapse, it will be there to help pick up the
+pieces and start rebuilding the next day as quickly as
+possible.
+
+Our approach is a process not a plan, it is a generator that
+can take a vision on one side, and build it on the other.
+
+But a word of caution, this is a road for you to take, not a
+destination that you will likely live to arrive at.  And
+even if you do live to see it, there will be all sorts of
+new problems and dangers and things that we will have
+screwed up that will need to be fixed that we can't even
+imagine today.  But you have to start somewhere and this is
+where we have descided to start.
+
+** Table of Contents
+
   - Origin Story
     - Origin as Narrative
       - Big History
@@ -46,7 +119,8 @@ bibliography:../hoard/bib.bib
       - Maps
       - Time Line
       - Graph (places, events, people, things, ideas) 
-      - Dictionary
+      - Dictionary : defines every word used in primer, and canon.
+      - Canon : library
   - Calendar
   - Curriculum
     - Primer for a Distributed Civilization
@@ -84,8 +158,12 @@ bibliography:../hoard/bib.bib
   - Navigation: Ariadne'd Gate (or Pandora's Lid?)
     - learning threads
     - level completion
+    - code-base
+      - operating-system
+      - core languages
+      - core applications
+      - libraries  
 
-** Table of Contents
 
 ** Primer
 
