@@ -29,9 +29,35 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+ - Origin Story
+   - Origin as Narrative
+     - Big History
+   - Origin as World Model
+     -  
+ - Calendar
+ - Curriculum
+   - Primer for a Distributed Civilization
+   - Study Succession Model
+     - Foundations
+     - Trivium
+     - Laurea
+ - Keystones 
+   - Succession Model
+   - Entity Model
+
+
+
+
 ** Table of Contents
 
 ** Primer
+
+Every Primer should begin with an origin story -- not all
+Primers will cover as large a canvas as all of civilization,
+so scale your LOD to the scope of what your Primer will cover.
+
+
 
 *** Origin Story
   - Filters
@@ -46,9 +72,6 @@ bibliography:../hoard/bib.bib
   - 6. Collective Learning
   - 7. Agricuture
   - 8. The Modern Revolution
-
-
-
 
 The origin story is the first part of the primer,[fn:1]
 followed by the theses (declarations), then education (triv,
