@@ -445,11 +445,31 @@ The edwardian age is when all mechanical devices were
 electrified.  It was a magical transition that brought the
 industrial revolution up to steam, so to speak.
 
+But machines still were largely single purpose and had to be
+operated by people pull levers and still doing a lot of
+manual labour.  Cybernetic devices were single purpose,
+complex, difficult to build and easily broke down.
+
+All of this would change with the invention of the
+integrated circuit.
+
 *** Electronic
 electrified & electronic enlightened edwardian
 
+After World War II, the development of the integrated
+curcuit ushered in the electronic era.  Electronics, where
+machines could me miniturized from room sized clanking
+monsters to something that could hum quietly on a table top.
 
+Single purpose computational devices like the pocket
+calculator became possible, the transistor radio, and radios
+and steros moved from hot and somewhat fragile vacuum tubes
+to circuit boards.
 
+All of this required the machines that had been built in the
+tool and then clockwork stages and then electrified -- but
+now we had the ability to control them in far more flexible,
+powerful ways. 
 
 *** Cognitive
 cognitive machines, robotics, bio & nano-tech
