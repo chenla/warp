@@ -474,10 +474,64 @@ powerful ways.
 *** Cognitive
 cognitive machines, robotics, bio & nano-tech
 
+The computer revolution, which will soon be known as the
+cognitive-machine revolution took the transistor and
+miniturized it while at the same time increasing the number
+of transistors on a circuit from dozens to millions.
 
+This made possible general purpose computational machines
+that could be programed using codes written by people and
+then fed into the machine which would execute the
+instructions.
 
+This is just getting up to where we are today.
 
+These systems are now becoming capable of performing simple
+cognitive functions which allow them to do complex jobs with
+little or no human supervision, or participation.  There is
+a growing consensus that these systems are on the verge of
+being able to replace a very large range of jobs that have
+required humans to operate machinery.
 
+At the same time, these computational tools have made it
+possible to unlock and directly manipulate DNA -- so that we
+will soon be able to design organisms and adapt genomes in
+any way we see fit. 
+
+And as if this isn't enough, advances in material sciences
+are allowing us to create composite materials that are not
+seen in nature and allow us to build things that would have
+been thought impossible thirty years ago.
+
+Space flight, which has been possble for nearly a hundred
+years, but was handicapped by institutional and political
+layers of crud are now being replaced by a handful of
+private companies who are poised at turning spaceflight into
+something closer to airlines, than chartered launch
+services.  At present there are less than 1,500 satellites
+orbiting the planet.  This month a licence was granted to a
+company to launch over 2,500 new satellites that will have
+to be launched in the next six years.  And these first 2,500
+satellites are only the first wave of a deployment of more
+than 11,000 in total.  And all of this this is being done by
+only one company with no government financial support.  That
+same company plans on putting the first people on Mars by
+the middle of the next decade and a million people within 50
+years after that.
+
+The changes from any one of these revolutions would have as
+great an impact as the printing press, or steam or the
+transistor.  But we are now experiencing three to four
+revolutions of this magnitude all happening at the same
+time.  The changes that we will see over the next twenty
+years will dwarf all of the changes that mankind has
+experiences in the past 10,000 years.
+
+This is the world and the civilization that is just starting
+to emerge from these revolutions that we will need to guide
+and shape.  We will need frameworks like APPL/Primer and
+Hoard to adapt to these changes as quickly as they are
+taking place.
 
 ** Keystone Entity Model
 
