@@ -380,9 +380,41 @@ has lasted hundreds or thousands of years.  It's an
 interesting problem.
 #+end_comment
 
+So let's look a each of the five stages in turn:
 
 *** Tools
 hand tools, wind, water, and domesticed plants & animals.
+
+The tool-stage assumes that complex machines and industrial
+proccesses have been destroyed or can not be operated or
+function and all there is are people, hopefully some animals
+and basic hand tools.  This is essentially a pre-industrial
+level of civilization.
+
+The key here is to always look to jump start things to
+shorten this stage in any way possible.
+
+We will have knowledge that pre-industrial man didn't have
+-- knowledge of sanitation, viruses, medicine, and optics.
+We will know the basics of the periodic table and the uses
+for different types of materials far in advance and in far
+pure forms than they did.
+
+A lot of things were not possible in pre-industrial times
+because of impure materials and very low tolerances.  Steam
+and internal combustion engines need high tolerance very
+precise machining.  Even a mechanical watch required a level
+of precsion that only handful of people were capable of for
+moe than a hundred years after it's invention.
+
+We know far more about the nutrient needs of sustainable
+agriculture, food processing and preservation, and labor
+saving devices than they did.
+
+So it is possible to build a pre-idustrial village or town
+from the wreckage of an industrial collapse that would be
+far better than our ancestors at that stage of technology.
+
 *** Clockwork 
 enlightened edwardian civilization
 *** Electric
