@@ -30,47 +30,58 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
- - Origin Story
-   - Origin as Narrative
-     - Big History
-       - 01. The Big Bang
-       - 02. Stars Light Up
-       - 03. New Chemical Elements
-       - 04. Earth and the Solar System
-     - Life
-       - 05. Life on Earth
-       - 06. Collective Learning
-       - 07. Agricuture
-       - 08. The Modern Revolution
-   - Origin as Model
-     - Maps
-     - Time Line
-     - Graph (places, events, people, things, ideas) 
-     - Dictionary
- - Calendar
- - Curriculum
-   - Primer for a Distributed Civilization
-   - Study Succession Model
-     - Foundations
-     - Trivium :: cognitive toolbox
-       - grammar
-       - logic
-       - rhetoric
-     - Laurea  :: equiv of a PHD (everyone)
- - Keystones (reference standards, techniques, and designs)
-   - Succession Model
-     - Survival  : staying alive long enough to learn
-     - Tools     : hand tools, wind, water, and domesticed
-                   plants & animals).
-     - Clockwork : enlightened edwardian civilization
-     - Electric  : electrified & electronic enlightened edwardian
-     - Cognitive : cognitive machines, robotics, bio & nano-tech 
-   - Entity Model
-     - Keystone (concept)
-       - Variation (expression)
-         - Design (manifestation)
-           - Prototype (instance)
-  - Ariadne Guide;
+  - Origin Story
+    - Origin as Narrative
+      - Big History
+        - 01. The Big Bang
+        - 02. Stars Light Up
+        - 03. New Chemical Elements
+        - 04. Earth and the Solar System
+        - Life
+          - 05. Life on Earth
+          - 06. Collective Learning
+          - 07. Agricuture
+          - 08. The Modern Revolution
+    - Origin as Model
+      - Maps
+      - Time Line
+      - Graph (places, events, people, things, ideas) 
+      - Dictionary
+  - Calendar
+  - Curriculum
+    - Primer for a Distributed Civilization
+    - Study Succession Model
+      - Foundations
+      - Trivium :: cognitive toolbox
+        - grammar
+        - logic
+        - rhetoric
+      - Laurea  :: equiv of a PHD (everyone)
+  - Keystones (reference standards, techniques, and designs)
+    - Succession Model
+      - Survival  : staying alive long enough to learn
+      - Tools     : hand tools, wind, water, and domesticed
+                    plants & animals).
+      - Clockwork : enlightened edwardian civilization
+      - Electric  : electrified & electronic enlightened edwardian
+      - Cognitive : cognitive machines, robotics, bio & nano-tech 
+    - Entity Model
+      - Keystone (concept)
+        - Variation (expression)
+          - Design (manifestation)
+            - Prototype (instance)
+    - Pace-Layer Model
+      - Cosmos
+        - Helios
+          - Lithos
+            - Bios
+              - Anthros
+                - Culture           
+                - Governance
+                - Infrastructure
+                - Commerce
+                - Fashion
+  - Navigation: Ariadne'd Gate (or Pandora's Lid?)
     - learning threads
     - level completion
 
