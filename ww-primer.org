@@ -175,7 +175,7 @@ Every Primer should begin with an origin story -- not all
 Primers will cover as large a canvas as all of civilization,
 so scale your LOD to the scope of what your Primer will cover.
 
-*** Origin Story
+** Origin Story
   - Filters
 
   - 1. The Big Bang
@@ -235,6 +235,21 @@ great -- but that is not what Man is doing now.
   - production & surpluses
 
     - slavery/mass labour -> machinery -> cognitive machines
+
+
+
+** Entity Model
+
+
+
+#+begin_example
+  - Keystone (concept)
+    - Variation (expression)
+      - Design (manifestation)
+        - Prototype (instance)
+#+end_example
+
+
 
 
 ** Footnotes
