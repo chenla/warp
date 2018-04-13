@@ -203,31 +203,25 @@ planning, culture and governance though these were patterns
 that supported the construction of beautiful buildings.
 
 Our pattern language has a far broader scope; building an
-antifragile civilization for mankind.  It is such a broad,
-and ambitious scope that it borders on hubris.  After all we
-barely agree on what civilization is, let alone how to build
-one from first principles.  Though the undertaking is
-assuredly fated to fall far short of it's goals, it is
-important to instigate a tradition of people and
-institutions to try.  Over many generations such
-investigations could well become the foundation for and
-roadmap for our survival and hopefully, prosperity.
+antifragile civilization for mankind. 
 
-But if Mankind is to become antifragile, we must become as
-distributed as possible.  That means, among other things we
-need to be thinking beyond our own planet and how we can
-leverage the mind boggling wealth that we have in our solar
-system.  We have outgrown the carrying capacity of our
-fragile pale blue dot and we need to start tapping
-extraterrestrial resources or perish, certainly as a
-civilization and eventually as a species.
+Patterns alone will not be enough to build a civilization
+on.  For this reason in addition to Patters
 
-The pattern language is organized around Steward Brand's
-six-layer /Pace Layer/ model which is based on the
-observation that different things change at different
-speeds.  The model began as an observation that buildings
-can be thought of as being made of multiple layers with each
-changing over time at different speeds.
+** Patterns
+
+** Constants
+
+** Theses
+
+** Pace-Layer Model
+
+APPL is organized around Steward Brand's six-layer /Pace
+Layer/ model which is based on the observation that
+different things change at different speeds.  The model
+began as an observation that buildings can be thought of as
+being made of multiple layers with each changing over time
+at different speeds.
 
 Brand's model was made up of six parts:
 
