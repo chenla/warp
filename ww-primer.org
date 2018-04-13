@@ -133,12 +133,12 @@ where we have chosen to start.
       - Laurea  :: equiv of a PHD (everyone)
   - Keystones (reference standards, techniques, and designs)
     - Succession Model
-      - Survival  : staying alive long enough to learn
-      - Tools     : hand tools, wind, water, and domesticed
-                    plants & animals).
-      - Clockwork : enlightened edwardian civilization
-      - Electric  : electrified & electronic enlightened edwardian
-      - Cognitive : cognitive machines, robotics, bio & nano-tech 
+      - Survival   : staying alive long enough to learn
+      - Tools      : hand tools, wind, water, and domesticed
+                     plants & animals).
+      - Clockwork  : enlightened edwardian civilization
+      - Electronic : electrified & electronic enlightened edwardian
+      - Cognitive  : cognitive machines, robotics, bio & nano-tech 
     - Entity Model
       - Keystone (concept)
         - Variation (expression)
@@ -417,7 +417,31 @@ far better than our ancestors at that stage of technology.
 
 *** Clockwork 
 enlightened edwardian civilization
-*** Electric
+
+Edwardian England was an interesting time. Many technologies
+that had been invented during the Victorian era had begun to
+mature, and the fruits of the scientific revolution had
+begun to trickle down into the day to day lives of the
+average person.
+
+Edwardian England was the true beginning of the age of the
+machines that were powered by steam.  There will still any
+number of advances that still made life at that time
+dreadful, medicine was more an art than based on any real
+science.  Biology was still largely a mystery and basic
+questions about how the universe worked had been discovered
+but were still being debated.  But a great deal was possible
+if you had the right kind of knowledge.
+
+I see the clockwork stage as being a transitional stage
+between tools and the electric stage, because clockwork can
+be run on any power source and electricity is far more
+flexible than steam.  But the integrated circuit had yet to
+be invented and machines needed to be controlled using
+complex mechanical clockwork which would all be miniturized
+by electronics.
+
+*** Electronic
 electrified & electronic enlightened edwardian
 *** Cognitive
 cognitive machines, robotics, bio & nano-tech
