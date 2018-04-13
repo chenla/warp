@@ -362,6 +362,25 @@ scattered remnants of ruins and relics.  Their path is many
 orders of magnitude longer and more difficult than survivors
 rebuilding from a recent collapse.
 
+I believe, as does Dartnell, that it's more prudent to
+provide a starting point for recent surviors, as a practical
+matter of urgency, since this is a far more likely and
+immediate scenario we may have to contend with.
+
+#+begin_comment
+I want to expand this and explore both in more detail,
+including things that can be done to help jumpstart from
+scratch -- by leaving caches of raw materials or other
+approaches that could get them off the ground sooner.  Such
+caches need to be hidden, and forgotten unless there is such
+a long term collapse and will only be found by reading the
+from-scratch Hoard -- that means that the Hoard must not be
+accessable to anyone unless there has been a collapse that
+has lasted hundreds or thousands of years.  It's an
+interesting problem.
+#+end_comment
+
+
 *** Tools
 hand tools, wind, water, and domesticed plants & animals.
 *** Clockwork 
