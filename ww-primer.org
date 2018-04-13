@@ -290,7 +290,53 @@ elements:
     variation/design/prototype meets those requirements
   - code for running tests based on that data.
 
+*** Variation (expression)
 
+A Variation is an expression of a Keystone which can take
+any approach it wants to epressing the keystone so long as
+it is compliant with the functional requirements and is
+working towards meeting all use-case scenarios.
+
+In many cases, the early variation iterations will fall far
+short of the initial goal and will remain as a
+work-in-progress, or draft, before finally becomeing a
+recommendation.
+
+A Variation is not an actual design, designs can be used to
+build something that works in the real world.  Rather, a
+Variation is sort of like a patent application that shows
+how something is supposed to work.
+
+*** Design (manifestation)
+
+A manifestation is an actual design that can be used to
+build something.
+
+All designs are meant to be part of a specific base-line
+succession stage, this means that the design must include
+everything needed to be built at that stage.  Separate
+menifestations will be created for more advanced stages.
+
+So for example, a design for a hammer that will work at the
+tool stage (and an early stage of the tool stage) will need
+a pictorial design that can be understood by an illiterate
+person.  Another design manifestion will be for a literate
+person with access to acurate measuring devices, better
+quality materials and manufacturing processes for use in the
+clockwork and electric stages.  Finally, a design
+manigestation will be required that include CAD files, as
+well as the software for an automated system system to build
+the hammer will be required as well.
+
+Since there will differences in the media used for each type
+of manifestation, each design will include documentation for
+the correct and safe use of the built design.
+
+*** Prototype
+
+The prototype will mostly be documentation for showing the
+end results of building the design using these different
+design manifestations for each stage.
 
 ** Footnotes
 
