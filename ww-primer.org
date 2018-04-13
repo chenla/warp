@@ -175,8 +175,6 @@ Every Primer should begin with an origin story -- not all
 Primers will cover as large a canvas as all of civilization,
 so scale your LOD to the scope of what your Primer will cover.
 
-
-
 *** Origin Story
   - Filters
 
@@ -238,81 +236,6 @@ great -- but that is not what Man is doing now.
 
     - slavery/mass labour -> machinery -> cognitive machines
 
-*** Slavery and Civilization
-
-All employment at scale has at its roots, human slavery. I
-realize that at first this sounds like an inflammatory
-statement, but it's not.  Once you grow a group beyond the
-scale of a band or small tribe, you slavery begins to
-emerge.  This is universal, it cuts across all human
-societies and religions and ideologies (tho religion is a
-subset of ideology).
-
----
-
-Two sides to slavery; surplus mind and muscle, you need both
-to create a surplus that leads to surpluses that free a
-proportion of the population to pursue intellectual pursuits
-that result in advancements in technology, sciences and the
-arts.
-
-This follows toffler: 
-
-    force -> wealth -> knowledge
-
-Human labour at scale mirrors this perfectly: 
-
-    slave/convict -> indenture/conscript -> employee
-
-At each level labour becomes more abstract, flexible and
-more powerful, but at base it's jelly beans, they might all
-have different pretty colors but inside it's all made up of
-the same sugary crap.
-
-My argument here is that labour does not and can not scale
-without it becoming a manifestation of slavery.
-
-
-  - domesticated animals had the muscle but not the mind so
-    you still needed slaves who were compelled through
-    physical force to direct the beasts.  people submited to
-    slavery because of fear of physical force.
-
-  - machines had the muscle but not the mind so you needed
-    captive labour in the form of factory workers who were
-    economically compelled to work to direct the machines.
-    This system is more flexible and scalable than slavery.
-    people submited to industrial factory jobs because of
-    fear of poverty.  after poverty was largely taken out of
-    the equation other fears were leverages -- leveraing
-    fear is how to keep slaves in line.  keep them dumb,
-    control what information they have access to, keep them
-    scared and then give them cheap consumer goods so that
-    they produce and consume as they are told.
-
-  - when you use machine cognition to direct the machines
-    you get robots which does not require compelled human
-    labor.  Ths system is more flexible and scalable than
-    mass indusitural human labor.
-
-So when you hear claims that it was machines that were responsible for
-ending slavery they are both right and wrong.  The nature of slavery
-simply changed from a model based on physical force, to a model based
-on symbolic wealth.  The work force might have the illusion of being
-free but for all practical purposes it was still slavery.  This then
-frames the other claim that it was the development of moral and
-ethical motivations that ended slavery.  Those moral arguements were
-used to change the nature of slavery, not to end it.  And in so doing
-was able to scale slavery to proportions that couldn't have been
-dreamed of in the wildest dreams of the most barbaric banna
-plantation in central America or Cotton farm in the old south.
-
-However, even before 1800 it's difficult to know how many slaves there
-were because not all slaves were called slaves.  Serf's, indentured
-labor etc. are all forms of the same shade.  This is also true in the
-modern industrial era where incarceration in many places is little
-more than another form of legal slavery.  Conscription has also taken
-forms that are little different from slavery as well.
 *** Constants
 
 Constants are bedrock variables that define things that can
