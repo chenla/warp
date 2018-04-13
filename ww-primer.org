@@ -238,7 +238,22 @@ great -- but that is not what Man is doing now.
 
 
 
-** Entity Model
+** Succession Model
+
+
+
+#+begin_example
+  - Survival  : staying alive long enough to learn
+  - Tools     : hand tools, wind, water, and domesticed
+                plants & animals).
+  - Clockwork : enlightened edwardian civilization
+  - Electric  : electrified & electronic enlightened edwardian
+  - Cognitive : cognitive machines, robotics, bio & nano-tech
+#+end_example
+
+
+
+** Keystone Entity Model
 
 The bulk of the Primer will be made up of keystone reference
 items.
