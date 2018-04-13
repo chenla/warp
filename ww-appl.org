@@ -212,6 +212,24 @@ on.  For this reason in addition to Patters
 
 ** Constants
 
+Constants are bedrock variables that define things that can
+not be changed like the speed of light or dunbar's number.
+They supercede what we want or what we would like and
+provide empirical design limits.  No theses can =violate= or
+contradict a =constant=.
+
+#+begin_comment
+The following files are in ~/proj/manifesto/  they need to
+be moved to APPL, once we have worked out the structure and
+file naming conventions.
+#+end_comment
+
+ - [[./manifesto/constant-speed-of-light.org][Speed of Light]]
+ - [[./manifesto/constant-dunbar.org][Dunbar's Number]]
+ - [[./manifesto/constant-millers-law.org][Miller's Law]] (7 plus or minus 2)
+ - [[./manifesto/constant-divided-concurrent-goals.org][Divided Concurrent Goals]]
+ - [[./manifesto/constant--shared_intentionality.org][Shared Intentionality]]
+
 ** Theses
 
 ** Pace-Layer Model
