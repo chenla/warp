@@ -232,6 +232,14 @@ file naming conventions.
 
 ** Theses
 
+Scopic Theses are declarations that provide a foundation for
+a =civil ruleset= for people to live and cooperate with each
+other.  Our theses is a social fiction that defines how we
+/want/ to live and behave with each other.
+
+ - [[./manifesto/theses-preamble.org][Preamble]]
+ - [[./manifesto/theses-notes.org][Theses Notes]]
+
 ** Pace-Layer Model
 
 APPL is organized around Steward Brand's six-layer /Pace
