@@ -240,16 +240,55 @@ great -- but that is not what Man is doing now.
 
 ** Succession Model
 
+The Succession model is designed so that Hoards can be
+generated to work at specific technological and sociel
+levels of development.
 
+Giving someone lessons in quantum mechanics and CAD files
+for building a molten salt battery is not going to be of
+much help to someone who is trying to survive in a
+post-collapse survival scenario.
 
-#+begin_example
-  - Survival  : staying alive long enough to learn
-  - Tools     : hand tools, wind, water, and domesticed
-                plants & animals).
-  - Clockwork : enlightened edwardian civilization
-  - Electric  : electrified & electronic enlightened edwardian
-  - Cognitive : cognitive machines, robotics, bio & nano-tech
-#+end_example
+For this reason Primers are designed for five different
+succession stages:
+
+  - Survival 
+  - Tools 
+  - Clockwork
+  - Electric
+  - Cognitive
+
+Each stage is designed to build on the foundation of the
+stage before it.  Because of this, you can't jump from a
+Tool Stage directly to the Electric State beause you will
+not have the industrial infrasructure, knowledge or
+experience to be able to do so.
+
+In fact, we expect that in many cases, people today will
+have to refer back to many things in earlier stages because
+a lot of knowledge has been lost of how to do mahy things
+less than inustrial scales.
+
+This will be the first big challenge for our present
+civilizaton, to take centralized massive scale industrial
+processes and adapting them to smaller distributed
+production systems that are part of a fine-grained supply
+and production chain that works as efficiently at small
+scales as our present system can only do at massive scales.
+
+Another requirement will be for all stages to be able to
+gracefully degrade.  In the event of a collapse, a cognitive
+stage region who has suffered a catastrophe should be able
+to revert without too much hardship to a lower stage of
+production and existence either temporaily or for protracted
+periods of time.  So each stage must be reversible.  A
+washing machine that runs at the Cognitive Stage must be
+able to degrade as far back as to the Clockwork stage and
+still be functional until infrastructure is restored.
+
+For this to work, all designs and production must produce
+things that are durable, use-repairable, up-gradeable and
+down-gradeable.
 
 *** Survival
 staying alive long enough to learn
