@@ -99,7 +99,7 @@ even if you do live to see it, there will be all sorts of
 new problems and dangers and things that we will have
 screwed up that will need to be fixed that we can't even
 imagine today.  But you have to start somewhere and this is
-where we have descided to start.
+where we have chosen to start.
 
 ** Table of Contents
 
@@ -155,7 +155,7 @@ where we have descided to start.
                 - Infrastructure
                 - Commerce
                 - Fashion
-  - Navigation: Ariadne'd Gate (or Pandora's Lid?)
+  - Navigation: Ariadne's Gates (or Pandora's Lid?)
     - learning threads
     - level completion
     - code-base
@@ -163,7 +163,11 @@ where we have descided to start.
       - core languages
       - core applications
       - libraries  
-
+  - Build Process
+    - Deployment
+    - Propagation
+    - Continious Releases
+    - Rollback Contingencies
 
 ** Primer
 
