@@ -236,30 +236,6 @@ great -- but that is not what Man is doing now.
 
     - slavery/mass labour -> machinery -> cognitive machines
 
-*** Constants
-
-Constants are bedrock variables that define things that can
-not be changed like the speed of light or dunbar's number.
-They supercede what we want or what we would like and
-provide empirical design limits.  No theses can =violate= or
-contradict a =constant=.
-
- - [[./constant-speed-of-light.org][Speed of Light]]
- - [[./constant-dunbar.org][Dunbar's Number]]
- - [[./constant-millers-law.org][Miller's Law]] (7 plus or minus 2)
- - [[./constant-divided-concurrent-goals.org][Divided Concurrent Goals]]
- - [[./constant--shared_intentionality.org][Shared Intentionality]]
-
-*** Theses
-
-Scopic Theses are declarations that provide a foundation for
-a =civil ruleset= for people to live and cooperate with each
-other.  Our theses is a social fiction that defines how we
-/want/ to live and behave with each other.
-
- - [[./theses-preamble.org][Preamble]]
- - [[./theses-notes.org][Theses Notes]]
-
 
 ** Footnotes
 
