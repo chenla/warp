@@ -291,9 +291,79 @@ things that are durable, use-repairable, up-gradeable and
 down-gradeable.
 
 *** Survival
-staying alive long enough to learn
+
+This stage could actually be designed to work in two broad
+scenarios.  We will not decide which or if both of these
+scenarios will be supported.
+
+The first scenario is to provide instructions on rebuilding
+a civilization that has collapsed.  In Lewis Dartnell's
+book, /The Knowledge/ he lays out the initial conditions:
+
+#+begin_quote
+Of course, even in one of the extreme doomsday scenarios,
+groups of survivors would not need to become self-sufficient
+immediately. If the great majority of the population
+succumbed to an aggressive virus, there would still be vast
+resources left behind. The supermarkets would remain stocked
+with plentiful food, and you could pick up a fine new set of
+designer clothes from the deserted department stores or
+liberate from the showroom the sports car you’ve always
+dreamed about. Find an abandoned mansion, and with a little
+foraging it wouldn’t be too hard to salvage some mobile
+diesel generators to keep the lighting, heating, and
+appliances running.  Underground lakes of fuel remain
+beneath gas stations, sufficient to keep your new home and
+car functioning for a significant period. In fact, small
+groups of survivors could probably live pretty comfortably
+in the immediate aftermath of the Fall. For a while,
+civilization could coast on its own momentum. The survivors
+would find themselves surrounded by a wealth of resources
+there for the taking: a bountiful Garden of Eden.  
+
+But the Garden is rotting.  
+
+Food, clothes, medicines, machinery, and other technology
+inexorably decompose, decay, deteriorate, and degrade over
+time. The survivors are provided with nothing more than a
+grace period. With the collapse of civilization and the
+sudden arrest of key processes— gathering raw materials,
+refining and manufacturing, transportation and
+distribution—the hourglass is inverted and the sand steadily
+drains away. The remnants provide nothing more than a safety
+buffer to ease the transition to the moment when harvesting
+and manufacturing must begin anew.
+
+— cite:dartnell:2014knowledge
+
+#+end_quote
+
+All sorts of other assumptions can also be made of
+survivors.  We can expect them to be literate, have a basic,
+if tenuous grasp of basic classical mechanics and physics
+and tools (though not as many as one would expect or even
+hope).  All sorts of raw materials including metals and even
+plastics can be recovered and recycled.  It's far easier to
+melt down a pile of aluminium cans and recast the aluminium
+for other purposes.  It's extremely difficult to find
+bauxite deposits, refine the ore into alumina and get
+aluminum that can be used to make things.  Less than two
+hundred years ago, despite bauxite being one of the most
+plentiful and easily mined minerals on the planet,
+aluminimum was far more expensive than gold or platinum
+because of the enormous energy and chemical requirements to
+refine aluminimum.
+
+The second scenario is to provide a second survival level
+Hoard for those who don't stumble across the Hoard for
+hundreds or even thousands of years, long after our
+industrial civilization has rotted and decayed into
+scattered remnants of ruins and relics.  Their path is many
+orders of magnitude longer and more difficult than survivors
+rebuilding from a recent collapse.
+
 *** Tools
-hand tools, wind, water, and domesticed plants & animals).
+hand tools, wind, water, and domesticed plants & animals.
 *** Clockwork 
 enlightened edwardian civilization
 *** Electric
