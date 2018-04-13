@@ -240,7 +240,12 @@ great -- but that is not what Man is doing now.
 
 ** Entity Model
 
+The bulk of the Primer will be made up of keystone reference
+items.
 
+Many of these will be prescriptive and descriptive designs
+and processes.  They will be organized using the following
+Entity Model.
 
 #+begin_example
   - Keystone (concept)
@@ -249,6 +254,41 @@ great -- but that is not what Man is doing now.
         - Prototype (instance)
 #+end_example
 
+We hope to avoid the committee rat trap, and ensure that
+keystones are as free of jargan as possible, be an iterative
+approach, rather than a committee concensus based approach
+with each change or correction or addition slowed down by
+politics and different motivations.
+
+A lot of the problems with standards developement will
+actually be made easier using the entity model, because
+different groups can develop their own Variations, even fork
+variations without permission and proceed however they wish.
+Then, hopefully we will have a mechanism for choosing the
+the best variations as normative references for developing
+designs.
+
+A good way of thinking about the development model is as a
+GitHub/GitLab type collection of repositories which anyone
+can contribute to.  All repos will be under an open licence
+and can be forked and adapted in any way people wish.
+
+*** Keystone (concept)
+
+A Keystone is a concept representing the design or process.
+Like the Work entity in FRBR.  Unlike the Work entity the
+Keystone entity will be closer to a working specification
+for what it describes, along similar lines that you see in
+W3W early stages of specification development.  The keystone
+should be clear, jargon free and include the following
+elements:
+
+  - description
+  - functional requirements 
+  - use-case scenarios
+  - data sets for use for testing to see if a
+    variation/design/prototype meets those requirements
+  - code for running tests based on that data.
 
 
 
