@@ -6,7 +6,7 @@
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w&w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -39,7 +39,7 @@ ecological, global biospheric system which includes hydro and
 atmospheric systems build on top of a lithosphere (literally
 rock) which is the physical planet, as well the the
 heliospheric system (the sun) which which is at the heart of
-the solar-system.  The solarasystem is, in turn part of a
+the solar-system.  The solar system is, in turn part of a
 galactic system which on geological timescales directly
 impact life on our planet as our sun orbits the galaxy and
 at different times is closer or further proximity to other
