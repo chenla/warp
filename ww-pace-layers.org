@@ -60,3 +60,74 @@ Machines -- let's use three examples:
   - Cars
   - Washing Machines
   - Computers
+
+
+** Braudel
+
+#+begin_quote
+The first part is devoted to a history whose passage is
+almost imperceptible, that of man in his relationship to the
+environment, a history in which all change is slow, a
+history of constant repetition, ever-recurring cycles. I
+could not neglect this almost timeless history, the story of
+man's contact with the inanimate, neither could I be
+satisfied with the traditional geographical introduction to
+history that often figures to little purpose at the
+beginning of so many books, with its descriptions of the
+mineral deposits, types of agriculture, and typical flora,
+briefly listed and never mentioned again, as if the flowers
+did not come back every spring, the flocks of sheep migrate
+every year, or the ships sail on a real sea that changes
+with the seasons.
+
+On a different level from the first there can be
+distinguished another history, this time with slow but
+perceptible rhythms. If the expression had had not been
+diverted from its full meaning, one could call it social
+history, the history of groups and groupings. How did these
+swelling-currents affect Mediterranean life in general --
+this was the question I asked myself in the second part of
+the book, studying in turn economic systems, states,
+societies, civilizations and finally, in order to convey
+more clearly my conception of history, attempting to show
+how all these deep-seated forces were at work in the complex
+arena of warfare. For war, as we know, is not an arena
+governed purely by individual responsibilities.
+
+Lastly, the third part gives a hearing to traditional
+history - history, one might say, on the scale not of man,
+but of individual men, what Paul Lacombe and Francois
+Simiand called /'l'histoire événementielle'/, that is, the
+history of events: surface disturbances, crests of foam that
+the tides of history carry on their strong backs. A history
+of brief, rapid, nervous fluctuations, by definition
+ultra-sensitive; the least tremor sets all its antennae
+quivering. But as such it is the most exciting of all, the
+richest in human interest, and also the most dangerous. We
+must learn to distrust this history with its still burning
+passions, as it was felt, described, and lived by
+contemporaries whose lives were as short and as
+short-sighted as ours. It has the dimensions of their anger,
+dreams, or illusions. In the sixteenth century, after the
+true Renaissance, came the Renaissance ofthe poor, the
+humble, eager to write, to talk of themselves and of
+others. This 'precious mass of paper distorts, filling up
+the lost hours and assuming a false importance. The
+historian who takes a seat in Philip II's chair and reads
+his papers finds himself transported into a strange
+one-dimensional world, a world of strong passions certainly,
+blind like any other living world, our own included, and
+unconscious of the deeper realities of history, of the
+running waters on which our frail barks are tossed like
+cockleshells. A dangerous world, but one whose spells and
+enchantments we shall have exorcised by making sure first to
+chart those underlyingcurrents, often noiseless, whose
+direction can only be discerned by watching them over long
+periods of time. Resounding events are often only momentary
+outbursts, surface manifestations of these larger movements
+and explicable only in terms of them.
+
+— cite:braudel:1972mediterranean-1 p.21-22
+
+
+#+end_quote 
