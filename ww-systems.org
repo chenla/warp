@@ -30,7 +30,37 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+A civilization is a human system so we must first and
+foremost understand civilizations using systems thinking, or
+systems theory.  It's important to understand that
+civilization is not an isolated system, it is simply a layer
+that acts as a separate system which is part of local
+ecological, global biospheric system which includes hydro and
+atmospheric systems build on top of a lithosphere (literally
+rock) which is the physical planet, as well the the
+heliospheric system (the sun) which which is at the heart of
+the solar-system.  The solarasystem is, in turn part of a
+galactic system which on geological timescales directly
+impact life on our planet as our sun orbits the galaxy and
+at different times is closer or further proximity to other
+stellar systems, radiation, gas and matter that our star
+passes through.  When our sun has a close brush with another
+star, the Oort Clouds of both systems will pass through each
+other and we will exchange asteriods, some of which will
+become comets.  This has happened many times in the history
+of our solar system though we have no idea how many times or
+how it has effected us.  The more we can examine objects
+from the Oort cloud the more we will learn about these
+things.  There is even the possibility that life on earth,
+which has been trapped in the ice of a comet could have been
+captured by a passing star and seeding life to other solar
+systems.  And obviously the reverse could be true as well
+and life on earth could have first evolved in another system
+that infected us!
+
 how we divide things and increase complexity
+
+*** Systems
 
 systems are made up of different components that are filled
 by specialized sub-processes.  The larger the system, the
@@ -40,6 +70,8 @@ the larger territory/population.
 
 A sub process could be a plant or animal in an ecosystem, or
 it could be a specialization in a society/civilization.
+
+*** Spectializations
 
 Several things happen to specialists -- first, the domain of
 a specialist process is called a niche.  If the specialist
@@ -116,4 +148,25 @@ see this over and over in natural history and in societies.
         specialization because they don't require
         hierarchical coordination -- planned economies fail
         because of top-down command and control which is not
-        flexible enough to meet the needs of unpredictible complexity.
+        flexible enough to meet the needs of unpredictible
+        complexity.
+
+  - Specializations & niches
+    - the larger the territory of a system, the higher the
+      number of specializations -- this is because as things
+      scale more variations are introduced between the
+      different specializations that fill niches (needs) in
+      a system so the system adapts by creating variations
+      that specialize in meeting the needs in local
+      variations.
+    - when two systems come into contact with each other,
+      the more interaction between the two systems (the less
+      that each system is isolated from each other) the
+      tendency if for the to systems to merge into a single
+      homogeneous system.
+    - when systems merge, specializations that fill the same
+      niche in the previous separate systems begin to
+      compete  for the same niche.  The speialization that
+      is better adapted to fill the combined niches will
+      tend replace the other specialization.
+
