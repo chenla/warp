@@ -13,7 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
-* Specializations
+* Systems
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-systems.org
@@ -71,7 +71,7 @@ the larger territory/population.
 A sub process could be a plant or animal in an ecosystem, or
 it could be a specialization in a society/civilization.
 
-*** Spectializations
+*** Specializations
 
 Several things happen to specialists -- first, the domain of
 a specialist process is called a niche.  If the specialist
