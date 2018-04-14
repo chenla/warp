@@ -66,6 +66,21 @@ Machines -- let's use three examples:
 ** Braudel
 
 #+begin_quote
+nsofar as this huge book has a general argument, it is that
+time moves at different speeds, and that it is useful to
+distinguish three ‘temporalities’ in particular. There is
+the short term, the time of events, time as it is perceived
+by contemporaries; the middle term, the time of ‘economic
+systems, states, societies, civilisations’; and finally, the
+very long term, the ‘almost timeless history’ of man’s
+relation to the environment.
+
+— [[https://www.lrb.co.uk/v05/n01/peter-burke/braudels-long-term][Braudel’s Long Term]] | Peter Burke, London Review of Books 
+  cite:burke:1982braudels-long-term
+#+end_quote
+
+
+#+begin_quote
 The first part is devoted to a history whose passage is
 almost imperceptible, that of man in his relationship to the
 environment, a history in which all change is slow, a
@@ -129,8 +144,6 @@ outbursts, surface manifestations of these larger movements
 and explicable only in terms of them.
 
 — cite:braudel:1972mediterranean-1 p.21-22
-
-
 #+end_quote 
 
 
@@ -138,5 +151,11 @@ and explicable only in terms of them.
 
 ** References
 
-  - 
-    cite:braudel:1972mediterranean-1 p.21-22
+  - Braudel, F., The mediterranean and the mediterranean
+    world in the age of philip ii: volume i (1972), :
+    Collins. p.21-22
+    cite:braudel:1972mediterranean-1 
+
+  - Burke, P., Braudel's Long Term, London Review of Books,
+    5(1), 17–18 (1982).
+    cite:burke:1982braudels-long-term 
