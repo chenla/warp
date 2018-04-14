@@ -147,6 +147,58 @@ and explicable only in terms of them.
 #+end_quote 
 
 
+** Notes
+
+***  Proactive long term pace-layer maps
+:PROPERTIES:
+:CREATED: <2017-12-06 Wed 19:51>
+:ID:      1e2c67a6-3931-47ea-bdde-a3980f8f4547
+:REF:     [[id:13ba44de-c891-4ddf-a7e3-dbf515b15ccc][Introduction]]
+:END:
+
+When we plan, especially when it comes to land use, we need to be
+thinking about how things will be 500 years from now, with the plan
+being revisited every 50 year scope.
+
+Maps need to be designed around pace layers -- different things change
+at different speeds -- if this is reflected in the map, many things
+become easier....
+
+These maps can not locked away in a zoning office -- they must be kept
+in living memory of the community -- so that everyone knows where they
+came from, where they are and where they are collectively going.  so
+in a sense they are aspirational, as any long term plan is, but they
+are corrected over time, so that it's clear what we got right and what
+we got wrong and /learn/ from what we got wrong.  Over many iterations
+we'll get better, so long as we keep iterating and remember what
+worked and what didn't in the past.
+
+
+If sea level rise in inevitable, then redraw maps to start moving
+people to places that are defensible.  Are regions destined to become
+deserts?  Or will have heavy rains, or excessive heat, or places that
+are cold today that will be warm tomorrow....
+
+Swamp and marshlands need to be restored.
+
+On Mars we need to be thinking about what things will look like once
+terraforming kicks in and the planet heats up and there is liquid
+water on the planet again.  Where will the new rivers and seas be.
+
+Plan for different bioregions from day one -- so that settlements
+under domes can eventually remove their domes as pressure and heat
+increases -- so that eventually the domed natural habitats will fit
+the climate that eventually will be in that location.
+
+Then build accordingly.  There is a lot of latitude here because
+earthworks can be designed to reinforce these choices within reason.
+
+For planetoids (asteroids, moons etc) there should be broad plans for
+what is to be built and done -- locate settlements that won't be
+impacted by resource mining and processing -- are you going to hollow
+out and spin up an asteroid?  Before you land, have that intention
+mapped out and in place so that early initial decsions won't create
+problems decades or even centuries later.
 
 
 ** References
@@ -165,7 +217,9 @@ and explicable only in terms of them.
     5(1), 17–18 (1982).
     cite:burke:1982braudels-long-term 
 
-  - [[http://blog.longnow.org/02015/02/08/pace-layers-stewart-brand-paul-saffos-conversations-at-the-interval/][Pace Layer Thinkers: Stewart Brand and Paul Saffo’s
-    Conversation at The Interval]] 
+  - Em, M., /Pace layer thinkers: stewart brand and paul
+    saffo’s conversation at the interval, recap and full
+    audio/ (2015).
+    cite:em:2015pace-layer-thinkers
 
-  - 
+
