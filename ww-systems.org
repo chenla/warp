@@ -88,6 +88,7 @@ to be better than the other and takes over that niche.  We
 see this over and over in natural history and in societies.
 
 ** Table of Contents
+ - Cybernetics 
 
  - Systems Thinking
    - Relationships between different parts of a system
@@ -170,3 +171,33 @@ see this over and over in natural history and in societies.
       is better adapted to fill the combined niches will
       tend replace the other specialization.
 
+** References
+
+  - Meadows, D. H., Dancing with systems, The Sustainability
+    Institute, (), (2002).
+    cite:meadows:2002dancing
+  - Meadows, D. H., Leverage points: places to intervene in
+    a system, The Sustainability Institute, (), 21 (1999).
+    cite:meadows:1999leverage
+  - Meadows, D. H., & Wright, D., Thinking in systems: a
+    primer (2009), : Earthscan.
+    cite:meadows:2009thinking
+  - Brand, S., /Pace layering: how complex systems learn and
+    keep learning/ (2018).
+    cite:brand:2018pace-layering
+  - Weinberg, G. M., An introduction to general systems
+    thinking (2001), : Dorset House.
+    cite:weinberg:2001systems-thinking
+  - Baumard, N., Hyafil, A., & Boyer, P., What changed
+    during the axial age: cognitive styles or reward
+    systems?, Communicative \& integrative biology, 8(5),
+    1046657 (2015).
+    cite:baumard:2015changed
+  - Gell-MannMurray, M., Complexity and complex adaptive
+    systems, In , Santa Fe Institute Studies In The Sciences
+    Of Complexity-Proceedings (pp. 177–177) (1992). : .
+    cite:gell-mann1992complexity-adaptive
+  - Gell-Mann, M., Complex adaptive systems, In , Santa Fe
+    Institute Studies In The Sciences Of
+    Complexity-Proceedings (pp. 11–11) (1994). : .
+    cite:gell-mann:1994complex
