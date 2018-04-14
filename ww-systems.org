@@ -200,4 +200,19 @@ see this over and over in natural history and in societies.
   - Gell-Mann, M., Complex adaptive systems, In , Santa Fe
     Institute Studies In The Sciences Of
     Complexity-Proceedings (pp. 11–11) (1994). : .
-    cite:gell-mann:1994complex
+    cite:gell-mann:1994complex 
+  - Wiener, N., Cybernetics, second edition: or the control
+    and communication in the animal and the machine
+    (1965), : MIT. 
+    cite:wiener:1965cybernetics-2nd-ed 
+  - Wiener, N., God and golem: a comment on certain points
+    where cybernetics impinges on religion (1964), : The
+    M.I.T. Press.
+    cite:wiener:1964god-golem
+  - Wiener, N., The human use of human beings: cybernetics
+    and society (1989), : Free Assciation Books.
+    cite:wiener:1989human
+  - Engelbart, D. C., Augmenting human intellect: a
+    conceptual framework (1962), : Stanford Research
+    Institute.
+    cite:engelbart:1962augmenting
