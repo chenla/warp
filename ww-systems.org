@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Specializations
+#+TITLE: Systems
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -16,7 +16,7 @@ bibliography:../hoard/bib.bib
 * Specializations
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-specializations.org
+:Name:     /home/deerpig/proj/chenla/warp/ww-systems.org
 :Created:  2018-04-11T23:17@Prek Leap (11.642600N-104.919210W)
 :ID:       20ea1ca3-d723-431d-9c8e-7b1b83b01430
 :VER:      576735489.296135798
