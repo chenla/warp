@@ -92,3 +92,15 @@ us at human scales.
     - One Step Forward, Two Steps Back
 
 
+** Notes
+
+
+
+#+begin_comment
+Tainter argues that civilizations hit maximum complexity and
+can't sustain itself -- rather civs max out their ability to
+innovate and change the parameters of the petri dish -- they
+hit the edge of the petri dish because they could not find a
+way to grow.
+#+end_comment
+
