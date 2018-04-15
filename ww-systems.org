@@ -358,7 +358,10 @@ see this over and over in natural history and in societies.
     conceptual framework (1962), : Stanford Research
     Institute.
     cite:engelbart:1962augmenting
-
+  - M\"uller, K, The new science of cybernetics: a primer,
+    Journal of Systemics, Cybernetics and Informatics,
+    11(9), 32–46 (2013). 
+    cite:muller2013new
   - Foerster, H. V., Understanding understanding: essays on
     cybernetics and cognition (2002), : Springer.
     cite:foerster:2002understanding
