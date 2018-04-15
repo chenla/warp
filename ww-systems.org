@@ -359,6 +359,10 @@ see this over and over in natural history and in societies.
     Institute.
     cite:engelbart:1962augmenting
 
+  - Foerster, H. V., Understanding understanding: essays on
+    cybernetics and cognition (2002), : Springer.
+    cite:foerster:2002understanding
+
   - Bateson, M. C., /How to be a systems thinker: a
     conversation with mary catherine bateson/ (2018).
     cite:bateson:2018how-systems-thinker
