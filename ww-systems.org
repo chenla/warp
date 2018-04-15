@@ -344,3 +344,7 @@ see this over and over in natural history and in societies.
     conceptual framework (1962), : Stanford Research
     Institute.
     cite:engelbart:1962augmenting
+
+  - Bateson, M. C., /How to be a systems thinker: a
+    conversation with mary catherine bateson/ (2018).
+    cite:bateson:2018how-systems-thinker
