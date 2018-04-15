@@ -30,6 +30,20 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+I'm starting to envision this to be in three broad parts:
+
+  - use Meadows summary as guild for introduction to systems
+    thinking for civilization
+  - use concept of positive and negative space in
+    architecture to understand specialization: ecological,
+    social and economic.
+  - second-order cybernetics as a means of understanding
+    systems and undestanding understanding because this is
+    the framework we will use for building systems code that
+    Middle can use to automatic the middle bits.
+
+---
+
 A civilization is a human system so we must first and
 foremost understand civilizations using systems thinking, or
 systems theory.  It's important to understand that
