@@ -37,8 +37,11 @@ human muscle and typically directly comes into contact with the
 material it is working with.
 
 Machines are often complex externally powered mechanisms that provide
-an infrastructure (as does the human body for a tool) that directs and
-controls it.
+a complex mechanism (as does the human body for a tool) that directs
+and controls it.
+
+Most things things we will call machines here are mechanical or
+cognitive systems.
 
 We divide machines into two classes, machine-clockwork (or clockwork
 machines) and machine-cognition (or cognitive machines).
@@ -70,3 +73,29 @@ self-directed.
 
 ** Table of Contents
 
+
+- Classification of Tools
+  - Simple Machines (classical mechanical)
+    SEE: [[https://en.wikipedia.org/wiki/Simple_machine][Simple Machine]] | Wikipedia
+    - Lever
+    - Wheel and axle
+    - Pully
+    - Inclined plane
+    - Wedge
+    - Screw 
+
+  - kinematic chains are used to model mechanical systems
+
+- Classification of Machines
+
+#+begin_quote
+This realization shows that it is the joints, or the connections that
+provide movement, that are the primary elements of a machine. Starting
+with four types of joints, the revolute joint, sliding joint, cam
+joint and gear joint, and related connections such as cables and
+belts, it is possible to understand a machine as an assembly of solid
+parts that connect these joints.
+
+— [[https://en.wikipedia.org/wiki/Simple_machine][Simple Machine]] | Wikipedia
+#+end_quote
+  
