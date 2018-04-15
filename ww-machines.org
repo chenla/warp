@@ -68,7 +68,7 @@ Supercomputer running machine learning applications is a cognitive
 machine.  A self-contained robot is, like a human, both clockwork and
 self-directed.
 
-
+*** Hard, Wet and Soft Machines
 
 
 ** Table of Contents
@@ -84,9 +84,24 @@ self-directed.
     - Wedge
     - Screw 
 
-  - kinematic chains are used to model mechanical systems
+  - kinematic chains :
+    are used to model mechanical systems
 
 - Classification of Machines
+
+  how are simple machines combined to create complex machines?
+
+  - Joints
+    - revolute joint
+    - sliding joint
+    - cam joint
+    - gear joint
+  - Connectors
+    - cables
+    - chains
+    - belts
+
+
 
 #+begin_quote
 This realization shows that it is the joints, or the connections that
