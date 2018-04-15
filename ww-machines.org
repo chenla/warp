@@ -29,5 +29,44 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+There is a lot of overlap between a tool and machine.
+
+A tool is generally an extension of the human body that is powered by
+human muscle and typically directly comes into contact with the
+material it is working with.
+
+Machines are often complex externally powered mechanisms that provide
+an infrastructure (as does the human body for a tool) that directs and
+controls it.
+
+We divide machines into two classes, machine-clockwork (or clockwork
+machines) and machine-cognition (or cognitive machines).
+Machine-clockwork require the direction or operation of a
+self-directed agent.  Machine-cog is a machine which is semi-or-fully
+self-directed, can recognize patterns, make decsions and learn.
+
+*** Clockwork
+**** Matter
+Just as with tools, there are machines which are used to manipulate
+and shape phyisical things.  There are machines for moving matter from
+one place to another.
+**** Energy
+There are machines for generating power by capturing it in one form
+and transfering it to another form.
+**** Information
+There are also machines that manipulate information.  These are
+divided into, transmission, computation and memory.  We call these
+types of information machines machine-clockwork because they require
+direction from a cognitive agent.
+*** Cognitive
+A human is a combination clock-work and cognitive-machine.  A Cray
+Supercomputer running machine learning applications is a cognitive
+machine.  A self-contained robot is, like a human, both clockwork and
+self-directed.
+
+
+
+
 ** Table of Contents
 
