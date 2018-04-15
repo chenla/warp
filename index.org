@@ -57,7 +57,7 @@ Volume III Components
  - 16. [[./ww-citizens.org][Citizens]]
  - 17. [[./ww-polis.org][Polis]] 
  - 18. [[./ww-tools.org][Tools]]
- - 19. Machines
+ - 19. [[./ww-machines.org][Machines]]
  - 20. [[./ww-energy.org][Energy]]
  - 21. [[./ww-structures.org][Structures]]
  - 22. [[./www-surpluses.org][Surpluses]]
