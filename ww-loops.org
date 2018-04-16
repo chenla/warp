@@ -16,7 +16,7 @@ bibliography:../hoard/bib.bib
 * Cycles
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-loops.org
+:Name:     /home/deerpig/proj/chenla/warp/ww-cyles.org
 :Created:  2018-03-30T20:19@Prek Leap (11.642600N-104.919210W)
 :ID:       00882336-1b86-4095-b3e4-d71ed31baddc
 :VER:      575688051.534106669
