@@ -30,6 +30,74 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+When you watch a bird build a nest, the entire process seems
+random at first.  The bird will pick up twigs almost at
+random, drop them then pick up another and take flight to a
+branching in a tree.  It will consider the tree and move
+it's head this way and that, as if checking to see if the
+twig in its beak, is a match for the branch in the tree.
+Often the answer is no, and the trig is dropped and the
+process strarts again, with another twig and another
+branching of another tree.  But eventally something feels
+right and the bird places the twig in the branch and returns
+with another.  Sometimes rearranging the twigs a bit,
+someone times just seeming to drop them in at random.  But
+in each case the bird doesn't have any preconcieved notion
+of what the nest will look like, what the other birds will
+think if it other than, if it's a male, building a nest to
+attract a female if it feels right or not.  Is this
+something that a female would find impressive or not.  But
+it's a gut feeling, there is no plan, there is no design --
+just a step by step process of aggregation and adjustment
+until it feels right.
+
+This, is what The Way is all about, it's a process of
+fulfilling a need by instinct, not as a rational goal driven
+process with an invisioned future outcome that will satisfy
+all sorts of other goals that will determine your
+reputation, how much you will be rewarded or how you hope
+others will percieve you.  It's taking the ego out of the
+process and just aggregating a series of steps, each of
+which feels right and makes what you are building stronger
+or more beautiful or just leaves you with a feeling content
+and at peace.
+
+This is why we separate the Way from the process of
+fabrication -- beause unlike birds, we have to use abstract
+and very concrete methodologies to ensure that a roof won't
+cave in under the load of a heavy snow, or blow off during a
+Typhoon, or collapse during an earthquake.  We need to
+ensure that our software does what the user intends it to
+do, add up a column of numbers correctly, show you the next
+screen of text that the link pointed to.  All of these
+things are deterministic and based on many generations of
+other engineers learning throgh trial and error, and
+countless experiements and failures.  Either the wall will
+bear the load you put on it or not, there is no feeling
+about that, it's binary -- it does or does not, as Master
+Yoda would say, there is no try.
+
+And yet, if we ignore our instinctual understanding of what
+feels right and what is right and leave that out of the
+process, then we get the software, design and structures
+that we've been getting since the industrial revolution
+literally picked up a full head of steam.  We are then what
+we build is determined by things that the tools we use and
+the production processes that are geared for maximum
+efficiency in terms of material use and production.  In
+modern times this has been a large part of the estrangement
+that we experience from ourselves as we are cut off from
+what we know instinctually feels right, and makes it
+impossible to connect you we are from other people and the
+natural environment that we live in.
+
+The challenge is to bring the two together, the natural
+aggregation and rearrangement of the bird, married with the
+metis, the practical knowledge of how to build things within
+the constraints that classical physics places on us.
+
+---
+
 Like in TWB's part of the same name, The Way describes how
 to put everything together from the first six Parts as a way
 of parsing the world, and putting what you have learned
@@ -61,40 +129,6 @@ between nodes and grow until everything is connected.
 
 ** Table of Contents
 
-  - Succession- pioneer stage
-      - sparse nodes, like early Internet
-      - dummy nodes
-      - surrogate nodes
-    - intermediate stages
-    - mature stage
-  - Niche
-  - Development
-    - identify problem or need 
-    - imagine solution form hypothesis
-    - collect patterns
-    - form language
-    - identify inputs, side effects and desired outputs
-    - end of life, and recycling/repurposing as input to
-      other niches and processes
-    - process start and end points
-    - break into steps
-    - feedback mechanisms
-    - rules and process logic
-  - Build
-    - build model, test scenarios
-    - build prototype - alpha
-    - build beta and try in production
-    - build release candidate put into production
-  - Deployment
-    - collect feedback, fix bugs
-    - identify new features
-    - loop add features, test, release 
-    - when something breaks roll back
-    - monitor feedback for maintain and management --
-      anticipate failures
-  - Iteration
-  - Running Processes
-    - when stable, replicate while developing new features and fixes
 
 ** References
 
