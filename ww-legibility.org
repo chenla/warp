@@ -29,9 +29,30 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+In /Seeing Like A State/ cite:scott:1998seeing James Scott
+defines legibility as the need for states to be able to
+reliably identify and keep accounts of their subjects, or
+citizens, who they are and where they are.  What property
+(in terms of land) they may inhabit or own (if freehold land
+ownership it allowed) and how much wealth they produce.
+Land is surveyed to create claudastral maps indicating the
+boundries of parcels of land, what type of land it is, and
+who is liable for that land.  All of this is done for three
+reasons, collecting taxes, conscription (raising armies) and
+stopping attempts of anyone who tries to wrest power from
+those who are in power.
+
 ** Table of Contents
  - State Legability
  - Machine Legibility
  - Transparency
  - Accountability
 
+
+** References
+
+  - Scott, J. C., Seeing like a state: how certain schemes
+    to improve the human condition have failed (1998), :
+    Yale University Press.
+    cite:scott:1998seeing
