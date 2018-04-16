@@ -72,6 +72,19 @@ store, look at each, and as we would choose a puppy from a litter,
 look at the difference between them and go with the one that feels
 right to you.
 
+To make this possible we need fresh eyes and approaches to all stages
+of design, production, deployment, upgrading and repair.
+
+Microsoft, for all of their faults (which are legion) has been very
+good at maintaining backward compatibility for running applications at
+the OS level.  They had terrible reputation for backward and forward
+compatibility for file formats.  But this wasn't so much a bug as a
+feature to force people to upgrade their software and pay more money.
+In the 1990's is was common if you had a copy of English Word, that it
+would not open word files created in Japanese Word, even if the
+document used no Japanese characters at all.
+
+
 ** Table of Contents
 
 
