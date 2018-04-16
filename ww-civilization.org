@@ -30,11 +30,79 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+There has been so much written about civilization, as
+history, as a concept, what it says about what we are, the
+heights of human achievements and the terrible depths that
+we are guilty of and likely will be guilty of again and
+again.  But this is not a history.  Whether we like it or
+not, we as individuals and are a species are creatures of
+this strange construction that we call civilization.  It
+speaks to every part of who we are now, and whether or not
+we are going to be around much longer or not.
+
+I personally think that if we do survive and learn to thrive
+rather than exterminating ourselves or overrunning the
+carrying capacity of our environment and wipe ourselves out
+by destroying the very thing that allows us to live in the
+first place, the story that will be written will be how we
+were civilized by civilization and became something far more
+than a pack species that learned to scale and dominate the
+entire planet.
+
+Mankind is an experiment being played out by DNA on a grand
+scale.  It is an experiement that holds out the
+possibility of Life on Earth freeing itself from the random
+hit and miss process of random mutation and natural
+selection and becoming self-determinisitic.  Man can not
+take credit for that, we are just one small part in a
+process that has lasted at least three and a half billion
+years.  Man is not the pinnacle of that process, and we are
+not the end of it either.  Whether Man survives or thrives
+is of no importance to the larger scheme of things.  We
+might be bit players, but at this moment in time, we are the
+keystone species on the planet with the potential of being
+instrumental in the most momentous change since the
+evolution of multi-celluar life.  Yes, it really is that big
+a deal.  Life creates order from the one-way inevitibility
+of entropy.  Entropy gives time a direction, it gives us
+information, but it's ultimately a great winding down of
+order, complexity, and beauty.  And entropy, just like
+Darwinian natural selection is governed by random chance.
+And because entropy only works in one direction, that
+direction is relentlessly towards randomness, and anything
+that that makes our universe unique or special or
+interesting.
+
+But if Life with a capital L, can escape that trap of
+randomness and become not just self-organizing and
+self-replicating but also self-directing -- that is an
+astonishing counterforce against entropy and it's power over
+the universe.  That all sounds very grand, when you consider
+how small, short lived and fragile we are, as a species and
+even all of Life combined.  But it's an astonishing thing to
+contemplate.  And we are fortunate to be the first attempt
+that life has made that is at the brink of being able to do
+so.
+
+And all of this hinges on our ability to get better at
+civilizing ourselves and not destroying our own life support
+systems or destroying ourselves becuase we can't rise above
+the programing that evolution has given us and that has
+gotten us to where we are today.
+
+
+
+
 Civilization -> comes from the word civitis meaning city.
 The ancient greeks used the word polis to mean city, but it
 was also the closest thing they had to the concept of
-civilization.  This is a good place to start -- and grounds
-us at human scales.
+civilization.  This is a good place to start as any and
+grounds us at human scales.
+
+
+
+
+
 
 ** Table of Contents
   - 01. Definitions I. One or many?
@@ -51,15 +119,15 @@ us at human scales.
       - Civilization is a sub-holon of the bios-layer 
     - A Fabric of Process
     - A Very Slow AI
-  - 00. [[./ww-narrative-synopsis.org][A Narrative Synopsis]]
-  - 04. Specialization
-  - 05. Polis as Building Block
+  - 04. [[./ww-narrative-synopsis.org][A Narrative Synopsis]]
+  - 05. Specialization
+  - 06. Polis as Building Block
     - Of Nations and States
-  - 06. Carrying Capacity
-  - 07. Holding it together
+  - 07. Carrying Capacity
+  - 08. Holding it together
     - propagation, linguistic, cultural
-  - 08. Complex Societies as Systems
-  - 09. Pace-Layer Model
+  - 09. Complex Societies as Systems
+  - 10. Pace-Layer Model
     - *Bios Layer* :Civilizations have seldom been
       understood as being a layer that we inhabit in a
       larger biosphere -- that the ecosystem we belong to is
@@ -79,8 +147,8 @@ us at human scales.
     - *Infrastructure Layer*
     - *Commerce Layer* 
     - *Fashion Layer* 
-  - 10. Civilization As Generative Genome
-  - 11. Cherry Picking: Towards Civilization From First Principles
+  - 11. Civilization As Generative Genome
+  - 12. Cherry Picking: Towards Civilization From First Principles
     - All Things Apply To Everyone
     - Only Human Scales
     - Adjusting for Human Nature
