@@ -68,8 +68,26 @@ for civilization.  This is, as people say in IT, non-trivial.
 
 
  - authorization
- - scope
+ - scope -- mission
+ - rules -- within they must operate
  - accountibility
- - transparency
+   - mechanisms -- checks and balances
+ - transparency -- audit trail
+ - liability
+
 
  - classes of agents
+   - operators -- pilots, drivers etc
+   - representitives 
+     - office holders
+     - process executors (as in an FBI Agent, someone who conducts
+       processes without having to operate something like a machine).
+
+ - appointing agents
+ - dismissing agents
+
+ - automated agents
+
+ - Ethics
+   - corruption
+   - mission creep
