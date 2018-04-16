@@ -30,6 +30,38 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
+
+A pattern is an expression that is meant to be manifested in
+a hoard as something that is physical object, or as a
+process, a rule that is a mechanism that takes input, which
+is matched against hardcoded constants, or variables that
+have set parameters.
+
+The age that a child begins school is a variable that is
+determined by human developmental and congnitive limits
+which are constants.
+
+The height of the riser in a stair is determined by the
+average height of people in a given era, as well as other
+variables such as gravity -- perhaps stairs on the moon or
+on mars will require different height risers in stairs...
+
+The length of time to hatch an egg can't be mucked with --
+for a chicken it's 21 days for an Emu it's 43-50 days.
+
+SEE: http://farmingfriends.com/incubation-periods-for-different-species-of-birds-eggs/
+
+For humans, it varies but can be mucked with a bit, as
+infants can be placed in incubators if they are born before
+they come to term.
+
+Patterns are generative in nature -- in the case of a
+process, they literally will generate something.  In the
+case of made things when a pattern is manifest it is greater
+than the sum of its parts
+
+
+
 #+begin_comment
 What are pattern languages -- how they work, how to make
 them, how to use them.
