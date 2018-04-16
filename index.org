@@ -68,7 +68,7 @@ Volume IV Methodologies
  - 00. [[./ww-intro-vol-4.org][Introduction]] Volume IV
  - 25. [[./ww-the-way.org][The Way]]
  - 26. [[./ww-loops.org][Loops]]
- - 27. [[./ww-feedback.org][Feedback]]
+ - 27. [[./ww-feedback.org][Feedback]] -- Rules
  - 28. [[./ww-workflow.org][Workflow]]
  - 29. [[./ww-replicators.org][Replicators]]
  - 30. Elements/Ingredients -- Initial Conditions -- Thresholds
