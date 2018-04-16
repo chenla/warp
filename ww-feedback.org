@@ -29,6 +29,35 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+Thinking about this more -- I think that this Part will
+mostly be about Rule Sets -- we now have a whole Part on
+Systems which will deal with feeback loops.
+
+So, do we rename Rules?
+
+  - evaluation
+
+    - authentication
+    - verification
+
+  - identification 
+    - thresholds
+    - patterns
+    - 
+  - Feedback
+    - watchers/listeners
+    - recorders & logs
+    - triggers
+    - actions
+
+  - Pipes
+  - Loops
+
+  - Cascades & inheritance
+
+
+
 ** Table of Contents
   - Positive Feedback
   - Negative Feedback
