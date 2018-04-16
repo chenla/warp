@@ -77,6 +77,30 @@ When there is enough metadata, it becomes big data, and big
 data is valuable in it's own right as an indicator of the
 behavior and future actions of processes and people.
 
+The interesting thing is that, up until now, metadata was
+only valuable in aggregate about a group of things.  But the
+amount of metdata that we now produce as individuals has
+gotten to the point where it now is valuable to collect for
+personal reasons as well.  And if we can find ways of
+collecting all of that metadata that we generate as
+individuals and have some measure of control over who can or
+can't see it, it becomes a kind of personal wealth.
+
+Next, we can use metadata to build models of the world -- in
+the same way that our brains collect information from our
+senses and creates an model of the world that we use to move
+through the world and make decsions.
+
+We will soon be able to create personal models of
+externalized metadata that rivals or eventually surpasses
+what our senses can collect -- that we will be able to
+create externalized world models which are an extension of
+our internal mental models.  
+
+This same capability will also become the foundation for
+artificial intelligence.
+
+
 ** Table of Contents
  - State Legability
  - Machine Legibility
