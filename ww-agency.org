@@ -49,7 +49,7 @@ cognitive machine.
 Agency is the stand in term we will use to denote any organizations
 who maintain running processes, including anything from a mom and pop
 corner store, to a multinational business or even a self-declared
-soveriegn state.
+sovereign state.
 
 Agency is the process of running processes, just as second-order
 cybernetics can be said to be the study of uderstanding understanding.
@@ -57,7 +57,19 @@ cybernetics can be said to be the study of uderstanding understanding.
 What we want to do here is to outline the requirements and principles
 and patterns for how to run and coordinate a living distributed
 civilization.  In otherwords, this is the operator's operating manual
-for civilization.  This is, as people say in IT, this is non-trivial.
+for civilization.  This is, as people say in IT, non-trivial.
 
 ** Table of Contents
 
+
+ - role of agents
+ - role of agencies (n)
+ - what does it mean to be given agency
+
+
+ - authorization
+ - scope
+ - accountibility
+ - transparency
+
+ - classes of agents
