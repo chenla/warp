@@ -34,8 +34,43 @@ I originally was going to call this part 'Development' or perhaps
 'Methodology" but neither felt right.  They are too fixed and formal
 and don't match the process that I want to convey.
 
+Fabrication is an iterative bottom up process that fits better with
+the Way than our traditional notions of development and haywire
+dogmatic methodologies like Agile and Scrum.  Traditional industrial
+processes result in workflows that are industrial and run counter to
+our example of a bird building a nest.
 
+Industrial methodologies are designed to produce exact duplicates of
+things.  In fact, if there is a variation between copies, the
+variation is discarded, even if that variation is an improvement.
+This is, on the face of it, insane.  And be have become trained to see
+variation as bad, as an error, a mutation that has to be eliminated.
 
+In the early days of Dell computer, it was well known that Dell
+actually made changes to running production lines that produced
+computers that evolved as the designs were coming off the assembly
+line.  I can't say if this was good or bad.  It was frustrating at
+times when something broke, because you might open two computers of
+the same model side by side and see that things were somewhat
+different between the two.  At the time I thought that this was a bad
+thing.  But I'm coming round to the idea that I was the one that
+should have been looking at which version was better than the other
+and perhaps in fixing the other box, to incorporate the better design
+into the older one.  Of course the entire infrastructure for computer
+manufacture and maintainance made this nearly impossible.
+
+But this has to be our goal -- to rethink fabrication, production,
+deployment and repair as a more fluid and flexible system, that allows
+us to take a more birdlike approach to building things.
+
+Our factory tooling, outsourcing of sub-assemblies, and pretty much
+everything else from repair and customer support, to the way that we
+sell things in the show room, and how we purchase things and decide
+what to buy.  Perhaps when buying a washing machine we should be
+looking at a litter of machines of the same model that are in the
+store, look at each, and as we would choose a puppy from a litter,
+look at the difference between them and go with the one that feels
+right to you.
 
 ** Table of Contents
 
