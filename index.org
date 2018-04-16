@@ -68,12 +68,11 @@ Volume IV Methodologies
  - 00. [[./ww-intro-vol-4.org][Introduction]] Volume IV
  - 25. [[./ww-the-way.org][The Way]]
  - 26. [[./ww-cycles.org][Cycles]] 
- - 27. [[./ww-feedback.org][Feedback]] -> Rules
+ - 27. [[./ww-rules.org][Rules]] 
  - 28. [[./ww-workflow.org][Workflow]]
  - 29. [[./ww-replicators.org][Replicators]]
- - 30. ---------------> replaced by rules
- - 31. [[./ww-fabrication.org][Fabrication]]
- - 31. Operation
+ - 30. [[./ww-fabrication.org][Fabrication]]
+ - 31. Operation   ---> change name?
 Volume V  Workflow
  - 00. Contents Volume V
  - 00. [[./ww-intro-vol-5.org][Introduction]] Volume V
