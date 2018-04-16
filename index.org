@@ -72,11 +72,7 @@ Volume IV Methodologies
  - 28. [[./ww-workflow.org][Workflow]]
  - 29. [[./ww-replicators.org][Replicators]]
  - 30. Elements/Ingredients -- Initial Conditions -- Thresholds
- - 31. Development
-   - Plan
-   - Build
-   - Deployment
-   - Iteration
+ - 31. [[./ww-fabrication.org][Fabrication]]
  - 31. Operation
 Volume V  Workflow
  - 00. Contents Volume V
