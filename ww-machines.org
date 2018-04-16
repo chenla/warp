@@ -113,4 +113,38 @@ parts that connect these joints.
 
 — [[https://en.wikipedia.org/wiki/Simple_machine][Simple Machine]] | Wikipedia
 #+end_quote
-  
+
+#+begin_quote
+What is Machine?
+
+A machine is mechanism or a combination of mechanism which,
+apart from imparting definite motion to the part, also
+transmit and modified the available energy into some kind of
+desired work. It is neither a source of energy nor a
+producer of work but helps in proper utilization of the
+same. The motive power has to be derived from external
+sources.
+
+Now come out what is MECHANISM -
+
+A combination of a number of bodies assembled in such a way
+that the motion of one cause constrained and predictable
+motion to the other.
+
+...
+
+What is machine tool ? 
+
+Any stationary power-driven machine that is used to shape or
+form parts made of metal or other materials.
+
+Nishu Yadav, Mechanical engineer
+Answered Jan 19, 2016
+—  [[https://www.quora.com/What-is-the-difference-between-a-machine-and-a-tool][What is the difference between a machine and a tool?]] | Quora 2011
+#+end_quote  
+
+
+** References
+
+  - [[https://www.quora.com/What-is-the-difference-between-a-machine-and-a-tool][What is the difference between a machine and a tool?]] | Quora 2011  
+
