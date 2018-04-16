@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Loops
+#+TITLE: Cycles
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,7 +13,7 @@
 
 bibliography:../hoard/bib.bib
 
-* Loops
+* Cycles
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-loops.org
@@ -30,14 +30,23 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
-I know that we have positive and negative feedback Feedback, but these
-are also loops and should be mentioned here as well
+Rename as Cycles
 
+Cycles -- not just for production but in culture as well.
 
-** Table of Contents
+Hard  -> include biological -- seeing biological systems as hardware.
+  -> galactic cycles
+  -> solar cycles
+Soft
   - REPL
   - Cascades
   - Iteration
+Wet
+  -> cultural loops
+  -> generational cycles
+
+
+** Table of Contents
 
 
 
