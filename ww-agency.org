@@ -29,5 +29,35 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+Agency is an interesting work, it can be a physical location of an
+agent or a whole organization with a stated purpose, it can be a verb
+to have the capacity or authority to do something.
+
+An agent is an abstract term, like an observer.  In fact an observer
+is a type of agent.  Agents can be a go-between or facilitator, such
+as a solicitor or lawyer or someone who arranges sales of properties.
+And of course there is everyone's favorite, the secret agent, who is a
+spy working to gather intelligence from a party without their
+knowledge or approval.
+
+Our use the term agency borrows a bit from all of them, but in
+particular as an agent or group of agents who maintain and direct
+running processes.  An agent can be a human being, a clockwork or
+cognitive machine.
+
+Agency is the stand in term we will use to denote any organizations
+who maintain running processes, including anything from a mom and pop
+corner store, to a multinational business or even a self-declared
+soveriegn state.
+
+Agency is the process of running processes, just as second-order
+cybernetics can be said to be the study of uderstanding understanding.
+
+What we want to do here is to outline the requirements and principles
+and patterns for how to run and coordinate a living distributed
+civilization.  In otherwords, this is the operator's operating manual
+for civilization.  This is, as people say in IT, this is non-trivial.
+
 ** Table of Contents
 
