@@ -42,17 +42,22 @@ The primer is structured like a multi-level labyrinth, with
 no Minotaur in the middle.  Each level is designed so that
 it forms the foundational prerequisites for the next level.
 This is not a quest or a game, the reason for this structure
-is both pedantic and pragmatic.  You can't build an AI until
-you have a computer, you can't build a computer (with
-apologies to Babbage) unless you have integrated circuits,
-you can't have integrated circuits unless you have an
-electrified mechanical industrial infrastructure, you can't
-have an electrified mechanical infrastructure unless you
-have an industrial infrastructure to electrify and you can
-build that ingrastructure without a base pre-electrical
-civilization, with a stable means of providing the base
-levels of Maslow's hierarchy; food, shelter, health, saftey
-and the free time to learn and experiment.
+is both pedantic and pragmatic.  
+
+
+As Vernor Vinge repeatedly observed, you need an industrial
+civilization to build an industrial civilization.  You can't
+build an AI until you have a computer, you can't build a
+computer (with apologies to Babbage) unless you have
+integrated circuits, you can't have integrated circuits
+unless you have an electrified mechanical industrial
+infrastructure, you can't have an electrified mechanical
+infrastructure unless you have an industrial infrastructure
+to electrify and you can build that ingrastructure without a
+base pre-electrical civilization, with a stable means of
+providing the base levels of Maslow's hierarchy; food,
+shelter, health, saftey and the free time to learn and
+experiment.
 
 So each level will be designed using media appropriate to
 that succession stage.  Stone and etched metal for basic
@@ -68,6 +73,29 @@ the Primer is the mechanism that acts as a skein, a thread
 or path through each layer of fabric and then from layer to
 layer.
 
+It is important to understand that we are building a
+/Distributed/ civilization.  Each Hoard is designed to be an
+expression of the place it will be used in, and over time
+those changes will become deeper and richer.  Changes which
+are intrinsic to a place and climate and fashion of a given
+succession stage and the historical and cultural context of
+the place and people will shape h There is no one Primer to
+Rule them all.  Primers will be built for different
+seccession stages, for individuals, for groups and
+organizations of different sizes and purposes.  In other
+words a Primer is a Holon that is part of a larger Holarchy.
+The trick is to ensure that all primers remain interoperable
+with each other at all scales and in all contexts.  For
+example, succession stages will not be be global for a very
+long time.  As William Gibson said, they will not be evenly
+distributed, so interoperability in terms of being able
+gracefully degrade or to upgrade is especially important to
+ensure that everyone progresses at the pace that they are
+able to and remain in their comfort zone, while ensuring
+that no one is being excluded or being held back.  As the
+good Doctor Thompson put it, you buy your ticket, you take
+the ride.  And it's vital that everyone gets a ticket.
+
 ** Table of Contents
 
 
@@ -79,8 +107,8 @@ layer.
       - Electric
       - Electronic
       - Cognitive
-
-  - Dimensions of each State
+  
+  - Dimensions of each Stage
     - Cultural Mythos as framework derived from, built on
       top of an eventually displacing existing systms.  This
       is how religions have spread throughout time -- Islam,
@@ -90,5 +118,7 @@ layer.
     - Social and family structures reflect economic level of
       development more than than culture.  Each stage will
       have it's own social and family structures.
-    - 
+    - Each manifestation of the Primer will be shaped by the
+      environmental and climatic conditions of where it will
+      be used so when it is deployed as a primer
 ** 
