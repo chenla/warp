@@ -29,7 +29,37 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+APPL makes up the reference building blocks for building any
+given civilization at a given succession stage
+
+
 ** Table of Contents
+
+  - Development Stage
+    - Stub (S)
+    - Proposed (P)
+    - Draft (D)
+    - Recommendation (R)
+
+  - Entity Models
+    - Patterns (con)
+      - Variation (exp)
+        - Implementation (man)
+          - Localization (inst)
+    - Parameter (con)
+      - Definition (exp)  -> define/method/unit
+        - Source (man)
+          - Variable (inst)
+    - Theses (con)
+      - Declaration (exp)    
+        - Rule (man)         -> algorithm
+          - Code (inst)      -> specific working or code used
+    - Keystones (con)
+      - Variation (exp)      -> Hoard
+        - Design (man)       -> Primer
+          - Prototype (inst) -> IRL
+
 
 ** APPL
 
