@@ -31,36 +31,53 @@ bibliography:../hoard/bib.bib
 
 ** TL;DR
 
-After the primer is the Hoard -- the library of descriptive
-and prescriptive knowledge.  This will be a map but a very
-detailed map whose territory is the archive.
+The Primer is the Hoard after it has been compiled, deployed
+running production.
 
-This will be the knowledge that is assembled to build a
-civilization from first principles -- this will include
-designs, standards, recipes, facts, proceedures, best
-practices.
+In our case, this will take a number of physical and
+electronic forms depending on the succession stage the that
+reader belongs to.
 
-The idea is that you will pick out your patterns and create
-your pattern language which is at the core of a master
-generative plan -- then you use the knowledge from the Hoard
-to build it.
+The primer is structured like a multi-level labyrinth, with
+no Minotaur in the middle.  Each level is designed so that
+it forms the foundational prerequisites for the next level.
+This is not a quest or a game, the reason for this structure
+is both pedantic and pragmatic.  You can't build an AI until
+you have a computer, you can't build a computer (with
+apologies to Babbage) unless you have integrated circuits,
+you can't have integrated circuits unless you have an
+electrified mechanical industrial infrastructure, you can't
+have an electrified mechanical infrastructure unless you
+have an industrial infrastructure to electrify and you can
+build that ingrastructure without a base pre-electrical
+civilization, with a stable means of providing the base
+levels of Maslow's hierarchy; food, shelter, health, saftey
+and the free time to learn and experiment.
 
-A pattern might be for outdoor windows, and what they must
-incorporate to work.  The Hoard will provide the information
-for obtaining or creating the building material, wooden,
-plastic or metal frame, plate glass, glazing, screws,
-caulking and all of the tools needed to build it and then
-more general proscriptive steps that make up the art of
-glass making, and window framing.
+So each level will be designed using media appropriate to
+that succession stage.  Stone and etched metal for basic
+pictoral information to get one started and stay alive,
+paper for those who have basic literate and numerative
+skills, and eventually dynamic machine graphical interfaces
+and perhaps more advanced types of interfaces when the
+technology becomes available.
 
-The Archive will be all of the primary documents that the
-Hoard is built on.
+This section will explore the structure and logic of the
+Primer Application.
 
 ----
 
-But don't forget that the Hoard has two parts -- map and
+But don't forget that the Primer has two parts -- map and
 territory, so the graph database that weaves it together is
 just as important as the items in it.
 
 
 ** Table of Contents
+
+
+  - Primer as dynamic application
+  - Formats for each succession Stage
+    - Pre-tool
+    - Tool
+    - Clockwork
+    - Cognitive 
