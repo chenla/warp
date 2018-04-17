@@ -62,29 +62,34 @@ Volume III Components
  - 21. [[./ww-structures.org][Structures]]
  - 22. [[./www-surpluses.org][Surpluses]]
  - 23. [[./ww-distribution.org][Distribution]]
- - 24. [[./ww-infrastructure.org][Infrastructure]]
+ - 24. [[./ww-succession.org][Succession]]
+       - civilization
+       - education
+       - stages of life
+       - organizations 
+ - 25. [[./ww-infrastructure.org][Infrastructure]]
 Volume IV Methodologies
  - 00. Contents Volume IV
  - 00. [[./ww-intro-vol-4.org][Introduction]] Volume IV
- - 25. [[./ww-the-way.org][The Way]]
- - 26. [[./ww-cycles.org][Cycles]]
- - 27. [[./ww-rules.org][Rules]]
- - 28. [[./ww-workflow.org][Workflow]]
- - 29. [[./ww-replicators.org][Replicators]]
- - 30. [[./ww-fabrication.org][Fabrication]]
- - 31. [[./ww-agency.org][Agency]]
+ - 26. [[./ww-the-way.org][The Way]]
+ - 27. [[./ww-cycles.org][Cycles]]
+ - 28. [[./ww-rules.org][Rules]]
+ - 29. [[./ww-workflow.org][Workflow]]
+ - 30. [[./ww-replicators.org][Replicators]]
+ - 31. [[./ww-fabrication.org][Fabrication]]
+ - 32. [[./ww-agency.org][Agency]]
 Volume V  Workflow
  - 00. Contents Volume V
  - 00. [[./ww-intro-vol-5.org][Introduction]] Volume V
- - 32. [[./ww-appl.org][APPL]]
- - 33. [[./ww-hoard.org][Hoard]]
- - 34. [[./ww-primer.org][Primer]]
- - 35. [[./ww-middle.org][Middle]]
- - 36. [[./ww-arc.org][Arc]]
+ - 33. [[./ww-appl.org][APPL]]
+ - 34. [[./ww-hoard.org][Hoard]]
+ - 35. [[./ww-primer.org][Primer]]
+ - 36. [[./ww-middle.org][Middle]]
+ - 37. [[./ww-arc.org][Arc]]
 Volume VI Implementation
  - 00. [[./ww-intro-vol-6.org][Introduction]] Volume VI
- - 37. [[./ww-scenarios.org][Scenarios]]
- - 38. [[./ww-window-and-roadmap.org][Window & Roadmap]]
+ - 38. [[./ww-scenarios.org][Scenarios]]
+ - 39. [[./ww-window-and-roadmap.org][Window & Roadmap]]
 Volume VII
  - Contents Volume VII 
  - Preface Volume VII
