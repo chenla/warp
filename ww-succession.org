@@ -39,8 +39,8 @@ The succession models here are very much first drafts and
 will change radically as we learn more and work continues.
 
 The examples used here are NOT normative.  Succession models
-will be used in Hoards to generate Primers will be defined
-as Succession Patterns in APPL.
+will be defined as Succession Patterns in APPL which will be
+adapted for use in Hoards to generate Primers.
 
 This Part is meant to be a practicum in taking the
 principles and sructures that we have explored thus far and
@@ -77,3 +77,12 @@ succession patterns in the latest version of APPL
         - dependent
         - independent
     - Teraforming 
+
+** References
+
+  - Smith, S., & Mark, S., The historical roots of the
+    nature conservancy in the northwest indiana/chicagoland
+    region: from science to preservation, South Shore
+    Journal, 3(), (2009).
+    cite:smith:2009historical
+
