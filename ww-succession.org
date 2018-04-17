@@ -1,12 +1,12 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Succession
+#+TITLE: Succession Model
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -16,7 +16,7 @@ bibliography:../hoard/bib.bib
 * Succession
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-succession.org
+:Name:     /home/deerpig/proj/chenla/warp/ww-succession-model.org
 :Created:  2018-03-22T12:02@Prek Leap (11.642600N-104.919210W)
 :ID:       1a0e2740-9b50-4db2-9c17-7e3601374b2d
 :VER:      574967007.402589543
