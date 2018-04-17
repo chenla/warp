@@ -38,12 +38,6 @@ use-case for a specific individual or group, at a specific
 level of development in a specific place, environment and
 climate.
 
-
-builds Pattern Language for generating a Hoard which will be
-a sort of Application (tho that term is to be used extremely
-loosely that will start from the assumption that the user
-has nothing, not even the means for basic survival.
-
 It will start as simple pictographs asking basic questions
 such as, do you have food?  Can you make fire? Do you have a
 shelter? Can you read? etc. and then guide the user through
@@ -53,6 +47,11 @@ respects similar to "The Young Ladies Illustrated Primer" in
 Neal Stephenson's novel /The Diamond Age/, but instead of
 targeting pre-teen girls, it will target anyone, even if
 they are living through a Mad Max post-apocolypse scenario.
+
+The hoard is about assembling the different parts and
+adapting them for a specific purpose.  The Primer it
+generates is another whole topic is addressed in the next
+part: PRIMER.
 
 
 ** Table of Contents
@@ -194,7 +193,7 @@ great -- but that is not what Man is doing now.
 
 ** Succession Model
 
-The Succession model is designed so that Hoards can be
+The Succession model is designed so that Primers can be
 generated to work at specific technological and sociel
 levels of development.
 
@@ -309,8 +308,8 @@ because of the enormous energy and chemical requirements to
 refine aluminimum.
 
 The second scenario is to provide a second survival level
-Hoard for those who don't stumble across the Hoard for
-hundreds or even thousands of years, long after our
+Primer for those who don't stumble across a copy of a Primer
+for hundreds or even thousands of years, long after our
 industrial civilization has rotted and decayed into
 scattered remnants of ruins and relics.  Their path is many
 orders of magnitude longer and more difficult than survivors
@@ -328,7 +327,7 @@ scratch -- by leaving caches of raw materials or other
 approaches that could get them off the ground sooner.  Such
 caches need to be hidden, and forgotten unless there is such
 a long term collapse and will only be found by reading the
-from-scratch Hoard -- that means that the Hoard must not be
+from-scratch Primer -- that means that the Primer must not be
 accessable to anyone unless there has been a collapse that
 has lasted hundreds or thousands of years.  It's an
 interesting problem.
@@ -483,8 +482,8 @@ experiences in the past 10,000 years.
 
 This is the world and the civilization that is just starting
 to emerge from these revolutions that we will need to guide
-and shape.  We will need frameworks like APPL/Primer and
-Hoard to adapt to these changes as quickly as they are
+and shape.  We will need frameworks like APPL/Hoard and
+Primer to adapt to these changes as quickly as they are
 taking place.
 
 ** Keystone Entity Model
