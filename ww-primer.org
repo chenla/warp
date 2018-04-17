@@ -67,7 +67,7 @@ skills, and eventually dynamic machine graphical interfaces
 and perhaps more advanced types of interfaces when the
 technology becomes available.
 
-If we think of the Primer as being a milti-layered fabric
+If we think of the Primer as being a multi-layered fabric
 made up of threads that compromise its warp and woof, then
 the Primer is the mechanism that acts as a skein, a thread
 or path through each layer of fabric and then from layer to
@@ -98,7 +98,6 @@ the ride.  And it's vital that everyone gets a ticket.
 
 ** Table of Contents
 
-
   - The Young Ladies Illustrative Primer
   - Formats and structure for each Succession Stage
     - Pre-tool
@@ -121,4 +120,11 @@ the ride.  And it's vital that everyone gets a ticket.
     - Each manifestation of the Primer will be shaped by the
       environmental and climatic conditions of where it will
       be used so when it is deployed as a primer
-** 
+
+
+
+** References
+ - NEED  Neal Stephenson's Diamond Age Quote.
+ - NEED  Hunter Thompson Quote
+ - NEED  Vernor Vinge Quote
+ - NEED  William Gibson Quote 
