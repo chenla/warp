@@ -29,9 +29,36 @@ bibliography:../hoard/bib.bib
 :END:
 
 ** TL;DR
+
+We have already introduced the Successon Model, as one of
+our core Scaffolds but it's important to start introducing
+some example Succession implementations that could be used in
+building civilizations.
+
+The succession models here are very much first drafts and
+will change radically as we learn more and work continues.
+
+The examples used here are NOT normative.  Succession models
+will be used in Hoards to generate Primers will be defined
+as Succession Patterns in APPL.
+
+This Part is meant to be a practicum in taking the
+principles and sructures that we have explored thus far and
+see how they can be used to create actual Succession models
+that could be deployed.
+
+As the Succession Patterns are developed and changed, these
+examples will be updated as well.  Please refer to the
+succession patterns in the latest version of APPL 
+
 ** Table of Contents
 
+  - ecological
   - civilization
   - education
   - stages of life
-  - organizations 
+  - governance
+  - shops
+  - guilds
+
+  - mars
