@@ -77,8 +77,8 @@ Volume V  Workflow
  - 00. Contents Volume V
  - 00. [[./ww-intro-vol-5.org][Introduction]] Volume V
  - 32. [[./ww/appl.org][APPL]]
- - 33. [[./ww-primer.org][Primer]]
- - 34. [[./ww-hoard.org][Hoard]]
+ - 33. [[./ww-hoard.org][Hoard]]
+ - 34. [[./ww-primer.org][Primer]]
  - 35. [[./ww-middle.org][Middle]]
  - 36. [[./ww-arc.org][Arc]]
 Volume VI Implementation
