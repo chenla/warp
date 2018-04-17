@@ -100,3 +100,9 @@ succession patterns in the latest version of APPL
     Journal, 3(), (2009).
     cite:smith:2009historical
 
+  - West, D. C., Shugart, H. H., Botkin, D. B., Darrell
+    C. West, H. H. S., & Botkin, D. B., Forest succession:
+    concepts and application (1981), : Springer-Verlag New
+    York.
+    cite:west:1981forest-succession 
+
