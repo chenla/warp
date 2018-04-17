@@ -53,12 +53,27 @@ succession patterns in the latest version of APPL
 
 ** Table of Contents
 
-  - ecological
-  - civilization
-  - education
-  - stages of life
-  - governance
-  - shops
-  - guilds
+  - Ecological
+  - Civilization
+    - Pre-Tool
+    - Tool
+    - Machine
+      - Clockwork
+      - Electronic
+      - Electric
+    - Cognitive (includes bio and nano)  
+  - Education
+  - Stages of life
+  - Governance
+  - Domus & Shops
+  - Guilds
 
-  - mars
+  - Mars
+    - Human Settlement
+      - beach head
+      - base
+      - colony
+      - civilization
+        - dependent
+        - independent
+    - Teraforming 
