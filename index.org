@@ -63,10 +63,6 @@ Volume III Components
  - 22. [[./www-surpluses.org][Surpluses]]
  - 23. [[./ww-distribution.org][Distribution]]
  - 24. [[./ww-succession.org][Succession]]
-       - civilization
-       - education
-       - stages of life
-       - organizations 
  - 25. [[./ww-infrastructure.org][Infrastructure]]
 Volume IV Methodologies
  - 00. Contents Volume IV

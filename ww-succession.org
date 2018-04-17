@@ -31,3 +31,7 @@ bibliography:../hoard/bib.bib
 ** TL;DR
 ** Table of Contents
 
+  - civilization
+  - education
+  - stages of life
+  - organizations 
