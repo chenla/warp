@@ -43,22 +43,22 @@ given civilization at a given succession stage
     - Recommendation (R)
 
   - Entity Models
-    - Patterns (con)
-      - Variation (exp)
-        - Implementation (man)
-          - Localization (inst)
-    - Parameter (con)
-      - Definition (exp)  -> define/method/unit
-        - Source (man)
-          - Variable (inst)
-    - Theses (con)
-      - Declaration (exp)    
-        - Rule (man)         -> algorithm
-          - Code (inst)      -> specific working or code used
-    - Keystones (con)
-      - Variation (exp)      -> Hoard
-        - Design (man)       -> Primer
-          - Prototype (inst) -> IRL
+    - Patterns (con)            -> APPL  
+      - Variation (exp)         -> APPL
+        - Implementation (man)  -> Hoard
+          - Localization (inst) -> Primer: applied
+    - Parameter (con)           -> APPL
+      - Definition (exp)        -> APPL: define/method/unit
+        - Source (man)          -> Hoard
+          - Variable (inst)     -> Primer: applied
+    - Theses (con)              -> APPL
+      - Declaration (exp)       -> APPL 
+        - Rule (man)            -> Hoard: algorithm
+          - Code (inst)         -> Primer: applied
+    - Keystones (con)           -> APPL
+      - Variation (exp)         -> Hoard
+        - Design (man)          -> Primer 
+          - Prototype (inst)    -> IRL : applied
 
 
 ** APPL
@@ -240,7 +240,7 @@ on.  For this reason in addition to Patters
 
 ** Patterns
 
-** Constants
+** Parameter (was constants)
 
 Constants are bedrock variables that define things that can
 not be changed like the speed of light or dunbar's number.
