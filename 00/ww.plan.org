@@ -1,0 +1,144 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Plan of the Work
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:../../hoard/bib.bib
+
+* Plan of the Work
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/00/ww.plan.org
+:Created:  2018-04-18T10:44@Prek Leap (11.642600N-104.919210W)
+:ID:       b7a8e326-e696-4d44-88fd-12278f75c127
+:VER:      577295156.362948643
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:OEA5-1758
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Epigraph
+
+#+begin_quote
+Everything that is not forbidden by laws of nature is
+achievable, given the right knowledge.
+
+— David Deutsch 
+#+end_quote
+
+** TL;DR
+
+Chenla is a series of projects and published works to
+demonstrate a way for Mankind to build advanced distributed
+and stable technological civilization from first
+principles. Chenla is not proposing the design of any
+specific civilization, rather, the goal is to provide a
+generative framework for the present and future generations
+to make any number of civilizations.  The history of human
+civilization is iterative and bottom up, building on the
+civilizations that came before them.  With each iteration we
+learn a little more, and do a little better.  It is hoped
+that these works will be of use in making that process a
+little less random, a little more focused, and a lot less
+disruptive and destructive as it has all too often been in
+the past.
+
+*** Warp & Woof
+
+An introduction to the concepts used in *A Pace-Layer
+Pattern Language* and *A Primer*
+
+*A Pace-Layer Pattern Language* (APPL):
+
+APPL is meant to expand on the world in Christopher
+Alexander's A Pattern Language (APL) which was published in
+1977 cite:alexander:1977pattern
+
+Where APL focused on towns, cities and the architecture of
+builds, the scope of APPL will be to encompass as aspects of
+civilization and human existence.
+
+In addition to /APL/-like Patterns, APPL will include the
+following categories:
+
+  - Patterns :: Archetypal Design Patterns for structures,
+                settlements, social organization and systems. 
+  - Parameters :: Constants and Variables.
+  - Theses :: Assertions that may be moral or ethical but
+              may not be justified purely on logical or
+              evidence-based grounds. 
+  - Keystones :: Key Reference Designs and Specifications.
+
+Another departure from APL will be that APPL will be what is
+called a /literate program/ which combines text together
+with computer software code.  The code is executed when the
+pattern is generated.  This makes it possible for patterns
+to be machine understandable.  This will be important in the
+next work in the series, /The Hoard/ which will is a 
+group of /generative grammars/ which are expressed as both a
+text narrative and code.
+
+APPL will establish the broad patterns that can be used to
+construct generative grammars that will be adapted to
+account for local context (conditions) in the /Hoard/.
+
+*** Hoard 
+
+A hoard is a collection of treasured goods and information.
+In Old English, the word for dictionary was a /worde hord/.
+
+It is a combination repository under version control that
+contains the source code for generating Primers.  In a
+Platonic sense, APPL is the world of archetypes and the
+Hoard are the shadows on the wall that we can see and
+interact with. The APPL is a way of thinking globally, and a
+hoard pragmatically thinks and acts locally.
+
+Hoards are organized using two different models, the
+/Pace-Layer/ model, and a /Succession-Stage/ model.
+
+As in the previous two works, the Hoard is not a
+prescriptive design for civilization.  Rather it is meant to
+create generate grammars that can be used to create very
+long term civilizations from first principles that are 
+distributed /and/ antifragile.
+
+A Hoard includes plans, designs, standards, specifications
+based on /keystone/ reference designs and patterns from the
+APPL which are adapted for a range specific needs of a
+ecological, economic, technological, and cultural niches of
+any given civilization.
+
+*** Primer
+
+A Primer is a collection of prescriptive and descriptive
+knowledge needed to build a specific civilization.
+
+In many cases the only way to develop a keystone reference
+design is by building a number of designs for specific
+needs.  So in order for us to come up with many of the
+patterns, generative grammars and keystone designs, we will
+start with specific designs, identify what makes it work and
+what can be used as a universal principle and then work
+backwards.  The Primer will include all of this specific
+design and development work that was done to develop
+patterns and keystone designs.
+
+*** Arc
+
+The Archive, or Arc for short, is collection of digital
+data, texts, images, audio video, 2D and 3D vector graphics
+and code that represents the a subset of Mankind's recorded
+memory and experience that provides the context and
+background needed to build and maintain a civilization.
