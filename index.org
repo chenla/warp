@@ -76,12 +76,12 @@ Volume IV Methodologies
  - 32. [[./04/ww-agency.org][Agency]]
 Volume V  Workflow
  - 00. Contents Volume V
- - 00. [[./ww-intro-vol-5.org][Introduction]] Volume V
- - 33. [[./ww-appl.org][APPL]]
- - 34. [[./ww-hoard.org][Hoard]]
- - 35. [[./ww-primer.org][Primer]]
- - 36. [[./ww-middle.org][Middle]]
- - 37. [[./ww-arc.org][Arc]]
+ - 00. [[./05/ww-intro-vol-5.org][Introduction]] Volume V
+ - 33. [[./05/ww-appl.org][APPL]]
+ - 34. [[./05/ww-hoard.org][Hoard]]
+ - 35. [[./05/ww-primer.org][Primer]]
+ - 36. [[./05/ww-middle.org][Middle]]
+ - 37. [[./05/ww-arc.org][Arc]]
 Volume VI Implementation
  - 00. [[./ww-intro-vol-6.org][Introduction]] Volume VI
  - 38. [[./ww-scenarios.org][Scenarios]]
