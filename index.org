@@ -31,7 +31,7 @@ Volume I Foundations
  - [[./ww-intro.org][Introduction]]
  - 00. [[../wip/wip-plan.org][Plan of the Work]] - prolegomenon
  - 00. [[../wip/wip-ww-synopsis.org][Synopsis]]
- - 00. Contents Volume I
+ - 00. [[./01/index.org][Contents Volume I]]
  - 00. [[./01/ww-intro-vol-1.org][Introduction]] Volume I
  - 01. [[./01/ww-civilization.org][Civilis]]
  - 02. [[./01/ww-ab-initio.org][Ab initio]]
