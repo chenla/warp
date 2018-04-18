@@ -27,7 +27,7 @@ bibliography:../hoard/bib.bib
 
 
 Volume I Foundations
- - [[./ww-epigraph.org][Epigraph]]
+ - [[./01/ww-epigraph.org][Epigraph]]
  - [[./ww-intro.org][Introduction]]
  - 00. [[../wip/wip-plan.org][Plan of the Work]] - prolegomenon
  - 00. [[../wip/wip-ww-synopsis.org][Synopsis]]
