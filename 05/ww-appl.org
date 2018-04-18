@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: A Pace-Layer Pattern Language
+#+TITLE: 33. A Pace-Layer Pattern Language
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* A Pace-Layer Pattern Language
+* 33. A Pace-Layer Pattern Language
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww/appl.org
@@ -30,12 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-APPL makes up the reference building blocks for building any
-given civilization at a given succession stage
-
-
 ** Table of Contents
 
   - Development Stage
@@ -45,182 +39,32 @@ given civilization at a given succession stage
     - Recommendation (R)
 
   - Entity Models
-    - Patterns (con)            -> APPL  
+    - Pattern (con)
       - Variation (exp)         -> APPL
         - Implementation (man)  -> Hoard
           - Localization (inst) -> Primer: applied
-    - Parameter (con)           -> APPL
+    - Metastructure (con)
+      - Metasystem (exp)                      
+        - (man)
+
+
+    - Parameter (con)
       - Definition (exp)        -> APPL: define/method/unit
         - Source (man)          -> Hoard
           - Variable (inst)     -> Primer: applied
-    - Theses (con)              -> APPL
+    - Theses (con)
       - Declaration (exp)       -> APPL 
         - Rule (man)            -> Hoard: algorithm
           - Code (inst)         -> Primer: applied
-    - Keystones (con)           -> APPL
+    - Keystone (con)           -> APPL
       - Variation (exp)         -> Hoard
         - Design (man)          -> Primer 
           - Prototype (inst)    -> IRL : applied
 
+** TL;DR
 
-** APPL
-
-#+begin_comment
-It took me a long time to really grok patterns.  The first
-time I saw the book I was hooked instantly.  But how you got
-from patterns to actual buildings wasn't so clear.  Even
-today, after reading /The Nature of Order/
-cite:alexander:2004phenomenon it still wasn't clear.  I
-understood what he was proposing, but implementation is
-still too fuzzy -- it's almost as if the gulf is too great
-between the past and present -- we are so estranged and
-broken that building things from a deep sense of
-connectedness to the world is an alien concept.  I don't
-agree that people still have an innate ability to do this.
-This faculty has been so degraded that we don't even know
-what we've lost any longer.
-
-Alexander has come up with a methodology that provides a
-crude method that's sort of like trying to teach deaf people
-to create not just music but /beautiful/ music that they can
-not understand or experience.
-
-We need to teach people how to be connected to the world and
-give them the cognitive tools to see and appreciate beauty,
-then Alexander's approach will follow naturally.
-
-This goes to the core of the problem of quality and
-craftsmanship.  And in both cases I don't think we make any
-progress until we can at the cultural layer, to reinvent
-both quality and craftsmanship.  This is a
-multi-generational undertaking and my gut feeling is that we
-first need to figure out how to stop crushing children's
-natural ability to see and understand beauty.  And I have a
-hunch that this can't be done unless we also stop crushing
-things like curiosity, or training people to think that
-uniformity is the synonymous with quality -- that's an
-industrial revolution thing.  
-
-And post-industrial revolution civilization is just getting
-worse.  We now have a significant percentage of a generation
-who don't experience anything directly -- they are too busy
-pointing a camera at things instead of experiencing it and
-contemplating on what they are seeing.  Instead they
-experience things as a side effect of their peer group in
-social media.  That's bad enough, but we then are going
-further and feel the need to include ourselves in most and
-sometimes nearly all of those photos.  Selfies put ourselves
-at the center of everything we experience.  We don't watch a
-beautiful sunset, we take a picture of ourselves in front of
-a beautiful sunset and by the time you've sent the picture
-to social media the sun is down.  We need to understand that
-we are part of the world, at the center of that world and
-this is something that is being lost.  There are any number
-of people who take great umbridge to this argument and say
-that taking pictures is how they experience things.  That
-doesn't hold up, the act of recording requires that most of
-your attention is spent in the mechanics of making that
-recording.  Saying that you can multitask and enjoy the sun
-set as fully through a view finder as you fiddle with the
-settings and frame and take the shot is not the same as
-quietly sitting and watching a sun set.  Adding insult to
-injury by putting yourself into that shot is pure
-narcissism.  It is not a bad thing to take pictures of a
-sunset, but this should be the exception rather than the
-rule.  If you haven't spent many many sunsets watching them
-and trying to understand what you are seeing and how that
-relates to you and your place in the world then you don't
-have the experience to know how to capture all of that in a
-photograph.  This is the difference between art and whatever
-it is people are doing with selfie sticks.
-
-When we produce millions of exact copies of things be they
-tea pots or copies of a sound recording we have stripped
-things of their uniqueness and life imperfections are the
-only way we can know when we see something that is perfect.
-When everything is the same, there is no good or bad,
-nothing is better than anything else which strips things of
-their beauty, if nothing is ugly, then nothing is beautiful.
-Beauty only exists as part of a spectrum with things that
-are ugly at the opposite end.
-
-We have to discard a lot of industrial revolution baggage to
-do this and we will never see it, nor out children.  But
-perhaps our grandchildren and great grandchilren, if we work
-hard enough at it and make it a priority.
-
-But this still doesn't answer my original question of how to
-use patterns -- I don't see them as a crutch, as see them as
-an important means of embodying an aspect of knowledge that
-until now hasn't been recorded in any meaningful way.
-
-Patterns record fuzzy things that we use terms like
-traditional, or custom or vernacular that boils down to
-being collective, often informal knowledge -- it works
-because it has evolved over many generations and tempered
-over time through constant tweaking and experimentation.
-It's often difficult, and even impossible to boil such
-knowledge down into exact specifications or designs.
-Patterns are able to capture that and as such are very
-powerful, though more than a little nebulous.  Patterns are
-not machine understandable because they are all within a
-continuum of possible manifestations.  This is why it's so
-difficult to use traditional building and financing methods
-to do such construction because it is a process that doesn't
-lead to a specific pre-defined conclusion.  The process
-determines the finished product, not the desgin.  This is
-what happened to the Web -- the original Web wasn't supposed
-to look the same everywhere -- web pages were supposed to be
-rendered differently according to the different types of
-software and hardware that was being used.  Today's web
-which is designed to work on multiple display sizes is not
-what I'm talking about.  Web pages were not meant to be
-'designed' they were meant to be interpreted.  Modern man
-can't handle that kind of plasticity and uncertainty -- we
-are too indoctrinated with the industrial concept that
-everything has to be exactly the same to be of high
-quality.  There can be no ambiguity, no influence from
-outside -- everything must be static cookie cutter identical
-copies where the designer has the power of controlling
-everything for good or bad.
-
-This also means that we've lost the ability to adapt the
-world around us to the specific circumstances and needs that
-they are put to use.  Emacs is completely the opposite from
-this -- no two .emacs are the same, and after a while, the
-customizations that go into your config may well make it
-unusable for other people to be able to understand or use.
-To someone like Steve Jobs this is nothing short of
-horrifying.  He wants to cramp /his/ vision and /his/ design
-down your throat and he doesn't give a shit if this works or
-not.  Apple products require you to conform in ways that
-Microsoft was never clever enough to pull off.  But
-microsoft achieved the same thing from a completely
-different direction.  Microsoft products are designed for
-large corporate environments that require general purpose
-tools that are identical.  Microsoft is the electronic
-embodiment of industrial information processing.  The tools
-don't need to be great, they only need to be good enough,
-because the workers and the work done doesn't need to be
-great it only needs to be good enough.  Excellence,
-ingenuity and imagination doesn't scale and must be
-eradicated where ever it is encountered.  That is why
-Microsoft was so successful, Gates understood that in his
-bones.  Apple then became a sort of fake alternative to
-Microsoft.  Apple was supposed to be about individuality and
-unconformity and thinking outside of the box, but that was
-all window dressing.  It had the effect of catching all of
-the people who did have a spark of imagination and crushed
-it by reducing it to a lifestyle choice.  So you had the
-choice of Microsoft, or Apple's way or the highway.  In the
-end both Microsoft and Apple were doing the same thing.
-
-Emacs out-of-the-box isn't emacs.  Emacs only become emacs
-after it has rewired your brain and you have rewired emacs.
-
-That is the potential that the web originally had and was
-lost in the browser wars.
-#+end_comment
+APPL makes up the reference building blocks for building any
+given civilization at a given succession stage
 
 Patterns are repeating themes in nature, design and human
 behavior that when combined with other patterns strengthen
@@ -237,11 +81,38 @@ that supported the construction of beautiful buildings.
 Our pattern language has a far broader scope; building an
 antifragile civilization for mankind. 
 
-Patterns alone will not be enough to build a civilization
-on.  For this reason in addition to Patters
+APL style Patterns alone will not be enough to build a
+civilization on.  For this reason we have five different
+types of Patterns:
+
+  - Metastructure : infrastructure as system
+  - Pattern
+  - Parameter
+  - Theses
+  - Keystone
 
 ** Patterns
-** Parameter (was constants)
+** Metastructure
+
+Metastructures are infrastructure systems.  The global
+value-chain is built on the Intermodal-Container
+metastructure which uses standardized shipping containers as
+an base-unit of regional and global transportation,
+logistics, finance and interstate border crossing.  The
+Internet using the TCP/IP protocol and the DNS & Bind address
+resolution system is another metastructure.
+
+Typically a Hoard combines and adapts a number of
+Metastructure patterns for the scope and succession stage of
+what the pattern is meant to cover.
+
+This provides the big picture for infrastructure that all
+other types of patterns fit within.
+
+The tricky part is to ensure interoperability between
+metastructures at different succession stages.
+
+** Parameter
 
 Constants are bedrock variables that define things that can
 not be changed like the speed of light or dunbar's number.
