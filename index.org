@@ -51,7 +51,7 @@ Volume II Frameworks
  - 13. [[./02/ww-standards.org][Standards]]
  - 14. [[./02/ww-legibility.org][Legibility]]
 Volume III Components
- - 00. Contents Volume III
+ - 00. [[./03/index.org][Contents Volume III]]
  - 00. [[./03/ww-intro-vol-3.org][Introduction]] Volume III
  - 15. [[./03/ww-identity.org][Identity]]
  - 16. [[./03/ww-citizens.org][Citizens]]
