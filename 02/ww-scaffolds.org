@@ -11,7 +11,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-bibliography:../hoard/bib.bib
+bibliography:../../hoard/bib.bib
 
 * Scaffolds
 :PROPERTIES:
@@ -28,6 +28,14 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Table of Contents
+  - [[./ww-entities.org][Entity Model]]
+  - [[./ww-ontologies.org][Ontology Model]]
+  - [[./ww-pace-layers.org][Pace-Layer]] Model
+  - [[./ww-succession-model.org][Succession Model]]
+  - [[./ww-goldilocks.org][Goldilocks-Thresholds]] / Spectrum/Range/Zone
+  - [[./ww-hard-soft-wet.org][Hard Soft Wet]]
+
 ** TL;DR
 
 Scaffold as a supporting structure for what you are building
@@ -40,12 +48,3 @@ The APPL will have as it's introduction, the APPL pace-layer
 model -- not here.  Here we will only discuss pace-layers as
 a concept and how we will use the model as a foundational
 scaffold for APPL, Primer and Hoard.
-
-
-** Table of Contents
-  - [[./ww-entities.org][Entity Model]]
-  - [[./ww-ontologies.org][Ontology Model]]
-  - [[./ww-pace-layers.org][Pace-Layer]] Model
-  - [[./ww-succession-model.org][Succession Model]]
-  - [[./ww-goldilocks.org][Goldilocks-Thresholds]] / Spectrum/Range/Zone
-  - [[./ww-hard-soft-wet.org][Hard Soft Wet]]
