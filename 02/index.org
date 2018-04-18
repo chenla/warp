@@ -29,7 +29,7 @@
  - 08. [[./ww-dualities.org][Dualities]]
  - 09. [[./ww-generators.org][Generators]]
  - 10. [[./ww-scaffolds.org][Scaffolds]]
- - 11. [[./ww-specializations.org][Specializations]]
+ - 11. [[./ww-systemss.org][Systems]]
  - 12. [[./ww-patterns.org][Patterns]]
  - 13. [[./ww-standards.org][Standards]]
  - 14. [[./ww-legibility.org][Legibility]]
