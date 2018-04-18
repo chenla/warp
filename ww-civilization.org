@@ -188,7 +188,7 @@ grounds us at human scales.
     - *Commerce Layer* 
     - *Fashion Layer* 
   - 11. Civilization As Generative Genome
-  - 12. Cherry Picking: Towards Civilization From First Principles
+  - 12. Cherry Picking Principles
     - All Things Apply To Everyone
     - Only Human Scales
     - Adjusting for Human Nature
@@ -198,7 +198,6 @@ grounds us at human scales.
     - Embracing Uncertainty
     - Generative Plans, Designs, and Management 
     - One Step Forward, Two Steps Back
-
 
 ** Notes
 
