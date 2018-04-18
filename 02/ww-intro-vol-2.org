@@ -472,19 +472,6 @@ model as we will later see in A Pace-Layer Pattern Language
 
 *** Specializations
 
-
-
-** Table of Contents
- - 07. [[./ww-points-of-view.org][Points of View]]
- - 08. [[./ww-dualities.org][Dualities]]
- - 09. [[./ww-generators.org][Generators]]
- - 10. [[./ww-scaffolds.org][Scaffolds]]
- - 11. [[./ww-specializations.org][Specializations]]
- - 12. [[./ww-patterns.org][Patterns]]
- - 13. [[./ww-standards.org][Standards]]
- - 14. [[./ww-legibility.org][Legibility]]
-
-
 ** References 
 
   - Brand, S., How buildings learn: what happens after

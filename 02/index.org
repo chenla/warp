@@ -1,0 +1,36 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   Volume II | TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Volume II | Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/index.org
+:Created:  2018-04-18T10:04@Prek Leap (11.642600N-104.919210W)
+:ID:       52ec4330-52a5-4365-8774-a7ddd154d942
+:VER:      577292762.888098657
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:HPO5-7361
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Table of Contents
+ - 07. [[./ww-points-of-view.org][Points of View]]
+ - 08. [[./ww-dualities.org][Dualities]]
+ - 09. [[./ww-generators.org][Generators]]
+ - 10. [[./ww-scaffolds.org][Scaffolds]]
+ - 11. [[./ww-specializations.org][Specializations]]
+ - 12. [[./ww-patterns.org][Patterns]]
+ - 13. [[./ww-standards.org][Standards]]
+ - 14. [[./ww-legibility.org][Legibility]]
+
