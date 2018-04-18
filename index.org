@@ -66,14 +66,14 @@ Volume III Components
  - 25. [[./03/ww-infrastructure.org][Infrastructure]]
 Volume IV Methodologies
  - 00. Contents Volume IV
- - 00. [[./ww-intro-vol-4.org][Introduction]] Volume IV
- - 26. [[./ww-the-way.org][The Way]]
- - 27. [[./ww-cycles.org][Cycles]]
- - 28. [[./ww-rules.org][Rules]]
- - 29. [[./ww-workflow.org][Workflow]]
- - 30. [[./ww-replicators.org][Replicators]]
- - 31. [[./ww-fabrication.org][Fabrication]]
- - 32. [[./ww-agency.org][Agency]]
+ - 00. [[./04/ww-intro-vol-4.org][Introduction]] Volume IV
+ - 26. [[./04/ww-the-way.org][The Way]]
+ - 27. [[./04/ww-cycles.org][Cycles]]
+ - 28. [[./04/ww-rules.org][Rules]]
+ - 29. [[./04/ww-workflow.org][Workflow]]
+ - 30. [[./04/ww-replicators.org][Replicators]]
+ - 31. [[./04/ww-fabrication.org][Fabrication]]
+ - 32. [[./04/ww-agency.org][Agency]]
 Volume V  Workflow
  - 00. Contents Volume V
  - 00. [[./ww-intro-vol-5.org][Introduction]] Volume V
