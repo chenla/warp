@@ -8,7 +8,7 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-[[[../index.org][top]]] | [[[../index.org][index]]]
+[[[../index.org][top]]] | [[[./index.org][index]]]
 
 * Volume I | Table of Contents
 :PROPERTIES:
@@ -28,10 +28,10 @@
 ** Table of Contents
  - [[./ww-epigraph.org][Epigraph]]
  - [[./ww-intro.org][Introduction]]
- - 00. [[../wip/wip-plan.org][Plan of the Work]] - prolegomenon
- - 00. [[../wip/wip-ww-synopsis.org][Synopsis]]
- - 00. Contents Volume I
- - 00. [[./ww-intro-vol-1.org][Introduction]] Volume I
+ - 00. [[../00/ww-plan.org][Plan of the Work]]
+ - 00. [[../00/ww-synopsis.org][Synopsis]]
+ - 00. [[./index.org][Contents Volume I]]
+ - 00. [[./ww-intro-vol-1.org][Introduction Volume I]]
  - 01. [[./ww-civilization.org][Civilis]]
  - 02. [[./ww-ab-initio.org][Ab initio]] 
  - 03. [[./ww-order.org][Nature of Order]]
