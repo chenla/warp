@@ -29,12 +29,12 @@ bibliography:../../hoard/bib.bib
 :END:
 
 ** Table of Contents
-  - [[./ww-entities.org][Entity Model]]
-  - [[./ww-ontologies.org][Ontology Model]]
-  - [[./ww-pace-layers.org][Pace-Layer]] Model
-  - [[./ww-succession-model.org][Succession Model]]
-  - [[./ww-goldilocks.org][Goldilocks-Thresholds]] / Spectrum/Range/Zone
-  - [[./ww-hard-soft-wet.org][Hard Soft Wet]]
+  - [[./10/ww-entities.org][Entity Model]]
+  - [[./10/ww-ontologies.org][Ontology Model]]
+  - [[./10/ww-pace-layers.org][Pace-Layer Model]]
+  - [[./10/ww-succession-model.org][Succession Model]]
+  - [[./10/ww-goldilocks.org][Goldilocks-Thresholds]]
+  - [[./10/ww-hard-soft-wet.org][Hard Soft Wet]]
 
 ** TL;DR
 
