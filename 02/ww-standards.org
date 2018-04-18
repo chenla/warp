@@ -30,7 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
 ** Table of Contents
 
   - Lingua Franca
@@ -68,6 +67,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - sets        -> lists: bag, seq, alt
     - trees       -> branching lists
     - layers      -> What about arrays?
+** TL;DR
 
 ** Data Structures
 

@@ -30,6 +30,86 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Table of Contents
+ - Observing Systems : Second-Order Cybernetics
+ - Systems Thinking
+   - Relationships between different parts of a system
+   - flows of energy and resources, needs and opportunities
+
+   - processes that can be thought of as a series of steps
+     in which the result of one event triggers another event
+     etc.  In computer science this is called Input and
+     Output.  Input introduces something into a process that
+     does something with the input and the output is then
+     fed into another process which does does something that
+     produces an output until the process is complete, or
+     loops back to start again.  If there is a loop, a
+     feedback system is then required to determine if or
+     when a loop is terminated.
+
+   - positive feedback loops reinforce unchecked growth
+
+   - negative feedback loops have upper and lower boundries
+     and a trigger (sensor) that trips if growth should
+     start or stop in order to remain within those
+     boundries.
+ - positive vs negative space
+   - in architecture 
+     -- negative is what surrounds what is built
+     -- positive is what is built
+     -- we move through negative spaces
+     -- we dwell in positive spaces
+   - in ecology
+     -- negative is where there are no resources 
+     -- positive is where resources are distributed
+     -- species fill ecological niches through adaptation to
+        dynamics of the niche, climate, how to access
+        resources, shelter, countermeasures against
+        predators etc.
+   - in cooperative social systems
+     -- positive is created by breaking up knowledge and
+        tasks into sizes that an individual can handle.  The
+        more complex the task, the more knowledge and skills
+        required to complete the task.  As systems scales,
+        the need for a task is larger than a single person
+        can fill, so the task is duplicated so that more than
+        one person is filling the same task.
+     -- negative is created between knowledge and skill
+        domains which require different skills,  tools
+        resources and knowledge.
+   - in market economies
+     -- negative is where there are no needs or opportunities
+     -- positive is where there are opportunities to fill
+        needs
+     -- people develop methods to fill needs to survive
+        where there is less competition, if the people
+        filling a need outnumber the demand for the need
+        then the cost (reward) goes down through competition
+     -- markets are a flexible means of distributing
+        specialization because they don't require
+        hierarchical coordination -- planned economies fail
+        because of top-down command and control which is not
+        flexible enough to meet the needs of unpredictible
+        complexity.
+- Specializations & niches
+  - the larger the territory of a system, the higher the
+    number of specializations -- this is because as things
+    scale more variations are introduced between the
+    different specializations that fill niches (needs) in
+    a system so the system adapts by creating variations
+    that specialize in meeting the needs in local
+    variations.
+  - when two systems come into contact with each other,
+    the more interaction between the two systems (the less
+    that each system is isolated from each other) the
+    tendency if for the to systems to merge into a single
+    homogeneous system.
+  - when systems merge, specializations that fill the same
+    niche in the previous separate systems begin to
+    compete  for the same niche.  The speialization that
+    is better adapted to fill the combined niches will
+    tend replace the other specialization.
+
 ** TL;DR
 
 I'm starting to envision this to be in three broad parts:
@@ -102,90 +182,6 @@ and there are now two different specialists that fill the
 same niche, over time, one of the two specialists is found
 to be better than the other and takes over that niche.  We
 see this over and over in natural history and in societies.
-
-** Table of Contents
- - Observing Systems : Second-Order Cybernetics
-
- - Systems Thinking
-   - Relationships between different parts of a system
-   - flows of energy and resources, needs and opportunities
-
-   - processes that can be thought of as a series of steps
-     in which the result of one event triggers another event
-     etc.  In computer science this is called Input and
-     Output.  Input introduces something into a process that
-     does something with the input and the output is then
-     fed into another process which does does something that
-     produces an output until the process is complete, or
-     loops back to start again.  If there is a loop, a
-     feedback system is then required to determine if or
-     when a loop is terminated.
-
-   - positive feedback loops reinforce unchecked growth
-
-   - negative feedback loops have upper and lower boundries
-     and a trigger (sensor) that trips if growth should
-     start or stop in order to remain within those
-     boundries.
-
-
- - positive vs negative space
-   - in architecture 
-     -- negative is what surrounds what is built
-     -- positive is what is built
-     -- we move through negative spaces
-     -- we dwell in positive spaces
-   - in ecology
-     -- negative is where there are no resources 
-     -- positive is where resources are distributed
-     -- species fill ecological niches through adaptation to
-        dynamics of the niche, climate, how to access
-        resources, shelter, countermeasures against
-        predators etc.
-   - in cooperative social systems
-     -- positive is created by breaking up knowledge and
-        tasks into sizes that an individual can handle.  The
-        more complex the task, the more knowledge and skills
-        required to complete the task.  As systems scales,
-        the need for a task is larger than a single person
-        can fill, so the task is duplicated so that more than
-        one person is filling the same task.
-     -- negative is created between knowledge and skill
-        domains which require different skills,  tools
-        resources and knowledge.
-   - in market economies
-     -- negative is where there are no needs or opportunities
-     -- positive is where there are opportunities to fill
-        needs
-     -- people develop methods to fill needs to survive
-        where there is less competition, if the people
-        filling a need outnumber the demand for the need
-        then the cost (reward) goes down through competition
-     -- markets are a flexible means of distributing
-        specialization because they don't require
-        hierarchical coordination -- planned economies fail
-        because of top-down command and control which is not
-        flexible enough to meet the needs of unpredictible
-        complexity.
-
-  - Specializations & niches
-    - the larger the territory of a system, the higher the
-      number of specializations -- this is because as things
-      scale more variations are introduced between the
-      different specializations that fill niches (needs) in
-      a system so the system adapts by creating variations
-      that specialize in meeting the needs in local
-      variations.
-    - when two systems come into contact with each other,
-      the more interaction between the two systems (the less
-      that each system is isolated from each other) the
-      tendency if for the to systems to merge into a single
-      homogeneous system.
-    - when systems merge, specializations that fill the same
-      niche in the previous separate systems begin to
-      compete  for the same niche.  The speialization that
-      is better adapted to fill the combined niches will
-      tend replace the other specialization.
 
 ** Meadows Summary
 

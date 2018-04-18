@@ -30,8 +30,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
 ** Table of Contents
+
+** TL;DR
 
 Most generators generate random crap and chaos, but a few,
 created all of the structure that we see in the universe and
@@ -71,3 +72,4 @@ and then we put how to generate them here....
 
 Or do we strip that out of estrangment and create it's own
 section....
+

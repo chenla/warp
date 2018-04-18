@@ -30,6 +30,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Table of Contents
+ - The Nature of Dualities
+ - Dualities in Nature
+ - Part-Whole
+ - Map-Territory
+ - Meta-Data
+
 ** TL;DR
 
 #+begin_comment
@@ -38,13 +45,6 @@ been thought out more than most of the work which goes back
 to the Sticky Stuff paper in 2006..  Next will be to go
 through and pull in all my other notes and references
 #+end_comment
-
-** Table of Contents
- - The Nature of Dualities
- - Dualities in Nature
- - Part-Whole
- - Map-Territory
- - Meta-Data
 
 ** Notes
 

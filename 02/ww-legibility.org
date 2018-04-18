@@ -30,6 +30,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Table of Contents
+ - State Legability
+ - Machine Legibility
+ - Transparency
+ - Accountability
+
 ** TL;DR
 
 In /Seeing Like A State/ cite:scott:1998seeing James Scott
@@ -101,13 +107,6 @@ our internal mental models.
 
 This same capability will also become the foundation for
 artificial intelligence.
-
-
-** Table of Contents
- - State Legability
- - Machine Legibility
- - Transparency
- - Accountability
 
 
 ** References
