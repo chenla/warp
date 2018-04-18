@@ -13,6 +13,8 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
 * Primer
 :PROPERTIES:
 :CUSTOM_ID:

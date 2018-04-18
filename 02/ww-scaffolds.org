@@ -13,6 +13,8 @@
 
 bibliography:../../hoard/bib.bib
 
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
 * Scaffolds
 :PROPERTIES:
 :CUSTOM_ID:

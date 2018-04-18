@@ -13,6 +13,8 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
 * Introduction Volume V
 :PROPERTIES:
 :CUSTOM_ID:
