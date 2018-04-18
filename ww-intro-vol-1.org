@@ -39,6 +39,12 @@ advanced post-scarcity future that we are starting to see
 the beginnings of today which we will get into in detail in
 Volume III.
 
+*** 01. Civilis
+
+
+
+*** 02. Ab Initio
+
 Then what do we mean by first principles? In a word, it is
 what Paul Graham called, when describing the design of the
 programming laguage Arc, that theree would be "no onions in
@@ -75,11 +81,11 @@ lost.  However there are many onions that should be at least
 understood if they are to be retained, and discard them if
 they do more harm than good.
 
-The practice in the sciences of always trying to start from
-first principles is that many times we are led down false
-paths from the initial assumptions that they are based on.
-For this reason we must ensure that the civilization we
-build is on a solid rational and empirical foundation.
+The practice in the sciences of starting from first
+principles is that many times we are led down false paths
+from the initial assumptions that they are based on.  For
+this reason we must ensure that the civilization we build is
+on a solid rational and empirical foundation.
 
 #+begin_quote
 A sound house needs a firm foundation, a good roof, and
@@ -119,6 +125,8 @@ we must take stock of our civilization an its foundations
 and ensure that they are placed on a strong and durable
 footing.
 
+*** 03. Nature of Order
+
 We will then explore what Christopher Alexander called, in
 his monumental work, /The Nature of Order/ which at its
 heart attempts to place the idea of /quality/, what
@@ -138,6 +146,8 @@ in organization that is larger than the sum of it's parts,
 that can hold back the inexorible law of entropy should be
 considered to be transcendent and spiritual.
 
+*** 04. Estrangement
+
 The problem is that since the development of spoken written
 languages Sapiens have become increasingly estranged from the
 world in which they belong.  This estrangement is a rift
@@ -150,6 +160,9 @@ work which will be the most difficult to do, but everything
 depends on us getting this right.  And if we can get this
 right, and mend the rift a lot of other things will fall
 into place.
+
+
+*** 05 Bondries
 
 From here we can then begin to discuss the limitations of
 Sapiens and of the greater Mankind.  There are no shortage
@@ -181,6 +194,8 @@ up.  So we must constantly strive to understand ourselves
 better, and to design social structures which take these
 hard facts about ourselves into account and protect
 ourselves from our less than noble natures.
+
+*** 06. Principles
 
 This brings us to the final part of the first volume which
 explores the principles on which we can build societies and
