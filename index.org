@@ -32,7 +32,7 @@ Volume I Foundations
  - 00. [[../wip/wip-plan.org][Plan of the Work]] - prolegomenon
  - 00. [[../wip/wip-ww-synopsis.org][Synopsis]]
  - 00. [[./01/index.org][Contents Volume I]]
- - 00. [[./01/ww-intro-vol-1.org][Introduction]] Volume I
+ - 00. [[./01/ww-intro-vol-1.org][Introduction Volume I]]
  - 01. [[./01/ww-civilization.org][Civilis]]
  - 02. [[./01/ww-ab-initio.org][Ab initio]]
  - 03. [[./01/ww-order.org][Nature of Order]]
@@ -41,7 +41,7 @@ Volume I Foundations
  - 06. [[./01/ww-principles.org][Principles]]
 Volume II Frameworks
  - 00. [[./02/index.org][Contents Volume II]]
- - 00. [[./02/ww-intro-vol-2.org][Introduction]] Volume II
+ - 00. [[./02/ww-intro-vol-2.org][Introduction Volume II]]
  - 07. [[./02/ww-points-of-view.org][Points of View]]
  - 08. [[./02/ww-dualities.org][Dualities]]
  - 09. [[./02/ww-generators.org][Generators]]
@@ -52,7 +52,7 @@ Volume II Frameworks
  - 14. [[./02/ww-legibility.org][Legibility]]
 Volume III Components
  - 00. [[./03/index.org][Contents Volume III]]
- - 00. [[./03/ww-intro-vol-3.org][Introduction]] Volume III
+ - 00. [[./03/ww-intro-vol-3.org][Introduction Volume III]]
  - 15. [[./03/ww-identity.org][Identity]]
  - 16. [[./03/ww-citizens.org][Citizens]]
  - 17. [[./03/ww-polis.org][Polis]]
@@ -66,7 +66,7 @@ Volume III Components
  - 25. [[./03/ww-infrastructure.org][Infrastructure]]
 Volume IV Methodologies
  - 00. Contents Volume IV
- - 00. [[./04/ww-intro-vol-4.org][Introduction]] Volume IV
+ - 00. [[./04/ww-intro-vol-4.org][Introduction Volume IV]]
  - 26. [[./04/ww-the-way.org][The Way]]
  - 27. [[./04/ww-cycles.org][Cycles]]
  - 28. [[./04/ww-rules.org][Rules]]
@@ -76,14 +76,14 @@ Volume IV Methodologies
  - 32. [[./04/ww-agency.org][Agency]]
 Volume V  Workflow
  - 00. Contents Volume V
- - 00. [[./05/ww-intro-vol-5.org][Introduction]] Volume V
+ - 00. [[./05/ww-intro-vol-5.org][Introduction Volume V]]
  - 33. [[./05/ww-appl.org][APPL]]
  - 34. [[./05/ww-hoard.org][Hoard]]
  - 35. [[./05/ww-primer.org][Primer]]
  - 36. [[./05/ww-middle.org][Middle]]
  - 37. [[./05/ww-arc.org][Arc]]
 Volume VI Implementation
- - 00. [[./06/ww-intro-vol-6.org][Introduction]] Volume VI
+ - 00. [[./06/ww-intro-vol-6.org][Introduction Volume VI]]
  - 38. [[./06/ww-scenarios.org][Scenarios]]
  - 39. [[./06/ww-window-and-roadmap.org][Window & Roadmap]]
 Volume VII
