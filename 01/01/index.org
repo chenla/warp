@@ -25,4 +25,59 @@
 :END:
 
 
+** Table of Contents
+  - 00. [[./01/index.org][Table of Contents Civilis]]
+  - 01. Definitions I. One or many?
+  - 02. Definitions II. Historical
+    - Ba Ba Ba: Us vs. the Other
+    - A Clash of cultures, states, religions, or ideologies
+    - A Parade of Great Men
+    - Human Nature as Social Drivers
+  - 03. Definitions III. Complex System
+    - DNA's Grand Experiment 
+    - Cerebral Cortex: Extended and Externalized 
+    - Holarchy
+      - Self-Organizing Holarchic Open System (SOHO)
+      - Civilization is a sub-holon of the bios-layer 
+    - A Fabric of Process
+    - A Very Slow AI
+  - 04. [[./ww-narrative-synopsis.org][A Narrative Synopsis]]
+  - 05. Specialization
+  - 06. Polis as Building Block
+    - Of Nations and States
+  - 07. Carrying Capacity
+  - 08. Holding it together
+    - propagation, linguistic, cultural
+  - 09. Complex Societies as Systems
+  - 10. Pace-Layer Model
+    - *Bios Layer* :Civilizations have seldom been
+      understood as being a layer that we inhabit in a
+      larger biosphere -- that the ecosystem we belong to is
+      as much a part of civilization as anything else.
+      Pretty much everything written about civilization only
+      talks about ecosystems in terms of resources -- as if
+      resources were external to the system.  A civilization
+      in the middle of an Ice Age will be very different
+      from a civilization during an era with a clement
+      climate.  It is not enough to only talk in terms of
+      carrying capacity, but also climate patterns,
+      biodiversity, how difficult or easy is it to extract
+      raw materials from the lithosphere.
+    - *Anthros Layer*
+    - *Culture Layer*
+    - *Governance Layer*
+    - *Infrastructure Layer*
+    - *Commerce Layer* 
+    - *Fashion Layer* 
+  - 11. Civilization As Generative Genome
+  - 12. Cherry Picking Principles
+    - All Things Apply To Everyone
+    - Only Human Scales
+    - Adjusting for Human Nature
+    - More Eggs in More Baskets
+    - Never Evenly Distributed
+    - Rejoicing in Diversity
+    - Embracing Uncertainty
+    - Generative Plans, Designs, and Management 
+    - One Step Forward, Two Steps Back
 
