@@ -41,15 +41,15 @@ Volume I Foundations
  - 06. [[./01/ww-principles.org][Principles]]
 Volume II Frameworks
  - 00. Contents Volume II
- - 00. [[./ww-intro-vol-2.org][Introduction]] Volume II
- - 07. [[./ww-points-of-view.org][Points of View]]
- - 08. [[./ww-dualities.org][Dualities]]
- - 09. [[./ww-generators.org][Generators]]
- - 10. [[./ww-scaffolds.org][Scaffolds]]
- - 11. [[./ww-systems.org][Systems]]
- - 12. [[./ww-patterns.org][Patterns]]
- - 13. [[./ww-standards.org][Standards]]
- - 14. [[./ww-legibility.org][Legibility]]
+ - 00. [[./02/ww-intro-vol-2.org][Introduction]] Volume II
+ - 07. [[./02/ww-points-of-view.org][Points of View]]
+ - 08. [[./02/ww-dualities.org][Dualities]]
+ - 09. [[./02/ww-generators.org][Generators]]
+ - 10. [[./02/ww-scaffolds.org][Scaffolds]]
+ - 11. [[./02/ww-systems.org][Systems]]
+ - 12. [[./02/ww-patterns.org][Patterns]]
+ - 13. [[./02/ww-standards.org][Standards]]
+ - 14. [[./02/ww-legibility.org][Legibility]]
 Volume III Components
  - 00. Contents Volume III
  - 00. [[./ww-intro-vol-3.org][Introduction]] Volume III
