@@ -6,7 +6,7 @@
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -32,7 +32,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
 
- - New Civilization) Scenarios
+ - New Civilization Scenarios
    - Hot        -> +4°
    - Cold       -> +2° (Paris Accord)
    - Just Right -> -2° (Half-Earth)
@@ -82,25 +82,28 @@ design was, you could say, aspirational and as construction
 took place the design radically changed as they gained
 experience and took into account things on the ground.
 
-What they missed, is what Alexandar keeps trying to teach us -- is
-that if you are going to build something bottom up, it can't be done
-if you only change what the architect does, it also needs to change
-how a project is financed and how it is built.  Soleri understood
-this, but was unable to develop models for actually accomplishing it.
+What they missed, is what Alexandar keeps trying to teach us
+-- is that if you are going to build something bottom up, it
+can't be done if you only change what the architect does, it
+also needs to change how a project is financed and how it is
+built.  Soleri understood this, but was unable to develop
+models for actually accomplishing it.
 
-You can't build a town, let alone a city by selling bells.  And
-despite his understanding that the process /had/ to be bottom up, he
-was still too much part of the old school, and influenced by people
-like Frank Loyld Wright who was mister command and control from the
-top and work down -- Soleri had an aestetic vision that he wanted to
-instill in Arcosanti which is unique and beautiful, but it comes at
-the cost of being truly a bottom up generative process.  He almost
-pulled it off, if he'd only been able to understand that the ideas
-were powerful enough to hold together and take on a life of their own
-if he only gave up control.  That's an astonishingly difficult thing
-to do, especially for an architect -- whose whole modern persona is
-based around the idea of being absolute master and commander --
-shepard of vision, and leader through the wilderness.
+You can't build a town, let alone a city by selling bells.
+And despite his understanding that the process /had/ to be
+bottom up, he was still too much part of the old school, and
+influenced by people like Frank Loyld Wright who was mister
+command and control from the top and work down -- Soleri had
+an aestetic vision that he wanted to instill in Arcosanti
+which is unique and beautiful, but it comes at the cost of
+being truly a bottom up generative process.  He almost
+pulled it off, if he'd only been able to understand that the
+ideas were powerful enough to hold together and take on a
+life of their own if he only gave up control.  That's an
+astonishingly difficult thing to do, especially for an
+architect -- whose whole modern persona is based around the
+idea of being absolute master and commander -- shepard of
+vision, and leader through the wilderness.
 
 I do not want to make that same mistake here.
 
