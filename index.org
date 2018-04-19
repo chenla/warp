@@ -89,12 +89,19 @@ Volume VI Implementation
  - 39. [[./06/ww-window.org][Window & Roadmap]]
  - 40. [[./06/ww-roadmap.org][Roadmap]]
 Volume VII Origin
-Volume VIII 
-  - Apologetics
-  - Grammar
-  - Logic
-  - Rhetoric 
+ - Contents Volume
+ - Introduction Volume 
+Volume VIII Curriculum
+ - Contents Volume
+ - Introduction Volume 
+ - Trivium
+   - Grammar
+   - Logic
+   - Rhetoric
+ - Laurea 
 Volume IX Articles
+ - Contents Volume
+ - Introduction Volume
   - Apologetics
   - Declaration
   - Rights

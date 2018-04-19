@@ -50,20 +50,22 @@ Hoard is the source-code, which pulls together all of
 the pieces from APPL adapts them into a system that
 works together.
 
-A Hoard doesn't only pull elements from APPL, but it should
-be basing it's overall organization on Metasystems,
-Patterns, Parameters, Theses and Keystones.  And if new ones
-are developed that can be broadly applied they should added
-to APPL and the derive specific variations in the Hoard.
-
-But not everything is a Pattern or fits belongs in APPL.
-There will be large components that will be based on broad
-patterns but will be large composed works in their own
-right.  Some of these might be of use in one or more Hoards.
-
-Where are these in the larger scheme of things.  The two big
-ones that come to mind are the first two parts of a Hoard,
-an origin story and curriculum.  These should be based on 
+There are three major components required in every hoard
+that will either be inherited (hoards employ a cascading
+model) or there will be at least partial translation and
+variations of Origin, Curriculum and Articles which, must be
+common across all expressions of a human distributed
+civilization.  These are not static but living narratives
+and commonly held tennants for all of humanity that are
+based on humanistic principles of reason, science and
+progress, which come to us from the Englightenment.  These
+are not dogmatic or sacrosanct so long as any changes to
+them follow a ruleset that ensure that they don't drift over
+time into justifications for tyranny, violence and
+injustice.  Our origin story is still being written, and it
+might never be completed so it will undergo the most churn,
+so long as any changes reflect rational scientific
+evidence-based consensus.
 
 
 
