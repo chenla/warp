@@ -32,23 +32,27 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
 
- - Carrying Caapacities
+ - Carrying Capacity (general concepts)
    - Petri Dish
      - positive feedback loops
      - negative feedback loops
    - Being the Right Size cite:haldane:1928being
    - People Don't Scale
- - Egalitarian Zone -> smaller and we don't survive, larger
-   and we treat each other as property.
  - Systems
- - Planetary Systems
-   - Biosphere
+   - Planetary
+     - Biosphere
      - Stratosphere
      - Atmosphere
      - Hydrosphere
-   - Lithosphere
- - Planetary Boundries cite:steffen:2015planetary
-   - Boundries
+     - Lithosphere
+   - Societies
+     - Small World Problem
+     - Egalitarian Zone -> smaller and we don't survive, larger
+       and we treat each other as property.
+     - Family Units
+     - Social Ties
+ - Boundries cite:steffen:2015planetary
+   - Planetary
      - Climate change
      - Biosphere
        - functional diversity
@@ -66,41 +70,31 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Atmosphere
        - aerosols
      - Chemical pollution
- - Human Nature
-   - nurture vs nature
-   - instinct
-     SEE: cite:pinker:2003blank
- - Human Boundries
-   - Environment and Input
-     - Atmosphere composition
-     - Atmospheric pressure
-     - Temperature range
-     - Radiation range
+   - Sapiens
+     - Size
+       - Energy Requirements
+     - nurture vs nature
+     - instinct
+       SEE: cite:pinker:2003blank
+     - Atmosphere 
+       - composition
+       - pressure
+       - temperature
+       - radiation
      - Gravity
-     - Potable Water
-     - Symbiotic Microbes and Bacteria ???
+     - Water
      - Food
        - Calories
        - Nutritional Requirements
-     - Sleep 
-     - Light (and diurnal cycles)
-     - Human social contact
-     - Sex
-     - Sensory Stimulation
-     - Environmental Feedback
+     - Sleep
      - Rest (not same as sleep)
-   - Environment and Output
-     - Speed, agility etc.
-     - Mental limits
-   - Individual 
-     - sensual
-     - cognitive limits
-     - cognitive bias
-       - echo chambers
-       - epistemic bubbles 
-         SEE: [[https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult?utm_medium=feed&utm_source=rss-feed][Escape the Echo Chamber]] | C Thi Ngueyen, Aeon 2018
-   - Social
- - World View --> overlap with identity
+     - Light (and diurnal cycles)
+     - Psychological
+       - social contact
+       - sex
+       - sensory stimulation
+     - Cognitive Limits and Bias
+ - World Models
    - Individual
    - Group 
    - Culture
@@ -115,7 +109,7 @@ include human cognitive limits and bias of which there are
 many.
 
 Boundries mostly come down to the fact that most things are
-designed to work at certain scales.  We don't see dragonflys
+designed to work at certain scales.  We don't see dragonflies
 that are several meters long any longer because insects take
 in oxygen through their skin (they don't breath with lungs
 or gills) and monster dragonflies were only possible because
