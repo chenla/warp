@@ -32,27 +32,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
 
- - Scale
+ - Carrying Caapacities
    - Petri Dish
      - positive feedback loops
      - negative feedback loops
    - Being the Right Size cite:haldane:1928being
    - People Don't Scale
  - Egalitarian Zone -> smaller and we don't survive, larger
-   and we treat each other as property. 
-
+   and we treat each other as property.
  - Systems
-#+begin_comment
-Need to show how biosphere's work, and integrate the
-boundries for each part of the system.  This is to show the
-acceptible range within each system and the load it can
-take, and mechanisms for regulating each part.
-
-The Bios p-layer is certainly not homogenus -- we need a
-pace-layer model which is mirrors the larger societal
-pace-layer model so the two can be placed side by side.
-#+end_comment
-
  - Planetary Systems
    - Biosphere
      - Stratosphere
@@ -117,6 +105,37 @@ pace-layer model so the two can be placed side by side.
    - Group 
    - Culture
 ** TL;DR
+
+Boundries define the limits that our planet, all of life,
+our species, civilization and ourselves as individuals must
+work within.  They include hard physical limits that systems
+need to work within or collapse.  They include limits that
+societies need to stay within or decline and collapse.  They
+include human cognitive limits and bias of which there are
+many.
+
+Boundries mostly come down to the fact that most things are
+designed to work at certain scales.  We don't see dragonflys
+that are several meters long any longer because insects take
+in oxygen through their skin (they don't breath with lungs
+or gills) and monster dragonflies were only possible because
+the percentage of oxygen in the atmosphere allowed insects
+to scale far larger than they can today.
+
+Overall having a lower level of oxygen in the atmosphere is
+a good thing.  Oxygen is a very dangerous element because it
+reacts with so many things.  Oxygen burns, it reacts with
+metals like iron can causes rust.  The astronauts in the
+Apollo space died because of a flash fire caused by a spark
+because the capsule was using pure oxygen instead of mixing
+it with an inert gas such as nitrogen which makes up the the
+bulk of earth's atmosphere.
+
+So it's important that we are aware of all of these
+boundries that, well, bound us.  Some of these bondries
+benifit and others limit and work against us.  But either
+way we can't get around them and we must design systems that
+work within them.
 
 
 ** References
