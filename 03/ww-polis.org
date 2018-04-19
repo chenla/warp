@@ -30,54 +30,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-The way that we organize information, matter and energy is
-how we organize power.
-
-We have already discussed how the concept of civilization is
-rooted in the concept of cities, the polis, from where we
-also get the word politics.
-
-Now that we have a clear understanding of what a citizen is,
-we can move from being a migratory or wandering
-hunter-gatherer to a sedentary urbanite.  A band of
-hunter-gatherers resolved conflicts by either moving or
-fighting.  Urban Man makes moving difficult without
-significant disruption and social and material loss.  So
-urban Man needed to find ways of non-violently resolving
-conflicts between neighbors -- from where we get words like
-negotiation, which come from the word /negotium/, the
-opposite of /otium/ which is a time of quiet contemplation.
-Negotium encompused the social, the day to day business and
-intercourse with her neighbors.
-
-We need a model for the concept of polis as the atomic unit
-of civilization as a physical and social fabric that makes
-politics and commerce possible.
-
-We will then discuss the relationship between the urban and
-rural, as an economic relationship that creates tensions
-because of the inequality between the two sides in terms of
-wealth (urban areas have a higher concentration of wealth),
-access to and quality of services, which we will see can be
-understood as a problem of propagation of information,
-wealth and logistics.
-
-Finally we will look at mechanisms for how all of these
-problems can be solved and how they have been solved in the
-past.
-
-In the end, as we have seen over and over, is that the
-limiting factor for any of these solutions is scale.  Once
-we move to scales larger than humans are designed for, we
-see systemic problems emerge that can never be resolved
-because the solutions simply don't scale.
-
 ** Table of Contents
 
+- Culture
+  - Relationship to Climate & Environment
+  - World View
 
-HARD
+- HARD
   - rural, urban, cosmopolitan -> 
   - ancient greek city-states
   - town-gown
@@ -87,7 +46,7 @@ HARD
   - [[./ww-settlement-hierarchies.org][Settlement Hierarchies]]
   - Agora, Stoa & Pynx cite:sennett:2016pynx
   - Neighborhood and identity cite:hubka:1984big-house
-WET
+- WET
   - Social Structures
     - Nature
       - Mates
@@ -246,6 +205,50 @@ unambigious in meaning and intent of how it is to be executed.
       manages processes that are too fast and small or large
       and slow for humans to be able to do themselves.
 
+** TL;DR
+
+The way that we organize information, matter and energy is
+how we organize power.
+
+We have already discussed how the concept of civilization is
+rooted in the concept of cities, the polis, from where we
+also get the word politics.
+
+Now that we have a clear understanding of what a citizen is,
+we can move from being a migratory or wandering
+hunter-gatherer to a sedentary urbanite.  A band of
+hunter-gatherers resolved conflicts by either moving or
+fighting.  Urban Man makes moving difficult without
+significant disruption and social and material loss.  So
+urban Man needed to find ways of non-violently resolving
+conflicts between neighbors -- from where we get words like
+negotiation, which come from the word /negotium/, the
+opposite of /otium/ which is a time of quiet contemplation.
+Negotium encompused the social, the day to day business and
+intercourse with her neighbors.
+
+We need a model for the concept of polis as the atomic unit
+of civilization as a physical and social fabric that makes
+politics and commerce possible.
+
+We will then discuss the relationship between the urban and
+rural, as an economic relationship that creates tensions
+because of the inequality between the two sides in terms of
+wealth (urban areas have a higher concentration of wealth),
+access to and quality of services, which we will see can be
+understood as a problem of propagation of information,
+wealth and logistics.
+
+Finally we will look at mechanisms for how all of these
+problems can be solved and how they have been solved in the
+past.
+
+In the end, as we have seen over and over, is that the
+limiting factor for any of these solutions is scale.  Once
+we move to scales larger than humans are designed for, we
+see systemic problems emerge that can never be resolved
+because the solutions simply don't scale.
+
 
 ** Sovereign Structures
 
@@ -308,6 +311,36 @@ In the modern nation-state system nations are responsible
 and liable for the well being of their neighbors.  When they
 aren't, they are putting the peaceful nation-state system in
 danger.
+
+
+** World View
+
+ - climate shapes our relationship with the world, and our worldview
+
+   - it could be said that most cultural differences are
+     derived from the different way we solve problems to
+     adapt to the local climate.  temperature, rainfall,
+     proximity to rivers or lakes or oceans, length of days
+     and nights are all part and parcel of the mechanics of
+     our daily lives.
+     
+     Contrast the world view's embodied in Homer's Oddessy
+     and Iliad and Beowulf. Homer called the Mediterranean
+     the wine dark sea.  Echoing Homer, James Joyce called
+     the North Sea, the "snot green sea" in /Ulysses/,
+     though in Beowulf, the sea is a "whale-road."  Odysseus
+     made camp on the beach and partied.  Beowulf headed
+     straight to the beer hall, which had no windows and
+     only a door and a hole in the roof to let out smoke.
+     For Odysseus the world was benign, but controlled by
+     bickering and spiteful Gods who could be petitioned for
+     help, but who's internecine machinations more often
+     brought misfortune for man.  Beowulf's Gods were
+     distant and seemingly disinterested in man.  No help or
+     intervention was coming, nor was expected, leaving
+     Heroes like Beowulf to take matters into their own
+     hands to do battle with both monsters and nature
+     directly.
 
 
 ** References
