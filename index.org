@@ -93,6 +93,8 @@ Volume VII Origins
  - 00. Introduction Volume VII
    - Regimes
    - cite:graphton:2010cartographies-time
+   - Epochs
+   - Eras
  - 00. Cosmos
  - 00. Earth & Solar System
  - 00. Life
@@ -100,11 +102,22 @@ Volume VII Origins
 Volume VIII Curriculum
  - 00. Contents Volume VIII
  - 00. Introduction Volume VIII
+ - 00. Curriculum -> a lifetime learning curriculum
+   - Trivium & Quadrivium
+   - Laurea
+     - Laurea Magister
+     - Laurea Practicum 
+   - Practicum -> Techne
  - 00. Trivium
  - 00. Grammar
  - 00. Logic
  - 00. Rhetoric
- - 00. Laurea 
+ - 00. Quadrivium
+ - 00. Mimesis
+ - 00. Rhizomata
+ - 00. Systema
+ - 00. Transacta
+
 Volume IX Articles
  - 00. Contents Volume IX
  - 00. Introduction Volume IX
