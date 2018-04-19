@@ -37,43 +37,51 @@ building a civilization and the workflow between each
 component.
 
 
-  - Warp & Woof defines the principles, assumptions and
-    concepts that the system is based on.
-  - A Pace-Layer Pattern Language defines archetypal
-    patterns that can be combined and adapted to build a
-    civilization.
-  - Hoard is the source-code, which pulls together all of
-    the pieces from APPL adapts them into a system that
-    works together.
-  - Primer is the compiled, running production version of
-    the Hoard.  Changes are made to the Hoard and then
-    merged with the Primer using a rolling continious
-    release mechanism.  The primer is a bit like a genome,
-    the RNA that translates the DNA into the Hoard into what
-    it describes.
-  - Middle is the larger physical and informational
-    infrastructure that is generated from the Primer. Middle
-    is the day to day operation and management.  You can
-    think of Middle as being the body that was generated
-    from your DNA.  In most cases, things that happen in
-    your body don't have any effect on your DNA, but in rate
-    instances it might, especially when you combine your DNA
-    with someone elses to produce offspring.
-  - Arc is designed to be outside of the entire system,
-    which contains the collected recorded memory and
-    experience of a civilization.  All the books, news
-    stories, software, tweets, emails, transaction logs,
-    pictures, medical records etc. are all collected by ARC.
-    Over time, ARC consolidates, summarizes, discarding
-    duplicates and identifying things that are important to
-    be remembered indefinately.  But this is a very slow
-    process measured in decades, centuries and millennia.
-    Arc is the memory of all civilizations and so is an
-    intimate inseparable part of any civilization but it is
-    also outside and above it and designed to survive every
-    possible threat that can be concieved.  ARC is
-    self-replicating, self-supporting, it is both completely
-    open and transparent but it is also secret so that it
-    can survive everything from natural catastrophes,
-    benign neglect, temporary instanity of those who want to
-    destroy or rewrite the past.
+*** Warp & Woof
+Warp & Woof defines the principles, assumptions and
+concepts that the system is based on.
+
+***  A Pace-Layer Pattern Language (APPL)
+A Pace-Layer Pattern Language defines archetypal patterns
+that can be combined and adapted to build a civilization.
+
+*** Hoard
+Hoard is the source-code, which pulls together all of
+the pieces from APPL adapts them into a system that
+works together.
+
+*** Primer
+Primer is the compiled, running production version of the
+Hoard.  Changes are made to the Hoard and then merged with
+the Primer using a rolling continious release mechanism.
+The primer is a bit like a genome, the RNA that translates
+the DNA into the Hoard into what it describes.
+
+*** Middle
+Middle is the larger physical and informational
+infrastructure that is generated from the Primer. Middle is
+the day to day operation and management.  You can think of
+Middle as being the body that was generated from your DNA.
+In most cases, things that happen in your body don't have
+any effect on your DNA, but in rate instances it might,
+especially when you combine your DNA with someone elses to
+produce offspring.
+
+*** Arc
+Arc is designed to be outside of the entire system, which
+contains the collected recorded memory and experience of a
+civilization.  All the books, news stories, software,
+tweets, emails, transaction logs, pictures, medical records
+etc. are all collected by ARC.  Over time, ARC consolidates,
+summarizes, discarding duplicates and identifying things
+that are important to be remembered indefinately.  But this
+is a very slow process measured in decades, centuries and
+millennia.  Arc is the memory of all civilizations and so is
+an intimate inseparable part of any civilization but it is
+also outside and above it and designed to survive every
+possible threat that can be concieved.  ARC is
+self-replicating, self-supporting, it is both completely
+open and transparent but it is also secret so that it can
+survive everything from natural catastrophes, benign
+neglect, temporary instanity of those who want to destroy or
+rewrite the past.
