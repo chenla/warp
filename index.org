@@ -65,7 +65,7 @@ Volume III Components
  - 24. [[./03/ww-succession.org][Succession]]
  - 25. [[./03/ww-infrastructure.org][Infrastructure]]
 Volume IV Methodologies
- - 00. Contents Volume IV
+ - 00. [[./04/index.org][Contents Volume IV]]
  - 00. [[./04/ww-intro-vol-4.org][Introduction Volume IV]]
  - 26. [[./04/ww-the-way.org][The Way]]
  - 27. [[./04/ww-cycles.org][Cycles]]
