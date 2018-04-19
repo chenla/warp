@@ -31,5 +31,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** TL;DR
-** Table of Contents
+
+*** The Way
+*** Cycles
+*** Rules
+*** Workflow
+*** Replicators
+*** Fabrication
+*** Agency
+
+** References
 
