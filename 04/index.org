@@ -3,7 +3,7 @@
 #+TITLE:   Volume IV | TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -27,5 +27,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+ - 00. [[./index.org][Contents Volume IV]]
+ - 00. [[./ww-intro-vol-4.org][Introduction Volume IV]]
+ - 26. [[./ww-the-way.org][The Way]]
+ - 27. [[./ww-cycles.org][Cycles]]
+ - 28. [[./ww-rules.org][Rules]]
+ - 29. [[./ww-workflow.org][Workflow]]
+ - 30. [[./ww-replicators.org][Replicators]]
+ - 31. [[./ww-fabrication.org][Fabrication]]
+ - 32. [[./ww-agency.org][Agency]]
 
 
