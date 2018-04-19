@@ -83,7 +83,7 @@ Volume V  Workflow
  - 36. [[./05/ww-middle.org][Middle]]
  - 37. [[./05/ww-arc.org][Arc]]
 Volume VI Implementation
- - 00. Contents Volume VI
+ - 00. [[./06/index.org][Contents Volume VI]]
  - 00. [[./06/ww-intro-vol-6.org][Introduction Volume VI]]
  - 38. [[./06/ww-scenarios.org][Scenarios]]
    - New Civilization) Scenarios
