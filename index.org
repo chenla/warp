@@ -102,8 +102,11 @@ Volume VII Origins
 Volume VIII Curriculum
  - 00. Contents Volume VIII
  - 00. Introduction Volume VIII
- - 00. Curriculum -> a lifetime learning curriculum
-   - Trivium & Quadrivium
+ - 00. Curriculum
+   - Lifetime learning -> build your hoard
+   - Context
+   - Trivium
+   - Quadrivium
    - Laurea
      - Laurea Magister
      - Laurea Practicum 
