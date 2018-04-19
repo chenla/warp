@@ -88,21 +88,22 @@ Volume VI Implementation
  - 38. [[./06/ww-scenarios.org][Scenarios]]
  - 39. [[./06/ww-window.org][Window & Roadmap]]
  - 40. [[./06/ww-roadmap.org][Roadmap]]
-Volume VII Origin
+Volume VII Origins
  - 00. Contents Volume VII
  - 00. Introduction Volume VII
    - Regimes
- - 41. Cosmos
- - 42. Earth & Solar System
- - 43. Life
- - 44. Mankind
+   - cite:graphton:2010cartographies-time
+ - 00. Cosmos
+ - 00. Earth & Solar System
+ - 00. Life
+ - 00. Mankind
 Volume VIII Curriculum
  - 00. Contents Volume VIII
  - 00. Introduction Volume VIII
- - 45. Trivium
- - 46. Grammar
- - 47. Logic
- - 48. Rhetoric
+ - 00. Trivium
+ - 00. Grammar
+ - 00. Logic
+ - 00. Rhetoric
  - 00. Laurea 
 Volume IX Articles
  - 00. Contents Volume IX
