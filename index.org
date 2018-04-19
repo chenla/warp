@@ -89,25 +89,30 @@ Volume VI Implementation
  - 39. [[./06/ww-window.org][Window & Roadmap]]
  - 40. [[./06/ww-roadmap.org][Roadmap]]
 Volume VII Origin
- - Contents Volume
- - Introduction Volume 
+ - 00. Contents Volume VII
+ - 00. Introduction Volume VII
+   - Regimes
+ - 41. Cosmos
+ - 42. Earth & Solar System
+ - 43. Life
+ - 44. Mankind
 Volume VIII Curriculum
- - Contents Volume
- - Introduction Volume 
- - Trivium
-   - Grammar
-   - Logic
-   - Rhetoric
- - Laurea 
+ - 00. Contents Volume VIII
+ - 00. Introduction Volume VIII
+ - 45. Trivium
+ - 46. Grammar
+ - 47. Logic
+ - 48. Rhetoric
+ - 00. Laurea 
 Volume IX Articles
- - Contents Volume
- - Introduction Volume
-  - Apologetics
-  - Declaration
-  - Rights
-  - Obligations
-  - Constitution
-  - Statutes
+ - 00. Contents Volume IX
+ - 00. Introduction Volume IX
+ - 00. Apologetics
+ - 00. Declaration
+ - 00. Rights
+ - 00. Obligations
+ - 00. Constitution
+ - 00. Statutes
 Volume X
  - Contents Volume X 
  - Preface Volume X
