@@ -30,7 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
 ** Table of Contents
 
  - Scale
@@ -59,10 +58,8 @@ pace-layer model so the two can be placed side by side.
      - Stratosphere
      - Atmosphere
      - Hydrosphere
-   - Lithosphere 
-
+   - Lithosphere
  - Planetary Boundries cite:steffen:2015planetary
-
    - Boundries
      - Climate change
      - Biosphere
@@ -115,6 +112,11 @@ pace-layer model so the two can be placed side by side.
        - epistemic bubbles 
          SEE: [[https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult?utm_medium=feed&utm_source=rss-feed][Escape the Echo Chamber]] | C Thi Ngueyen, Aeon 2018
    - Social
+ - World View --> overlap with identity
+   - Individual
+   - Group 
+   - Culture
+** TL;DR
 
 
 ** References
