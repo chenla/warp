@@ -30,12 +30,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Table of Contents
+
+ - New Civilization) Scenarios
+   - Hot        -> +4°
+   - Cold       -> +2° (Paris Accord)
+   - Just Right -> -2° (Half-Earth)
+     
+ - Three 100 Year Hoards
+   - Northwest North America (Oregan?)
+   - Lower Mekong Subregion
+   - Mars (how effected by support from earth by climate change)
+   - Control 
+ 
 ** TL;DR
-
-
-This may well be split into a separate volume.  My fear is that the
-scenarios are misunderstood in the way that Soleri's fantastic 30 designs
-for arcologies were misunderstood -- my myself most of all.
+This may well be split into a separate volume.  My fear is
+that the scenarios are misunderstood in the way that
+Soleri's fantastic 30 designs for arcologies were
+misunderstood -- my myself most of all.
 
 Because his theory and argument for Argology was so short,
 dense and graphical and the bulk of the book was made up of

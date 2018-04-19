@@ -30,17 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 00. [[./index.org][Contents Volume VI]]
  - 00. [[./ww-intro-vol-6.org][Introduction Volume VI]]
  - 38. [[./ww-scenarios.org][Scenarios]]
-   - New Civilization) Scenarios
-     - Hot        -> +4°
-     - Cold       -> +2° (Paris Accord)
-     - Just Right -> -2° (Half-Earth)
-     
-   - Three 100 Year Hoards
-     - Northwest North America (Oregan?)
-     - Lower Mekong Subregion
-     - Mars (how effected by support from earth by climate change)
-     - Control 
- 
  - 39. [[./ww-window-and-roadmap.org][Window]]
  - 40. [[./ww-roadmap.org][Roadmap]]
 
