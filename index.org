@@ -88,9 +88,22 @@ Volume VI Implementation
  - 38. [[./06/ww-scenarios.org][Scenarios]]
  - 39. [[./06/ww-window.org][Window & Roadmap]]
  - 40. [[./06/ww-roadmap.org][Roadmap]]
-Volume VII
- - Contents Volume VII 
- - Preface Volume VII
+Volume VII Origin
+Volume VIII 
+  - Apologetics
+  - Grammar
+  - Logic
+  - Rhetoric 
+Volume IX Articles
+  - Apologetics
+  - Declaration
+  - Rights
+  - Obligations
+  - Constitution
+  - Statutes
+Volume X
+ - Contents Volume X 
+ - Preface Volume X
  - Appendix
    - shoulders
    - rabbit holes
