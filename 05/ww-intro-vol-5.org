@@ -41,7 +41,7 @@ component.
 Warp & Woof defines the principles, assumptions and
 concepts that the system is based on.
 
-***  A Pace-Layer Pattern Language (APPL)
+*** A Pace-Layer Pattern Language (APPL)
 A Pace-Layer Pattern Language defines archetypal patterns
 that can be combined and adapted to build a civilization.
 
@@ -49,6 +49,23 @@ that can be combined and adapted to build a civilization.
 Hoard is the source-code, which pulls together all of
 the pieces from APPL adapts them into a system that
 works together.
+
+A Hoard doesn't only pull elements from APPL, but it should
+be basing it's overall organization on Metasystems,
+Patterns, Parameters, Theses and Keystones.  And if new ones
+are developed that can be broadly applied they should added
+to APPL and the derive specific variations in the Hoard.
+
+But not everything is a Pattern or fits belongs in APPL.
+There will be large components that will be based on broad
+patterns but will be large composed works in their own
+right.  Some of these might be of use in one or more Hoards.
+
+Where are these in the larger scheme of things.  The two big
+ones that come to mind are the first two parts of a Hoard,
+an origin story and curriculum.  These should be based on 
+
+
 
 *** Primer
 Primer is the compiled, running production version of the
