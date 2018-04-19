@@ -98,7 +98,7 @@ Volume VI Implementation
      - Control 
  
  - 39. [[./06/ww-window-and-roadmap.org][Window & Roadmap]]
- - 40. Roadmap
+ - 40. [[./06/ww-roadmap.org][Roadmap]]
    M-x Butterfly: dedicated to hans gosling -- the
    roadmap is a statistical modeling, visualization,
    planning, projection tool for building interactive models
