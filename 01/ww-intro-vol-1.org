@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume I
+#+TITLE: Introduction Volume I: Foundations
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
