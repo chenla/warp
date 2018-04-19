@@ -31,7 +31,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
-
+ - The Fifty Year Window
+ - Low Hanging Fruit
+ - Population Drop
+ - Climate Change
 
 
 ** TL;DR
@@ -107,6 +110,12 @@ see this happening on Earth anytime soon. But this rapid
 growth demonstrates that scientific discovery is by no means
 anywhere near finished.
 
--- The Half-Life of Facts
+-- The Half-Life of Facts cite:arbesman:2012half-life
 #+end_quote
 
+
+** References
+
+  - Arbesman, S., The half-life of facts: why everything we
+    know has an expiration date (2012), : Current Hardcover.
+    cite:arbesman:2012half-life
