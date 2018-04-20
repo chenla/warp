@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../../index.org][top]]] [[[../index.org][up]]] [[[./02-entities.org][next]]]
 
 * 2.10.0 Scaffolds | Table of Contents
 :PROPERTIES:
@@ -29,9 +29,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - 2.10.0 Table of Contents 
   - 2.10.1 [[./intro.org][Introduction]]
-  - 2.10.2 [[./10/ww-entities.org][Entity Model]]
-  - 2.10.3 [[./10/ww-ontologies.org][Ontology Model]]
-  - 2.10.4 [[./10/ww-pace-layers.org][Pace-Layer Model]]
-  - 2.10.5 [[./10/ww-succession-model.org][Succession Model]]
-  - 2.10.6 [[./10/ww-goldilocks.org][Goldilocks-Thresholds]]
-  - 2.10.7 [[./10/ww-hard-soft-wet.org][Hard Soft Wet]]
+  - 2.10.2 [[./02-entities.org][Entity Model]]
+  - 2.10.3 [[./03-ontologies.org][Ontology Model]]
+  - 2.10.4 [[./04-pace-layers.org][Pace-Layer Model]]
+  - 2.10.5 [[./05-succession-model.org][Succession Model]]
+  - 2.10.6 [[./06-goldilocks.org][Goldilocks-Thresholds]]
+  - 2.10.7 [[./07-hard-soft-wet.org][Hard Soft Wet]]
