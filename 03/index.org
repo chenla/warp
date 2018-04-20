@@ -8,6 +8,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:~/proj/chenla/hoard/bib.bib
+
 [[[../index.org][top]]] [[[../02/index.org][prev]]] [[[../04/index.org][next]]]
 
 * Volume III | Table of Contents
@@ -24,8 +26,6 @@
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
-
-
 
 ** Table of Contents
  - 00. [[./index.org][Contents Volume III]]
