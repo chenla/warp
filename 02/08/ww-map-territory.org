@@ -32,6 +32,146 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
+
+- A Map Is Not the Territory
+
+
 ** TL;DR
 
+** A Map Is Not the Territory
+
+#+CAPTION: This Is Not A Pipe
+[[~/proj/chenla/hoard/img/ww/ww-02-08-MagrittePipe.jpg]]
+
+#+begin_quote
+The famous pipe. How people reproached me for it! And yet,
+could you stuff my pipe? No, it's just a representation, is
+it not? So if I had written on my picture 'This is a pipe',
+I'd have been lying!
+
+-- [[https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte][René Magritte]] 
+#+end_quote
+
+
+#+begin_comment
+Magritte's "La Trahison des Images" ("The Treachery of
+Images") (1928-9) or "Ceci n'est pas une pipe" ("This is not
+a pipe").  Sometimes translated as "The Betrayal of Images"
+By René Magritte, 1898-1967.  The work is now owned by and
+exhibited at LACMA.
+
+[[https://en.wikipedia.org/wiki/File:MagrittePipe.jpg][ - File:MagrittePipe.jpg]] | Wikipedia
+ - [[https://en.wikipedia.org/wiki/The_Treachery_of_Images][The Treachery of Images]] | Wikipedia
+#+end_comment
+
+
+ - [[https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation][Map–territory relation]] | Wikipedia
+
+#+begin_quote
+The expression first appeared in print in a paper that
+Alfred Korzybski gave at a meeting of the American
+Association for the Advancement of Science in New Orleans,
+Louisiana in 1931:[1] In Science and Sanity, Korzybski
+acknowledges his debt to mathematician Eric Temple Bell,
+whose epigram "the map is not the thing mapped" was
+published in Numerology.[fn:1]
+
+    A map is not the territory it represents, but, if
+    correct, it has a similar structure to the territory,
+    which accounts for its usefulness.
+
+    — Alfred Korzybski, Science and Sanity (1933, p. 58)[fn:2]
+
+-- [[https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation][Map–territory relation]] | Wikipedia
+#+end_quote
+
+
+#+begin_quote
+One describes a tale best by telling the tale. You see? The
+way one describes a story, to oneself or the world, is by
+telling the story. It is a balancing act and it is a
+dream. The more accurate the map, the more it resembles the
+territory. The most accurate map possible would be the
+territory, and thus would be perfectly accurate and
+perfectly useless. The tale is the map that is the
+territory.
+
+-- [[https://en.wikipedia.org/wiki/Neil_Gaiman][Neil Gaiman]] | American Gods
+#+end_quote
+
+
+#+begin_quote
+In time, those Unconscionable Maps no longer satisfied, and
+the Cartographers Guild drew a Map of the Empire whose size
+was that of the Empire, coinciding point for point with
+it. The following Generations, who were not so fond of the
+Study of Cartography saw the vast Map to be Useless and
+permitted it to decay and fray under the Sun and winters.
+
+In the Deserts of the West, still today, there are Tattered
+Ruins of the Map, inhabited by Animals and Beggars; and in
+all the Land there is no other Relic of the Disciplines of
+Geography.
+
+-- [[https://en.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]] | [[https://en.wikipedia.org/wiki/On_Exactitude_in_Science][On Exactitude in Science]]
+#+end_quote
+
+
+#+begin_quote
+The inventions of philosophy are no less fantastic than
+those of art: Josiah Royce, in the first volume of his work
+The World and the Individual (1899), has formulated the
+following: 'Let us imagine that a portion of the soil of
+England has been levelled off perfectly and that on it a
+cartographer traces a map of England. The job is perfect;
+there is no detail of the soil of England, no matter how
+minute, that is not registered on the map; everything has
+there its correspondence. This map, in such a case, should
+contain a map of the map, which should contain a map of the
+map of the map, and so on to infinity.' Why does it disturb
+us that the map be included in the map and the thousand and
+one nights in the book of the Thousand and One Nights? Why
+does it disturb us that Don Quixote be a reader of the
+Quixote and Hamlet a spectator of Hamlet? I believe I have
+found the reason: these inversions suggest that if the
+characters of a fictional work can be readers or spectators,
+we, its readers or spectators, can be fictions.
+
+— Jorge Luis Borges, Partial Enchantments of the Quixote (1964)
+#+end_quote
+
+
+Even in theology, it could be asked if the concept of a
+single all powerful God, an infinite being, is a map or
+territory?
+
+Can a territory be sentient?  Can sentience, and
+intelligence be possible unless it can separate itself from
+the larger world it exists in?  Lesser Gods in human
+mythologies don't have this same problem, there are many of
+them, and they are acting on the world, therefore they exist
+separate from the world.  But an all knowing, all seeing,
+god is only possible if it is as complete a map of the
+territory as the territory and so, is pefectly useless
+and powerless.
+
+This same argument can be used when postulating a god-like
+artificial intelligence, it places a very real barrier
+between the universe any any beings who inhabit it.
+
+
+
+
+* Footnotes
+
+[fn:2]  Korzybski, Alfred (1996) [1st ed. 1933]. "Chapter
+IV: On Structure" (PDF). In Schuchardt Read,
+Charlotte. Science and Sanity: An Introduction to
+Non-Aristotelian Systems and General Semantics (CD-ROM
+ed.). p. 58. "A map is not the territory it represents, but,
+if correct, it has a similar structure to the territory,
+which accounts for its usefulness."
+
+[fn:1] Numerology: The Magic of Numbers (Baltimore: Williams
+and Wilkins, 1933).
 
