@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 10. Scaffolds
+#+TITLE: 2.10. Scaffolds
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:../../hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* 10. Scaffolds
+* 2.10. Scaffolds
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-scaffolds.org
@@ -31,12 +31,6 @@ bibliography:../../hoard/bib.bib
 :END:
 
 ** Table of Contents
-  - [[./10/ww-entities.org][Entity Model]]
-  - [[./10/ww-ontologies.org][Ontology Model]]
-  - [[./10/ww-pace-layers.org][Pace-Layer Model]]
-  - [[./10/ww-succession-model.org][Succession Model]]
-  - [[./10/ww-goldilocks.org][Goldilocks-Thresholds]]
-  - [[./10/ww-hard-soft-wet.org][Hard Soft Wet]]
 
 ** TL;DR
 
