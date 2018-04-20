@@ -103,46 +103,7 @@ maintaining civilizations.
 
 *** Propagation
 
-Specifically causal propagation -- 
 
-How is Causal Propagation a POV?  That's what we have to
-explain here.
-
-Perhaps it is what has or hasn't changed in one place
-relative to what has or hasn't changed in another.  So that
-from one POV in space in time the observer sees X but on the
-other side of the galaxy at the same time but different
-place the observer sees Y because change has does not
-propagate at the same rate.
-
-Propagation, like timem is a one-way process.
-
-Change is not instantaneous, it is tied to the physical laws
-of the universe.  Change can only change as fast as those
-physical laws allow.
-
-Propagation is the speed that change moves through time and
-space.
-
-  Light Cone
-
-So the maximum ROC at relative scales is limited by the speed of
-light.
-
-The exception is quantum entanglement -- but at the moment this isn't
-important unless we develop tech that leverages 
-
-Change is also relative to the distance between two things -- the
-shorter the distence the faster things change between them -- at
-microscopic and atomic scales this is very important.
-
-As we will see in the Pace-Layer model, the maximum ROC
-(speed of light) might be important at very large scales,
-but there are all sorts of scales -- different things happen
-at different temporal scales in a society -- there are
-processes that happen slower or faster or even vary,
-changing at different rates at different times depending on
-what is changing.
 
 *** Process
 
