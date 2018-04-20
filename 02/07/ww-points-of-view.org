@@ -96,61 +96,6 @@ maintaining civilizations.
 
 *** Scale
 
-Scale determines POV relative to the distance from a given
-frame of reference, the distence determines the LOD from any
-given distence.
-
-Scale works separately in space or in time or as one or the
-other depending on if your POV is a Process or a Narrative.
-
-Since we use the concept of LOD, rather than any specific
-standard of measurement -- it doesn't require an ideal
-references meter stick kept in a environmentally stable
-vault, or sophisticated light sources and timing equipment
-to measure how far light travels in a given period of time.
-These are important concepts and tools, but as a universal
-means of understanding a POV they don't help.
-
-Is Scale a POV in its own right?
-
-
-Different things work differently at different scales --
-some things scale from small to large like a vector graphic
--- but other things are creatures of specific scales they
-only work within narrow ranges.
-
-The importance of being the right size cite:haldane:1928being
-
-things like water tension and gravity relative to mass means
-that most things won't scale
-
-Things that can truly scale from very small to very large
-are rare but very important -- in fact this is a useful
-metric, the larger that something can scale the more usefull
-it is.
-
-over and over again, we will see that there are many aspects
-about how humans are designed and wired leads us to the
-conclusion that sapiens only work within a scale that has a
-narrow range -- I would argue that most if not all of the
-problems that we face as a species today stem from our
-attempts to scale sapiens beyond what we are capable of.
-
-The interesting thing is that it's doubtful that sapiens
-would have been able to achieve what we have done today
-unless we had so relentlessly tried to scale beyond our
-boundries in terms of climatic environments, our social
-structures, or cognitive limitations etc.
-
-This is what has made us successful as well as what has
-screwed us up so terribly.  In many respects, this work is
-an attempt to find a balance for us to be able to live
-within those limits, while still pushing the boundries and
-expanding those limits.  That's the balanceing act we need
-to learn to do better -- that's what keeps us within the
-limits of our petri dish, and gives us the time to keep
-expanding the size of that petri dish before we overrun it
-and destroy ourselves.
 
 
 *** Narrative
