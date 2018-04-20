@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Scaffolds
+#+TITLE: 10. Scaffolds
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:../../hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Scaffolds
+* 10. Scaffolds
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-scaffolds.org
