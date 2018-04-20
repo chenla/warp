@@ -89,12 +89,8 @@ Volume VI Implementation
  - 39. [[./06/ww-window.org][Window & Roadmap]]
  - 40. [[./06/ww-roadmap.org][Roadmap]]
 Volume VII Origins
- - 00. Contents Volume VII
- - 00. Introduction Volume VII
-   - Regimes
-   - cite:graphton:2010cartographies-time
-   - Epochs
-   - Eras
+ - 00. [[./07/index.org][Contents Volume VII]]
+ - 00. [[./07/ww-intro-vol-7.org][Introduction Volume VII]]
  - 00. Cosmos
  - 00. Earth & Solar System
  - 00. Life
