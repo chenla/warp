@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.10 Introduction Scaffolds
+#+TITLE: 2.10.1 Introduction Scaffolds
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,9 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[./index.org][up]]] 
+[[[../index.org][top]]] [[[./index.org][up]]] [[[./02-entities.org][next]]]
 
-* 2.10 Introduction | Scaffolds
+* 2.10.1 Introduction | Scaffolds
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-scaffolds.org

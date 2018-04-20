@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Hard Soft and Wet
+#+TITLE: 2.10.7 Hard Soft and Wet
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,7 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-* Hard Soft and Wet
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./06-goldilocks.org][prev]]]
+
+* 2.10.7 Hard Soft and Wet
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-hard-soft-wet.org

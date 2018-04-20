@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Entity Model
+#+TITLE: 2.10.2 Entity Model
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,9 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./03-ontologies.org][next]]]
 
-* Entity Model
+* 2.10.2 Entity Model
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-entities.org

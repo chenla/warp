@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Ontologies
+#+TITLE: 2.10.3 Ontologies
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,7 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-* Ontologies
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-entities.org][prev]]] [[[./04-pace-layers.org][next]]]
+
+* 2.10.3 Ontologies
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-ontologies.org

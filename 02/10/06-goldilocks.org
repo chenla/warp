@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Goldilocks Thresholds
+#+TITLE: 2.10.6 Goldilocks Thresholds
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,7 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-* Goldilocks Thresholds
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./05-succession-model.org][prev]]] [[[./07-hard-soft-wet.org][next]]]
+
+* 2.19.6 Goldilocks Thresholds
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-goldilocks.org
@@ -36,6 +38,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
    Also SEE cite:chaisson:2004complexity
 
 ** References
+
+  - Planets For Man ??
 
   - Chaisson, E. J., Complexity: an energetics agenda,
     Complexity, 9(3), 14–21 (2004).

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Succession Model
+#+TITLE: 2.10.5 Succession Model
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,7 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-* Succession
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./04-pace-layers.org][prev]]] [[[./06-goldilocks.org][next]]]
+
+* 2.10.5 Succession
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-succession-model.org

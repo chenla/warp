@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Pace-Layers
+#+TITLE: 2.10.4 Pace-Layers
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,7 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-* Pace-Layers
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./03-ontologies.org][prev]]] [[[./05-succession-model.org][next]]]
+
+* 2.10.4 Pace-Layers
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-pace-layers.org
