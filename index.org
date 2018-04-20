@@ -10,6 +10,8 @@
 
 bibliography:../hoard/bib.bib
 
+[top]
+
 * Warp & Woof | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
