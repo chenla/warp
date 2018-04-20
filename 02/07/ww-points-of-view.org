@@ -93,50 +93,6 @@ maintaining civilizations.
 ** Introduction | Points of View
 
 
-*** Rate of Change (ROC)
-
-Alvin Toffler's concept of ROC 
-
-The concept of the Half-Life -- how long it takes for half
-of something to change.
-
-Linear growth, Steady Growth vs Exponential Growth
-
-ROC is relative to the age of something -- time is
-experienced relative to how long something is relative to
-how long your have lived.  When I was a child, as many
-children in school do, life is measured relative to when the
-next major holiday or vacation is.  Growing up in the United
-States in the 1970's, summer holidays lasted from late May
-or early June to the Memorial Day federal holiday at the
-beginning of September.  Those three months seemed to last a
-lifetime.  When school let out in June, it the start of the
-next school year seemed impossibly distent in the future.
-Now that I am in my mid-fifties, three months can pass in
-seamingly a hearbeat if your aren't paying attention.
-
-Complexity and Rate of Change
-
-Size of a Territory and Rate of Change
-
-Size of a Population and Rate of Change
-
-Distance/LOD and Rate of Change
-
-Scientific knowledge and Rate of Change
-
-Limits on human ability to change and Rate of Change, 
-
-Pace-Layers -- different things change at different rates
-
-  Rates of change that the universe (cosmic expansion)
-  institutions, language, culture, fashion.
-
-  Different parts of buildings change at different rates --
-  what Brand called shearing layers.
-
-Will talk about Pace-layers in more detail in it Part XX.
-
 *** Process of Change (POC)
 
 #+begin_quote
