@@ -1,0 +1,163 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Patterns
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+* Patterns
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/ww-patterns.org
+:Created:  2018-03-21T18:53@Prek Leap (11.642600N-104.919210W)
+:ID:       b4e16117-5a4a-42ce-92ec-46c3c2c7be7a
+:VER:      574905297.409361047
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:QOP0-4520
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Table of Contents
+  - Patterns and Processes
+    - Patterns
+    - Rules
+  - Pattern Languages
+  - Pattern Entity Model
+    - pattern (concept)
+      - Keystone (expression)
+        - Design (manifestation)
+  - Rule Entity Model
+    - thesis (concept)
+      - declaration (expression)
+        - rule (manifestation)
+
+------
+
+ - Patterns
+   - civilization
+   - buildings and towns
+   - shearing layers -> for made things
+   - biological life
+
+
+
+   - not all life is biological
+   - patterns & anti-patterns
+   - patterns as relationships clusters
+   - anti-patterns -> destroy life, beauty and connectedness
+   - patterns are concepts not designs
+   - patterns as generative processes
+
+   - shearing layers
+     - 
+
+#+begin_comment
+THE TIMELESS WAY
+  - 01. The timeless way
+  - 02. The quality without a name
+  - 05. Being alive
+  - 04. Patterns of events
+  - 05. Patterns of space
+  - 06. Patterns which are alive
+  - 07. The multiplicity of living patterns 
+THE GATE
+  - 08. The quality itself
+  - 09. The flower and the seed
+  - 10. Our pattern languages
+  - 11. Our pattern languages (cont.)
+  - 12. The creative power of language
+  - 13. The breakdown of language
+  - 14. Patterns which can be shared
+  - 15. The reality of patterns
+  - 16. The structure of a language
+  - 17. The evolution of a common language for a town
+THE WAY
+  - 18. The genetic power of language
+  - 19. Differentiating space
+  - 20. One pattern at a time
+  - 21. Shaping one building
+  - 22. Shaping a group of buildings
+  - 23. The process of construction
+  - 24. The process of repair
+  - 25. It's slow emergence of a town
+  - 26. Its ageless character
+#+end_comment
+
+** TL;DR
+
+A pattern is an expression that is meant to be manifested in
+a hoard as something that is physical object, or as a
+process, a rule that is a mechanism that takes input, which
+is matched against hardcoded constants, or variables that
+have set parameters.
+
+The age that a child begins school is a variable that is
+determined by human developmental and congnitive limits
+which are constants.
+
+The height of the riser in a stair is determined by the
+average height of people in a given era, as well as other
+variables such as gravity -- perhaps stairs on the moon or
+on mars will require different height risers in stairs...
+
+The length of time to hatch an egg can't be mucked with --
+for a chicken it's 21 days for an Emu it's 43-50 days.
+
+SEE: http://farmingfriends.com/incubation-periods-for-different-species-of-birds-eggs/
+
+For humans, it varies but can be mucked with a bit, as
+infants can be placed in incubators if they are born before
+they come to term.
+
+Patterns are generative in nature -- in the case of a
+process, they literally will generate something.  In the
+case of made things when a pattern is manifest it is greater
+than the sum of its parts
+
+
+
+#+begin_comment
+What are pattern languages -- how they work, how to make
+them, how to use them.
+
+Need a chapter on what patterns are NOT.  Many of the
+pattern languages and there are a lot of them, do not seem
+to understand that patterns are not simply another
+methodology you use in software or construction projects,
+they are meant to reveal sets of complex relationships which
+defy description.  They work on a nonverbal level as much as
+the verbal, they are not classification systems.  Patterns
+are only useful if those patterns have been woven into your
+brain, you have to master them through conscious practice,
+experiment and contemplation.  If you don't they are just
+another checklist of attributes or features to add to a
+design or project.  Patterns are not snap together modular
+Lego Bricks.  When they have been used that way people
+wonder why they don't work.
+
+#+end_comment
+
+
+
+** References
+
+- Alexander, C., The timeless way of building (1979), :
+  Oxford University Press.
+  cite:alexander:1979timeless
+- Alexander, C., Ishikawa, S., & Silverstein, M., A pattern
+  language: towns, buildings, construction (1977), : Oxford
+  University Press.
+  cite:alexander:1977pattern  
