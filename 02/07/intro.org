@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7 Points of View
+#+TITLE: 2.7.1 Points of View
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../index.org][top]]] | [[[./index.org][up]]
 
-* 2.7 Points of View
+* 2.7.1 Points of View | Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww.points-of-view.org
+:Name:     /home/deerpig/proj/chenla/warp/intro.org
 :Created:  2018-03-19T19:09@Prek Leap (11.642600N-104.919210W)
 :ID:       cceb8184-21ef-4fb0-9b5f-933e484f7e9f
 :VER:      574733452.681672429
