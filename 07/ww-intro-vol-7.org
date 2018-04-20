@@ -1,0 +1,43 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Introduction Volume VII: Origins
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+
+* Introduction Volume VII: Origins
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/07/ww-intro-vol-7.org
+:Created:  2018-04-19T21:11@Prek Leap (11.642600N-104.919210W)
+:ID:       07d2049a-4fad-4213-bf13-e4ea38ba7c17
+:VER:      577419152.453188106
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:GFM5-7733
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+
+
+
+** References
+
+  - Grafton, A., & Rosenberg, D., Cartographies of time: a
+    history of the timeline (2010), : Princeton
+    Architectural Press.
+    cite:graphton:2010cartographies-time
