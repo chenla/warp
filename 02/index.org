@@ -26,12 +26,14 @@
 :END:
 
 ** Table of Contents
- - 07. [[./ww-points-of-view.org][Points of View]]
- - 08. [[./ww-dualities.org][Dualities]]
- - 09. [[./ww-generators.org][Generators]]
- - 10. [[./ww-scaffolds.org][Scaffolds]]
- - 11. [[./ww-systems.org][Systems]]
- - 12. [[./ww-patterns.org][Patterns]]
- - 13. [[./ww-standards.org][Standards]]
- - 14. [[./ww-legibility.org][Legibility]]
+ - 00. Index Volume II
+ - 00. [[./ww-intro-vol-2.org][Introduction Volume II]]
+ - 07. [[./07/index.org][Points of View]]
+ - 08. [[./08/index.org][Dualities]]
+ - 09. [[./09/index.org][Generators]]
+ - 10. [[./10/index.org][Scaffolds]]
+ - 11. [[./11/index.org][Systems]]
+ - 12. [[./12/index.org][Patterns]]
+ - 13. [[./13/inded.org][Standards]]
+ - 14. [[./14/index.org][Legibility]]
 
