@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - 2.7.1 [[./ww-points-of-view.org][ Introduction]]
-  - 2.7.2  [[./2.7.2.org][What is a Point of View]] (POV)?
+  - 2.7.2  [[./2.7.2.org][What is a Point of View?]] (POV)
   - 2.7.3  [[./2.7.3.org][POV as a Cognitive Tool]]
   - 2.7.4  [[./2.7.4.org][Defining Objective POVs]]
   - 2.7.5  [[./2.7.5.org][Level of Detail]] (LOD)
