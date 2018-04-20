@@ -29,16 +29,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - 2.7.0  Table of Contents
   - 2.7.1 [[./intro.org][ Introduction]]
-  - 2.7.2  [[./2.7.2.org][What is a Point of View?]] (POV)
-  - 2.7.3  [[./2.7.3.org][POV as a Cognitive Tool]]
-  - 2.7.4  [[./2.7.4.org][Defining Objective POVs]]
-  - 2.7.5  [[./2.7.5.org][Level of Detail]] (LOD)
-  - 2.7.6  [[./2.7.6.org][Rate of Change]] (ROC)
-  - 2.7.7  [[./2.7.7.org][Process of Change]] (POC)
-  - 2.7.8  [[./2.7.8.org][LOD, ROC and POC as Points of Views]]
-  - 2.7.9  [[./2.7.9.org][Scale]]
-  - 2.7.10 [[./2.7.10.org][Narrative]]
-  - 2.7.11 [[./2.7.11.org][Propagatio]]
-  - 2.7.12 [[./2.7.12.org][Process]]
+  - 2.7.2  [[./02-what-is-pov.org][What is a Point of View?]] (POV)
+  - 2.7.3  [[./03-cognitive-pov.org][POV as a Cognitive Tool]]
+  - 2.7.4  [[./04-objective-pov.org][Defining Objective POVs]]
+  - 2.7.5  [[./05-lod.org][Level of Detail]] (LOD)
+  - 2.7.6  [[./06-roc.org][Rate of Change]] (ROC)
+  - 2.7.7  [[./07-poc.org][Process of Change]] (POC)
+  - 2.7.8  [[./08-as-povs.org][LOD, ROC and POC as Points of Views]]
+  - 2.7.9  [[./09-scale.org][Scale]]
+  - 2.7.10 [[./10-narrative.org][Narrative]]
+  - 2.7.11 [[./11-propagation.org][Propagation]]
+  - 2.7.12 [[./12-process.org][Process]]
 
 
