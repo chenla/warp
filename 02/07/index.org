@@ -27,5 +27,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - [[./ww-points-of-view.org][Introduction]]
+  - What is a Point of View (POV)?
+  - POV as a Cognitive Tool
+  - Defining Objective POVs
+  - Level of Detail (LOD)
+  - Rate of Change (ROC)
+  - Process of Change (POC)
+  - LOD, ROC and POC as Points of Views
+  - Scale
+  - Narrative
+  - Propagation
+  - Process
 
 
