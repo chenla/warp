@@ -31,7 +31,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 00. [[./ww-intro-vol-7.org][Introduction Volume VII]]
  - 00. Big History
    - The Human Story -> a human origin story
-   - History         -> interdisciplinary history and science
+   - History         -> interdisciplinary science-based
+                        history of everything
    - Rabbit Hole     -> doorway to in-depth exploration and study
    - Scaffold        -> as LOD framework for organizing all
                         knowledge -- part of an ARC GUI
@@ -43,3 +44,4 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Life
    - Prehistory
    - Humanity -> written history
+ - 00. Markup Language 
