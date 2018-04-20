@@ -28,16 +28,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - 2.7.1 [[./ww-points-of-view.org][ Introduction]]
-  - 2.7.2  What is a Point of View (POV)?
-  - 2.7.3  POV as a Cognitive Tool
-  - 2.7.4  Defining Objective POVs
-  - 2.7.5  Level of Detail (LOD)
-  - 2.7.6  Rate of Change (ROC)
-  - 2.7.7  Process of Change (POC)
-  - 2.7.8  LOD, ROC and POC as Points of Views
-  - 2.7.9  Scale
-  - 2.7.10 Narrative
-  - 2.7.11 Propagation
-  - 2.7.12 Process
+  - 2.7.2  [[./2.7.2.org][What is a Point of View]] (POV)?
+  - 2.7.3  [[./2.7.3.org][POV as a Cognitive Tool]]
+  - 2.7.4  [[./2.7.4.org][Defining Objective POVs]]
+  - 2.7.5  [[./2.7.5.org][Level of Detail]] (LOD)
+  - 2.7.6  [[./2.7.6.org][Rate of Change]] (ROC)
+  - 2.7.7  [[./2.7.7.org][Process of Change]] (POC)
+  - 2.7.8  [[./2.7.8.org][LOD, ROC and POC as Points of Views]]
+  - 2.7.9  [[./2.7.9.org][Scale]]
+  - 2.7.10 [[./2.7.10.org][Narrative]]
+  - 2.7.11 [[./2.7.11.org][Propagatio]]
+  - 2.7.12 [[./2.7.12.org][Process]]
 
 
