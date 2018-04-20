@@ -29,10 +29,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - 00. [[./index.org][Contents Volume VII]]
  - 00. [[./ww-intro-vol-7.org][Introduction Volume VII]]
-   - Regimes
-   - Epochs
-   - Eras
- - 00. Cosmos
- - 00. Earth & Solar System
- - 00. Life
- - 00. Mankind
+ - 00. Big History
+   - The Human Story -> a human origin story
+   - History         -> interdisciplinary history and science
+   - Rabbit Hole     -> doorway to in-depth exploration and study
+   - Scaffold        -> as LOD framework for organizing all
+                        knowledge -- part of an ARC GUI
+   - Goldilocks Thresholds
+ - 00. Regimes  
+   - Cosmos
+   - Solar System
+   - Earth
+   - Life
+   - Prehistory
+   - Humanity -> written history
