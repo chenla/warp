@@ -30,19 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
-  - What is a Point of View (POV)?
-  - POV as a Cognitive Tool
-  - Defining Objective POVs
-  - Level of Detail (LOD)
-  - Rate of Change (ROC)
-  - Process of Change (POC)
-  - LOD, ROC and POC as Points of Views
-  - Scale
-  - Narrative
-  - Propagation
-  - Process
-
 ** TL;DR
 
 #+begin_comment
@@ -103,7 +90,7 @@ Taken together these three models will give us a set of
 powerful tools for understanding, planning, building, and
 maintaining civilizations.
 
-** Points of View
+** Introduction | Points of View
 
 *** What is a point of View?
 
