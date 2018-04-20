@@ -93,44 +93,6 @@ maintaining civilizations.
 ** Introduction | Points of View
 
 
-*** Process of Change (POC)
-
-
-
-*** LOD, ROC and POC as Point of Views
-
-Now that we understand what a Point of View is, and it's
-importance and the three concepts of LOD, ROC and POC we can
-build the three Core POVs that will be at the heart of our
-understanding of the universe, who and what we are and how
-to build a civilization from first principles.
-
-Originally I planned on jumping straight in and describing
-each of these as a POV, but the concept of LOD is nt the
-same as an LOD POV.  You can't understand LOD as a POV
-without understanding ROC and POC.  Each of these things as
-a POC only can be understood in relation to the other two.
-
-The first is the Scale Point of View which is dominated by
-LOD and distance.  The second is Propagation, which is based
-on ROC. And finally the Process Point of View is based on
-the concept of everything being in the process of becoming
-something else.
-
-In the same way, the three POVs are not meant to be used
-separately, each builds on the other and hybrid Points of
-Views that combine them to different degrees will be the
-rule rather than the exception.
- 
-So you can think of LOD, ROC and POC and building blocks for
-describing context as a POV.  It's important to understand
-them as different POVs but in practice we will almost always
-be talking in terms of LOD, ROC and POC.
-
-You can mix and match these three to create any number of
-POVs, but we will focus on four which will provide a jumping
-off point for creating a wide variety of POVs that we will
-use over and over.
 
 *** Scale
 
