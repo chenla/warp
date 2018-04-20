@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./09-scale.org][prev]]] [[[./11-propagation.org][next]]]
 
 * 2.7.10 Narrative
 :PROPERTIES:

@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../../index.org][top]]] [[[./intro.org][next]]]
 
 * 02.07.0 Points of View | Table of Contents
 :PROPERTIES:

@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./07-poc.org][prev]]] [[[./09-scale.org][next]]]
 
 * 2.7.8 LOD, ROC & POV as Points of View
 :PROPERTIES:

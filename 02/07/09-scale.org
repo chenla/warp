@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./08-as-povs.org][prev]]] [[[./10-narrative.org][next]]]
 
 * 2.7.9 Scale
 :PROPERTIES:
