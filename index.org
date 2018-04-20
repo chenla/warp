@@ -42,7 +42,7 @@ Volume I Foundations
 Volume II Frameworks
  - 00. [[./02/index.org][Contents Volume II]]
  - 00. [[./02/ww-intro-vol-2.org][Introduction Volume II]]
- - 07. [[./02/ww-points-of-view.org][Points of View]]
+ - 07. [[./02/index.org][Points of View]]
  - 08. [[./02/ww-dualities.org][Dualities]]
  - 09. [[./02/ww-generators.org][Generators]]
  - 10. [[./02/ww-scaffolds.org][Scaffolds]]
