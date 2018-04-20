@@ -28,9 +28,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - 2.10.0 Table of Contents 
-  - 2.10.1 [[./10/ww-entities.org][Entity Model]]
-  - 2.10.2 [[./10/ww-ontologies.org][Ontology Model]]
-  - 2.10.3 [[./10/ww-pace-layers.org][Pace-Layer Model]]
-  - 2.10.4 [[./10/ww-succession-model.org][Succession Model]]
-  - 2.10.5 [[./10/ww-goldilocks.org][Goldilocks-Thresholds]]
-  - 2.10.6 [[./10/ww-hard-soft-wet.org][Hard Soft Wet]]
+  - 2.10.1 Introduction
+  - 2.10.2 [[./10/ww-entities.org][Entity Model]]
+  - 2.10.3 [[./10/ww-ontologies.org][Ontology Model]]
+  - 2.10.4 [[./10/ww-pace-layers.org][Pace-Layer Model]]
+  - 2.10.5 [[./10/ww-succession-model.org][Succession Model]]
+  - 2.10.6 [[./10/ww-goldilocks.org][Goldilocks-Thresholds]]
+  - 2.10.7 [[./10/ww-hard-soft-wet.org][Hard Soft Wet]]

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.10. Scaffolds
+#+TITLE: 2.10 Introduction Scaffolds
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -11,11 +11,11 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-bibliography:../../hoard/bib.bib
+bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../index.org][top]]] [[[./index.org][up]]] 
 
-* 2.10. Scaffolds
+* 2.10 Introduction | Scaffolds
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-scaffolds.org
@@ -29,8 +29,6 @@ bibliography:../../hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
-
-** Table of Contents
 
 ** TL;DR
 
