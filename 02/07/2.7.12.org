@@ -1,0 +1,68 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 2.7.12 Process
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+* 2.7.12 Process
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.12.org
+:Created:  2018-04-20T18:22@Prek Leap (11.642600N-104.919210W)
+:ID:       60570841-8e7f-4957-ab2d-7cafcc832474
+:VER:      577495405.142163343
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:ISM7-8120
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+When thinking of the present as process, you are in the moment --
+there is no past or future -- the past and future are only real when
+you have a surplus of time to think about them -- if you are being
+chased by a bear, you aren't going to be thinking about where you are
+going to eat lunch, you are too busy not becoming the bear's lunch.
+
+But when thinking of systems we are looking at a process from a lower
+LOD.
+
+When we think about something like Moore's Law, we are looking at ROC
+at a lower LOD.
+
+We're not very good at thinking of the past as being in the present,
+but it is -- the past is still with us, it's just decayed and
+overwritten by other things --
+
+the big bang is something that can be understood as one big present --
+because light travels at a fixed speed, when we look at distant
+objects we are looking at light that has taken a long time to get here
+-- we are effectively looking at things that happened long in the past
+-- but there is no way of seeing how they are now in the present --
+and in the same way, the light from what we are doing now, will travel
+through space at a set speed and might be seen by others in the
+distant future -- but they will be seeing us as we are now, not as we
+are when they see us.
+
+
+  - Systems as process
+  - ERP -- business processes
+  - Education as lifelong process
+
+
+
+** References
+
+
