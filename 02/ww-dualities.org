@@ -46,13 +46,12 @@ to the Sticky Stuff paper in 2006..  Next will be to go
 through and pull in all my other notes and references
 #+end_comment
 
-** Notes
-
  - part     <->  whole (holon)
  - map      <->  territory
  - metadata <->  data
 
 *** Part-Whole
+
 map-territory and metdata-data are types of part-whole relationships
 
 *** Map-Territory 

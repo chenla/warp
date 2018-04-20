@@ -6,7 +6,7 @@
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -14,7 +14,6 @@
 bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
-
 
 * Map-Territory
 :PROPERTIES:
@@ -158,6 +157,9 @@ and powerless.
 This same argument can be used when postulating a god-like
 artificial intelligence, it places a very real barrier
 between the universe any any beings who inhabit it.
+
+** References
+
 
 
 

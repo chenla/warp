@@ -13,6 +13,8 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
+[[[../index.org][top]]]
+
 * Entity Model
 :PROPERTIES:
 :CUSTOM_ID:
@@ -28,15 +30,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
 ** Table of Contents
-
-
  - What is an Entity Model
  - FRBR
-
 
  - Concept
  - Expression
  - Manifestation
  - Instance
+** TL;DR
