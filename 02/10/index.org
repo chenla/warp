@@ -27,9 +27,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - [[./10/ww-entities.org][Entity Model]]
-  - [[./10/ww-ontologies.org][Ontology Model]]
-  - [[./10/ww-pace-layers.org][Pace-Layer Model]]
-  - [[./10/ww-succession-model.org][Succession Model]]
-  - [[./10/ww-goldilocks.org][Goldilocks-Thresholds]]
-  - [[./10/ww-hard-soft-wet.org][Hard Soft Wet]]
+  - 2.10.0 Table of Contents 
+  - 2.10.1 [[./10/ww-entities.org][Entity Model]]
+  - 2.10.2 [[./10/ww-ontologies.org][Ontology Model]]
+  - 2.10.3 [[./10/ww-pace-layers.org][Pace-Layer Model]]
+  - 2.10.4 [[./10/ww-succession-model.org][Succession Model]]
+  - 2.10.5 [[./10/ww-goldilocks.org][Goldilocks-Thresholds]]
+  - 2.10.6 [[./10/ww-hard-soft-wet.org][Hard Soft Wet]]
