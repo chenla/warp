@@ -1,0 +1,36 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:  1.3 Nature of Order  TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./intro.org][next]]]
+
+* 1.3 Nature of Order  Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/03/index.org
+:Created:  2018-04-21T17:13@Prek Leap (11.642600N-104.919210W)
+:ID:       658fc4df-c768-4ee5-8c5b-2f9bdf9619ad
+:VER:      577577667.028986070
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:KOJ0-3521
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+  - Entropy
+  - Evolution
+  - Information
+
+  - Pattern Recognition
+
