@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [prev] [[[../02/index.org][next]]]
+[[[../index.org][top]]] [[[../synopsis.org][prev]]] [[[../02/index.org][next]]]
 
 * Volume I Table of Contents
 :PROPERTIES:

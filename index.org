@@ -29,10 +29,13 @@ bibliography:../hoard/bib.bib
 
 
 Volume I Foundations
- - [[./epigraph.org][Epigraph]
- - [[./intro.org][Introduction]
- - [[./plan.org][Plan of the Work]
- - [[./synopsis.org][Synopsis]
+ - Copyright Page
+ - [[./epigraph.org][Epigraph]]
+ - Dedication
+ - Preface
+ - [[./intro.org][Introduction]]
+ - [[./plan.org][Plan of the Work]]
+ - [[./synopsis.org][Synopsis]]
  - 00. [[./01/index.org][Contents Volume I]
  - 00. [[./01/intro.org][Introduction Volume I]
  - 01. [[./01/01/ww-civilization.org][Civilis]
