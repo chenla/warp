@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Estrangement
+#+TITLE: 1.4.1 Estrangement Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Estrangement
+* 1.4.1 Estrangement Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-estrangement.org
+:Name:     /home/deerpig/proj/chenla/warp/01/04/intro.org
 :Created:  2018-03-21T18:52@Prek Leap (11.642600N-104.919210W)
 :ID:       20b34386-119b-40ba-b668-8a885192ca53
 :VER:      574905186.480630274
