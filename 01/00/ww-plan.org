@@ -30,6 +30,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Table of Contents
+
+- Works
+  - Warp & Woof
+  - A Pace-Layer Pattern Langugae (APPL)
+  - Hoard
+  - Primer
+- Arc 
+- Projects
+- Programs
+- Inititives
+
+** Plan
 
 #+begin_quote
 Everything that is not forbidden by laws of nature is
@@ -144,6 +157,10 @@ images, audio video, 2D and 3D vector graphics and code that
 represents the a subset of Mankind's recorded memory and experience
 that provides the context and background needed to build and maintain
 a civilization.
+
+** Projects
+** Programs
+** Inititives
 
 * NOTES
 
