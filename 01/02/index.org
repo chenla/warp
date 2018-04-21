@@ -30,12 +30,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-What does it mean to start from first principles?
-
 ** Table of Contents
-
+  - Table of Contents
+  - [[./intro.org][Introduction]]
   - getting rid of the onion
     - Discard romanticism and her sister mysticism
     - Discard dogmatism, but don't throw away good ideas
@@ -56,6 +53,10 @@ What does it mean to start from first principles?
     they take.
   - Be relentless as well as patient.
   - The last to escape -- hope, don't give in to despair
+
+** TL;DR
+
+What does it mean to start from first principles?
 
 
 ** Civilization from First Principles
