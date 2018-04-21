@@ -32,17 +32,20 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
 
-- Works
-  - Warp & Woof
-  - A Pace-Layer Pattern Langugae (APPL)
-  - Hoard
-  - Primer
-- Arc 
-- Projects
-- Programs
-- Inititives
+- [[id:62eb03eb-fa14-42be-be07-a97dd195396f][Works]]
+  - [[id:911ca1c6-3c31-45ea-80b8-cf582c940f65][Warp & Woof]]
+  - [[id:72728741-9f9c-4b4f-9dff-6eba95bf77b3][A Pace-Layer Pattern Language]] (APPL)
+  - [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][Hoard]]
+  - [[id:18e41791-cb01-4114-943d-a26bc95c1099][Primer]]
+- [[id:401aaec4-899d-4972-b500-ea222cef7c2c][Arc]] 
+- [[id:682f45da-1356-4b4a-a911-8abb845cc9a7][Projects]]
+- [[id:7466a761-d9a2-4a2a-aeb9-10aa36963509][Programs]]
+- [[id:34865dc8-5986-4f88-bb7b-c5eda8675fd4][Initiatives]]
 
 ** Plan
+:PROPERTIES:
+:CUSTOM_ID: plan-header
+:END:
 
 #+begin_quote
 Everything that is not forbidden by laws of nature is
@@ -73,13 +76,22 @@ Then a Synopsis of each part.
 #+end_comment
 
 ** Works
-
-*Warp & Woof*: 
+:PROPERTIES:
+:ID:       62eb03eb-fa14-42be-be07-a97dd195396f
+:END:
+*** Warp & Woof
+:PROPERTIES:
+:ID:       911ca1c6-3c31-45ea-80b8-cf582c940f65
+:END:
 
 An introduction to the concepts used in *A Pace-Layer Pattern
 Language* and *A Primer*
 
-*A Pace-Layer Pattern Language* (APPL):
+*** A Pace-Layer Pattern Language (APPL)
+:PROPERTIES:
+:ID:       72728741-9f9c-4b4f-9dff-6eba95bf77b3
+:END:
+
 
 APPL is meant to expand on the world in Christopher Alexander's A
 Pattern Language (APL) which was published in 1977
@@ -112,7 +124,10 @@ APPL will establish the broad patterns that can be used to construct
 generative grammars that will be adapted to account for local context
 (conditions) in the /Hoard/.
 
-*Hoard*: 
+*** Hoard
+:PROPERTIES:
+:ID:       6fbd41ac-9947-4358-875e-5d2b798a8f93
+:END:
 
 A hoard is a collection of treasured goods and information.  In Old
 English, the word for dictionary was a /worde hord/.
@@ -136,7 +151,10 @@ A Hoard includes plans, designs, standards, specifications based on
 adapted for a range specific needs of a ecological, economic,
 technological, and cultural niches of any given civilization.
 
-*Primer*
+*** Primer
+:PROPERTIES:
+:ID:       18e41791-cb01-4114-943d-a26bc95c1099
+:END:
 
 A Primer is a collection of prescriptive and descriptive
 knowledge needed to build a specific civilization.
@@ -150,8 +168,10 @@ work backwards.  The Primer will include all of this specific design
 and development work that was done to develop patterns and keystone
 designs.
 
-*Arc*
-
+** Arc
+:PROPERTIES:
+:ID:       401aaec4-899d-4972-b500-ea222cef7c2c
+:END:
 The Archive, or Arc for short, is collection of digital data, texts,
 images, audio video, 2D and 3D vector graphics and code that
 represents the a subset of Mankind's recorded memory and experience
@@ -159,9 +179,17 @@ that provides the context and background needed to build and maintain
 a civilization.
 
 ** Projects
+:PROPERTIES:
+:ID:       682f45da-1356-4b4a-a911-8abb845cc9a7
+:END:
 ** Programs
-** Inititives
-
+:PROPERTIES:
+:ID:       7466a761-d9a2-4a2a-aeb9-10aa36963509
+:END:
+** Initiatives
+:PROPERTIES:
+:ID:       34865dc8-5986-4f88-bb7b-c5eda8675fd4
+:END:
 * NOTES
 
 ** Hoard
