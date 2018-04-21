@@ -34,15 +34,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 - [[id:62eb03eb-fa14-42be-be07-a97dd195396f][Works]]
   - [[id:911ca1c6-3c31-45ea-80b8-cf582c940f65][Warp & Woof]]
-  - [[id:72728741-9f9c-4b4f-9dff-6eba95bf77b3][A Pace-Layer Pattern Language]] (APPL)
-  - [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][Hoard]]
-  - [[id:18e41791-cb01-4114-943d-a26bc95c1099][Primer]]
+  - [[id:72728741-9f9c-4b4f-9dff-6eba95bf77b3][A Pace-Layer Pattern Language]]
+- [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][Hoard]]
+- [[id:18e41791-cb01-4114-943d-a26bc95c1099][Primer]]
 - [[id:401aaec4-899d-4972-b500-ea222cef7c2c][Arc]] 
 - [[id:682f45da-1356-4b4a-a911-8abb845cc9a7][Projects]]
 - [[id:7466a761-d9a2-4a2a-aeb9-10aa36963509][Programs]]
 - [[id:34865dc8-5986-4f88-bb7b-c5eda8675fd4][Initiatives]]
 
-** Plan
+** Introduction
 :PROPERTIES:
 :CUSTOM_ID: plan-header
 :END:
@@ -74,6 +74,9 @@ w&w appl hoard and primer work together.
 
 Then a Synopsis of each part.
 #+end_comment
+
+
+
 
 ** Works
 :PROPERTIES:
@@ -124,7 +127,7 @@ APPL will establish the broad patterns that can be used to construct
 generative grammars that will be adapted to account for local context
 (conditions) in the /Hoard/.
 
-*** Hoard
+** Hoard
 :PROPERTIES:
 :ID:       6fbd41ac-9947-4358-875e-5d2b798a8f93
 :END:
@@ -151,7 +154,7 @@ A Hoard includes plans, designs, standards, specifications based on
 adapted for a range specific needs of a ecological, economic,
 technological, and cultural niches of any given civilization.
 
-*** Primer
+** Primer
 :PROPERTIES:
 :ID:       18e41791-cb01-4114-943d-a26bc95c1099
 :END:
