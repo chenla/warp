@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Warp & Woof | TOC
+#+TITLE:   Warp & Woof  TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:../hoard/bib.bib
 
 [top]
 
-* Warp & Woof | Table of Contents
+* Warp & Woof  Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/index.org
@@ -36,8 +36,8 @@ Volume I Foundations
  - [[./intro.org][Introduction]]
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
- - 00. [[./01/index.org][Contents Volume I]
- - 00. [[./01/intro.org][Introduction Volume I]
+ - [[./01/index.org][Contents Volume I]]
+ - [[./01/intro.org][Introduction Volume I]]
  - 01. [[./01/01/ww-civilization.org][Civilis]
  - 02. [[./01/02/ww-ab-initio.org][Ab initio]
  - 03. [[./01/03/ww-order.org][Nature of Order]
