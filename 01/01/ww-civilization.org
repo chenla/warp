@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 01. Civilis | TL;DR
+#+TITLE: 1.2.1 Civilis | TL;DR
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[~/proj/chenla/warp/index.org][top]]] | [[[./index.org][index]]]
 
-* 01. Civilis | TL;DR
+* 1.2.1 Civilis TL;DR
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-civilization.org
