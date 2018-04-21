@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Principles
+#+TITLE: 1.6 Principles
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Principles
+* 1.6 Principles
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-principles.org
@@ -38,47 +38,84 @@ Pace-Layer model that is explained
 the Language/.
 
 ** Table of Contents
-
-
+   - Slouching Towards Optimism
    - Enlightenment
 
+   - Humanism
+     - Humanist Principles
+       - HM3.1 :: Knowledge of the world is derived by
+                  observation, experimentation, and rational
+                  analysis.
+       - HM3.2 :: Humans are an integral part of nature, the
+                  result of unguided evolutionary change.
+       - HM3.3 :: Ethical values are derived from human need
+                  and interest as tested by experience.
+       - HM3.4 :: Life’s fulfillment emerges from individual
+                  participation in the service of humane
+                  ideals.
+       - HM3.5 :: Humans are social by nature and find
+                  meaning in relationships.
+       - HM3.6 :: Working to benefit society maximises
+                  individual happiness.
+
+   - Humanist Manifesto's  
 
 
    - Not Enlightenment
-     Not Everything that is rational is a friend of the enlightenment.
      - High Modernism
+     - Romanticism
+     - Dishonorable Mentions
+       - Friedrich Nietzsche (anything associated with him)
+       - Objectivism and Ayn Rand
+       - Malthusianism
+       - Libertarianism
+       - Lamarkism
 
    - Rationality
      - appealing to empirical based reasoning
-
-     - intuition/deduction (a priori/a postereriori)
-
+     - intuition (hunch) as a first guess that must be tested. 
+     - deduction (a priori/a postereriori)
+     - induction
      - methodology in which truth is not sensory
-     - skepticism 
-
+     - skepticism
      - utilitarian
      - pragmatic
      - secular
      - humanist
 
-     - Enlightened Self Interest
+     - Enlightened Self-Interest
      - Empathic Reciprocity
 
    - Democratic Process
      - As goldilock zone between violence of anarchy and
        violence of popularism/totalitarianism/oligarchies
      - Egalitarian
-   - Human Scales: Self, Domus/Band, Polis
+   - Human Nature
+     - Human Scales: Self, Domus/Band, Polis
+
    - Scientific Process
      https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
+     - Observation
      - Empirical 
        - evidence based
      - Hypothesis development
+       - Any creative process From the poetic,
+         philosophical, brainstorming (which I call the
+         cathartic method (literally vomiting out ideas),
+         day dreams, sleep dreams, to booze, drugs and and
+         malarial fevers.  As Hunter Thompson might have
+         said, I wouldn't endorse all of them but they've
+         worked for me. As the scientist E O Wilson said, in
+         science you start as a poet and end as a
+         bookkeeper.
      - Prediction
      - Testable and repeatable
      - Record/Document and Share
      - Analysis
      - External Review
      - Consensus
+
    - Progress
      - not same as growth
+     - The unveness of progress
+       progress is not evenly distributed
