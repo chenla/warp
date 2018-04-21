@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 1.6 Principles
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-principles.org
+:Name:     /home/deerpig/proj/chenla/warp/01/06/index.org
 :Created:  2018-03-21T15:54@Prek Leap (11.642600N-104.919210W)
 :ID:       89567717-54f9-4114-93b4-5079795d2170
 :VER:      574894558.545678422
@@ -30,18 +30,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-Principles are organized along the same lines as the
-Pace-Layer model that is explained
-/Part 8. Scaffords/Pace-Layers/ and in /APPL/A Summary of
-the Language/.
-
 ** Table of Contents
-   - Slouching Towards Optimism
-   - Enlightenment
-
-   - Humanism
+   
+   - 00 Table of Contents
+   - 01 Introduction: Slouching Towards Optimism
+   - 02 Enlightenment
+   - 03 Humanism
      - Humanist Principles
        - HM3.1 :: Knowledge of the world is derived by
                   observation, experimentation, and rational
@@ -57,11 +51,8 @@ the Language/.
                   meaning in relationships.
        - HM3.6 :: Working to benefit society maximises
                   individual happiness.
-
-   - Humanist Manifesto's  
-
-
-   - Not Enlightenment
+     - Humanist Manifesto's  
+   - 04 Not Enlightenment
      - High Modernism
      - Romanticism
      - Dishonorable Mentions
@@ -70,8 +61,7 @@ the Language/.
        - Malthusianism
        - Libertarianism
        - Lamarkism
-
-   - Rationality
+   - 05 Rationality
      - appealing to empirical based reasoning
      - intuition (hunch) as a first guess that must be tested. 
      - deduction (a priori/a postereriori)
@@ -81,19 +71,15 @@ the Language/.
      - utilitarian
      - pragmatic
      - secular
-     - humanist
-
      - Enlightened Self-Interest
      - Empathic Reciprocity
-
-   - Democratic Process
+   - 06 Democratic Process
      - As goldilock zone between violence of anarchy and
        violence of popularism/totalitarianism/oligarchies
      - Egalitarian
-   - Human Nature
+   - 07 Human Nature
      - Human Scales: Self, Domus/Band, Polis
-
-   - Scientific Process
+   - 08 Scientific Process
      https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
      - Observation
      - Empirical 
@@ -114,8 +100,12 @@ the Language/.
      - Analysis
      - External Review
      - Consensus
-
-   - Progress
+   - 09 Progress
      - not same as growth
      - The unveness of progress
        progress is not evenly distributed
+     - Evidence of Progress
+
+
+
+
