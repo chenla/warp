@@ -31,6 +31,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
+
+*** Systems Theory
+
  - Observing Systems : Second-Order Cybernetics
  - Systems Thinking
    - Relationships between different parts of a system
@@ -109,6 +112,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
     compete  for the same niche.  The speialization that
     is better adapted to fill the combined niches will
     tend replace the other specialization.
+
+
+*** Key Systems
+
+ - Systems
+   - Planetary
+     - Biosphere
+     - Stratosphere
+     - Atmosphere
+     - Hydrosphere
+     - Lithosphere
+   - Societies
+     - Small World Problem
+     - Egalitarian Zone -> smaller and we don't survive, larger
+       and we treat each other as property.
+     - Family Units
+     - Social Ties
+
+
 
 ** TL;DR
 

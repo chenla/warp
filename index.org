@@ -44,14 +44,14 @@ Volume I Foundations
 Volume II Frameworks
  - 00. [[./02/index.org][Contents Volume II]]
  - 00. [[./02/ww-intro-vol-2.org][Introduction Volume II]]
- - 07. [[./02/index.org][Points of View]]
- - 08. [[./02/ww-dualities.org][Dualities]]
- - 09. [[./02/ww-generators.org][Generators]]
- - 10. [[./02/ww-scaffolds.org][Scaffolds]]
- - 11. [[./02/ww-systems.org][Systems]]
- - 12. [[./02/ww-patterns.org][Patterns]]
- - 13. [[./02/ww-standards.org][Standards]]
- - 14. [[./02/ww-legibility.org][Legibility]]
+ - 07. [[./02/07/index.org][Points of View]]
+ - 08. [[./02/08/ww-dualities.org][Dualities]]
+ - 09. [[./02/09/ww-generators.org][Generators]]
+ - 10. [[./02/10ww-scaffolds.org][Scaffolds]]
+ - 11. [[./02/11/ww-systems.org][Systems]]
+ - 12. [[./02/12/ww-patterns.org][Patterns]]
+ - 13. [[./02/13/ww-standards.org][Standards]]
+ - 14. [[./02/14/ww-legibility.org][Legibility]]
 Volume III Components
  - 00. [[./03/index.org][Contents Volume III]]
  - 00. [[./03/ww-intro-vol-3.org][Introduction Volume III]]
@@ -119,11 +119,12 @@ Volume VIII Curriculum
  - 00. Rhizomata
  - 00. Systema
  - 00. Transacta
-
 Volume IX Articles
  - 00. Contents Volume IX
  - 00. Introduction Volume IX
  - 00. Apologetics
+   - Humanist Manifesto III | [[https://americanhumanist.org/what-is-humanism/manifesto3/][Manifesto III]]
+   - Universal Declaration of Human Rights [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][| wikipedia]]
  - 00. Declaration
  - 00. Rights
  - 00. Obligations
