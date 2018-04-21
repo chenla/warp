@@ -31,36 +31,38 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
-
-
+  - Introduction
   - Global Attributes
     - Level of Detail
     - Pace/Shearing-Layer
     - Succession Stage
     - Expression-Level Entities
   - Hoard Structure
-    - Metastructures
-      - origin
-      - calendar
-      - curriculum
-      - regime
-      - ruleset
-      - patterns
-      - imports -> ARC
-      - local inputs -> external parameters 
-   - Skein
+  - Metastructures
+    - origin
+    - calendar
+    - curriculum
+    - regime
+    - ruleset
+    - pattern
+    - imports -> ARC
+    - local inputs -> outside ARC
+  - Skein
+    - interfaces (formats & GUIs)
     - threads 
     - level completion
-    - code-base
-      - operating-system
-      - core languages
-      - core applications
-      - libraries  
-  - Build Process
-    - Deployment
-    - Propagation
-    - Continious Releases
-    - Rollback Contingencies
+  - Code Base
+    - operating-system
+    - core languages
+    - core applications
+    - libraries  
+  - Build
+    based on continious releases processes
+    - Configuration
+    - Make
+    - Make Deploy (local deploy)
+    - Make Propagate (global deploy)
+    - Rollback
 
 ** TL;DR
 
