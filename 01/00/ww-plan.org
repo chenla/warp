@@ -81,13 +81,13 @@ in the past.
     ............................    |      .......................
       Pattern Recognition Layer <---|<--->    Online Libaries
     ............................    |      =======================
-      Discovery Layer           <---|         Map-Index Layer
+          Discovery Layer       <---|         Map-Index Layer
     ............................    |      .......................
-      Rule Set Layer            <---|        Collection Layer
+          Rule Set Layer        <---|        Collection Layer
     ............................    |      -----------------------
-      Process Chain Layer       <---|             / \
-    ............................    |              |
-      Physical Layer            <---|              '----- W O R L D
+         Process Chain Layer    <---|              / \
+    ............................    |               |
+           Physical Layer       <---|               '----- W O R L D
     ----------------------------
 
 #+end_ascii
