@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Plan of the Work
+#+TITLE: Plan of The Work
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -11,24 +11,43 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-bibliography:../../hoard/bib.bib
+bibliography:~/proj/chenla/hoard/bib.bib
 
-* Plan of the Work
+[[[../../index.org][top]]] 
+
+* Plan of The Work
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/00/ww.plan.org
-:Created:  2018-04-18T10:44@Prek Leap (11.642600N-104.919210W)
-:ID:       b7a8e326-e696-4d44-88fd-12278f75c127
-:VER:      577295156.362948643
+:Name:     /home/deerpig/proj/chenla/warp/01/00/ww-plan.org
+:Created:  2018-04-21T08:55@Prek Leap (11.642600N-104.919210W)
+:ID:       c054aa11-d974-428c-9324-e084a91cc4d7
+:VER:      577547780.266428921
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:OEA5-1758
+:BXID:     proj:OYK7-7861
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Epigraph
+** Table of Contents
+
+- [[id:0ed7184f-ba2a-45f5-9460-efde6ff00081][Introduction]]
+- [[id:62eb03eb-fa14-42be-be07-a97dd195396f][Works]]
+  - [[id:911ca1c6-3c31-45ea-80b8-cf582c940f65][Warp & Woof]]
+  - [[id:72728741-9f9c-4b4f-9dff-6eba95bf77b3][A Pace-Layer Pattern Language]]
+- [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][Hoard]]
+- [[id:18e41791-cb01-4114-943d-a26bc95c1099][Primer]]
+- [[id:6fcee20c-2777-47e5-8724-f5bae317394e][Middle]]
+- [[id:401aaec4-899d-4972-b500-ea222cef7c2c][Arc]] 
+- [[id:682f45da-1356-4b4a-a911-8abb845cc9a7][Projects]]
+- [[id:7466a761-d9a2-4a2a-aeb9-10aa36963509][Programs]]
+- [[id:34865dc8-5986-4f88-bb7b-c5eda8675fd4][Initiatives]]
+
+** Introduction
+:PROPERTIES:
+:ID:       0ed7184f-ba2a-45f5-9460-efde6ff00081
+:END:
 
 #+begin_quote
 Everything that is not forbidden by laws of nature is
@@ -37,40 +56,71 @@ achievable, given the right knowledge.
 — David Deutsch 
 #+end_quote
 
-** TL;DR
 
-Chenla is a series of projects and published works to
-demonstrate a way for Mankind to build advanced distributed
-and stable technological civilization from first
-principles. Chenla is not proposing the design of any
-specific civilization, rather, the goal is to provide a
-generative framework for the present and future generations
-to make any number of civilizations.  The history of human
-civilization is iterative and bottom up, building on the
-civilizations that came before them.  With each iteration we
-learn a little more, and do a little better.  It is hoped
-that these works will be of use in making that process a
-little less random, a little more focused, and a lot less
-disruptive and destructive as it has all too often been in
-the past.
+Chenla is a series of works, projects, programs and initiatives that
+aim to demonstrate a way for Mankind to build advanced distributed and
+stable technological civilization from first principles. Chenla is not
+proposing the design of any specific civilization, rather, the goal is
+to provide a generative framework for the present and future
+generations to make any number of civilizations.  The history of human
+civilization is iterative and bottom up, building on the civilizations
+that came before them.  With each iteration we learn a little more,
+and do a little better.  It is hoped that these works will be of use
+in making that process a little less random, a little more focused,
+and a lot less disruptive and destructive as it has all too often been
+in the past.
 
+#+begin_ascii
+            Warp & Woof   <---------\
+                 \/                 |
+                APPL      <---------| 
+                 \/                 |
+               Hoard      <---------|      ------ A R C --------- 
+                 \/                 |          Dark Archives 
+    ---------- Primer ----------    |      .......................
+            M I D D L E             |       Nearline Repositories
+    ............................    |      .......................
+      Pattern Recognition Layer <---|<--->    Online Libaries
+    ............................    |      =======================
+          Discovery Layer       <---|         Map-Index Layer
+    ............................    |      .......................
+          Rule Set Layer        <---|        Collection Layer
+    ............................    |      -----------------------
+         Process Chain Layer    <---|              / \
+    ............................    |               |
+           Physical Layer       <---|               '----- W O R L D
+    ----------------------------
+
+#+end_ascii
+
+** Works
+:PROPERTIES:
+:ID:       62eb03eb-fa14-42be-be07-a97dd195396f
+:END:
 *** Warp & Woof
+:PROPERTIES:
+:ID:       911ca1c6-3c31-45ea-80b8-cf582c940f65
+:END:
 
-An introduction to the concepts used in *A Pace-Layer
-Pattern Language* and *A Primer*
+An introduction to the concepts used in *A Pace-Layer Pattern
+Language* and *A Primer*
 
-*A Pace-Layer Pattern Language* (APPL):
+*** A Pace-Layer Pattern Language (APPL)
+:PROPERTIES:
+:ID:       72728741-9f9c-4b4f-9dff-6eba95bf77b3
+:END:
 
-APPL is meant to expand on the world in Christopher
-Alexander's A Pattern Language (APL) which was published in
-1977 cite:alexander:1977pattern
 
-Where APL focused on towns, cities and the architecture of
-builds, the scope of APPL will be to encompass as aspects of
-civilization and human existence.
+APPL is meant to expand on the world in Christopher Alexander's A
+Pattern Language (APL) which was published in 1977
+cite:alexander:1977pattern
 
-In addition to /APL/-like Patterns, APPL will include the
-following categories:
+Where APL focused on towns, cities and the architecture of builds, the
+scope of APPL will be to encompass as aspects of civilization and
+human existence.
+
+In addition to /APL/-like Patterns, APPL will include the following
+categories:
 
   - Patterns :: Archetypal Design Patterns for structures,
                 settlements, social organization and systems. 
@@ -80,65 +130,87 @@ following categories:
               evidence-based grounds. 
   - Keystones :: Key Reference Designs and Specifications.
 
-Another departure from APL will be that APPL will be what is
-called a /literate program/ which combines text together
-with computer software code.  The code is executed when the
-pattern is generated.  This makes it possible for patterns
-to be machine understandable.  This will be important in the
-next work in the series, /The Hoard/ which will is a 
-group of /generative grammars/ which are expressed as both a
-text narrative and code.
+Another departure from APL will be that APPL will be what is called a
+/literate program/ which combines text together with computer software
+code.  The code is executed when the pattern is generated.  This makes
+it possible for patterns to be machine understandable.  This will be
+important in the next work in the series, /The Hoard/ which will is a
+group of /generative grammars/ which are expressed as both a text
+narrative and code.
 
-APPL will establish the broad patterns that can be used to
-construct generative grammars that will be adapted to
-account for local context (conditions) in the /Hoard/.
+APPL will establish the broad patterns that can be used to construct
+generative grammars that will be adapted to account for local context
+(conditions) in the /Hoard/.
 
-*** Hoard 
+** Hoard
+:PROPERTIES:
+:ID:       6fbd41ac-9947-4358-875e-5d2b798a8f93
+:END:
 
-A hoard is a collection of treasured goods and information.
-In Old English, the word for dictionary was a /worde hord/.
+A hoard is a collection of treasured goods and information.  In Old
+English, the word for dictionary was a /worde hord/.
 
-It is a combination repository under version control that
-contains the source code for generating Primers.  In a
-Platonic sense, APPL is the world of archetypes and the
-Hoard are the shadows on the wall that we can see and
-interact with. The APPL is a way of thinking globally, and a
-hoard pragmatically thinks and acts locally.
+It is a combination repository under version control that contains the
+source code for generating Primers.  In a Platonic sense, APPL is the
+world of archetypes and the Hoard are the shadows on the wall that we
+can see and interact with. The APPL is a way of thinking globally, and
+a hoard pragmatically thinks and acts locally.
 
-Hoards are organized using two different models, the
-/Pace-Layer/ model, and a /Succession-Stage/ model.
+Hoards are organized using two different models, the /Pace-Layer/
+model, and a /Succession-Stage/ model.
 
-As in the previous two works, the Hoard is not a
-prescriptive design for civilization.  Rather it is meant to
-create generate grammars that can be used to create very
-long term civilizations from first principles that are 
-distributed /and/ antifragile.
+As in the previous two works, the Hoard is not a prescriptive design
+for civilization.  Rather it is meant to create generate grammars that
+can be used to create very long term civilizations from first
+principles that are distributed /and/ antifragile.
 
-A Hoard includes plans, designs, standards, specifications
-based on /keystone/ reference designs and patterns from the
-APPL which are adapted for a range specific needs of a
-ecological, economic, technological, and cultural niches of
-any given civilization.
+A Hoard includes plans, designs, standards, specifications based on
+/keystone/ reference designs and patterns from the APPL which are
+adapted for a range specific needs of a ecological, economic,
+technological, and cultural niches of any given civilization.
 
-*** Primer
+** Primer
+:PROPERTIES:
+:ID:       18e41791-cb01-4114-943d-a26bc95c1099
+:END:
 
 A Primer is a collection of prescriptive and descriptive
 knowledge needed to build a specific civilization.
 
-In many cases the only way to develop a keystone reference
-design is by building a number of designs for specific
-needs.  So in order for us to come up with many of the
-patterns, generative grammars and keystone designs, we will
-start with specific designs, identify what makes it work and
-what can be used as a universal principle and then work
-backwards.  The Primer will include all of this specific
-design and development work that was done to develop
-patterns and keystone designs.
+In many cases the only way to develop a keystone reference design is
+by building a number of designs for specific needs.  So in order for
+us to come up with many of the patterns, generative grammars and
+keystone designs, we will start with specific designs, identify what
+makes it work and what can be used as a universal principle and then
+work backwards.  The Primer will include all of this specific design
+and development work that was done to develop patterns and keystone
+designs.
 
-*** Arc
+** Middle
+:PROPERTIES:
+:ID:       6fcee20c-2777-47e5-8724-f5bae317394e
+:END:
+** Arc
+:PROPERTIES:
+:ID:       401aaec4-899d-4972-b500-ea222cef7c2c
+:END:
+The Archive, or Arc for short, is collection of digital data, texts,
+images, audio video, 2D and 3D vector graphics and code that
+represents the a subset of Mankind's recorded memory and experience
+that provides the context and background needed to build and maintain
+a civilization.
 
-The Archive, or Arc for short, is collection of digital
-data, texts, images, audio video, 2D and 3D vector graphics
-and code that represents the a subset of Mankind's recorded
-memory and experience that provides the context and
-background needed to build and maintain a civilization.
+** Projects
+:PROPERTIES:
+:ID:       682f45da-1356-4b4a-a911-8abb845cc9a7
+:END:
+** Programs
+:PROPERTIES:
+:ID:       7466a761-d9a2-4a2a-aeb9-10aa36963509
+:END:
+** Initiatives
+:PROPERTIES:
+:ID:       34865dc8-5986-4f88-bb7b-c5eda8675fd4
+:END:
+
+
