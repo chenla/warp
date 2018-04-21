@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Boundries
+#+TITLE: 1.5.1 Boundries Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Boundries
+* 1.5.1 Boundries Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-boundries.org
+:Name:     /home/deerpig/proj/chenla/warp/01/05/intro.org
 :Created:  2018-03-21T18:48@Prek Leap (11.642600N-104.919210W)
 :ID:       d12d937d-7901-4cbe-b165-1cbea44f0526
 :VER:      574904971.750844647
@@ -30,68 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
-
- - 00. Systems Boundries
-   - Carrying Capacity (general concepts)
-   - Petri Dish
-     - positive feedback loops
-     - negative feedback loops
-   - Being the Right Size cite:haldane:1928being
-   - People Don't Scale
- - 00. Physical Boundries (physics)
-   - Speed of Light (propagation)
-   - Computation
-   - Memory Storage
- - 00. Planetary  cite:steffen:2015planetary
-   - Climate change
-   - Biosphere
-       - functional diversity
-       - genetic diversity
-   - Biodiversity loss
-   - Biochemical Flows
-       - Carbon Cycle
-       - Nitrogen cycle
-       - Phosphorus
-   - Ocean
-       - acidification
-   - Land use
-   - Freshwater
-   - Ozone depletion
-   - Atmosphere
-     - aerosols
-   - Chemical pollution
- - 00. Sapiens (species specific)
-   - Physiological
-     - Size
-     - Sleep
-     - Rest (not same as sleep)
-     - Light (and diurnal cycles)
-     - Energy Requirements
-       - Calories
-       - Nutritional Requirements
-       - Water
-   - Environmental
-     - Atmosphere 
-       - composition
-       - pressure
-       - temperature
-       - radiation
-     - Gravity & Acceleration
-   - Psychological
-     - Human nature
-       SEE: cite:pinker:2003blank 
-     - Cognitive Limits and Bias
-   - Sociological
-     - Dunbar
- - 00. Civilization
-
---- Not Boundries ---
-
- - World Models
-   - Individual
-   - Group 
-   - Culture
 ** TL;DR
 
 Boundries define the limits that our planet, all of life,
