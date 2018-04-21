@@ -1,0 +1,304 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Plan of The Work
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] 
+
+* Plan of The Work
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/00/ww-plan.org
+:Created:  2018-04-21T08:55@Prek Leap (11.642600N-104.919210W)
+:ID:       c054aa11-d974-428c-9324-e084a91cc4d7
+:VER:      577547780.266428921
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:OYK7-7861
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+#+begin_quote
+Everything that is not forbidden by laws of nature is
+achievable, given the right knowledge.
+
+— David Deutsch 
+#+end_quote
+
+
+Chenla is a series of projects and published works to demonstrate a
+way for Mankind to build advanced distributed and stable technological
+civilization from first principles. Chenla is not proposing the design
+of any specific civilization, rather, the goal is to provide a
+generative framework for the present and future generations to make
+any number of civilizations.  The history of human civilization is
+iterative and bottom up, building on the civilizations that came
+before them.  With each iteration we learn a little more, and do a
+little better.  It is hoped that these works will be of use in making
+that process a little less random, a little more focused, and a lot
+less disruptive and destructive as it has all too often been in the
+past.
+
+#+begin_comment
+The Plan should be in two broad parts -- first, the big picture of how
+w&w appl hoard and primer work together.
+
+Then a Synopsis of each part.
+#+end_comment
+
+** Works
+
+*Warp & Woof*: 
+
+An introduction to the concepts used in *A Pace-Layer Pattern
+Language* and *A Primer*
+
+*A Pace-Layer Pattern Language* (APPL):
+
+APPL is meant to expand on the world in Christopher Alexander's A
+Pattern Language (APL) which was published in 1977
+cite:alexander:1977pattern
+
+Where APL focused on towns, cities and the architecture of builds, the
+scope of APPL will be to encompass as aspects of civilization and
+human existence.
+
+In addition to /APL/-like Patterns, APPL will include the following
+categories:
+
+  - Patterns :: Archetypal Design Patterns for structures,
+                settlements, social organization and systems. 
+  - Parameters :: Constants and Variables.
+  - Theses :: Assertions that may be moral or ethical but
+              may not be justified purely on logical or
+              evidence-based grounds. 
+  - Keystones :: Key Reference Designs and Specifications.
+
+Another departure from APL will be that APPL will be what is called a
+/literate program/ which combines text together with computer software
+code.  The code is executed when the pattern is generated.  This makes
+it possible for patterns to be machine understandable.  This will be
+important in the next work in the series, /The Hoard/ which will is a
+group of /generative grammars/ which are expressed as both a text
+narrative and code.
+
+APPL will establish the broad patterns that can be used to construct
+generative grammars that will be adapted to account for local context
+(conditions) in the /Hoard/.
+
+*Hoard*: 
+
+A hoard is a collection of treasured goods and information.  In Old
+English, the word for dictionary was a /worde hord/.
+
+It is a combination repository under version control that contains the
+source code for generating Primers.  In a Platonic sense, APPL is the
+world of archetypes and the Hoard are the shadows on the wall that we
+can see and interact with. The APPL is a way of thinking globally, and
+a hoard pragmatically thinks and acts locally.
+
+Hoards are organized using two different models, the /Pace-Layer/
+model, and a /Succession-Stage/ model.
+
+As in the previous two works, the Hoard is not a prescriptive design
+for civilization.  Rather it is meant to create generate grammars that
+can be used to create very long term civilizations from first
+principles that are distributed /and/ antifragile.
+
+A Hoard includes plans, designs, standards, specifications based on
+/keystone/ reference designs and patterns from the APPL which are
+adapted for a range specific needs of a ecological, economic,
+technological, and cultural niches of any given civilization.
+
+*Primer*
+
+A Primer is a collection of prescriptive and descriptive
+knowledge needed to build a specific civilization.
+
+In many cases the only way to develop a keystone reference design is
+by building a number of designs for specific needs.  So in order for
+us to come up with many of the patterns, generative grammars and
+keystone designs, we will start with specific designs, identify what
+makes it work and what can be used as a universal principle and then
+work backwards.  The Primer will include all of this specific design
+and development work that was done to develop patterns and keystone
+designs.
+
+*Arc*
+
+The Archive, or Arc for short, is collection of digital data, texts,
+images, audio video, 2D and 3D vector graphics and code that
+represents the a subset of Mankind's recorded memory and experience
+that provides the context and background needed to build and maintain
+a civilization.
+
+* NOTES
+
+** Hoard
+
+The Hoard is both dna and the rna (code) for the running processes
+that make up a civilization -- when you deploy a hoard you are
+triggering a process that will attempt at building a civilization
+according to the hoard's DNA.
+
+You use a primer to build a hoard -- when it's ready, you deploy.  A
+hoard is not static, it is constantly being added to, fixed and
+changed -- so it uses a continious deployment model where you are
+constantly rolling out changes in real time.  This means that if you
+fuck up, you can roll back changes.  It also means that changes are
+incremental, so that there is time for change to propagate and burn in
+to the institutions and people using them.
+
+Deployment is not global -- change deploys at the smallest possible
+scope and then propagates -- this is a safeguard but it also can't be
+avoided because civilizations are distributed systems.  It also means
+that you can test things on subsets of the civilization, perhaps even
+do A:B testing before it propagates.
+
+But I also want to stress that there is no master hoard for a
+civilization.  There will be thousands if not millions of hoards that
+make it up -- different things will change in different places and as
+those changes propagate, they might well come into conflict with each
+other and, like when the fauna of north america came into contact with
+the fauna of south america, you'll get two different species that fill
+the same ecological niche.  One will inevitably die out to be replaced
+by the other.  The trick is, how this will work without the system
+fracturing.  At the core of the entire system is that conflicts must
+be resolved without forking the network.  I think that will be our
+greatest challenge.
+
+The system is not designed to be homogeneous, locally there might be
+any number of differences between the local here and the local in
+another place.  Again, as it should be.
+
+I think that the key here will be to ensure that the different
+p-layers have the authority to do their job, and ensure that systemic
+change is slow -- that competing ideas can cooexist for as long as it
+takes for a concensus to take place and for one to win out over the
+other.
+
+The problem of peaceful propagation is going to keep me awake many a
+night...
+
+A lot of these notes above will be moved to propagation section in
+w&w.
+
+
+#+begin_quote
+With great power, comes great responsibility.
+
+— Uncle Ben
+#+end_quote
+
+#+begin_quote
+Trust but verify.
+
+— Ronald Reagan
+#+end_quote
+
+We need to design hoards so that users start at the appropriate stage
+and then unlock other stages as they progress -- so in a way this
+works like levels in a computer game.  The thing is, that unlocking a
+level doesn't take you to a new place, it just expands on where you
+already are.
+
+We can think of a hoard as being a book where different information is
+accessible depending on the user.  Different content will be available
+to different users at different stages.
+
+In the development stage everything is unlocked.  When the Hoard is
+deployed (released) the permission model kicks in and you can only see
+everything if you have super-user privileges.
+
+Super Users can see everything all at once, or use a God-Mode where
+they can /play/ the hoard, but are automatically granted access and
+write access to everything.
+
+For end-users, access to each stage can be fine-grained as well, so
+that students can access it in one way, and masters, another.
+
+There is a whole deployment framework, so that the designers can
+create this whole succession stage system.  Unlocking and duck tests
+to determine if someone is ready for the next stage will be a
+challenge.  It may not only be cryptographic locking, it might well be
+physical.  So, let's say that the last stage can only be unlocked by
+building a device that can send a signal to the moon, and a slow AI on
+the moon listening for that signal will then unlock it and allow
+downloads.
+
+I think that the hoard is where we can start to get into a lot of
+ideas that Suarez explored in Daemon cite:suarez:2009daemon --
+leveraging mythos as both a cognitive model, and an interface.
+
+There are a lot of parallels here with both the unix filesystem and
+computer/console games.  They have to be woven in with the identity
+model, governance and a raft of other things.
+
+** Arc
+
+The Archive, or Arc for short, is collection of digital data, texts,
+images, audio video, 2D and 3D vector graphics and code that
+represents the a subset of Mankind's recorded memory and experience
+that provides the context and background needed to build and maintain
+a civilization.
+
+Arc is made of three parts:
+
+Content is maintained in lossless machine understandable formats.
+Everything is Woven together using both using a catalog based on an
+FRBR enity model, and a detailed set of semantic relationship between
+the contents of each item in the Arc to all the other items.
+
+This catalog and metadata constitutes a map or graph which can be
+managed and accessed in a graph database.
+
+The final part of Arc is a set of what we call cascading rule sets
+which contain the logic for processes that index, catalog and map
+collections in a format that is independent of any specific software
+that is used to manage an Arc.  The software will use machine-learning
+and graph databases to maintain and access collections.
+
+Arc Organization
+
+Arcs are designed to be distributed and antifragile.  Copies of Arcs
+are divided into three different tiers, Dark Arcs only contain
+archival copies of content, maps and processes.  They are not meant to
+be directly accessible by end-users but rather by the second tiers
+called Repos.  Plausible deniability is maintained by repos so that in
+the event that a civilization reverts to a period of /temporary
+insantity/ and willfully attempts to destroy Arcs, the Dark Arcs will
+be able to keep content safe until a civilization returns to its
+senses and libraries are established to retore that has been
+destroyed.
+
+Repos maintain complete working copies of an Arc, and only
+communicates with Dark Arcs when they need to restore something that
+has been lost, or to upload new material that is added to the Arc.
+Archives are where more of the work and processing takes place.  New
+content is converted into archival formats, cataloged and indexed.
+End-user formats are generated which are then sent to the top most
+Tier which is a Library.  Libraries are any traditional physical or
+online library, repository or collection.  They can be anything from a
+city, town, university or secondary school library or a collection
+that only is available over the Internet.  Libraries maintain an
+end-user version of the catalog and map and manage collections of
+content in the most recent and popular formats.  Today these formats
+would include html, epub and pdf for text, jpeg and png for images
+etc.  If a library doesn't have or has lost an item, they request a
+copy from the Library Tier above them.
+
+
+

@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
- - [[./ww-epigraph.org][Epigraph]]
+ - [[./00/ww-epigraph.org][Epigraph]]
  - [[./00/intro.org][Introduction]]
  - 00. [[./00/ww-plan.org][Plan of the Work]]
  - 00. [[./00/ww-synopsis.org][Synopsis]]
