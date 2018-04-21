@@ -1,0 +1,37 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 1.2.1 Ab Initio Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]] [next]
+
+
+* 1.2.1 Ab Initio Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/02/intro.org
+:Created:  2018-04-21T17:04@Prek Leap (11.642600N-104.919210W)
+:ID:       21c2adbb-30d9-475f-ba9f-f80612467e67
+:VER:      577577122.409021248
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:VRM2-4234
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Table of Contents
+** TL;DR
+
+
