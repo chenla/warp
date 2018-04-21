@@ -1,0 +1,83 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   1.5 Boundries TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]]
+
+* 1.5 Boundries Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/05/index.org
+:Created:  2018-04-21T17:25@Prek Leap (11.642600N-104.919210W)
+:ID:       d9350052-d225-4cb4-a4d4-88938b180329
+:VER:      577578414.933900398
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TFR1-6135
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+ - 00. Systems Boundries
+   - Carrying Capacity (general concepts)
+   - Petri Dish
+     - positive feedback loops
+     - negative feedback loops
+   - Being the Right Size cite:haldane:1928being
+   - People Don't Scale
+ - 00. Physical Boundries (physics)
+   - Speed of Light (propagation)
+   - Computation
+   - Memory Storage
+ - 00. Planetary  cite:steffen:2015planetary
+   - Climate change
+   - Biosphere
+       - functional diversity
+       - genetic diversity
+   - Biodiversity loss
+   - Biochemical Flows
+       - Carbon Cycle
+       - Nitrogen cycle
+       - Phosphorus
+   - Ocean
+       - acidification
+   - Land use
+   - Freshwater
+   - Ozone depletion
+   - Atmosphere
+     - aerosols
+   - Chemical pollution
+ - 00. Sapiens (species specific)
+   - Physiological
+     - Size
+     - Sleep
+     - Rest (not same as sleep)
+     - Light (and diurnal cycles)
+     - Energy Requirements
+       - Calories
+       - Nutritional Requirements
+       - Water
+   - Environmental
+     - Atmosphere 
+       - composition
+       - pressure
+       - temperature
+       - radiation
+     - Gravity & Acceleration
+   - Psychological
+     - Human nature
+       SEE: cite:pinker:2003blank 
+     - Cognitive Limits and Bias
+   - Sociological
+     - Dunbar
+ - 00. Civilization
+
