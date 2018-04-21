@@ -41,7 +41,7 @@ Volume I Foundations
  - 01. [[./01/01/index.org][Civilis]]
  - 02. [[./01/02/index.org][Ab initio]]
  - 03. [[./01/03/index.org][Nature of Order]]
- - 04. [[./01/04/ww-estrangement.org][Estrangement]
+ - 04. [[./01/04/index.org][Estrangement]]
  - 05. [[./01/05/ww-boundries.org][Boundries]
  - 06. [[./01/06/index.org][Principles]
 Volume II Frameworks
