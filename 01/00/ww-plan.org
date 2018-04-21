@@ -212,6 +212,5 @@ a civilization.
 :PROPERTIES:
 :ID:       34865dc8-5986-4f88-bb7b-c5eda8675fd4
 :END:
-* NOTES
-** Arc
+
 
