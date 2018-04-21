@@ -41,7 +41,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Metastructures
     - origin
     - calendar
-    - curriculum
+    - curriculum/practice
     - regime
     - ruleset
     - pattern
@@ -56,8 +56,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - core languages
     - core applications
     - libraries  
-  - Build
-    based on continious releases processes
+  - Build -> continious release
+    - Test
     - Configuration
     - Make
     - Make Deploy (local deploy)
