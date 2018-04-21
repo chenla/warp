@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[./index.org][top]]] prev [[[./01/index.org][next]]]
+[[[./index.org][top]]] [[[./plan.org][prev]]] [[[./01/index.org][next]]]
 
 * Synopsis of the Work
 :PROPERTIES:

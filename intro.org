@@ -28,6 +28,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+[[[./index.org][top]]] prev [[[./plan.org][next]]]
+
 ** TL;DR
 
 No shit, a tl;dr for an introduction
