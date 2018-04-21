@@ -38,7 +38,7 @@ Volume I Foundations
  - [[./synopsis.org][Synopsis]]
  - [[./01/index.org][Contents Volume I]]
  - [[./01/intro.org][Introduction Volume I]]
- - 01. [[./01/01/ww-civilization.org][Civilis]
+ - 01. [[./01/01/index.org][Civilis]]
  - 02. [[./01/02/ww-ab-initio.org][Ab initio]
  - 03. [[./01/03/ww-order.org][Nature of Order]
  - 04. [[./01/04/ww-estrangement.org][Estrangement]
