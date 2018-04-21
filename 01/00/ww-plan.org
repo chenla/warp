@@ -38,6 +38,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[id:72728741-9f9c-4b4f-9dff-6eba95bf77b3][A Pace-Layer Pattern Language]]
 - [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][Hoard]]
 - [[id:18e41791-cb01-4114-943d-a26bc95c1099][Primer]]
+- [[id:6fcee20c-2777-47e5-8724-f5bae317394e][Middle]]
 - [[id:401aaec4-899d-4972-b500-ea222cef7c2c][Arc]] 
 - [[id:682f45da-1356-4b4a-a911-8abb845cc9a7][Projects]]
 - [[id:7466a761-d9a2-4a2a-aeb9-10aa36963509][Programs]]
@@ -185,6 +186,10 @@ work backwards.  The Primer will include all of this specific design
 and development work that was done to develop patterns and keystone
 designs.
 
+** Middle
+:PROPERTIES:
+:ID:       6fcee20c-2777-47e5-8724-f5bae317394e
+:END:
 ** Arc
 :PROPERTIES:
 :ID:       401aaec4-899d-4972-b500-ea222cef7c2c
