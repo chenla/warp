@@ -28,7 +28,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
-
+ - Table of Contents
+ - [[./intro.org][Introduction]]
  - Human Nature
  - Nature of Nature
    - entro evo info
