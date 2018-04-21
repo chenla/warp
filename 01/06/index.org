@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 1.6 Principles
+#+TITLE: 1.6 Principles TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* 1.6 Principles
+* 1.6 Principles Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/01/06/index.org
@@ -32,8 +32,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
    
-   - 00 Table of Contents
-   - 01 Introduction: Slouching Towards Optimism
+   - Table of Contents
+   - 01 [[./intro.org][Introduction: Slouching Towards Optimism]]
    - 02 Enlightenment
    - 03 Humanism
      - Humanist Principles
