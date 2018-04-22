@@ -299,13 +299,13 @@ time positions at companies they have interned at, or they
 will have the option of forming their own Remote work
 startup companies either here in Cambodia or abroad.
 
-Currently there are thought to be 22,000 qualified people
+Currently there are estimated to be 22,000 qualified people
 in Machine Learning, and there are are over 125,000 jobs
-available in the field.  Over the next four years the
-available jobs in AI is expected to grow to be as high has a
-million positions worldwide, but the number of people
-qualified for these positions will be less than half of
-that.
+available in the field at the time this is being written.
+Over the next four years the available jobs in AI is
+expected to grow to be as high has a million positions
+worldwide, but the number of people qualified for these
+positions will be less than half of that.
 
 The other specialty is called DevOps, which is a combination
 of Software Development, and Systems management and
@@ -344,7 +344,7 @@ First Two Year Curriculum Outline:
     - Programing II: Python, Ruby, R, Rust, Go
     - Introduction to Machine Learning & Neural Networks
 
-Status:
+Status and Pilot Program
 
 A number of Remote Work companies have been approached with
 the concept and they are all open to participating in the
@@ -377,7 +377,14 @@ homework instead of sitting and listening to a lecture.
 
 We intend to finish the base curriculum for the first year
 and begin our first pilot class in the semester starting in
-October of 2018.
+October of 2018 with about 15 students.  We will create a
+new class every year and expand the program when it is
+appropriate. 
+
+All course material will be released under Open Source
+Licences and the entire curriculum will be  designed to
+be used as a template that can be used to establish other
+programs around the world.
 
 We are seeking funds to continue to develop course
 materials, produce videos, establish formal agreements with
