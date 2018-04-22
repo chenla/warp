@@ -27,6 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+Boundries
+ - 00. Goldilocks
  - 00. Systems Boundries
    - Carrying Capacity (general concepts)
    - Petri Dish
@@ -80,4 +82,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Sociological
      - Dunbar
  - 00. Civilization
-
+Thresholds
+ - 00. Inevitibility
+   - uncertainty -> change is certain, outcome is not
+ - 00. State Change  -> from one state to another
+ - 00. Tipping-Point -> trigger cascades
