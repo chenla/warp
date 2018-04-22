@@ -31,11 +31,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
+:PROPERTIES:
+:ID:       65417f83-203e-44af-a117-2e6e6e9f81f9
+:END:
    
-   - Table of Contents
-   - 01 [[./intro.org][Introduction: Slouching Towards Optimism]]
-   - 02 Enlightenment
-   - 03 Humanism
+  - Table of Contents
+  - 01 [[./intro.org][Introduction: Slouching Towards Optimism]]
+  - 02 Enlightenment
+  - 03 Humanism
      - Humanist Principles
        - HM3.1 :: Knowledge of the world is derived by
                   observation, experimentation, and rational
@@ -52,7 +55,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
        - HM3.6 :: Working to benefit society maximises
                   individual happiness.
      - Humanist Manifesto's  
-   - 04 Not Enlightenment
+  - 04 Not Enlightenment
      - High Modernism
      - Romanticism
      - Dishonorable Mentions
@@ -61,7 +64,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
        - Malthusianism
        - Libertarianism
        - Lamarkism
-   - 05 Rationality
+  - 05 Rationality
      - appealing to empirical based reasoning
      - intuition (hunch) as a first guess that must be tested. 
      - deduction (a priori/a postereriori)
@@ -73,13 +76,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - secular
      - Enlightened Self-Interest
      - Empathic Reciprocity
-   - 06 Democratic Process
+  - 06 Democratic Process
      - As goldilock zone between violence of anarchy and
        violence of popularism/totalitarianism/oligarchies
      - Egalitarian
-   - 07 Human Nature
+  - 07 Human Nature
      - Human Scales: Self, Domus/Band, Polis
-   - 08 Scientific Process
+  - 08 Scientific Process
      https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
      - Observation
      - Empirical 
@@ -100,12 +103,54 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Analysis
      - External Review
      - Consensus
-   - 09 Progress
+  - 09 Progress
      - not same as growth
      - The unveness of progress
        progress is not evenly distributed
      - Evidence of Progress
 
+-----
 
+A Rule Set based on these principles that includes
+metasystems, patterns, parameters and theses which can
+generate a full set of articles.
+
+How to go about doing this?
+
+Pseudo-first-order-logic-code?
+
+MM3 provides base principles
+
+Not enlightenment provides canary tests
+
+Scientific process
+
+entity mode provides mulitple formats, wording etc for
+different targets.
+
+duck tests
+canary tests
+
+I sort of like the idea of leveraging rulesets as a
+framework for judges -- they go through each step in the
+process and act as the AI for determing if something
+applies or not.
+
+Common Law is a powerful concept, but it would be nice if
+each time a judge makes a ruling then the ruling will have
+it's own variation of the ruleset -- higher courts could
+then determine which variation is to be used.
+
+So where do we put ducks and canaries
+
+Ducks and Canaries are definitions as well as a tests -- so
+should they belong in patterns?  They are, after all a kind
+of pattern.
+
+Define living, dead, true, false, sentient, consent, adult,
+liable etc.
+
+Can baysian reasoning be used to define things like "beyond
+reasonable doubt?"
 
 
