@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [prev]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./07-hard-soft-wet.org][prev]]]
 
 * 2.10.8 World Models
 :PROPERTIES:
