@@ -35,3 +35,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - 2.10.5 [[./05-succession-model.org][Succession Model]]
   - 2.10.6 [[./06-goldilocks.org][Goldilocks-Thresholds]]
   - 2.10.7 [[./07-hard-soft-wet.org][Hard Soft Wet]]
+
+  - 2.10.8 World Models
+    - World View (human world model)
+    - Blackboard
