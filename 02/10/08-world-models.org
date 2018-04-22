@@ -41,6 +41,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 Break into three parts.
 
+
+** Worldview
+
 We start with the traditional concept of a worldview which
 is a mental model of the world.
 
@@ -66,6 +69,10 @@ Worldviews are externalized and manifested in folk-epics
 like Homer's /Iliad/ which Eric Havelock describes as a
 cultural encyclopedia for a
 civilization. cite:havelock:1963preface 
+
+** Consciousness
+
+** Global Workspace Theory
 
 We can then dig deeper and see if worldviews are a
 fundemental part of how the brain works. This becomes a bit
@@ -123,6 +130,8 @@ parallelism.
 — cite:wiki:2018consciousness-explained
 #+end_quote
 
+** Externalized Worldviews
+
 The third part will explore how we can use directed-graphs
 that connect recorded information to create a
 machine-cognitive worldview which is an analog to both a
@@ -156,7 +165,7 @@ out of a lot of people.  But I would argue that Charles
 Stross got it right:
 
 #+begin_quote
-orporations are cannibals; they consume one another. They
+Corporations are cannibals; they consume one another. They
 are also hive superorganisms, like bees or ants. For their
 first century and a half they relied entirely on human
 employees for their internal operation, although they are
@@ -210,8 +219,21 @@ corporations in many of their internal structures.
     philosopher’s lifelong quest to understand the making of
     the mind./ (2017).
     cite:rothman:2017daniel-dennett 
+  - Sire, J. W., Naming the elephant: worldview as a concept
+    (2004), : IVP Academic.
+    cite:sire:2004naming-elephant
+  - Sire, J. W., The universe next door: a basic worldview
+    catalog, 5th edition (2009), : IVP Academic.
+    cite:sire:2009universe-next-door
   - Stross, C., /Dude, you broke the future!/ (2017).
     cite:stross:2017dude
+  - Underhill, J. W., Creating worldviews : metaphor,
+    ideology and language (2011), : Edinburgh University
+    Press.
+    cite:underhill:2011creating-worldviews 
+  - Underhill, J., Humboldt, worldview, and language
+    (2009), : Edinburgh University Press.
+    cite:underhill:2009humbolt
   - Wikipedia, , /Global workspace theory --- Wikipedia, the
     free encyclopedia/ (2018).
     cite:wiki:2018global-workspace-theory
@@ -220,5 +242,5 @@ corporations in many of their internal structures.
     cite:wiki:2018worldview
   - Wikipedia, , /Consciousness explained --- Wikipedia, the
     free encyclopedia/ (2017).
-    cite:wiki:2018consciousness-explained 
+    cite:wiki:2018consciousness-explained
 
