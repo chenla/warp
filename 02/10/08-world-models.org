@@ -34,18 +34,113 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Table of Contents
 
  - World View (human world model)
-    - Cognitive Blackboard or Workspace
-
+ - Global Workspace Theory
+ - Externalized Machine-cognitive Worldviews
 
 ** TL;DR
 
+Break into three parts; the traditional concept of a
+worldview which is a mental model of the world.
+
+#+begin_quote
+worldview is the fundamental cognitive orientation of an
+individual or society encompassing the whole of the
+individual's or society's knowledge and point of view. A
+world view can include natural philosophy; fundamental,
+existential, and normative postulates; or themes, values,
+emotions, and ethics.
+
+— cite:wiki:2018worldview
+#+end_quote
+
+Worldviews provide a framework for placing what you know
+about the world through sensual experience, and cognitive
+inductive and deductive reasoning with what is unknown or
+unknowable.  Worldviews provide a shared model of the world
+that make it possible not only to communicate but to
+cooperate with each other.
+
+Worldviews are externalized and manifested in folk-epics
+like Homer's /Iliad/ which Eric Havelock describes as a
+cultural encyclopedia for a
+civilization. cite:havelock:1963preface 
+
+We can then dig deeper and see if worldviews are a
+fundemental part of how the brain works. This becomes a bit
+tricky territory because is involves neuroscience work on
+the nature of consciousness as defined in Global Workspace
+Theory cite:wiki:2018global-workspace-theory
+
+#+begin_quote
+The cognitive neuroscientist Stanislas Dehaene and his
+collaborators have argued that consciousness functions as a
+“global workspace” or “blackboard” representation.41 The
+blackboard metaphor refers to the way that a diverse set of
+computational modules can post their results in a common
+format that all the other modules can “see.” Those modules
+include perception, memory, motivation, language
+understanding, and action planning, and the fact that they
+can all access a common pool of currently relevant
+information (the contents of consciousness) allows us to
+describe, grasp, or approach what we see, to respond to what
+other people say or do, and to remember and plan depending
+on what we want and what we know. (The computations inside
+each module, in contrast, like the calculation of depth from
+the two eyes or the sequencing of muscle contractions making
+up an action, can work off their own proprietary input
+streams, and they proceed below the level of consciousness,
+having no need for its synoptic view.) This global workspace
+is implemented in the brain as rhythmic, synchronized firing
+in neural networks that link the prefrontal and parietal
+cerebral cortexes with each other and with brain areas that
+feed them perceptual, mnemonic, and motivational signals.
+
+— cite:pinker:2018enlightenment p.695
+#+end_quote
+
+What I find exciting about workspace theory is that it not
+only gives us some empirical understanding of consciousness
+as a cognitive mechanism.  I would say that Daniel Dennet is
+correct that consciousness as most people 
+
+
+
+The third part will explore how we can use graphs that
+connect recorded information to create a machine-cognitive
+worldview which is an analog to both a human/societal
+worldview and a global workspace that provides a contextual
+framework that  
+
+
 
 ** References
-  - Pinker, S., Enlightenment now: the case for reason,
-    science, humanism, and progress (2018), : Viking.
-    cite:pinker:2018enlightenment
+  - Dehaene, S., /Signatures of consciousness--a talk by
+    stanislas dehaene/ (2009).
+    cite:dehaene2009signatures
   - Dehaene, S., Towards a cognitive neuroscience of
     consciousness: basic evidence and a workspace framework,
     Cognition, 79(1-2), 1–37 (2001).
     http://dx.doi.org/10.1016/s0010-0277(00)00123-2
     cite:dehaene:2001framework
+  - Dennett, D. C., Consciousness Explained (1992), : Back
+    Bay Books.
+    cite:dennett:1992consciousness-explained
+  - Gaillard, R., Dehaene, S., Adam, C., Clémenceau, S.,
+    Hasboun, D., Baulac, M., Cohen, L., …, Converging
+    intracranial markers of conscious access, PLoS Biology,
+    7(3), 1000061 (2009).
+    http://dx.doi.org/10.1371/journal.pbio.1000061
+    cite:gaillard:2009converging
+  - Pinker, S., Enlightenment now: the case for reason,
+    science, humanism, and progress (2018), : Viking.
+    cite:pinker:2018enlightenment
+  - Rothman, J., /Daniel dennett’s science of the soul: a
+    philosopher’s lifelong quest to understand the making of
+    the mind./ (2017).
+    cite:rothman:2017daniel-dennett
+  - Wikipedia, , /Global workspace theory --- Wikipedia, the
+    free encyclopedia/ (2018).
+    cite:wiki:2018global-workspace-theory
+  - Wikipedia, , /World view --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018worldview
