@@ -13,8 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
-
+[[[../../index.org][top]]] [[[./index.org][up]]] [prev]
 
 * 2.10.8 World Models
 :PROPERTIES:
@@ -33,14 +32,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
 
- - 01 World View (human world model)
- - 02 Global Workspace Theory
- - 03 Externalized Machine-cognitive Worldviews
+ - 01 Worldview
+ - 02 Consciousness
+ - 03 Global Workspace Theory
+ - 04 Externalized Worldviews
 
 ** TL;DR
 
-Break into three parts; the traditional concept of a
-worldview which is a mental model of the world.
+Break into three parts.
+
+We start with the traditional concept of a worldview which
+is a mental model of the world.
 
 #+begin_quote
 worldview is the fundamental cognitive orientation of an
