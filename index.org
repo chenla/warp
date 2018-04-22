@@ -50,14 +50,14 @@ Volume II Frameworks
  - 07. [[./02/07/index.org][Points of View]]
  - 08. [[./02/08/ww-dualities.org][Dualities]]
  - 09. [[./02/09/ww-generators.org][Generators]]
- - 10. [[./02/10ww-scaffolds.org][Scaffolds]]
+ - 10. [[./02/10/index.org][Scaffolds]]
  - 11. [[./02/11/ww-systems.org][Systems]]
  - 12. [[./02/12/ww-patterns.org][Patterns]]
  - 13. [[./02/13/ww-standards.org][Standards]]
  - 14. [[./02/14/ww-legibility.org][Legibility]]
 Volume III Components
- - 00. [[./03/index.org][Contents Volume III]]
- - 00. [[./03/ww-intro-vol-3.org][Introduction Volume III]]
+ - [[./03/index.org][Contents Volume III]]
+ - [[./03/ww-intro-vol-3.org][Introduction Volume III]]
  - 15. [[./03/ww-identity.org][Identity]]
  - 16. [[./03/ww-citizens.org][Citizens]]
  - 17. [[./03/ww-polis.org][Polis]]
@@ -70,8 +70,8 @@ Volume III Components
  - 24. [[./03/ww-succession.org][Succession]]
  - 25. [[./03/ww-infrastructure.org][Infrastructure]]
 Volume IV Methodologies
- - 00. [[./04/index.org][Contents Volume IV]]
- - 00. [[./04/ww-intro-vol-4.org][Introduction Volume IV]]
+ - [[./04/index.org][Contents Volume IV]]
+ - [[./04/ww-intro-vol-4.org][Introduction Volume IV]]
  - 26. [[./04/ww-the-way.org][The Way]]
  - 27. [[./04/ww-cycles.org][Cycles]]
  - 28. [[./04/ww-rules.org][Rules]]
@@ -80,30 +80,30 @@ Volume IV Methodologies
  - 31. [[./04/ww-fabrication.org][Fabrication]]
  - 32. [[./04/ww-agency.org][Agency]]
 Volume V  Workflow
- - 00. [[./05/index.org][Contents Volume V]]
- - 00. [[./05/ww-intro-vol-5.org][Introduction Volume V]]
+ - [[./05/index.org][Contents Volume V]]
+ - [[./05/ww-intro-vol-5.org][Introduction Volume V]]
  - 33. [[./05/ww-appl.org][APPL]]
  - 34. [[./05/ww-hoard.org][Hoard]]
  - 35. [[./05/ww-primer.org][Primer]]
  - 36. [[./05/ww-middle.org][Middle]]
  - 37. [[./05/ww-arc.org][Arc]]
 Volume VI Implementation
- - 00. [[./06/index.org][Contents Volume VI]]
- - 00. [[./06/ww-intro-vol-6.org][Introduction Volume VI]]
+ - [[./06/index.org][Contents Volume VI]]
+ - [[./06/ww-intro-vol-6.org][Introduction Volume VI]]
  - 38. [[./06/ww-scenarios.org][Scenarios]]
- - 39. [[./06/ww-window.org][Window & Roadmap]]
+ - 39. [[./06/ww-window.org][Window]]
  - 40. [[./06/ww-roadmap.org][Roadmap]]
 Volume VII Origins
- - 00. [[./07/index.org][Contents Volume VII]]
- - 00. [[./07/ww-intro-vol-7.org][Introduction Volume VII]]
+ - [[./07/index.org][Contents Volume VII]]
+ - [[./07/ww-intro-vol-7.org][Introduction Volume VII]]
  - 00. Big History 
  - 00. Cosmos
  - 00. Earth & Solar System
  - 00. Life
  - 00. Mankind
 Volume VIII Curriculum
- - 00. Contents Volume VIII
- - 00. Introduction Volume VIII
+ - Contents Volume VIII
+ - Introduction Volume VIII
  - 00. Curriculum
    - Lifetime learning -> build your hoard
    - Context
@@ -123,8 +123,8 @@ Volume VIII Curriculum
  - 00. Systema
  - 00. Transacta
 Volume IX Articles
- - 00. Contents Volume IX
- - 00. Introduction Volume IX
+ - Contents Volume IX
+ - Introduction Volume IX
  - 00. Apologetics
    - Humanist Manifesto III | [[https://americanhumanist.org/what-is-humanism/manifesto3/][Manifesto III]]
    - Universal Declaration of Human Rights [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][| wikipedia]]
