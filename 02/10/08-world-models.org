@@ -243,4 +243,6 @@ corporations in many of their internal structures.
   - Wikipedia, , /Consciousness explained --- Wikipedia, the
     free encyclopedia/ (2017).
     cite:wiki:2018consciousness-explained
-
+  - Nagel, T., What is it like to be a bat?, The
+    philosophical review, 83(4), 435–450 (1974).
+    cite:nagel:1974bat
