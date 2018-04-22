@@ -31,6 +31,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** TL;DR
+
+Basically this includes all economics
+
 ** Table of Contents
 
   - Creation & Ownership
