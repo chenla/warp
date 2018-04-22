@@ -33,9 +33,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
 
- - World View (human world model)
- - Global Workspace Theory
- - Externalized Machine-cognitive Worldviews
+ - 01 World View (human world model)
+ - 02 Global Workspace Theory
+ - 03 Externalized Machine-cognitive Worldviews
 
 ** TL;DR
 
@@ -100,17 +100,82 @@ feed them perceptual, mnemonic, and motivational signals.
 
 What I find exciting about workspace theory is that it not
 only gives us some empirical understanding of consciousness
-as a cognitive mechanism.  I would say that Daniel Dennet is
-correct that consciousness as most people 
+as a cognitive mechanism.  I would say that workspace theory
+fits will with Daniel Dennet's "multiple draft" model. 
 
+#+begin_quote
+Dennett puts forward a "multiple drafts" model of
+consciousness, suggesting that there is no single central
+place (a "Cartesian Theater") where conscious experience
+occurs; instead there are "various events of
+content-fixation occurring in various places at various
+times in the brain". The brain consists of a "bundle of
+semi-independent agencies"; when "content-fixation" takes
+place in one of these, its effects may propagate so that it
+leads to the utterance of one of the sentences that make up
+the story in which the central character is one's
+"self". Dennett's view of consciousness is that it is the
+apparently serial account for the brain's underlying
+parallelism.
 
+— cite:wiki:2018consciousness-explained
+#+end_quote
 
-The third part will explore how we can use graphs that
-connect recorded information to create a machine-cognitive
-worldview which is an analog to both a human/societal
-worldview and a global workspace that provides a contextual
-framework that  
+The third part will explore how we can use directed-graphs
+that connect recorded information to create a
+machine-cognitive worldview which is an analog to both a
+human/societal worldview and a global workspace that
+provides a contextual framework.  Put simply that our
+externalized recorded information that extends our memory
+and cognition can become an externalized worldview in it's
+ownright and that this has the potential of becoming a
+cornerstone of machine-cognition and human-machine
+interaction.
 
+At a larger societal level, organizations, for the first
+time will be able to maintain worldviews that are clearly
+defined and are independent of the members of that
+organization.  Groups and organizations from workgroups, to
+subcultures, to corporations and states have all had
+worldviews which existed on paper, and as a sort of a
+distributed hive-mind made up of the individuals mental
+model of that worldview in each of their brains.
+
+This will make it possible for externalized organizations
+such as corporations, who are legally persons in some
+states, to actually become at least semi-autonomous agents
+in their own right with lesser or greater ability to be
+self-directing within narrow ranges of tasks.  In effect it
+would constitute a kind of consciousness.  I would like to
+stress that these are not human-like intelligences.
+
+This is exactly the scienario that scares the living shit
+out of a lot of people.  But I would argue that Charles
+Stross got it right:
+
+#+begin_quote
+orporations are cannibals; they consume one another. They
+are also hive superorganisms, like bees or ants. For their
+first century and a half they relied entirely on human
+employees for their internal operation, although they are
+automating their business processes increasingly rapidly
+this century. Each human is only retained so long as they
+can perform their assigned tasks, and can be replaced with
+another human, much as the cells in our own bodies are
+functionally interchangeable (and a group of cells can, in
+extremis, often be replaced by a prosthesis). To some extent
+corporations can be trained to service the personal desires
+of their chief executives, but even CEOs can be dispensed
+with if their activities damage the corporation, as Harvey
+Weinstein found out a couple of months ago.
+
+Finally, our legal environment today has been tailored for
+the convenience of corporate persons, rather than human
+persons, to the point where our governments now mimic
+corporations in many of their internal structures.
+
+— cite:stross:2017dude
+#+end_quote
 
 
 ** References
@@ -137,10 +202,16 @@ framework that
   - Rothman, J., /Daniel dennett’s science of the soul: a
     philosopher’s lifelong quest to understand the making of
     the mind./ (2017).
-    cite:rothman:2017daniel-dennett
+    cite:rothman:2017daniel-dennett 
+  - Stross, C., /Dude, you broke the future!/ (2017).
+    cite:stross:2017dude
   - Wikipedia, , /Global workspace theory --- Wikipedia, the
     free encyclopedia/ (2018).
     cite:wiki:2018global-workspace-theory
   - Wikipedia, , /World view --- Wikipedia, the free
     encyclopedia/ (2018).
     cite:wiki:2018worldview
+  - Wikipedia, , /Consciousness explained --- Wikipedia, the
+    free encyclopedia/ (2017).
+    cite:wiki:2018consciousness-explained 
+
