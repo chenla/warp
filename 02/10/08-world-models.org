@@ -181,6 +181,11 @@ corporations in many of their internal structures.
 
 
 ** References
+  - Dehaene, S., & Changeux, J., Experimental and
+    theoretical approaches to conscious processing, Neuron,
+    70(2), 200–227 (2011).
+    http://dx.doi.org/10.1016/j.neuron.2011.03.018
+    cite:dehaene:2011experimental
   - Dehaene, S., /Signatures of consciousness--a talk by
     stanislas dehaene/ (2009).
     cite:dehaene2009signatures
