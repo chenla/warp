@@ -35,19 +35,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - 2.10.5 [[./05-succession-model.org][Succession Model]]
   - 2.10.6 [[./06-goldilocks.org][Goldilocks-Thresholds]]
   - 2.10.7 [[./07-hard-soft-wet.org][Hard Soft Wet]]
-
-  - 2.10.8 World Models
-    - World View (human world model)
-    - Blackboard
+  - 2.10.8 [[./08-world-models.org][World Models]]
 
 
-** References 
 
-  - Pinker, S., Enlightenment now: the case for reason,
-    science, humanism, and progress (2018), : Viking.
-    cite:pinker:2018enlightenment
-  - Dehaene, S., Towards a cognitive neuroscience of
-    consciousness: basic evidence and a workspace framework,
-    Cognition, 79(1-2), 1–37 (2001).
-    http://dx.doi.org/10.1016/s0010-0277(00)00123-2
-    cite:dehaene:2001framework
