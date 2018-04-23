@@ -37,6 +37,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+*** Limitations of FRBR/FRAD
+
 First, FRBR/FRAD are designed for third party organizations
 to establish bibliographic data of published information and
 establish relationships to the different forms those works
@@ -101,6 +103,8 @@ relationships between entities, and details attributes some
 of which are aspects of the entities and others that are
 parts of an entity.
 
+*** Generalizing the FRBR model
+
 So let's start with the basics -- the original bibliographic
 entity relationship model is abstract and universal enough
 to apply to a wide variety of different uses other than
@@ -111,6 +115,8 @@ equivenlant to more or less of a physical duplicate of a
 manifestation.  So a manifestation of a ebook, has an
 instance or copy of that manifestation which resides in a
 specific directory of a specific memory device.
+
+*** Transitional Entities
 
 We might even need to include a ghost entity for a buffer,
 which is a working copy that in volitile memory that is
@@ -167,6 +173,8 @@ A backup is simply another duplicate of an instance.
 So putting aside buffers we can apply the abstract model to
 create a broad range of what I call entity groups.
 
+*** Expanding FRBR authority and subject entities
+
 In FRBR persons, objects, events, concepts etc are all
 single entities.  In the model we are developing each of
 them will become an entity group which proceeds from
@@ -188,6 +196,9 @@ layers change at different times in its existance.  The
 entity that describes that building must take that into
 account and take periodic snapshots of the different
 incarnations the building goes through over time.
+
+*** The need for more than the entity model
+
 
 But we will need a different abstract model for describing
 the different shearing layers and their different rates of
@@ -234,6 +245,8 @@ it started, and this will likely be measured in decades, not
 years.  But once it's in place -- it will make a lot of
 things easy which are now difficult or at least impractible
 and in some cases impossible.
+
+*** Warding off another Metacrap
 
 I'm sure in the early days, there will be criticisms simular
 to Cory Doctorow's essay, Metacrap.  But many of the
