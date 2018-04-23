@@ -147,7 +147,8 @@ relationshiops.
 
 ** expanding thesaurus model to create linear threads
 
- - TT : top term alread exists
+Back in 2006 I proposed added the following new
+relationships:
 
  - NEXT : next in thread 
  - PREV : prev in thread
