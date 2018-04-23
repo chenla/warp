@@ -138,7 +138,7 @@ As a key-value pair:
 
 ** thesaurus relationships include whole/part relationships
 
-I was also tempted to add a sixth model for whole part
+I was tempted to add a sixth model for whole part
 relationships, but this is alread build into thesaurus
 relationshiops.
 
@@ -155,3 +155,28 @@ relationshiops.
 
 In fact, if you include multiple values for each, you could
 create a branching hypertext system.
+
+** Simplify and Combine
+
+Could you combine BT and NT with threads, LOD and ROC?
+After all both at moving up and down heirarchical
+structures.
+
+  - P   part
+  - I   instance
+  - N   next
+  - B   back
+  - L   lod
+  - R   roc
+
+BTN broader next
+NTN narrower next
+
+BTB broader back
+NTB narrower back 
+
+BTL broader LOD 
+NTL narrower LOD
+
+BTR broader ROC
+NTR narrower ROC  
