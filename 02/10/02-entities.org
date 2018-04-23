@@ -137,10 +137,16 @@ the changes after approach a different tipping point.
 
 In addition to the zones between state changes, there are
 also zones where something remains largely in the same state
--- this is called a goldilocks zone.
+-- this is called a goldilocks zone.  Big History combines
+the two types into a single /Goldilocks Threshold/
 
-It's imporant to include this as transcient entities in the
-model.
+It's important that these become part of the model because
+no two snapshots can be exactly the same because they were
+each taken from different POVs, LOD and from the perspective
+of a different ROC layer.  A snapshot of a living person
+taken from the Fashion layer will be very different from
+that taken from the cultural layer where that person will be
+seen at a low LOD.
 
 So our bare bones abstract model for anything:
 
