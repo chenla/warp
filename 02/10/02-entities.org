@@ -46,7 +46,7 @@ bodies, objects, events, concepts and places.
  - Work
    - Expression
      - Manifestation
-       - Instance
+       - Item
 
  - person
  - family
@@ -78,3 +78,44 @@ except whatever mortal remains still exist in his grave.  So
 the metadata we have about him is as close and you can get
 to him -- everything recorded or written about him or by him
 are external and from different POVs and LODs.
+
+There are many use cases we need to cover that FRBR/FRAD
+doesn't need to deal with.  Concepts, Events, and Objects
+are little more than what is needed to establish subject
+headings and ensure that they don't overlap and when they
+do, that you can establish a relationship between the two
+subject headings in different schemes relative to each
+other.
+
+So let's start with the basics -- the original bibliographic
+entity relationship model is abstract and universal enough
+to apply to a wide variety of different uses other than
+bibliographic records with two small exceptions, by
+generalizing the /work/ entity as a concept, and the /item/
+entity as an "instance" which should be functionally
+equivenlant to more or less of a physical duplicate of a
+manifestation.  So a manifestation of a ebook, has an
+instance or copy of that manifestation which resides in a
+specific directory of a specific memory device.
+
+We might even need to include a ghost entity for a buffer,
+which is a working copy that in volitile memory that is
+being modified.  When that is saved, it becomes an instance
+of a manifestation, or a manifestation of an expression, but
+until then it is a transcient ghost duplicate working
+copy. Buffers are very useful concepts that bridge the gap
+between something that is in the process of becoming
+something else.
+
+So our bare bones abstract model for anything:
+
+  - [buffer] -> concept ->
+    - buffer -> concept -> 
+      - expression -> buffer ->
+      - new expression -> buffer ->
+      - manifestation -> buffer ->
+        version 2 of manifestation -> process 
+                             (copy, or manufacture) -> 
+        - instance
+
+
