@@ -30,8 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
 ** Table of Contents
 
 - What is an ontology?
@@ -49,4 +47,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Previous
     - Next
 - Relationships and Graphs
+
+** TL;DR
   
