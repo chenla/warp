@@ -152,6 +152,35 @@ a concrete design or implementation of an object to an
 instance or copy of that design that has an owner a maker
 (even it it's a process) and a location.
 
+Each entity in the heirarchy describes a snapshot of a
+variation that has gone through the process of one entity
+becoming another entity.
 
+For example, people and places are very different things are
+different times in their existence.  A person as an infant
+is a very different thing from that same person as a 19 year
+old college freshman.  A building will go through many
+different incarnations over time as different shearing
+layers change at different times in its existance.  The
+entity that describes that building must take that into
+account and take periodic snapshots of the different
+incarnations the building goes through over time.
 
+But we will need a different abstract model for describing
+the different shearing layers and their different rates of
+change.
+
+In the same way, how we represent that build depends on how
+close or far away we are from that building.  So we need a
+model that make it possible to create different snapshots of
+the building at different LODs.
+
+Next we will need a fourth model that represent the
+different stages that something passes through over time.
+For a person, there are different developmental stages of a
+person's lifetime.  The same goes for a company, which might
+start as a two man startup in a garage and then grow into a
+funded company in a small office, and so on through
+different stages of it's development to becoming an Apple or
+Google.  We call this a /succession stage model/.
 
