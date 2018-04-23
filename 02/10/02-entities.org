@@ -33,9 +33,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Table of Contents
  - What is an Entity Model
  - FRBR
+ - FRAD
 
- - Concept
- - Expression
- - Manifestation
- - Instance
 ** TL;DR
+
+
+ - Work
+   - Expression
+     - Manifestation
+       - Instance
+
+ - person
+ - family
+ - corporate body
+
+ - object
+ - event
+ - concept
+ - place
