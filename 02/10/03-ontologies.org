@@ -169,23 +169,24 @@ structures.
   - B   back
   - L   lod
   - R   roc
-  - E   entity
+  - E   entity 
 
 
-BTN broader next
-NTN narrower next
-
-BTB broader back
-NTB narrower back 
-
-BTL broader LOD 
-NTL narrower LOD
-
-BTR broader ROC
-NTR narrower ROC  
-
-BTE broader Entity
-NTE narrower Entity
+  - NEXT
+    - BTN broader next
+    - NTN narrower next
+  - BACK (Prev)
+    - BTB broader back
+    - NTB narrower back 
+  - LOD
+    - BTL broader LOD 
+    - NTL narrower LOD
+  - ROC
+    - BTR broader ROC
+    - NTR narrower ROC  
+  - ENTITY
+    - BTE broader Entity
+    - NTE narrower Entity
 
 This is actually better than what I had before because it
 can create far richer structures that can move not just in a
