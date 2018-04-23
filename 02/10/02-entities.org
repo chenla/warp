@@ -196,9 +196,13 @@ change.
 In the same way, how we represent that build depends on how
 close or far away we are from that building.  So we need a
 model that make it possible to create different snapshots of
-the building at different LODs.
+the building at different LODs.  This is important because
+the faster pace-layer will be changing faster than the
+slower pace-layer and different snapshots will be taken at
+slightly different stages of a person's life, from different
+perspectives and some for close up and others far away.
 
-Next we will need a fourth model that represent the
+The will need a fourth model that represent the
 different stages that something passes through over time.
 For a person, there are different developmental stages of a
 person's lifetime.  The same goes for a company, which might
@@ -207,3 +211,49 @@ funded company in a small office, and so on through
 different stages of it's development to becoming an Apple or
 Google.  We call this a /succession stage model/.
 
+  - entity model
+  - level of detail model
+  - rate of change model
+  - developmental stage model 
+  - succession stage model (development stages)
+  - process of change model (stability ranges and
+    state-change thresholds)
+
+These sic POV models provide a solid framework for
+understanding the world around us.  At this point I am sure
+that many people reading this will be thinking that it will
+be impossible to realize all six models for everything.  And
+that is correct.  Different things will be primarily
+understood from the POV of one or two of these models at most.
+
+But the enitity model will be where most metadata will be
+included that will be referenced by all the other models.
+There is no question that it will take a lot of initial work
+to get this larger scheme large enough to reach a theshold
+where the advantages will outweigh the initial work to get
+it started, and this will likely be measured in decades, not
+years.  But once it's in place -- it will make a lot of
+things easy which are now difficult or at least impractible
+and in some cases impossible.
+
+I'm sure in the early days, there will be criticisms simular
+to Cory Doctorow's essay, Metacrap.  But many of the
+assumptions Doctorow made in the essay were based on the
+assumption that metadata would be collected and composed the
+way that library catalog bibliographic records were created
+in the past.  The world today runs more on metadata, than
+the data it describes, otherwise we would not have the
+concept of Big Data that is in large part responsible for
+approaching a tippin-point which will trigger 
+revolution in Artificial Intelligence in the coming
+decades.
+
+There is no way of knowing how these six models will be
+implemented twenty years from now.  That's why they are
+included here in a work about first principles.  Our clumsy
+first drafts at implementing these models will seem
+laughably naive and simplistic in the years to come.
+However they provide a good starting point that will
+increase the usefulness of machine and human understandable
+metadata by orders of magnitude no matter how they are
+implemented in the near or distant future.
