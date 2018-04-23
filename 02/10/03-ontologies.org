@@ -159,18 +159,21 @@ create a branching hypertext system.
 
 ** Simplify and Combine
 
-Could you combine BT and NT with threads, LOD and ROC?
+Could you combine BT and NT with threads, LOD and ROC etc.
 After all both at moving up and down heirarchical
-structures.
+structures.  This would give us one system for defining
+Burrs in all five POV models.
 
-  - P   part
-  - I   instance
+  - P   partitive
+  - I   instantive
   - N   next
   - B   back
-  - L   lod
-  - R   roc
+  - L   lod     (complexity layers)
+  - R   roc     (pace-layers)
   - E   entity 
+  - S   stage   (succession stages)
 
+---
 
   - NEXT
     - BTN broader next
@@ -187,6 +190,9 @@ structures.
   - ENTITY
     - BTE broader Entity
     - NTE narrower Entity
+  - STAGE
+    - BTS broader Stage
+    - NTS narrower Stage
 
 This is actually better than what I had before because it
 can create far richer structures that can move not just in a
