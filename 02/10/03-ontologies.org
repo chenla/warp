@@ -168,6 +168,8 @@ structures.
   - B   back
   - L   lod
   - R   roc
+  - E   entity
+
 
 BTN broader next
 NTN narrower next
@@ -180,3 +182,10 @@ NTL narrower LOD
 
 BTR broader ROC
 NTR narrower ROC  
+
+BTE broader Entity
+NTE narrower Entity
+
+This is actually better than what I had before because it
+can create far richer structures that can move not just in a
+linear way within models but up and down trees.
