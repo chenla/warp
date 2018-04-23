@@ -158,8 +158,14 @@ relationships:
    #+STAGE:   VAL=civ:tools  NT=civ:clockwork,  
    #+LOD:     VAL=lod:min
    #+ENTITY:  VAL=exp:Christmas_Carol--novela RT=exp:Christmas_Carol--play
+
+Do we want to use entities as tspaces?  I suppose there is
+no reason why any burr can't belong to multiple tspaces so
+long as they are unique to that tspace.
     
 This gives us a relatively compact way of setting a number
 of values for each type of model that allows us to create
-some very interesting structures that 
+some very interesting structures.
+
+
 
