@@ -154,7 +154,7 @@ partitive.
 Use VAL to set the  value for the burr and then a list of
 relationships:
 
-   #+LAYER:   VAL=civ:culure BT=civ:governance
+   #+LAYER:   VAL=civ:culture BT=civ:governance
    #+STAGE:   VAL=civ:tools  NT=civ:clockwork 
    #+LOD:     VAL=lod:min
    #+ENTITY:  VAL=exp:Christmas_Carol--novela RT=exp:Christmas_Carol--play
