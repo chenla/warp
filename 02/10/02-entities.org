@@ -214,12 +214,11 @@ Google.  We call this a /succession stage model/.
   - entity model
   - level of detail model
   - rate of change model
-  - developmental stage model 
   - succession stage model (development stages)
   - process of change model (stability ranges and
     state-change thresholds)
 
-These sic POV models provide a solid framework for
+These five POV models provide a solid framework for
 understanding the world around us.  At this point I am sure
 that many people reading this will be thinking that it will
 be impossible to realize all six models for everything.  And
