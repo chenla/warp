@@ -122,8 +122,25 @@ between something that is in the process of becoming
 something else. Then there are processes, which are either
 software that converts a file from one format to another, or
 a physical production process that combines parts or
-fabricates things that become an entity.  It's imporant to
-include this as transcient entities in the model.
+fabricates things that become an entity.  
+
+We will need a finer grained model for these transitional or
+transcient entities.  Since everything is always in the
+process of becoming something else, and each step is a
+slight variation from its previous incarnation until a
+tipping point is reached which triggers a cascade of change
+which results in a state-change -- when one thing transforms
+into another.  So there is a zone or range of variations
+that come before a state change and then after a state
+change.  The zone before approaches the tipping point, and
+the changes after approach a different tipping point.  
+
+In addition to the zones between state changes, there are
+also zones where something remains largely in the same state
+-- this is called a goldilocks zone.
+
+It's imporant to include this as transcient entities in the
+model.
 
 So our bare bones abstract model for anything:
 
