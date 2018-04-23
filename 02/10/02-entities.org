@@ -37,6 +37,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+First, FRBR/FRAD are designed for third party organizations
+to establish bibliographic data of published information and
+establish relationships to the different forms those works
+take and place them in context with people, corporate
+bodies, objects, events, concepts and places.
 
  - Work
    - Expression
