@@ -134,5 +134,24 @@ As a key-value pair:
 
   #+BT: per:charles_dickens--19c_novelist
 
-  BT: Charles Dickens (19c_novelist)  | Person tspace 
+  BT: Charles Dickens (19c_novelist)  | Person tspace
 
+** thesaurus relationships include whole/part relationships
+
+I was also tempted to add a sixth model for whole part
+relationships, but this is alread build into thesaurus
+relationshiops.
+
+ - BTI, NTI : Instantive
+ - BTP, NTP : Partitive
+
+** expanding thesaurus model to create linear threads
+
+ - TT : top term alread exists
+
+ - NEXT : next in thread 
+ - PREV : prev in thread
+ - UP   : up to parent level
+
+In fact, if you include multiple values for each, you could
+create a branching hypertext system.
