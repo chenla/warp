@@ -101,3 +101,27 @@ where the structure is mature enough to start making these
 tools.  Before the structure was too fluid and changing too
 often to justify making the tools. 
 
+** Keeping the five POV models straight
+
+ - entity
+ - succession
+ - LOD
+ - ROC
+ - POC
+
+Thinking about this more I don't think we need to go outside
+of the Entity model to include the other models.  All
+metadata will be within the entity model, so Succession,
+LOD, ROC and POC will be incorporated into it.
+
+In many cases it will simply including a link to which
+Pace-Layer or LOD that a burr belongs to.
+
+Perhaps they could be combined as well, we need to have
+namespaces for each model no matter what it is, so adding
+the prefix and then point to the link is not difficult.  It
+would be great to be able to do multiple ones at the same
+time.
+
+So you pull up a helm list, a choose items and they get
+added to the property box at point.
