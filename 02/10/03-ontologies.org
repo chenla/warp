@@ -132,5 +132,7 @@ As a key-value pair:
 
   :bt: per:charles_dickens--19c_novelist
 
-   BT: Charles Dickens (19c_novelist)  | Person tspace 
+  #+BT: per:charles_dickens--19c_novelist
+
+  BT: Charles Dickens (19c_novelist)  | Person tspace 
 
