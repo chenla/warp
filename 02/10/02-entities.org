@@ -56,3 +56,25 @@ bodies, objects, events, concepts and places.
  - event
  - concept
  - place
+
+Out goal here is to establish a conceptual model that can be
+used for creating externalized world models.  We are trying
+to create maps of the world.  So the scope is much broader,
+but it also must be far more flexible.  After banging my
+head against the wall on this for about 20 years, it's clear
+that there way that a detailed model can be constructed that
+will even remotely do the job -- so we need a framework that
+anyone can use to create their own entity groups and ensure
+that any group created by anyone can be interoperable or at
+least map to any other group that is describing the same
+things.
+
+Second, our goals is that these are not external records
+about external things -- meta data -- literally data that
+describes data, objects, people etc.  But that there is no
+functional difference in many context between them.  Our
+metadata for Charles Dickens is all that is left of the man
+except whatever mortal remains still exist in his grave.  So
+the metadata we have about him is as close and you can get
+to him -- everything recorded or written about him or by him
+are external and from different POVs and LODs.
