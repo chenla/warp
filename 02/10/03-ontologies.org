@@ -136,87 +136,30 @@ As a key-value pair:
 
   BT: Charles Dickens (19c_novelist)  | Person tspace
 
-** thesaurus relationships include whole/part relationships
-
-I was tempted to add a sixth model for whole part
-relationships, but this is alread build into thesaurus
-relationshiops.
+** whole/part relationships
 
  - BTI, NTI : Instantive
  - BTP, NTP : Partitive
 
-** expanding thesaurus model to create linear threads
+** next/prev reltionships
 
-Back in 2006 I proposed added the following new
-relationships:
+ - BTF, NTF : forward
+ - BTB, BTB : back (previous) 
 
- - NEXT : next in thread 
- - PREV : prev in thread
- - UP   : up to parent level
-
-In fact, if you include multiple values for each, you could
-create a branching hypertext system.
-
-** Simplify and Combine
-
-Could you combine BT and NT with threads, LOD and ROC etc.
-After all both at moving up and down heirarchical
-structures.  This would give us one system for defining
-Burrs in all five POV models.
-
-  - P   partitive
-  - I   instantive
-  - N   next
-  - B   back
-  - L   lod     (complexity layers)
-  - R   roc     (pace-layers)
-  - E   entity 
-  - S   stage   (succession stages)
-
----
-
-  - NEXT
-    - BTN broader next
-    - NTN narrower next
-  - BACK (Prev)
-    - BTB broader back
-    - NTB narrower back 
-  - LOD
-    - BTL broader LOD 
-    - NTL narrower LOD
-  - ROC
-    - BTR broader ROC
-    - NTR narrower ROC  
-  - ENTITY
-    - BTE broader Entity
-    - NTE narrower Entity
-  - STAGE
-    - BTS broader Stage
-    - NTS narrower Stage
-
-This is actually better than what I had before because it
-can create far richer structures that can move not just in a
-linear way within models but up and down trees.
+I prefer Next and Previous but we're already using P for
+partitive.
 
 ** How to reduce verbosity in file headers?
 
-If each of these takes up a line, and can accept multiple
-values it could take up a lot of space in the file header.
-This is awfully verbose:
+Use VAL to set the  value for the burr and then a list of
+relationships:
 
-   #+STAGE:   civ:clockwork
-   #+BTS:     civ:clockwork-electric
-   #+NTS:     civ:tools 
-
-Perhaps we use the PT (Prefered Term) to set the value and
-then include all other items in that model as key-value
-list? Or simply use val= for value.  Let's look at both:
-
-   #+LAYER:   PT=civ:culure BT=civ:governance
-   #+STAGE:   PT=civ:tools  NT=civ:clockwork,  
-   #+LOD:     val=lod:min
-   #+ENTITY:  val=exp:Christmas_Carol--novela RT=exp:Christmas_Carol--play
+   #+LAYER:   VAL=civ:culure BT=civ:governance
+   #+STAGE:   VAL=civ:tools  NT=civ:clockwork,  
+   #+LOD:     VAL=lod:min
+   #+ENTITY:  VAL=exp:Christmas_Carol--novela RT=exp:Christmas_Carol--play
     
-
-The last example would include entity types as name spaces.
+This gives us a relatively compact way of setting a number
+of values for each type of model that allows us to create
+some very interesting structures that 
 
