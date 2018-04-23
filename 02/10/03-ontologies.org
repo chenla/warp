@@ -197,3 +197,25 @@ Burrs in all five POV models.
 This is actually better than what I had before because it
 can create far richer structures that can move not just in a
 linear way within models but up and down trees.
+
+** How to reduce verbosity in file headers?
+
+If each of these takes up a line, and can accept multiple
+values it could take up a lot of space in the file header.
+This is awfully verbose:
+
+   #+STAGE:   civ:clockwork
+   #+BTS:     civ:clockwork-electric
+   #+NTS:     civ:tools 
+
+Perhaps we use the PT (Prefered Term) to set the value and
+then include all other items in that model as key-value list?
+
+   #+LAYER:   PT=civ:culure BT=civ:governance
+   #+STAGE:   PT=civ:tools  NT=civ:clockwork,  
+   #+LOD:     PT=lod:min
+   #+ENTITY:  PT=exp:Christmas_Carol--novela RT=exp:Christmas_Carol-play
+    
+
+The last example would include entity types as name spaces.
+
