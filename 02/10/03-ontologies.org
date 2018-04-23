@@ -209,12 +209,13 @@ This is awfully verbose:
    #+NTS:     civ:tools 
 
 Perhaps we use the PT (Prefered Term) to set the value and
-then include all other items in that model as key-value list?
+then include all other items in that model as key-value
+list? Or simply use val= for value.  Let's look at both:
 
    #+LAYER:   PT=civ:culure BT=civ:governance
    #+STAGE:   PT=civ:tools  NT=civ:clockwork,  
-   #+LOD:     PT=lod:min
-   #+ENTITY:  PT=exp:Christmas_Carol--novela RT=exp:Christmas_Carol-play
+   #+LOD:     val=lod:min
+   #+ENTITY:  val=exp:Christmas_Carol--novela RT=exp:Christmas_Carol--play
     
 
 The last example would include entity types as name spaces.
