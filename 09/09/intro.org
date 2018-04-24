@@ -1,0 +1,43 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Volume IX Articles Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]]
+
+
+* Volume IX Articles Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/09/09/intro.org
+:Created:  2018-04-24T10:14@Prek Leap (11.642600N-104.919210W)
+:ID:       c2803cbe-e131-42de-a794-0a8c3ef35495
+:VER:      577811710.843989301
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:HUB3-7112
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+
+
+
+** References
+
+  - Humanist Manifesto III | [[https://americanhumanist.org/what-is-humanism/manifesto3/][Manifesto III]]
+  - Universal Declaration of Human Rights [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][| wikipedia]]
+
+

@@ -30,8 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
  -[[./09/index.org][ Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
  - 00. Apologetics
-   - Humanist Manifesto III | [[https://americanhumanist.org/what-is-humanism/manifesto3/][Manifesto III]]
-   - Universal Declaration of Human Rights [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][| wikipedia]]
  - 00. Declaration
  - 00. Rights
  - 00. Duties
