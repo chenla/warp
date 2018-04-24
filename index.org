@@ -95,7 +95,7 @@ Volume VI Implementation
  - 40. [[./06/ww-roadmap.org][Roadmap]]
 Volume VII Origins
  - [[./07/index.org][Contents Volume VII]]
- - [[./07/ww-intro-vol-7.org][Introduction Volume VII]]
+ - [[./07/intro.org][Introduction Volume VII]]
  - 00. Big History 
  - 00. Cosmos
  - 00. Earth & Solar System
