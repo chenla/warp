@@ -1,0 +1,39 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   Volume IX Articles  TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] 
+
+* Volume IX Articles Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/09/index.org
+:Created:  2018-04-24T10:11@Prek Leap (11.642600N-104.919210W)
+:ID:       8febaae7-fc6b-419c-ba8d-ad9c98560779
+:VER:      577811533.208022407
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:ANX3-6584
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+ -[[./09/index.org][ Contents Volume IX]]
+ - [[./09/intro.org][Introduction Volume IX]]
+ - 00. Apologetics
+   - Humanist Manifesto III | [[https://americanhumanist.org/what-is-humanism/manifesto3/][Manifesto III]]
+   - Universal Declaration of Human Rights [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][| wikipedia]]
+ - 00. Declaration
+ - 00. Rights
+ - 00. Duties
+ - 00. Constitution
+ - 00. Statutes
