@@ -37,7 +37,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-  - Humanist Manifesto III | [[https://americanhumanist.org/what-is-humanism/manifesto3/][Manifesto III]]
-  - Universal Declaration of Human Rights [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][| wikipedia]]
-
-
+  - American Humanist Association, /Humanism and its aspirations: humanist
+    manifesto iii./ (2003).
+    cite:aha:2003humanism
+  - United Nations, Universal declaration of human rights, UN General
+    Assembly, (), (1948).
+    cite:un:1948udhr
+  - Wikipedia, /Universal declaration of human rights --- Wikipedia,
+    the free encyclopedia/ (2018).
+    cite:wiki:2018universal-declaration
