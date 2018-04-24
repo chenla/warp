@@ -37,8 +37,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
+  - Crofton, I., & Black, J., The little book of big history
+    (2017), : Pegasus Books.
+    cite:crofton:2017little 
   - Grafton, A., & Rosenberg, D., Cartographies of time: a
     history of the timeline (2010), : Princeton
     Architectural Press.
     cite:graphton:2010cartographies-time
-
+  - Langmuir, C. H., & Broecker, W., How to build a habitable
+    planet: the story of earth from the big bang to humankind
+    (2012), : Princeton University Press.
+    cite:broecker:2012how
+  - Big History Project, /Big History Project Teaching Guide/ (2017).
+    cite:project:2017bhp-teaching 
+  - Big History Project, /Big History Project Reading Guide/ (2017).
+    cite:project:2017bhp-reading 
+  - Big History Project, /Big History Project Writing Guide/ (2017).
+    cite:project:2017bhp-writing 
+  - Big History Project, /Big History Project/ (2017).
+    cite:big:2017big-history-project
+  - Wikipedia, , /Big history project --- wikipedia, the free
+    encyclopedia/ (2017).
+    cite:wiki:2017big-history-project 
