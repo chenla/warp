@@ -169,3 +169,8 @@ some very interesting structures.
 
 
 
+** References
+
+  - IFLA, , Functional requirements of authority data: a
+    conceptual model, , (), (2008).
+    cite:murtomaa:2008functional
