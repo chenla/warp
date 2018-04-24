@@ -32,7 +32,22 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+*** Start from where you are, now rewind
 
+Rather than jumping straight in to our primary goal of
+understanding cultural human origin stories, let's start not
+with mythological origin stories but the more recent idea of
+origin story as a back-story revealing how a character,
+often a superhero or group of people become a protagonist or
+antagonist in a narratives and especially in series of
+stories that might be in comic books, like Spiderman, a
+series of novels such as the Sherlock Holmes series, a
+television series like Star Trek or the Harry Potter book
+and film series.
+
+*** Pourquoi
+
+https://en.wikipedia.org/wiki/Pourquoi_story
 
 ** References
 
