@@ -37,17 +37,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-  - Crofton, I., & Black, J., The little book of big history
-    (2017), : Pegasus Books.
-    cite:crofton:2017little 
-  - Grafton, A., & Rosenberg, D., Cartographies of time: a
-    history of the timeline (2010), : Princeton
-    Architectural Press.
-    cite:graphton:2010cartographies-time
-  - Langmuir, C. H., & Broecker, W., How to build a habitable
-    planet: the story of earth from the big bang to humankind
-    (2012), : Princeton University Press.
-    cite:broecker:2012how
   - Big History Project, /Big History Project Teaching Guide/ (2017).
     cite:project:2017bhp-teaching 
   - Big History Project, /Big History Project Reading Guide/ (2017).
@@ -56,6 +45,40 @@ bibliography:~/proj/chenla/hoard/bib.bib
     cite:project:2017bhp-writing 
   - Big History Project, /Big History Project/ (2017).
     cite:big:2017big-history-project
+  - Bronowski, J., The ascent of man (2011), : BBC Digital.
+    cite:bronowski:2011ascent
+  - Bryson, B., A short history of nearly everything
+    (2003), : Broadway Books.
+    cite:bryson:2003short
+  - Christian, D., /The history of our world in 18 minutes |
+    david christian/ (2011).
+    cite:ted:2011:history-david-christian
+  - Crofton, I., & Black, J., The little book of big history
+    (2017), : Pegasus Books.
+    cite:crofton:2017little
+  - Grafton, A., & Rosenberg, D., Cartographies of time: a
+    history of the timeline (2010), : Princeton
+    Architectural Press.
+    cite:graphton:2010cartographies-time
+  - Harari, Y., Sapiens: a brief history of humankind
+    (2011), : Harper.
+    cite:harari:2011sapiens
+  - Hawking, S., A brief history of time (1998), : Bantam Press.
+    cite:hawking:1988brief,hawking:1998brief
+  - Langmuir, C. H., & Broecker, W., How to build a habitable
+    planet: the story of earth from the big bang to humankind
+    (2012), : Princeton University Press.
+    cite:broecker:2012how
+  - Sagan, C., Cosmos (1985), : Ballantine Books.
+    cite:sagan:1985cosmos 
   - Wikipedia, , /Big history project --- wikipedia, the free
     encyclopedia/ (2017).
-    cite:wiki:2017big-history-project 
+    cite:wiki:2017big-history-project
+  - Wikipedia, , /Cosmic calendar --- wikipedia, the free
+    encyclopedia/ (2017). 
+    cite:wiki:2017cosmic-calendar
+  - Wilber, K., A brief history of everything (2001), : Shambhala. 
+    [Revised Edition]
+    cite:wilbur:2001brief,wilbur:1996brief
+  - Urban, T., /Putting time in perspective – updated/ (2013).
+    cite:urban:2013putting-time
