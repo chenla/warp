@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   8. Volume VIII  TOC
+#+TITLE:   8. Volume VIII Curriculum TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]]
 
-* 8. Volume VIII Table of Contents
+* 8. Volume VIII Curriculum Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/08/index.org
@@ -27,5 +27,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+ - 00. Curriculum
+   - Lifetime learning -> build your hoard
+   - Context
+   - Trivium
+   - Quadrivium
+   - Laurea
+     - Laurea Magister
+     - Laurea Practicum 
+   - Practicum -> Techne
+ - 00. Trivium Introduction
+ - 00. Grammar
+ - 00. Logic
+ - 00. Rhetoric
+ - 00. Quadrivium Introduction
+ - 00. Mimesis
+ - 00. Rhizomata
+ - 00. Systema
+ - 00. Transacta
 
 
