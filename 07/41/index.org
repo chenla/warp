@@ -27,17 +27,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
    - Table of Contents
-   - 00 [[./intro.org][Introduction]] 
+   - 7.41.1 [[./intro.org][Introduction]] 
    - 00. The Human Story -> a human origin story
-   - 00. History         -> interdisciplinary science-based
-                        history of everything
+   - 00. History         -> interdisciplinary science-based history
    - 00. Representing Time
    - 00. Rabbit Hole     -> doorway to in-depth exploration and study
-   - 00. Scaffold        -> as LOD framework for organizing all
-                        knowledge -- part of an ARC GUI
+   - 00. Scaffold        -> as LOD framework for all knowledge 
    - 00. Goldilocks Thresholds
-
-
 
