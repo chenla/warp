@@ -123,14 +123,14 @@ Volume VIII Curriculum
  - 00. Systema
  - 00. Transacta
 Volume IX Articles
- - Contents Volume IX
- - Introduction Volume IX
+ -[[./09/index.org][ Contents Volume IX]]
+ - [[./09/intro.org][Introduction Volume IX]]
  - 00. Apologetics
    - Humanist Manifesto III | [[https://americanhumanist.org/what-is-humanism/manifesto3/][Manifesto III]]
    - Universal Declaration of Human Rights [[https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights][| wikipedia]]
  - 00. Declaration
  - 00. Rights
- - 00. Obligations
+ - 00. Duties
  - 00. Constitution
  - 00. Statutes
 Volume X
