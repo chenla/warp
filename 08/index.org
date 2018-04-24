@@ -28,6 +28,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
  - 00. Curriculum
+   - Contents Volume VIII
+   - [[./intro.org][Introduction Volume VIII]]
    - Lifetime learning -> build your hoard
    - Context
    - Trivium
