@@ -171,6 +171,15 @@ some very interesting structures.
 
 ** References
 
+  - NISO, , & ANSI, , /Niso z39. 19-2005 guidelines for the
+    construction, format, and management of monolingual
+    controlled vocabularies/ (2010).
+    cite:ansi:2010ansi-z39.19
   - IFLA, , Functional requirements of authority data: a
     conceptual model, , (), (2008).
-    cite:murtomaa:2008functional
+    cite:ifla:2008frad
+  - IFLA, , Functional requirements for bibliographic
+    records: final report, , (), (1997). 
+    cite:ifla:1997frbr
+
+
