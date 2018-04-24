@@ -102,8 +102,8 @@ Volume VII Origins
  - 00. Life
  - 00. Mankind
 Volume VIII Curriculum
- - Contents Volume VIII
- - Introduction Volume VIII
+ - [[./08/index.org][Contents Volume VIII]]
+ - [[./08/intro.org][Introduction Volume VIII]]
  - 00. Curriculum
    - Lifetime learning -> build your hoard
    - Context
