@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume VII: Origins
+#+TITLE: 7.1.1 Introduction Volume VII: Origins
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,10 +13,9 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../index.org][top]]]
 
-
-* Introduction Volume VII: Origins
+* 7.1.1 Introduction Volume VII: Origins
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/07/intro.org

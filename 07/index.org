@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - 00. Contents Volume VII
  - 00. [[./intro.org][Introduction Volume VII]]
- - 00. Big History
+ - 00. [[./41/index.org][Big History]]
    - The Human Story -> a human origin story
    - History         -> interdisciplinary science-based
                         history of everything

@@ -1,0 +1,43 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   7.41 Big History  TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+* 7.41 Big History Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/07/41/index.org
+:Created:  2018-04-24T11:52@Prek Leap (11.642600N-104.919210W)
+:ID:       84b7e21f-8060-49fa-a8ea-502c86555924
+:VER:      577817614.658258601
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:GLW1-1616
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+   - Table of Contents
+   - 00 [[./intro.org][Introduction]] 
+   - 00. The Human Story -> a human origin story
+   - 00. History         -> interdisciplinary science-based
+                        history of everything
+   - 00. Representing Time
+   - 00. Rabbit Hole     -> doorway to in-depth exploration and study
+   - 00. Scaffold        -> as LOD framework for organizing all
+                        knowledge -- part of an ARC GUI
+   - 00. Goldilocks Thresholds
+
+
+
