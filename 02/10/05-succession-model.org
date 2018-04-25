@@ -66,13 +66,11 @@ events.
 
    - Complexity Thresholds
    - Phase transitions SEE: chapter 7 cite:arbesman:2012half-life
-     - Copernican & Darwinian   
-     - https://en.wikipedia.org/wiki/Ising_model
+     - Copernican & Darwinian
+     - Ising Model
+       - https://en.wikipedia.org/wiki/Ising_model
      - self-organized criticality
-       http://gen.lib.rus.ec/search.php?req=How+nature+works%3A+the+science+of+self-organized+criticality&open=0&res=25&view=simple&phrase=1&column=def
-       https://scholar.google.com/scholar?hl=en&as_sdt=0,5&lookup=0&q=per+bak,+chao+tang,+kurt+wiesenfeld
-
- - Reversibility
+   - Reversibility
    - upgrade & degrade
  - Keystones
    - species
