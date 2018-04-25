@@ -63,3 +63,11 @@ history if we take the time to learn to read it.
   - Behmand, M., Burke, T., & Simon, R. B., Teaching big history
     (2015), : University of California Press.
     cite:behmand:2015teaching
+  - Olson, C., The special view of history edited with an introduction
+    by ann charters (1970), : Berkeley CA: Oyez.
+    cite:olson:1970special
+  - Olson, C., On History, Olson: the Journal of the Charles Olson
+    Archives, 4(), 40–46 (1975).
+    cite:olson:1975on-history
+
+
