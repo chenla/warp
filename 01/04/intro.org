@@ -30,7 +30,66 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Epigraph
+
+#+begin_quote
+"Man is estranged from that with which he is most familiar."
+
+— Heraclitus
+  as quoted in epigraph in Charles Olson's Special View of
+  History (1956)
+#+end_quote
+
 ** TL;DR
+
+I once heard a pourquoi attributed to some Natve-American
+tribe which I can't track down that described the origin
+story of Dog.  That originally man was one with all the
+animals.  And then one day, the earth cracked and began to
+break in two, with man on one side and all the other animals
+on the other.  And as the rift grew between the two, at the
+very last moment, Dog jumped over and stood beside man.
+
+That splt was framed as SPACE in all of it's manifestations.
+As physical distance, as time, and the difference between
+worldviews held by different people and cultures.  But most
+of all, space is nature, what the Mongolians speak of as the
+great blue sky, which encompassed the complete enormity of
+the cosmos, under which all of us lived.  Even the different
+religions were all considered on their own merits and
+embrased as individuals saw fit.  There was no conflict in
+this, because all religions too, were subsets of the Eternal 
+Blue Sky,
+
+#+begin_quote
+[Genghis Kahn] created an international law and recognized
+the ultimate supreme law of the Eternal Blue Sky over all
+people.
+
+For the Mongols, the one God was the Eternal Blue Sky that
+stretched from horizon to horizon in all four
+directions. God presided over the whole earth; he could not
+be cooped up in a house of stone like a prisoner or a caged
+animal, nor, as the city people claimed, could his words be
+captured and confined inside the covers of a book.
+
+They worshiped the Eternal Blue Sky, the Golden Light of the
+Sun, and the myriad spiritual forces of nature. The Mongols
+divided the natural world into two parts, the earth and the
+sky. Just as the human soul was contained not in the
+stationary parts of the body but in the moving essences of
+blood, breath, and aroma, so, too, the soul of the earth was
+contained in its moving water. The rivers flowed through the
+earth like the blood through the body...
+
+The Mongols continued, by a different means, to pursue their
+compulsive goal of uniting all people under the Eternal Blue
+Sky.
+
+— cite:weatherford:2005genghis-khan
+#+end_quote
+
+
 
 Olson wrote of Ahab in Moby-Dick:
 
@@ -434,6 +493,13 @@ I need more feedback to make sure I'm on track.
 
 
 ** References
+
+Mongols
+
+   - Weatherford, J., Genghis khan and the making of the
+     modern world (2005), : Broadway Books.
+     cite:weatherford:2005genghis-khan
+
 
 Enlightenment
 
