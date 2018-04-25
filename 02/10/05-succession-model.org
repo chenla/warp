@@ -61,6 +61,7 @@ events.
    - Number of Niche/Specialties determine complexity
    - Niches and specialities can be divided or consolidated.
    - Number of niches is determined by size of territory 
+ - Complexity Thresholds
  - Reversibility
    - upgrade & degrade
  - Keystones
@@ -84,6 +85,39 @@ events.
    for beginners, and then move down to progressively more
    detailed and more advanced material.
     
+** Complexity Thresholds
+
+#+begin_quote
+According to this model of complexity, which is based on the work of
+astrophysicist Eric Chaisson and that of cultural anthropologist Fred
+Spier, a form of complexity—for example, the universe, a galaxy, a
+solar system, an organism, or an agricultural or industrial
+civilization—is comprised of four elements: 
+
+   *diverse components*, or different types of parts, arrayed in . . .
+
+   *specific arrangements*, or characteristic structures, such as an
+   atom with a nucleus and orbiting electrons; a cell with a nucleus
+   and energy-processing organelles, surrounded by a membrane; a solar
+   system with a star at its center, orbited by planets and two
+   concentric layers of loose debris; or a civilization with a city at
+   its center and agricultural production at its periphery, connected
+   by trade routes to other similar cities. Those arrangements of
+   those components are held together by . . .
+
+   *flows of energy*, typically energy emitted by the fusion within
+   stars that is being used in ways characteristic to that form of
+   complexity and resulting in new . . .
+
+   *emergent properties*, or new properties that exist only in this new
+   form of complexity—things that the whole can do that the parts could
+   not.
+
+— cite:behmand:2015teaching
+
+#+end_quote
+
+
 ** Succession Models
 
 This works the same as in [[https://en.wikipedia.org/wiki/Ecological_succession][ecological succession]] but for
