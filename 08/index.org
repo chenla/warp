@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]]
+[[[../index.org][top]]]
 
 * 8. Volume VIII Curriculum Table of Contents
 :PROPERTIES:
@@ -27,25 +27,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - 00. Curriculum
-   - Contents Volume VIII
-   - [[./intro.org][Introduction Volume VIII]]
-   - Lifetime learning -> build your hoard
-   - Context
-   - Trivium
-   - Quadrivium
-   - Laurea
-     - Laurea Magister
-     - Laurea Practicum 
-   - Practicum -> Techne
- - 00. Trivium Introduction
- - 00. Grammar
- - 00. Logic
- - 00. Rhetoric
- - 00. Quadrivium Introduction
- - 00. Mimesis
- - 00. Rhizomata
- - 00. Systema
- - 00. Transacta
+** Curriculum
 
+
+ - Contents Volume VIII
+ - [[./intro.org][Introduction Volume VIII]]
+ - Lifetime learning -> build your hoard
+ - Context
+
+   S K I L L S    *    C O N T E X T   *   P R A C T I C E 
+  ---------------------------------------------------------
+ - Trivium
+   - 00. Grammar
+   - 00. Logic
+   - 00. Rhetoric
+ - Quadrivium
+   - 00. Mimesis
+   - 00. Rhizomata
+   - 00. Systema
+   - 00. Transacta
+- Laurea
+   - Laurea Magister
+   - Laurea Practicum 
+   - Practicum -> Techne
+
+** Pedagogy
 
