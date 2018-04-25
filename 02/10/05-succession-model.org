@@ -62,7 +62,16 @@ events.
    - Niches and specialities can be divided or consolidated.
    - Number of niches is determined by size of territory 
  - State Change
+
+
    - Complexity Thresholds
+   - Phase transitions SEE: chapter 7 cite:arbesman:2012half-life
+     - Copernican & Darwinian   
+     - https://en.wikipedia.org/wiki/Ising_model
+     - self-organized criticality
+       http://gen.lib.rus.ec/search.php?req=How+nature+works%3A+the+science+of+self-organized+criticality&open=0&res=25&view=simple&phrase=1&column=def
+       https://scholar.google.com/scholar?hl=en&as_sdt=0,5&lookup=0&q=per+bak,+chao+tang,+kurt+wiesenfeld
+
  - Reversibility
    - upgrade & degrade
  - Keystones
@@ -262,3 +271,8 @@ civilization—is comprised of four elements:
   - Christian, D. M., Maps of time : an introduction to big
     history (2011), : University of California Press.
     cite:christian:2011maps-of-time
+
+
+  - Arbesman, S., The half-life of facts: why everything we
+    know has an expiration date (2012), : Current Hardcover.
+    cite:arbesman:2012half-life
