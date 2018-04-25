@@ -89,7 +89,28 @@ http://hssthistory.blogspot.com/2011/04/historiography-psc-hsst-history.html
 hssthistory2010@gmail.com <Shabeermon M>
 #+END_QUOTE
 
+#+begin_quote
+...."I am fully aware that, if anyone took the trouble to
+peruse some of the things I wrote before, during, and after
+the war, he would have no difficulty at all in convicting me
+of contradictions and inconsistencies at least as glaring as
+any I have detected in others. Indeed, I am not sure that I
+should envy any historian who could honestly claim to have
+lived through the earth-shaking events of the past fifty
+years without some radical modifications of his outlook. My
+purpose is merely to show how closely the work of the
+historian mirrors the society in which he works. It is not
+merely the events that are in flux. The historian himself is
+in flux. When you take up a historical work, it is not
+enough to look for the author's name on the title page: look
+also for the date of publication or writing--it is sometimes
+even more revealing. If the philosopher is right in telling
+us that we cannot step into the same river twice, it is
+perhaps equally true, and for the same reason, that two
+books cannot be written by the same historian."
 
+— cite:carr:1990what-is-history p51-52
+#+end_quote
 
 ** History, A Definition by Charles Olson
 
@@ -181,3 +202,5 @@ drag it out.  There it is.  That's — history.
     cite:olson:1975on-history
 
 
+  - Carr, E. H., What is history? (1990), : Penguin Books.
+    cite:carr:1990what-is-history
