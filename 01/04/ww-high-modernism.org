@@ -119,3 +119,20 @@ people have such self loathing that they can't accept themselves for
 what they are, warts and all, along with the capacity to also do so
 much more.  Why isn't that enough?
 
+
+
+** References
+
+ - Havelock, E. A., Preface to plato (history of the greek
+   mind) (1963), : Harvard University Press.
+   cite:havelock:1963preface
+ - Saul, J. R., Voltaire's bastards: the dictatorship of
+   reason in the west (1993), : Vintage.
+   cite:saul:1993voltaires-bastards
+ - Scott, J. C., Seeing like a state: how certain schemes
+   to improve the human condition have failed (1998), :
+   Yale University Press.
+   cite:scott:1998seeing
+ - [[http://calnewport.com/blog/2018/04/11/the-disturbing-high-modernism-of-silicon-valley/][The Disturbing High Modernism of Silicon Valley]] | Cal
+   Newport 2018
+ - [[https://archive.nytimes.com/www.nytimes.com/books/98/04/19/reviews/980419.19graylt.html][The Best-Laid Plans]] |  John Gray, NYT April 19, 1998
