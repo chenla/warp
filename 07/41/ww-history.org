@@ -31,6 +31,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Epigraph
+
+#+BEGIN_QUOTE
+History is the memory of time, the life of the dead and the happiness
+of the living.
+
+-- Capatain John Smith
+#+END_QUOTE
+
 ** Table of Contents
 
  - What is History
