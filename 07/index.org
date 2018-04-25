@@ -27,16 +27,20 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+
  - 00. Contents Volume VII
  - 00. [[./intro.org][Introduction Volume VII]]
  - 00. [[./41/index.org][Big History]]
    - The Human Story -> a human origin story
    - History         -> interdisciplinary science-based
                         history of everything
-   - Rabbit Hole     -> doorway to in-depth exploration and study
-   - Scaffold        -> as LOD framework for organizing all
-                        knowledge -- part of an ARC GUI
-   - Goldilocks Thresholds
+   - What Is Written -> text, dna, carbon dating, telecopes
+   - Goldilocks Thresholds -> Complexity
+
+ - 00 Framework for skills, context, mastery
+   - Rabbit Hole     -> threshold doorways 
+   - Scaffold        -> organizing all knowledge
+
  - 00. Regimes  
    - Cosmos
    - Solar System
@@ -44,4 +48,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Life
    - Prehistory
    - Humanity -> written history
- - 00. Markup Language 
+
+ - 00. The Stack -> ML, Code, Content, Formats & Interfaces
