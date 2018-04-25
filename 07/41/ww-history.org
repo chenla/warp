@@ -39,11 +39,78 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** TL;DR
 
 
-** What is History
+
+
+
+** What is History?
 
 History is literally what was said, or written.  We now have
 discovered a wide range of ways that the universe has written it's own
 history if we take the time to learn to read it.
+
+** History, A Definition by Charles Olson
+
+#+begin_quote
+Like it or not, see it or not, history is the /function/ of any one of
+us.
+   
+It is in this sense that, today, one has to regard history not at
+all as (1) events of the past, (2) as a "fate" (Mussolini crying,
+when the troops hit Anzio, "History has got us by the throat") or (3)
+thatwe are making it, that horrible fallacy of the present which spews
+itself out of all radios newspapers magazones outh, as though it was a
+damn fire-spitting dragon.
+
+It is literally a function that one can take it quietly and usefully.
+
+How to say it, so that it is abundently clear.  It isn't at all unlike
+Keats' proposition that a man's life (he was speaking of Shakespeare
+and his plays) is an allegory.  It is that one does have a life to
+live, exactly that much.  And that because it is that much and it is
+one's own, it has scale.  That is, it isn't more of the same, or so
+much "humanity" and all that, any of the counters not now offered
+(which lead on the other side instantly by hypostasizings.
+Dishminishments and hypostatasizings, about what we have offered us.
+
+'Story, Be cocknet. Drop the H — how often, if you are a writer, you
+have been told by everyone you meet, if you could take my life down,
+that would be a story.
+
+<----------------------big indent-------------------> (Only thus, by
+the way, can one say mortal — not as a "lifetime," not as flesh going
+toward death and resurrection, but as /history/: that you live.  An
+active.  The dynamic is, not the energy exploded, wasted, used,
+whatever is done with it.  But tht is is there, to be used.
+
+Let me try it this way: that a life is the historical function of the
+individual.  History is the intensity of the life process —its /life
+value/.  By this I do not mean to imply any imparted value, whether
+moral, aesthetic or intellectual; the life value is simply conditioned
+by its /determining/ power, which is manifested in definite historical
+operations ("effects").  And of course, taking it this way, I do not
+at all mean that history is a /force/ (the most wicked present fallacy
+of all, which is leaving everybody about where Justice Holmes said it
+for ever when he said the irresistible is usually only that which
+hasn't been resisted).  The failure, indeed, to recognize that there
+is such a thing as aaan historical function in any one of us, and
+instead, to misunderstand the thing as a force instead, is to be as
+wicked here on the human thing as to exploit the sun's power to
+destroy man and his earth.  I do not hypostasize the concept of
+history but employ it as a concept denoting intensity or value.  The
+question as to whether or not a specific historical force exists has
+nothing to do with this concept of history.
+
+Frequently I employ the expression history promiscuouslly with life.
+That's my point.  A function is how a thing acts.  There is a natural
+proper or characteristic action of anything.  That is its function.
+As of a human life I say it is its history.  It is the how.  There can
+be no other.  But there must be this one.  It is.  The point is, to
+drag it out.  There it is.  That's — history.
+
+— Charles Olson, A Special View of History, "History: a Definition"
+(1956)
+#+end_quote
+
 
 ** The Chronometric Revolution
 
