@@ -276,3 +276,25 @@ civilization—is comprised of four elements:
   - Arbesman, S., The half-life of facts: why everything we
     know has an expiration date (2012), : Current Hardcover.
     cite:arbesman:2012half-life
+
+
+  - Gladwell, M., The tipping point: how little things can
+    make a big difference (2002), : Little, Brown and
+    Company.
+    cite:gladwell:2002tipping 
+
+  - Turcotte, D. L., Self-organized criticality, Reports on
+    progress in physics, 62(10), 1377 (1999).
+    cite:turcotte:1999self
+  - Hergarten, S., Self-organized criticality in earth
+    systems (2002), : Springer-Verlag Berlin Heidelberg.
+    cite:hergarten:2002criticality-in-earth-systems
+  - Bak, P., Tang, C., & Wiesenfeld, K., Self-organized
+    criticality, Physical review A, 38(1), 364 (1988).
+    cite:bak:1988crticallity
+  - Bak, P., & Chen, K., Self-organized criticality,
+    Scientific American, 264(1), 46–53 (1991).
+    cite:bak:1991self-organized
+  - Bak, P., How nature works: the science of self-organized
+    criticality (1996), : Copernicus.
+    cite:bak:1996how-nature-works
