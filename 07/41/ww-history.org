@@ -1,0 +1,65 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: History
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+
+* History
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/07/41/ww-history.org
+:Created:  2018-04-25T18:35@Prek Leap (11.642600N-104.919210W)
+:ID:       fd20f6af-107c-4541-98aa-435a43479e25
+:VER:      577928197.519804419
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:LDW6-3133
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Table of Contents
+
+ - What is History
+ - The Chronometric Revolution
+
+** TL;DR
+
+
+** What is History
+
+History is literally what was said, or written.  We now have
+discovered a wide range of ways that the universe has written it's own
+history if we take the time to learn to read it.
+
+** The Chronometric Revolution
+
+#+begin_quote
+"These newly readable texts are encoded in DNA, in the half-lives of
+ the radioisotopes of certain atoms, in the time-layered sediments in
+ rocks, and in events occurring all across the cosmos that we can
+ observe with powerful, space-based telescopes.".
+
+ — Teaching Big History cite:behmand:2015teaching
+#+end_quote
+
+
+
+** References
+
+  - Behmand, M., Burke, T., & Simon, R. B., Teaching big history
+    (2015), : University of California Press.
+    cite:behmand:2015teaching

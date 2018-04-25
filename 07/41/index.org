@@ -30,7 +30,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Table of Contents
    - 7.41.1 [[./intro.org][Introduction]] 
    - 00. The Human Story -> a human origin story
-   - 00. History         -> interdisciplinary science-based history
+   - 00. [[./ww-history.org][History]]         -> interdisciplinary science-based history
    - 00. Representing Time
    - 00. Rabbit Hole     -> doorway to in-depth exploration and study
    - 00. Scaffold        -> as LOD framework for all knowledge 
