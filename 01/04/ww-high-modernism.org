@@ -1,0 +1,37 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: High Modernism
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+
+* High Modernism
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/04/ww-high-modernism.org
+:Created:  2018-04-25T10:53@Prek Leap (11.642600N-104.919210W)
+:ID:       c7d2915f-a83d-4b0b-8137-12726e144de0
+:VER:      577900503.355876936
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:IBU4-5630
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** TL;DR
+
+
+

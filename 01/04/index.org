@@ -38,7 +38,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      gravitates towards organization sees it as living, as
      beauty, divine -- which are objective
  - [[./ww-alienation.org][Alienation]]
- - High Modernism as the opposite of the Enlightenment
+ - [[./ww-high-modernism.org][High Modernism]]
  - The Narrow Gate -- between our strengths and weaknesses
    - Care
    - Practice
