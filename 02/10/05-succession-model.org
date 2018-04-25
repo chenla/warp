@@ -245,5 +245,20 @@ civilization—is comprised of four elements:
   - Behmand, M., Burke, T., & Simon, R. B., Teaching big
     history (2015), : University of California Press.
     cite:behmand:2015teaching 
-
-cite:chaisson:2003unifying,lineweaver:2013complexity-arrow,chaisson:2013using-complexity,spier:2010big-history,christian:2011maps-of-time
+  - Chaisson, E., A unifying concept for astrobiology,
+    International Journal of Astrobiology, 2(2), 91–101
+    (2003).  http://dx.doi.org/10.1017/s1473550403001484
+    cite:chaisson:2003unifying
+  - Lineweaver, C. H., Davies, P. C. W., & Ruse, M.,
+    Complexity and the arrow of time (2013), : Cambridge
+    University Press.
+    cite:lineweaver:2013complexity-arrow
+  - Chaisson, E. J., Using complexity science to search for
+    unity in the natural sciences, Complexity and the Arrow
+    of Time, (), 68–79 (2013).
+    cite:chaisson:2013using-complexity
+  - Spier, F., Big history and the future of humanity
+    (2010), : Wiley-Blackwell.  cite:spier:2010big-history
+  - Christian, D. M., Maps of time : an introduction to big
+    history (2011), : University of California Press.
+    cite:christian:2011maps-of-time
