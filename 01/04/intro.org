@@ -32,6 +32,202 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+Olson wrote of Ahab in Moby-Dick:
+
+#+begin_quote
+This Ahab had gone wild.  The object of his attention was
+something unconscionably big and white.  He had become a
+specialist: he had all spae concentrated into the form of a
+white whale called Moby-Dick.  And he asailed it as Comumbus
+an Ocean, LaSalle a continent, the Donner Party their winter
+pass.
+
+— Call me Ishmael p12 (1949)
+#+end_quote
+
+and on the same page, just before:
+
+#+begin_quote
+Some men ride on such space, others have to fasten
+themselves to it like a tent stake to survive.  As I see it
+Poe dug in and Meville Mounted. They are the alternatives.
+
+Americans still fancy themselves such democrates.  But their
+triumphs are of the machine.  It is the only master of space
+the average person ever knows, oxwheel to piston, muscle to
+jet.  It gives trajectory.
+
+To Melville it was not the will to be free but the will to
+overwhelm nature that lies at the bottom of us as
+individuals and a people.  Ahab is no democrat.  Moby-Dick,
+antagonist, is only king of natural force, resource.
+#+end_quote
+
+For Olson, America was all about SPACE, writ large and still
+so alien to a people and culture having been packed together
+like sardines for centuries in the old countries.  European
+space had been crammed inside each person, where there was
+no where to escape.  At the time Melville was writing
+Moby-Dick the foundations for the industrial revolution were
+being cemented in place, brick by baked-red brick, switching
+from casks of hunted whale-oil to pipelines of natural gas,
+from capricious winds pushing sails to a head of steam that
+remained steady so long as there was coal to stoak the
+boilers.  Capricious sputtering nature wasn't dominated so
+much as replaced by controlled flows turned on or off at
+will.
+
+Space was no longer anything that could be anchored to, it
+was now outside and could be ignored.  Space was roofed over
+or enclosed in rail and motor cars, vibrations and noise
+absorbed, the winter winds canceled out by flows of heat,
+the hammering summer sun by air conditioning.  The enormity
+of space and the uncertainty of nature hammered flat, by
+systems that were out of sight and mind, leaving us all
+alone together with little to battle but each other.
+
+Grant Morrison summed it up describing his black comedy Happy!
+
+#+begin_quote
+It’s a really simple story, but it condenses every other
+story I’ve done… it’s All-Star Superman, it’s got all of
+those things, because it ultimately says “Okay, we
+acknowledge the world is a nihilistic hellhole plunging
+toward screaming entropy, BUT... we have hope.” And right
+now, when people are getting really freaked out and things
+are seeming quite dystopian and out of control, and spinning
+even further out of control, hope is reduced to this tiny
+little unicorn. In some of my other stories, it’s been
+Superman and it’s been the Justice League or it’s been
+something, but right now it’s so down to nothing, it’s the
+tiniest last little candle flame.
+
+— Grant Morrison on, Happy! (2017)
+#+end_quote
+
+Man had always experienced space as all encompassing
+vastness which took every ounce of our ingenuity and
+strength to survive. But we had managed to lock it out of
+the cocoons we built around us.  We had always felt somehow
+lost in all that space bearing down on us -- and for a time
+we had convinced ourselves that we had conquered it with our
+flows and believed that the resources they came from
+bottomless.
+
+Deep inside we always knew it was a lie.  It never felt
+right, though we could never quite put our finger on what it
+was that was wrong.  We had forgotten.  We had lost our
+connection to the wind, rain, heat, cold and hunger.  Sheets
+of glass, reinforced concrete and buttressed girders had
+created an industrial pocket universe; our universe of
+flows.  The outside, nature and everything we had strove to
+conquer was still there but we no longer believed we were
+part of.  All agency had been reduced to the inside of of
+the material bubbles in which we had enclosed outselves.
+
+There is no returning to Ahab's world, and we wouldn't like
+it if we did.  Life was brutal, short, uncertain and filled
+with monotony, ignorance, pain and death.  The past held no
+golden age, neither as paleolithic hunter-gatherers
+wandering the earth, nor were there pastoral agrarian
+utopias.  Giving birth was to risk your life, surgery was
+conducted at breakneck speed as patients screamed, strapped
+to tables.  Surviving childhood was little better than a
+game of russian roulette.  The black death and smallpox
+wiped out 80% of human civilization on two continents in the
+blink of an eye.
+
+There was never a heroic age, only entropy, wearing away the
+lives of mortal men and women, eating away the detail, and
+polishing them into protagonists and antagonists of stories
+told around the camp fire, keeping our mind's off the things
+that would do us harm, lurking in the darkness just beyond
+the flickering compass of the fire's light and warmth.  We
+want those stories to be true, both the happy and the
+horrible because it's the details that makes us miserable.
+The mosquito's buzz and bites that won't let you sleep.  The
+hang-over and infected slash you got in a drunken brawl that
+you don't want to admit to yourself was your fault.  The
+whispered exagerations of minor sleights, and lost face.
+It's easier to think that none of that happened in the
+stories of old.
+
+And with each retelling, we convince ourselves that they
+reflect nobility and selfless bravery and heroic deeds that
+have been lost in our time, when the only thing that was
+lost was daily toil and discomfort dominating the hours and
+days and years as they pass.
+
+But for those of us alive today, the reverse is true, we are
+living in an age of unriviled safety, comfort and wealth
+that our heroic ancestors would have thought to be
+impossible.
+
+Subjectively it doesn't feel that way, but since 1800 the
+human condition has dramatically improved in every category
+that can be documented.  Lifespan has doubled, war, poverty,
+sickness, murder have all declined by orders of magnitude
+and will likely continue to decline at the same rate.  You
+can argue until blue in the face of a long list of
+atrocities, mistreatment, racism and greed, but every year
+they are becoming the exception that proves the rule.
+
+So what gives?  How can things be so good, and still feel
+like they are coming apart at the seams?  Again, Olson got
+it when he said "logic and classification has led
+civilization towards man and away from space."  Space and
+time collapse the faster that change propagates.  A murder
+in Sioux City, might as well have happened down the block
+from where you are eating dinner in Phnom Penh.  It's old
+world europe all over again, but this time it's the entire
+planet, and there are now over seven billion of us all
+packed close enough together to feel their breath on the
+back of your neck.  We've managed to escape space, and then
+demolish it, squeezing out all of nature and all of space
+and leaving nothing but ourselves.
+
+The thing is that both narratives are true, both our wealth
+and misery.  And all the material progress since 1800 has
+come at a terrible price that we have yet to pay.  The
+resources we use, and waste recklessly discarded, the horror
+of the reality of industrial agricultural production that is
+destroying the soil, the water and the air, not to mention
+the horrors visited on the animals we eat.
+
+All flows come from somewhere and go somewhere else, but all
+we see is our place in the middle.  We can't see where the
+flows begin, or where the waste flows to.  They are all lost
+in space that we can no longer see and no longer believe we
+are part of.  That is modern man's great folly.
+
+In the 1950's Olson believed that man had become estranged
+from his true nature.  But he also believed that there was a
+way forward, a way for us as individuals and societies to
+regain the space that we no longer see.  Seventy years later
+there is no evidence that this is happening, but I believe
+that the opportunity for us to be able to do do is fast
+approaching if only we are strong enough to take it.
+
+
+But the window is short, fifty years at best before the
+flows start to dry up at their origin and back up from where
+they are flowing to.
+
+xxxxx framed the situation as two opposing worldviews, that
+of prophets on one side, and wizards on the other.  The
+wizards have ferreted out the secrets of nature and how to
+leverage it to create the flows and the bubbles we live in
+and that whatever runs dry can be replaced, what ever is
+broken fixed as if the resources they are using are
+bottomless.  The prophets only see the fact that the flows
+are finite and that we must stop inflicting the damage we
+are causing.
+
+
+
+
+
+
 ----------
 
 velocity and volume of change was increasing now, the corner
