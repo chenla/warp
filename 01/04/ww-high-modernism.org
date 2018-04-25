@@ -33,5 +33,89 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+High Modernism as pejorative per James Scott's definition
 
+
+
+#+begin_quote
+The grand schemes for improving the human condition that our century
+has witnessed failed because of an error in their perception of human
+knowledge. High modernists thought they knew better than ordinary
+human beings how society works. They aimed to replace the common
+understanding of social life with scientific knowledge. But scientific
+knowledge is too abstract to capture our understanding of local
+circumstances -- the practical knowledge the ancient Greeks called
+/metis/, which carried Odysseus though his adventures. This is the
+knowledge that modern governments ignored when they attempted to
+resettle peasant farmers in newly constructed villages. It is the
+knowledge urban planners lack when they try to construct cities
+according to a simple, comprehensive design.
+
+— [[https://archive.nytimes.com/www.nytimes.com/books/98/04/19/reviews/980419.19graylt.html][The Best-Laid Plans]] |  John Gray, NYT April 19, 1998
+#+end_quote
+
+I like his mention of Odysseus and metis -- because this is exactly
+what Havelock claims Homer's works are, an cultural encyclopedia for
+pre-literate Greek civilization that contained most of the practical
+knowledge that the culture wished to preserve and pass down from one
+generation to the next.  According to Havelock,
+cite:havelock:1963preface this is what Plato was railing against in
+his attack of Poetry.  So is this where the estrangement began?  I've
+been making that arguement throughout my notes lately, and it seems to
+bear up -- in moving from societies based collective knowledged passed
+on to future generations spoken languages, which were prone to high
+levels of copying errors, to collective knowledge based written
+tradition that had far fewer copying errors, and allowed people to
+move much of that practical cultural knowledge from living memory into
+written memory made rational thought, and the sciences to advance in a
+way that would have been impossible otherwise.  Written languages are
+not simply extentions of long term memory, they are extension of
+working memory, that allows to offload information as it occurs to you
+while working out a problem and then come back to it.  It makes
+iterative processes possible by preserving the state of a work in
+progress while working on a new iteration of that work, or problem.
+
+The rational and later the scientific revolutions were all built on
+these foundations.  High Modernism as defined by Scott is simply this
+process taken to it's ultimate conclusion.  Scott and Pinker would
+argue that we've gone too far and need to step back to the
+Enlightenment which embraced man in all of his glory and folly --
+understanding and accepting our very human nature in this way isn't
+easy because it forces us to come to grips with the fact that we are
+hitting some hard edges of what Sapiens can and can not do, and that
+we are not perfectible, we can never be perfect rational creatures and
+to expect us to be is not only doomed to failure but to invite
+existential disaster.  The whole notion of perfectibility of apes who
+have barely emerged from the Savannah is the height of hubris.
+
+This is not to say that we can not overcome our cognitive biases and
+limitations, but we're going to have to be a bit more humble about how
+we go about it and know that eventually improvements will hit a wall
+of diminishing returns and Mankind will have to make a very hard
+descision to stay human with our flaws in ways that we would still
+recognize as being human today, or to move on to reengineer ourselves
+to become something that we aren't today.
+
+Do we want to take the road that Vulcan's did in the Star Trek
+Universe and even go beyond what they had done to engineer the
+emotional and irrational part of them who made them who they were out
+of their subspecies?  Would even the Vulcan's have the wisdom of
+knowing that it would be worth what they would be giving up?
+
+Thankfully these are not questions our generation or hopefully many
+more generations in the future will have to face. Let us hope that
+when the time comes, we make the right descion, whatever that might
+be.
+
+I wonder how much of the High Modernist concept of perfectibility is
+just whitewashed Puritanism?  The unhinged mania to scrub our sins
+from our souls so we may be worthy of a cruel God's love, grace and
+salvation.  They do seem to fit together rather well.  Suffering to
+achieve a perfection that will be repaid a thousand fold in a promised
+utopian afterlife that doesn't sound much better than the life they
+were subjecting their mortal lives to.  No wonder Pinker get's so much
+vitriol, I mean shit, they really don't like what he's saying.  Do
+people have such self loathing that they can't accept themselves for
+what they are, warts and all, along with the capacity to also do so
+much more.  Why isn't that enough?
 
