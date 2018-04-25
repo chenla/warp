@@ -30,6 +30,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Epigraph
+
+#+begin_quote
+“Many a long dispute among divines may be thus abridged: It
+is so; it is not so; it is so; it is not so.”
+
+ — Ben Franklin
+#+end_quote
+
 ** TL;DR
 
 *** Start from where you are, now rewind
