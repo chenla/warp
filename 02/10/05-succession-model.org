@@ -222,3 +222,28 @@ civilization—is comprised of four elements:
 — cite:behmand:2015teaching
 
 #+end_quote
+
+
+
+** References
+
+  - Walker, L. R., & Moral, R. d., Primary succession and
+    ecosystem rehabilitation (2003), : Cambridge University
+    Press.
+    cite:walker:2003primary-succession
+  - West, D. C., Shugart, H. H., Botkin, D. B., Darrell
+    C. West, H. H. S., & Botkin, D. B., Forest succession:
+    concepts and application (1981), : Springer-Verlag New
+    York.
+    cite:west:1981forest-succession
+  - Clements, F. E., Plant succession and indicators
+    (1928), : H.W. Wilson Company.
+    cite:clements:1928plant 
+  - Clements, F. E., Plant succession: an analysis of the
+    development of vegetation (1916), : Carnegie Institution
+    of Washington.  cite:clements:1916plant
+  - Behmand, M., Burke, T., & Simon, R. B., Teaching big
+    history (2015), : University of California Press.
+    cite:behmand:2015teaching 
+
+cite:chaisson:2003unifying,lineweaver:2013complexity-arrow,chaisson:2013using-complexity,spier:2010big-history,christian:2011maps-of-time
