@@ -55,14 +55,16 @@ succession patterns in the latest version of APPL
 
 ** Table of Contents
 
-Thresholds
+*** Thresholds
+We've already explained what succession models are and how
+tey work.  Now we need to put them into use, and how to
+understand their role in human civilization
+
  - 00. Inevitibility
    - uncertainty -> change is certain, outcome is not
- - 00. State Change  -> from one state to another
+ - 00. Phase Changes  -> from one state to another
  - 00. Tipping-Point -> trigger cascades
-
-
-Ecological
+*** Ecological
  - Primary, secondary
    SEE:  [[https://en.wikipedia.org/wiki/Ecological_succession#cite_note-southshorejournal.org-3][Ecological Successsion]] | Wikipedia
    - Primary: Colonization, pioneer species
@@ -76,8 +78,7 @@ Ecological
    - a savannah is a stage between grass/bushes and
      longer growing trees that is stablized by sparse
      disturbance by megafauna.
-
-Civilization
+*** Civilization
   - Survival: Pre-Tool
   - Tool
   - Machine
@@ -90,7 +91,8 @@ Civilization
   - Governance
   - Domus & Shops
   - Guilds
-
+*** Habitats
+  - Earth
   - Mars
     - Human Settlement
       - beach head
@@ -100,7 +102,7 @@ Civilization
         - dependent
         - independent
     - Teraforming 
-
+  - Habitats & Planetoids
 ** References
 
   - Smith, S., & Mark, S., The historical roots of the
