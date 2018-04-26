@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]] [[../index.org][prev]
+[[[../../index.org][top]]] [[[../index.org][up]]] [[[../index.org][prev]]] [[[../44/index.org][next]]]
 
 * 7.43. Regimes Table of Contents
 :PROPERTIES:
