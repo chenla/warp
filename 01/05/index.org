@@ -77,7 +77,6 @@ Boundries
      - Gravity & Acceleration
    - Psychological
      - [[./ww-human-nature.org][Human nature]]
-       SEE: cite:pinker:2003blank 
      - Cognitive Limits and Bias
    - Sociological
      - Dunbar
