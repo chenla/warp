@@ -76,7 +76,7 @@ Boundries
        - radiation
      - Gravity & Acceleration
    - Psychological
-     - Human nature
+     - [[./ww-human-nature.org][Human nature]]
        SEE: cite:pinker:2003blank 
      - Cognitive Limits and Bias
    - Sociological
