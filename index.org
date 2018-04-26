@@ -96,11 +96,10 @@ Volume VI Implementation
 Volume VII Origins
  - [[./07/index.org][Contents Volume VII]]
  - [[./07/intro.org][Introduction Volume VII]]
- - 41. [[./07/41/index.org][Big History]] 
- - 00. Cosmos
- - 00. Earth & Solar System
- - 00. Life
- - 00. Mankind
+ - 41. Preamble
+ - 42. [[./07/41/index.org][Big History]] 
+ - 43. Regimes
+ - 44. Stack
 Volume VIII Curriculum
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/intro.org][Introduction Volume VIII]]
@@ -129,7 +128,7 @@ Volume X
  - Appendix
    - shoulders
    - rabbit holes
-   - w&w 
+   - w&w meta
      - specification -- format
      - markup language
      - conventions
