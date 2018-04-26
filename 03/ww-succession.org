@@ -55,29 +55,36 @@ succession patterns in the latest version of APPL
 
 ** Table of Contents
 
-  - Ecological
-    - Primary, secondary
-      SEE:  [[https://en.wikipedia.org/wiki/Ecological_succession#cite_note-southshorejournal.org-3][Ecological Successsion]] | Wikipedia
-      - Primary: Colonization, pioneer species
-      - disturbance -> pioneer -> bushes, scrub -> faster
-        growing trees shade out bushes -> larger longer
-        lived trees shade out fast growin acacia and
-        evergreen
-      - cyclic succession -> disturbance, disease, fire, man
-        triggers the cycle again.
+Thresholds
+ - 00. Inevitibility
+   - uncertainty -> change is certain, outcome is not
+ - 00. State Change  -> from one state to another
+ - 00. Tipping-Point -> trigger cascades
 
-      - a savannah is a stage between grass/bushes and
-        longer growing trees that is stablized by sparse
-        disturbance by megafauna.
 
-  - Civilization
-    - Survival: Pre-Tool
-    - Tool
-    - Machine
-      - Clockwork
-      - Electronic
-      - Electric
-    - Cognitive (includes bio and nano)  
+Ecological
+ - Primary, secondary
+   SEE:  [[https://en.wikipedia.org/wiki/Ecological_succession#cite_note-southshorejournal.org-3][Ecological Successsion]] | Wikipedia
+   - Primary: Colonization, pioneer species
+   - disturbance -> pioneer -> bushes, scrub -> faster
+     growing trees shade out bushes -> larger longer
+     lived trees shade out fast growin acacia and
+     evergreen
+   - cyclic succession -> disturbance, disease, fire, man
+     triggers the cycle again.
+
+   - a savannah is a stage between grass/bushes and
+     longer growing trees that is stablized by sparse
+     disturbance by megafauna.
+
+Civilization
+  - Survival: Pre-Tool
+  - Tool
+  - Machine
+    - Clockwork
+    - Electronic
+    - Electric
+  - Cognitive (includes bio and nano)  
   - Education
   - Stages of life
   - Governance
