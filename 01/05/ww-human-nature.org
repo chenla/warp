@@ -37,12 +37,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
+  - Cleary, S. C., /Human Nature Matters/ (2018).
+    cite:cleary:2018human-nature-matters
+  - Laland, K. N., Darwin’s unfinished symphony: how culture made the
+    human mind (2017), : Princeton University Press.
+    cite:laland:2017unfinished
+  - Pinker, S., The blank slate: the modern denial of human nature
+    (2003), : Penguin Books.
+    cite:pinker:2003blank
+  - Prinz, J., Beyond human nature: how culture and experience shape
+    the human mind (2014), : W. W. Norton & Company.
+    cite:prinz:2014beyond-human-nature
+  - Sterelny, K., From mating to mentality: evaluating evolutionary
+    psychology (macquarie monographs in cognitive science) (2003), :
+    Psychology Press.  cite:sterelny:2003mating-mental
 
 
-  - [[https://aeon.co/essays/theres-no-philosophy-of-life-without-a-theory-of-human-nature?utm_medium=feed&utm_source=rss-feed][Human Nature Matters]] | Skype C Cleary, Aeon (2018)
-  - From Mating to Mentality (2003)
-  - Beyond Human Nature: How Culture and Experience Shape the Human
-    Mind (2012)  | Jesse Prinz 
-  - Darwin’s Unfinished Symphony: How Culture Made the Human Mind
-    (2017) | Kevin Laland
-  - 
+Blank-Slate
+
+  - Sousa, R. d., /Natural-born existentialists/ (2017).
+    cite:sousa:2017natural
+
