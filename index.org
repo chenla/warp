@@ -96,10 +96,10 @@ Volume VI Implementation
 Volume VII Origins
  - [[./07/index.org][Contents Volume VII]]
  - [[./07/intro.org][Introduction Volume VII]]
- - 41. Preamble
+ - 41. [[./41/index.org][Preamble]]
  - 42. [[./07/41/index.org][Big History]] 
- - 43. Regimes
- - 44. Stack
+ - 43. [[./43/index.org][Regimes]]
+ - 44. [[./44/index.org][Stack]]
 Volume VIII Curriculum
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/intro.org][Introduction Volume VIII]]
