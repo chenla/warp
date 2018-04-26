@@ -30,7 +30,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents Volume VII
  - [[./intro.org][Introduction Volume VII]]
- - 41. Preamble      -> skills, context, mastery
+ - 41. [[./41/index.org][Preamble]]
  - 42. [[./41/index.org][Big History]]
    - The Human Story -> a human origin story
    - History         -> interdisciplinary science-based
