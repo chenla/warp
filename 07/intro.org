@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]]
+[[[../../index.org][top]]] [[./41/index.org][next]]
 
 * 7.1.1 Introduction Volume VII: Origins
 :PROPERTIES:
