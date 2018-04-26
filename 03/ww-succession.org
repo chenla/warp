@@ -120,3 +120,8 @@ understand their role in human civilization
     York.
     cite:west:1981forest-succession 
 
+  - Kelly, K., The inevitable: understanding the 12
+    technological forces that will shape our future
+    (2016), : Viking.
+    cite:kelly:2016inevitable 
+
