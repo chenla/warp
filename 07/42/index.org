@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   7.41 Big History  TOC
+#+TITLE:   7.42 Big History  TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* 7.41 Big History Table of Contents
+* 7.42 Big History Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/07/41/index.org
@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
    - Table of Contents
-   - 7.41.1 [[./intro.org][Introduction]] 
+   - 7.42.1 [[./intro.org][Introduction]] 
    - 00. The Human Story -> a human origin story
    - 00. [[./ww-history.org][History]]         -> interdisciplinary science-based history
    - 00. Representing Time
