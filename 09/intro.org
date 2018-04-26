@@ -31,6 +31,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope
+
+Articles outlines the broad requirements for constructing an
+organizational and legal framework for a distributed
+civilization.  It must scale, so that it can handle a global
+or pan-solar civilization, and that subsets of the framework
+can then be used to generate a framework for governance of
+any corporate body, public and private.
+
+Piece of cake, huh?
+
 ** TL;DR
 
 For a decentralized system to work, it must also have negative
