@@ -107,7 +107,7 @@ Volume VIII Curriculum
  - 00. Pedagory
  - 00. Methods
  - 00. Trivium
- - 00. Quadrivium 
+ - 00. Quadrivium
  - 00. Practicum
  - 00. Laurea
 Volume IX Articles
