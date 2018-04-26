@@ -32,6 +32,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+This chapter describes what succession models are and how
+they work.
+
+---
+
 The principle is that if the conditions are right,
 self-organizing systems tend to go from lesser to greater
 complexity.
@@ -56,19 +61,21 @@ with each new cycle.
 The most dramatic of these cycles in in major extinction
 events.
 
+
+
 ** Table of Contents
- - Succession models
-   - Number of Niche/Specialties determine complexity
-   - Niches and specialities can be divided or consolidated.
-   - Number of niches is determined by size of territory 
- - State Change
+  - Succession models
+    - Number of Niche/Specialties determine complexity
+    - Niches and specialities can be divided or consolidated.
+    - Number of niches is determined by size of territory 
+  - State Change
 
 
-   - Complexity Thresholds
-   - Phase transitions SEE: chapter 7 cite:arbesman:2012half-life
-     - Copernican & Darwinian
-     - Ising Model
-       - https://en.wikipedia.org/wiki/Ising_model
+ - Complexity Thresholds
+ - Phase transitions SEE: chapter 7 cite:arbesman:2012half-life
+   - Copernican & Darwinian
+   - Ising Model
+     - https://en.wikipedia.org/wiki/Ising_model
      - self-organized criticality
    - Reversibility
    - upgrade & degrade
