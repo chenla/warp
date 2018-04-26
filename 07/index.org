@@ -28,25 +28,33 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 
- - 00. Contents Volume VII
- - 00. [[./intro.org][Introduction Volume VII]]
- - 00. [[./41/index.org][Big History]]
+ - Contents Volume VII
+ - [[./intro.org][Introduction Volume VII]]
+ - 41. Preamble      -> skills, context, mastery
+   - Mythos          -> culural map
+     - shared narrative
+     - cast of characters
+     - encyclopedia & map
+     - vocabulary 
+   - Syllabus        -> organizing all knowledge
+   - Rabbit Hole     -> threshold doorways 
+   - Pourquoi        -> why something came to be
+ - 42. [[./41/index.org][Big History]]
    - The Human Story -> a human origin story
    - History         -> interdisciplinary science-based
                         history of everything
-   - What Is Written -> text, dna, carbon dating, telecopes
+   - What Is Written -> text & chronometrics
    - Goldilocks Thresholds -> Complexity
-
- - 00 Framework for skills, context, mastery
-   - Rabbit Hole     -> threshold doorways 
-   - Scaffold        -> organizing all knowledge
-
- - 00. Regimes  
+ - 43. Regimes  
    - Cosmos
    - Solar System
    - Earth
    - Life
-   - Prehistory
-   - Humanity -> written history
-
- - 00. The Stack -> ML, Code, Content, Formats & Interfaces
+   - Man
+   - Humanity
+ - 44. Stack 
+   - 
+   - formats
+   - interfaces
+   - markup
+   - codebase
