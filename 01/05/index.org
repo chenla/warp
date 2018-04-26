@@ -43,31 +43,22 @@ Boundries
  - 00. Planetary  cite:steffen:2015planetary
    - Climate change
    - Biosphere
-       - functional diversity
-       - genetic diversity
+     - functional diversity
+     - genetic diversity
    - Biodiversity loss
    - Biochemical Flows
-       - Carbon Cycle
-       - Nitrogen cycle
-       - Phosphorus
+     - Carbon Cycle
+     - Nitrogen cycle
+     - Phosphorus
    - Ocean
-       - acidification
+     - acidification
    - Land use
    - Freshwater
    - Ozone depletion
    - Atmosphere
      - aerosols
    - Chemical pollution
- - 00. Sapiens (species specific)
-   - Physiological
-     - Size
-     - Sleep
-     - Rest (not same as sleep)
-     - Light (and diurnal cycles)
-     - Energy Requirements
-       - Calories
-       - Nutritional Requirements
-       - Water
+ - 00. Human
    - Environmental
      - Atmosphere 
        - composition
@@ -75,14 +66,15 @@ Boundries
        - temperature
        - radiation
      - Gravity & Acceleration
-   - Psychological
-     - [[./ww-human-nature.org][Human nature]]
+   - Physiological
+     - Size & Strength
+     - Sleep
+     - Rest
+     - Light
+     - Energy
+       - Calories
+       - Nutritional Requirements
+       - Water
+   - [[./ww-human-nature.org][Human nature]]
      - Cognitive Limits and Bias
-   - Sociological
-     - Dunbar
  - 00. Civilization
-Thresholds
- - 00. Inevitibility
-   - uncertainty -> change is certain, outcome is not
- - 00. State Change  -> from one state to another
- - 00. Tipping-Point -> trigger cascades
