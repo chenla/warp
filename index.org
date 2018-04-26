@@ -104,15 +104,12 @@ Volume VIII Curriculum
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/intro.org][Introduction Volume VIII]]
  - 00. Curriculum
- - 00. Trivium Introduction
- - 00. Grammar
- - 00. Logic
- - 00. Rhetoric
- - 00. Quadrivium Introduction
- - 00. Mimesis
- - 00. Rhizomata
- - 00. Systema
- - 00. Transacta
+ - 00. Pedagory
+ - 00. Methods
+ - 00. Trivium
+ - 00. Quadrivium 
+ - 00. Practicum
+ - 00. Laurea
 Volume IX Articles
  -[[./09/index.org][ Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
