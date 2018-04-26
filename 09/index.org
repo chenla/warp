@@ -27,11 +27,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- -[[./09/index.org][ Contents Volume IX]]
+ - Contents Volume IX
  - [[./09/intro.org][Introduction Volume IX]]
  - 00. Apologetics
+   - Foundattions
+     - Humanist
+     - Rational
+     - Secular
+     - Evidence-based Empiricism
+   - Culture  -> shared meta-culture
+   - Human Nature
+     - Scale
+   - Ethics
+   - Politics
  - 00. Declaration
+   - Assumptions
+     - Principles
+   - Intent
+   - Social Contract
  - 00. Rights
  - 00. Duties
  - 00. Constitution
+   - Offices & Branches
+
+   - Membership
+   - Recognition
  - 00. Statutes
