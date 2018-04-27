@@ -27,5 +27,34 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - Contents Volume VIII
+  - [[./intro.org][Introduction Volume VIII]]
+
+ Lingua francas follow:
+   - money
+   - power
+   - literature
+   - science
+   - religion
+
+ - historical background
+   - rosetta stone
+   - latin
+   - greek
+   - arabic
+   - mandarin
+   - french
+   - spanish
+
+ - trade pidgeons
+ - continuity  -> speaking to the future
+ - inclusiveness
+ - no french purity silliness
+ - english, sort of, pidgeon, kind of 
+ - pace-layers -> changes, but not in real time as change
+                  reaches a threshold for a p-layer it will refresh to
+                  catch up so it's not out of sync
+ - common dictionary
+ - propagation -> keeping it in common use
 
 

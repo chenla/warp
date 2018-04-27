@@ -109,32 +109,6 @@ Volume VIII Lingua Franca
  Lingua francas are always based on networks and in
  particular empires which are more or less, networks
 
- Lingua francas follow:
-   - money
-   - power
-   - literature
-   - science
-   - religion
-
- - historical background
-   - rosetta stone
-   - latin
-   - greek
-   - arabic
-   - mandarin
-   - french
-   - spanish
-
- - trade pidgeons
- - continuity  -> speaking to the future
- - inclusiveness
- - no french purity silliness
- - english, sort of, pidgeon, kind of 
- - pace-layers -> changes, but not in real time as change
-                  reaches a threshold for a p-layer it will refresh to
-                  catch up so it's not out of sync
- - common dictionary
- - propagation -> keeping it in common use
 
 Volume IX Curriculum
  - [[./09/index.org][Contents Volume IX]]
