@@ -186,4 +186,17 @@ Backward Design
 
 Mastery
 
-  - 
+  - Sennett, R., The Craftsman (2009), : Penguin.
+    cite:sennett:2008craftsman 
+  - Pang, A. S., /Darwin was a slacker and you should be
+    too/ (2017).  cite:pang:2017darwin-slacker
+  - Pang, A. S., Rest: why you get more done when you work
+    less (2016), : Basic Books.  cite:pang:2016rest
+  - Leonard, G., Mastery. the keys to success and long term
+    fulfillment (1992), : Plume.  cite:leonard:1992mastery
+  - Greene, R., Mastery (2012), : Viking Adult.
+    cite:greene:2012mastery 
+  - Davis, J., Two awesome hours: science-based strategies
+    to harness your best time and get your most important
+    work done (2015), : HarperOne.
+    cite:davis:2105two
