@@ -125,9 +125,23 @@ bibliography:../hoard/bib.bib
  - 00. Duties
  - 00. Constitution
  - 00. Statutes
-** XI
- - Contents Volume X 
- - Preface Volume X
+** XI Infrastructure
+
+generative infrastructure
+
+** XII Culture
+
+Origins and Lingua Franca are the bedrock for culture, so
+why put it here?
+
+Culture is about all the stuff that that TEDTalk about what
+atheists can learn from religion.
+
+It's also about the social structures of daily life
+
+** XIII
+ - Contents Volume XII 
+ - Preface Volume XII
  - Appendix
    - shoulders
    - rabbit holes
