@@ -50,7 +50,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
     before and after global english (2015), : University Of
     Chicago Press.
     cite:gordin:2015scientific-babel
-
   - Nye, M. J., /Speaking in tongues: science’s
     centuries-long hunt for a common language/ (2016).
     cite:nye:2016speaking-tongues
+  - Jenkins, J., Global englishes: a resource book for
+    students (2014), : Routledge.
+    cite:jenkins:2014global-english
+  - Horobin, S., How english became english: a short history
+    of a global language (2015), : Oxford University Press.
+    cite:horobin:2015how_english
+  - Northrup, D., How english became the global language
+    (2013), : Palgrave Macmillan US.
+    cite:northrup:2013how-english
+  - Crystal, D., English as a global language (2003), :
+    Cambridge University Press.
+    cite:crystal:2003english-global
+  - Mair, C., The politics of english as a world language:
+    new horizons in postcolonial cultural studies (cross
+    cultures 65) (2003), : Rodopi.
+    cite:mair:2003politics-english
+
