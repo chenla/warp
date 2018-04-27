@@ -103,9 +103,10 @@ Volume VII Origins
 Volume VIII Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
-
-
-
+ - 00. Living Languages
+ - 00. Lingua Francas
+ - 00. World Languages
+ - 00. Continuity
 Volume IX Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./00/intro.org][Introduction Volume IX]]

@@ -39,7 +39,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Meaning changes over time as context changes
     - Artificial Languages are doomed to falure
     - Languages don't care about committees
-  - Historical Background
+  - Lingua Francas
     - rosetta stone
     - latin, greek, arabic, mandarin, french, spanish
     - pidgins & creoles
