@@ -33,12 +33,44 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-Articles outlines the broad requirements for constructing an
-organizational and legal framework for a distributed
+Articles outlines the broad requirements for constructing a
+generative grammar for building organizational and legal
+governance frameworks for a distributed, federated human
 civilization.  It must scale, so that it can handle a global
 or pan-solar civilization, and that subsets of the framework
 can then be used to generate a framework for governance of
-any corporate body, public and private.
+any corporate body, public and private large and small.
+
+This is both feasible and desirable as over the past two
+hundred years we're getting better and better at building
+systems of governance.  Mankind has been refining
+democractic, egalitarian state and corporate structures that
+build on their predecessors rather than starting from
+scratch.  The exceptions have always been autocractic,
+ideological extremist, theocratic states that have /all/
+failed which have not just failed but failed spectacularly,
+causing untold misery and suffering.
+
+There are a few caveats -- we need to address how present
+systems fail, and the fact that there is a built-in scaling
+problem that result from hard-coded human cognitive and
+social limitations.  In other words, humans don't scale
+well.  But we are very good at building networks that /can/
+scale which largely are limited by propagation, by physics
+-- how fast information, people and goods can propagate
+through a network.
+
+The idea of a network of states under one broad flexible
+system of governance is far from a new idea.  It was not
+only tried, but some argue that it was the most successful
+system of pluralistic governance in history.  I am talking,
+of course, about the Mongol Empire.
+
+So, if we can combine the two, keeping organizations at
+human scale, and network them together, we will only be
+limited, quite literally by the speed of light.  This means
+that such a civilization spanning the entire solar system is
+practical.
 
 Piece of cake, huh?
 
