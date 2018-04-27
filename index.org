@@ -126,11 +126,7 @@ Volume IX Curriculum
 Volume X Governance
  -[[./10/index.org][ Contents Volume X]]
  - [[./10/intro.org][Introduction Volume X]]
-- 00. 
-  - building vs scratch
-  - scaling governance
-  - networks
-  - mongol empire
+ - 00. Distributed Governance
  - 00. Articles
  - 00. Declaration
  - 00. Rights
