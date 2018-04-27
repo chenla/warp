@@ -100,16 +100,64 @@ Volume VII Origins
  - 42. [[./07/41/index.org][Big History]] 
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
+
+Volume XXX Lingua Franca
+
+ Mythos is the foundation for languages -- you can't have
+ one without the other.
+
+ Lingua francas are always based on networks and in
+ particular empires which are more or less, networks
+
+ Lingua francas follow:
+   - money
+   - power
+   - literature
+   - science
+   - religion
+
+ - historical background
+   - rosetta stone
+   - latin
+   - greek
+   - arabic
+   - mandarin
+   - french
+   - spanish
+
+ - trade pidgeons
+ - continuity  -> speaking to the future
+ - inclusiveness
+ - no french purity silliness
+ - english, sort of, pidgeon, kind of 
+ - pace-layers -> changes, but not in real time as change
+                  reaches a threshold for a p-layer it will refresh to
+                  catch up so it's not out of sync
+ - common dictionary
+ - propagation -> keeping it in common use
+
 Volume VIII Curriculum
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/intro.org][Introduction Volume VIII]]
  - 00. Curriculum
+   - what all citizens need to know
+   - life long learning -> self, training, degree
+   - accreditation
+   - different entry points at different stages of life,
+     expertise etc.
  - 00. Pedagory
  - 00. Methods
  - 00. Trivium
  - 00. Quadrivium
  - 00. Practicum
  - 00. Laurea
+
+Volume XXX Governance
+  - building vs scratch
+  - scale
+  - networks
+  - mongol empire
+
 Volume IX Articles
  -[[./09/index.org][ Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
