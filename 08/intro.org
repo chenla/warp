@@ -51,5 +51,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
     Chicago Press.
     cite:gordin:2015scientific-babel
 
-  -
-    
+  - Nye, M. J., /Speaking in tongues: science’s
+    centuries-long hunt for a common language/ (2016).
+    cite:nye:2016speaking-tongues
