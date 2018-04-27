@@ -137,8 +137,8 @@ Volume VIII Lingua Franca
  - propagation -> keeping it in common use
 
 Volume IX Curriculum
- - [[./09/index.org][Contents Volume VIII]]
- - [[./00/intro.org][Introduction Volume VIII]]
+ - [[./09/index.org][Contents Volume IX]]
+ - [[./00/intro.org][Introduction Volume IX]]
  - 00. Curriculum
    - what all citizens need to know
    - life long learning -> self, training, degree

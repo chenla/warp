@@ -1,0 +1,31 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   Volume VIII  TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+* Volume VIII Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/08/index.org
+:Created:  2018-04-27T09:44@Prek Leap (11.642600N-104.919210W)
+:ID:       0ef59390-eb19-45b7-8a2c-e7c47d5df52c
+:VER:      578069164.717751302
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TFK5-3684
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+
