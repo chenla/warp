@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]]
+[[[../index.org][top]]] [[[./index.org][up]]]
 
 * Introduction Volume VIII Lingua Franca
 :PROPERTIES:
