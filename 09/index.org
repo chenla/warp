@@ -47,6 +47,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Portfolios
    - Self Directed Learning
  - 00. Mastery
+   - How We Learn
+     - Spaced Repetition
    - Skills
    - Context
    - Practice 
