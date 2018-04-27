@@ -32,6 +32,40 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+This volume is concerned with how we learn as individuals
+and as societies.  How do we learn.  How do we pass
+knowledge and skills on to others.
+
+The idea is that because of the exponential ROC, knowledge
+becomes obsolete very quickly.  How to keep up?  While
+disciplines and technologies are born and vanish in a
+fraction of a person's career.  Learning must change from
+being a place, as it became in the industrial revolution,
+where schools became factories for providing basic skills
+that people needed to drive the indusrial engine.  The base
+skill set was not the high, so it really didn't take that
+long to teach it.  That doesn't explain why education became
+such a long process.  That happened because once child labor
+was effectively banned, and parents were at work in
+factories and offices for the majority of the day, children
+really had no supervision or purpose in the home any
+longer.  So schools became day care for children.
+
+Children need to be reintegrated into society, not
+sequestered for the better part of two decades in Lord of
+the Flies cultures that were separated from the rest of the
+world.
+
+Learning needs to become an activity that happens
+everywhere, starts at birth and ends in the grave.
+
+This volume is about building generative learning frameworks
+that prepare people to become useful citizens in society
+(the goal of a liberal education) and then provide the
+cognitive skills, cognitive tools, core knowledge and
+practical skills that are mastered to become part of society
+and provide meaning and purpose to people's lives.
+
 ** TL;DR
 
 
