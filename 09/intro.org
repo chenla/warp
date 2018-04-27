@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Volume IX Articles Introduction
+#+TITLE: 8.1 Introduction Volume VIII Curriculum
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,101 +13,22 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]]
+[[[../index.org][top]]] [[[./index.org][up]]]
 
-
-* Volume IX Articles Introduction
+* 8.1 Introduction Volume VIII Curriculum
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/09/intro.org
-:Created:  2018-04-24T10:14@Prek Leap (11.642600N-104.919210W)
-:ID:       c2803cbe-e131-42de-a794-0a8c3ef35495
-:VER:      577811710.843989301
+:Name:     /home/deerpig/proj/chenla/warp/08/intro.org
+:Created:  2018-04-24T11:06@Prek Leap (11.642600N-104.919210W)
+:ID:       69d19e03-c646-4813-b123-712e3572ab76
+:VER:      577814843.463742983
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:HUB3-7112
+:BXID:     proj:YTR3-6048
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
-
-Articles outlines the broad requirements for constructing a
-generative grammar for building organizational and legal
-governance frameworks for a distributed, federated human
-civilization.  It must scale, so that it can handle a global
-or pan-solar civilization, and that subsets of the framework
-can then be used to generate a framework for governance of
-any corporate body, public and private large and small.
-
-This is both feasible and desirable as over the past two
-hundred years we're getting better and better at building
-systems of governance.  Mankind has been refining
-democractic, egalitarian state and corporate structures that
-build on their predecessors rather than starting from
-scratch.  The exceptions have always been autocractic,
-ideological extremist, theocratic states that have /all/
-failed which have not just failed but failed spectacularly,
-causing untold misery and suffering.
-
-There are a few caveats -- we need to address how present
-systems fail, and the fact that there is a built-in scaling
-problem that result from hard-coded human cognitive and
-social limitations.  In other words, humans don't scale
-well.  But we are very good at building networks that /can/
-scale which largely are limited by propagation, by physics
--- how fast information, people and goods can propagate
-through a network.
-
-The idea of a network of states under one broad flexible
-system of governance is far from a new idea.  It was not
-only tried, but some argue that it was the most successful
-system of pluralistic governance in history.  I am talking,
-of course, about the Mongol Empire.
-
-So, if we can combine the two, keeping organizations at
-human scale, and network them together, we will only be
-limited, quite literally by the speed of light.  This means
-that such a civilization spanning the entire solar system is
-practical.
-
-Piece of cake, huh?
-
 ** TL;DR
-
-For a decentralized system to work, it must also have negative
-feedback loops in place that keep it decentralized and egalitarian,
-this has to be voluntary, with the members who agree, getting in
-return a better life and would.  It must be affirmed and reinforced
-every day or it will be lost.
-
-That in the heart of the new social contract. No more zero sum
-anything, the only zero sum game is the biggest one of all, humanity
-and civilization we all win together or we all fail together.  And
-anyone who thinks we're not in it together is delusional.
-
-This why the theses, rule sets and articles are so important, we all
-get rights, but we all equally except that we also have a duty to each
-other and to our future.  You will loose your rights if you neglect
-your duty.
-
-Mindless consumerism only has selfish gratification at its core, no
-purpose or meaning, and the lie that gratification is the same as
-happiness
-
-** References
-
-  - American Humanist Association, /Humanism and its aspirations: humanist
-    manifesto iii./ (2003).
-    cite:aha:2003humanism
-  - United Nations, Universal declaration of human rights, UN General
-    Assembly, (), (1948).
-    cite:un:1948udhr
-  - Wikipedia, /Universal declaration of human rights --- Wikipedia,
-    the free encyclopedia/ (2018).
-    cite:wiki:2018universal-declaration
-  - Keen, A., How to fix the future: staying human in the digital age
-    (2018), : Atlantic Monthly Press.
-    cite:keen:2018fix-future 
 

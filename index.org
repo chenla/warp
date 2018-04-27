@@ -100,9 +100,9 @@ Volume VII Origins
  - 42. [[./07/41/index.org][Big History]] 
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
-
-Volume XXX Lingua Franca
-
+Volume VIII Lingua Franca
+ - [[./08/index.org][Contents Volume VIII]]
+ - [[./08/index.org][Introduction Volume VIII]]
  Mythos is the foundation for languages -- you can't have
  one without the other.
 
@@ -136,9 +136,9 @@ Volume XXX Lingua Franca
  - common dictionary
  - propagation -> keeping it in common use
 
-Volume VIII Curriculum
- - [[./08/index.org][Contents Volume VIII]]
- - [[./08/intro.org][Introduction Volume VIII]]
+Volume IX Curriculum
+ - [[./09/index.org][Contents Volume VIII]]
+ - [[./00/intro.org][Introduction Volume VIII]]
  - 00. Curriculum
    - what all citizens need to know
    - life long learning -> self, training, degree
@@ -152,22 +152,21 @@ Volume VIII Curriculum
  - 00. Practicum
  - 00. Laurea
 
-Volume XXX Governance
+Volume X Governance
+ -[[./10/index.org][ Contents Volume X]]
+ - [[./10/intro.org][Introduction Volume X]]
+- 00. 
   - building vs scratch
-  - scale
+  - scaling governance
   - networks
   - mongol empire
-
-Volume IX Articles
- -[[./09/index.org][ Contents Volume IX]]
- - [[./09/intro.org][Introduction Volume IX]]
- - 00. Apologetics
+ - 00. Articles
  - 00. Declaration
  - 00. Rights
  - 00. Duties
  - 00. Constitution
  - 00. Statutes
-Volume X
+Volume XI
  - Contents Volume X 
  - Preface Volume X
  - Appendix
