@@ -30,5 +30,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope
+
 ** TL;DR
 
+
+** References
+
+Backward Design
+
+  - Grant Wiggins, J. M., The understanding by design: guide
+    to creating high-quality units (2011), : Association for
+    Supervision & Curriculum Development.
+    cite:grant:2011understanding-design
+  - Wiggins, G., & McTighe, J., What is backward design,
+    Understanding by design, 1(), 7–19 (1998).
+    cite:wiggins:1998backward
+  - Wikipedia, , /Backward design --- Wikipedia, the free
+    encyclopedia/ (2018).  cite:wiki:2018backward-design
