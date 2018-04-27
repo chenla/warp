@@ -92,6 +92,83 @@ and provide meaning and purpose to people's lives.
 
 ** TL;DR
 
+This section is broken into four parts:
+
+  - Mastery  :: Deals with the larger concepts of mastering a
+                discipline and a basic philosophy of life
+                work, learning and balance.
+  - Practice :: The deliberate regular practice of anything
+                that is one of the two pillars of work and
+                learning.
+  - Otium    :: The flip side of Practice which is
+                deliberate, rest and contemplation.
+  - Negotium :: Dealing with a person's public roles and
+                interactions with people, family, collective
+                projects, business, management roles etc.
+
+Mastery is the process of lifelong learning.  The Trivium
+can be thought of as a means of establishing underlying
+habits of thought and technique that are part of the process
+of mastering any skill or subject.  As such Mastery is a
+unspoken subject of the Trivium that is not formally given a
+name but is taught indirectly.
+
+This doesn't mean that Mastery is an un-spoken process.  The
+process of mastering a subject or skill is well known.  It
+is not an easy process, and there are no short-cuts, but it
+is deeply fulfilling.  In many respects Mastery is the
+foundation that civilization is built on.
+
+Mastery comes down to three things:
+
+   - knowledge
+   - technique
+   - process
+
+** George Leonard's Outline
+
+5 keys to long-term success:
+
+  - Instruction;
+  - Practice;
+  - Surrender;
+  - Intentionality; and,
+  - The Edge - Push the envelop.
+
+Mastery is:
+
+  - The process where what was difficult becomes both easier and
+    more pleasurable;
+  - Long-term dedication to the journey - not the bottom line;
+  - Gaining mental discipline to travel further on your journey;
+  - Being goalless;
+  - Realizing that the pleasure of practice is intensified;
+  - Creating deep roots;
+  - Knowing that you will never reach a final destination;
+  - Being diligent with the process of mastery;
+  - Your commitment to hone your skills;
+  - After you have reached the top of the mountain, climb
+    another one;
+  - Being willing to practice, even when you seem to be getting
+    no where;
+  - Making this a life process;
+  - Being patient, while you apply long-term efforts;
+  - Appreciating and even enjoying the plateau, as much as you do
+    the progress;
+  - Practicing for the sake of practice;
+  - Winning graciously, and losing with equal grace;
+  - Placing practice, discipline, conditioning and character
+    development before winning;
+  - Being courageous;
+  - Being fully in the present moment;
+  - Realizing that the ultimate goal is not the medal, or the
+    ribbon, but the path to mastery its self (The "I am" stage);
+  - Being willing to look foolish;
+  - Maintaining flexibility in your strategy, and in your
+    actions;
+  - A journey; and,
+  - Determination
+
 
 ** References
 
@@ -106,3 +183,7 @@ Backward Design
     cite:wiggins:1998backward
   - Wikipedia, , /Backward design --- Wikipedia, the free
     encyclopedia/ (2018).  cite:wiki:2018backward-design
+
+Mastery
+
+  - 
