@@ -32,24 +32,41 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents Volume VIII
  - [[./intro.org][Introduction Volume VIII]]
- - Lifetime learning -> build your hoard
- - Context
-
-   S K I L L S    *    C O N T E X T   *   P R A C T I C E 
-  ---------------------------------------------------------
- - Trivium
-   - 00. Grammar
-   - 00. Logic
-   - 00. Rhetoric
- - Quadrivium
-   - 00. Mimesis
-   - 00. Rhizomata
-   - 00. Systema
-   - 00. Transacta
-- Laurea
-   - Laurea Magister
-   - Laurea Practicum 
-   - Practicum -> Techne
+ - 00. Life Long Learning
+   - education is not a place
+   - what all citizens need to know
+   - life long learning -> self, training, degree
+   - accreditation
+   - certification
+   - different entry points at different stages of life,
+     expertise etc.
+   - Lifetime learning -> build your hoard
+   - Context
+ - 00. Pedagogy
+   - evaluation
+ - 00. Methods
+   - Blended Learning
+   - Homework
+   - Portfolios
+   - Self Directed Learning
+ - 00. Mastery
+   - Skills
+   - Context
+   - Practice 
+ - 00. Curriculum 
+   - Trivium
+     - Grammar
+     - Logic
+     - Rhetoric
+   - Quadrivium
+     - Mimesis
+     - Rhizomata
+     - Systema
+     - Transacta
+   - Laurea
+     - Laurea Magister
+     - Laurea Practicum 
+     - Practicum -> Techne
 
 ** Pedagogy
 

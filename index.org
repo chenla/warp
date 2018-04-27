@@ -110,19 +110,11 @@ Volume VIII Lingua Franca
 Volume IX Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./00/intro.org][Introduction Volume IX]]
- - 00. Curriculum
-   - what all citizens need to know
-   - life long learning -> self, training, degree
-   - accreditation
-   - different entry points at different stages of life,
-     expertise etc.
- - 00. Pedagory
+ - 00. Life Long Learning
+ - 00. Pedagogy
  - 00. Methods
- - 00. Trivium
- - 00. Quadrivium
- - 00. Practicum
- - 00. Laurea
-
+ - 00. Mastery
+ - 00. Curriculum
 Volume X Governance
  -[[./10/index.org][ Contents Volume X]]
  - [[./10/intro.org][Introduction Volume X]]
