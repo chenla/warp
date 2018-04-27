@@ -42,3 +42,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** TL;DR
 
 
+
+
+** References
+
+  - Gordin, M. D., Scientific babel: how science was done
+    before and after global english (2015), : University Of
+    Chicago Press.
+    cite:gordin:2015scientific-babel
+
+  -
+    
