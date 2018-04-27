@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents Volume VIII
  - [[./intro.org][Introduction Volume VIII]]
- - 00. Life Long Learning
+ - 00. Learning
    - education is not a place
    - what all citizens need to know
    - life long learning -> self, training, degree
@@ -48,6 +48,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Portfolios
    - Self Directed Learning
    - Mastery Learning
+   - Portfolio Building
  - 00. Mastery
    - How We Learn
      - Spaced Repetition
