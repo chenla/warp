@@ -109,7 +109,7 @@ Volume VIII Lingua Franca
  - 00. Continuity
 Volume IX Curriculum
  - [[./09/index.org][Contents Volume IX]]
- - [[./00/intro.org][Introduction Volume IX]]
+ - [[./09/intro.org][Introduction Volume IX]]
  - 00. Life Long Learning
  - 00. Pedagogy
  - 00. Methods
