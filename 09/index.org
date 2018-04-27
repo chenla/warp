@@ -40,18 +40,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Lifetime learning -> build your hoard
    - Context
  - 00. Pedagogy
-   - evaluation
+   - Evaluation
+   - Backward Design
  - 00. Methods
    - Blended Learning
    - Homework
    - Portfolios
    - Self Directed Learning
+   - Mastery Learning
  - 00. Mastery
    - How We Learn
      - Spaced Repetition
-   - Skills
-   - Context
-   - Practice 
+     - Knowledge
+     - Technique
+     - Context
+     - Process
+   - Mastery
+   - Practice
+   - Otium
+   - Negotium
  - 00. Curriculum 
    - Trivium
      - Grammar
