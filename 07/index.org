@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../06/index.org][prev]]] [[[./08/index.org][next]]]
+[[[../index.org][top]]] [[[../06/index.org][prev]]] [[[../08/index.org][next]]]
 
 * Volume VII: Origins Table of Contents
 :PROPERTIES:
