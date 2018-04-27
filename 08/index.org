@@ -30,34 +30,35 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents Volume VIII
   - [[./intro.org][Introduction Volume VIII]]
 
- Lingua francas follow:
-   - money
-   - power
-   - literature
-   - science
-   - religion
+  - Living Languages
+    - Rules -> there are no rules, languages grow organically
+    - Languages drift over time
+    - When languages come into contact they exchange
+      vocabulary
+    - Languages drift in isolation, and homogenize when not
+    - Meaning changes over time as context changes
+    - Artificial Languages are doomed to falure
+    - Languages don't care about committees
+  - Historical Background
+    - rosetta stone
+    - latin, greek, arabic, mandarin, french, spanish
+    - pidgins & creoles
+  - World Languages
+    - World Languages as second languages are good for
+      everybody
+    - Lingua francas follow:
+      - money, power, arts, science, religion
+    - Inclusiveness
+  - Continuity
+    - pace-layers -> changes, but not in real time as change
+                     reaches a threshold for a p-layer it will refresh to
+                     catch up so it's not out of sync
+    - common dictionary
+    - propagation -> keeping it in common use
 
- - historical background
-   - rosetta stone
-   - latin
-   - greek
-   - arabic
-   - mandarin
-   - french
-   - spanish
 
- - trade pidgeons
- - continuity  -> speaking to the future
- - inclusiveness
 
- - context drift
+ 
 
- - no french purity silliness
- - english, sort of, pidgeon, kind of 
- - pace-layers -> changes, but not in real time as change
-                  reaches a threshold for a p-layer it will refresh to
-                  catch up so it's not out of sync
- - common dictionary
- - propagation -> keeping it in common use
 
 

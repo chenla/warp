@@ -32,11 +32,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
- Mythos is the foundation for languages -- you can't have one without
- the other.
+Mythos is the foundation for languages -- you can't have one
+without the other. Lingua francas are always based on
+networks and in particular empires which are more or less,
+networks.
 
- Lingua francas are always based on networks and in particular empires
- which are more or less, networks
+
 
 ** TL;DR
 
