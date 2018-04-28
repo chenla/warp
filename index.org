@@ -127,20 +127,31 @@ bibliography:../hoard/bib.bib
 ** XI Infrastructure
  - Contents Volume XI
  - Inroduction Volume XI
-
-generative infrastructure
-
+ - 00. Information
+ - 00. Energy
+   - Fuel
+   - Electricity
+   - Heat
+ - 00. Transporation
+   - Goods
+   - People
+ - 00. Waste
+ - 00. Water
+ - 00. Environment (as in life support)
 ** XII. Economy
  - Contents Volume XII
  - Inroduction Volume XII
  - 00. Generated Production Chains (GPC)
  - 00. Energy Based Value System
- - 00. Ad Hoc Currencies
+ - 00. Ad hoc Currencies
  - 00. Supply
  - 00. Production
  - 00. Logistics
    - Modal Palletization
-   - Dabba Wallah
+   - Dabba Wallah Routing
+   - Quality Control Chains
+   - Transaction Flows
+   - Distributed Caches
  - 00. Commerce
  - 00. Consumption
  - 00. Recycling
