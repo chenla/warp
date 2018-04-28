@@ -46,3 +46,15 @@ strictly in the astrophyical sense.
 ** TL;DR
 ** References 
 
+
+  - Dole, S. H., & Asimov, I., Planets for man (2007), : RAND
+    Corporation.
+    cite:dole:2007planets-for-man
+  - O’Neill, G. K., The high frontier: human colonies in space
+    (2000), : Apogee Books.
+    cite:oneill:2000high-frontier
+  - Clarke, A. C., Profiles of the future: an inquiry into the limits
+    of the possible (1984), : Henry Holt & Co.
+    cite:clarke:1984profiles 
+  - Heppenheimer, T. A., Colonies in space. (1977), : Stackpole.
+    cite:heppenheimer:1977colonies
