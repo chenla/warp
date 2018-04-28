@@ -87,12 +87,12 @@ bibliography:../hoard/bib.bib
  - 35. [[./05/ww-primer.org][Primer]]
  - 36. [[./05/ww-middle.org][Middle]]
  - 37. [[./05/ww-arc.org][Arc]]
-** VI Implementation
- - [[./06/index.org][Contents Volume VI]]
- - [[./06/ww-intro-vol-6.org][Introduction Volume VI]]
- - 38. [[./06/ww-scenarios.org][Scenarios]]
- - 39. [[./06/ww-window.org][Window]]
- - 40. [[./06/ww-roadmap.org][Roadmap]]
+** VI Heliosphere
+ - Contents Volume VI
+ - Introduction Volume VI
+ - 38. Habitats for Man
+ - 39. Heliosphere
+ - 40. Biospheres
 ** VII Origins
  - [[./07/index.org][Contents Volume VII]]
  - [[./07/intro.org][Introduction Volume VII]]
@@ -130,7 +130,6 @@ bibliography:../hoard/bib.bib
 generative infrastructure
 
 ** XII Cooperation
-
 ** XIII Culture
 
 Origins and Lingua Franca are the bedrock for culture, so
@@ -141,7 +140,14 @@ atheists can learn from religion.
 
 It's also about the social structures of daily life
 
-** XIV
+** XIV Implementation
+ - [[./06/index.org][Contents Volume VI]]
+ - [[./06/ww-intro-vol-6.org][Introduction Volume VI]]
+ - 38. [[./06/ww-scenarios.org][Scenarios]]
+ - 39. [[./06/ww-window.org][Window]]
+ - 40. [[./06/ww-roadmap.org][Roadmap]]
+
+** XV
  - Contents Volume XII 
  - Preface Volume XII
  - Appendix
