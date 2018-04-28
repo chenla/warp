@@ -28,7 +28,7 @@ bibliography:../hoard/bib.bib
 :END:
 
 
-** I Foundations
+** I. Foundations
  - Copyright Page
  - [[./epigraph.org][Epigraph]]
  - Dedication
@@ -44,7 +44,7 @@ bibliography:../hoard/bib.bib
  - 04. [[./01/04/index.org][Estrangement]]
  - 05. [[./01/05/index.org][Boundries]]
  - 06. [[./01/06/index.org][Principles]]
-** II Frameworks
+** II. Frameworks
  - [[./02/index.org][Contents Volume II]]
  - [[./02/ww-intro-vol-2.org][Introduction Volume II]]
  - 07. [[./02/07/index.org][Points of View]]
@@ -55,7 +55,7 @@ bibliography:../hoard/bib.bib
  - 12. [[./02/12/ww-patterns.org][Patterns]]
  - 13. [[./02/13/ww-standards.org][Standards]]
  - 14. [[./02/14/ww-legibility.org][Legibility]]
-** III Components
+** III. Components
  - [[./03/index.org][Contents Volume III]]
  - [[./03/ww-intro-vol-3.org][Introduction Volume III]]
  - 15. [[./03/ww-identity.org][Identity]]
@@ -69,7 +69,7 @@ bibliography:../hoard/bib.bib
  - 23. [[./03/ww-distribution.org][Distribution]]
  - 24. [[./03/ww-succession.org][Succession]]
  - 25. [[./03/ww-infrastructure.org][Infrastructure]]
-** IV Methodologies
+** IV. Methodologies
  - [[./04/index.org][Contents Volume IV]]
  - [[./04/ww-intro-vol-4.org][Introduction Volume IV]]
  - 26. [[./04/ww-the-way.org][The Way]]
@@ -79,7 +79,7 @@ bibliography:../hoard/bib.bib
  - 30. [[./04/ww-replicators.org][Replicators]]
  - 31. [[./04/ww-fabrication.org][Fabrication]]
  - 32. [[./04/ww-agency.org][Agency]]
-** V  Workflow
+** V.  Workflow
  - [[./05/index.org][Contents Volume V]]
  - [[./05/ww-intro-vol-5.org][Introduction Volume V]]
  - 33. [[./05/ww-appl.org][APPL]]
@@ -87,27 +87,27 @@ bibliography:../hoard/bib.bib
  - 35. [[./05/ww-primer.org][Primer]]
  - 36. [[./05/ww-middle.org][Middle]]
  - 37. [[./05/ww-arc.org][Arc]]
-** VI Heliosphere
+** VI. Heliosphere
  - [[./06/index.org][Contents Volume VI]]
  - [[./06/intro.org][Introduction Volume VI]]
  - 38. Habitats for Man
  - 39. Heliosphere
  - 40. Biospheres
-** VII Origins
+** VII. Origins
  - [[./07/index.org][Contents Volume VII]]
  - [[./07/intro.org][Introduction Volume VII]]
  - 41. [[./41/index.org][Preamble]]
  - 42. [[./07/41/index.org][Big History]] 
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
-** VIII Lingua Franca
+** VIII. Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
  - 00. Living Languages
  - 00. Lingua Francas
  - 00. World Languages
  - 00. Continuity
-** IX Curriculum
+** IX. Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
  - 00. Learning
@@ -115,7 +115,7 @@ bibliography:../hoard/bib.bib
  - 00. Methods
  - 00. Mastery
  - 00. Curriculum
-** X Governance
+** X. Governance
  -[[./10/index.org][ Contents Volume X]]
  - [[./10/intro.org][Introduction Volume X]]
  - 00. Distributed Governance
@@ -129,8 +129,8 @@ bibliography:../hoard/bib.bib
 
 generative infrastructure
 
-** XII Cooperation
-** XIII Culture
+** XII. Cooperation
+** XIII. Culture
 
 Origins and Lingua Franca are the bedrock for culture, so
 why put it here?
@@ -140,14 +140,14 @@ atheists can learn from religion.
 
 It's also about the social structures of daily life
 
-** XIV Implementation
+** XIV. Implementation
  - [[./14/index.org][Contents Volume XIV]]
  - [[./14/intro.org][Introduction Volume XIV]]
  - 00. [[./14/ww-scenarios.org][Scenarios]]
  - 00. [[./14/ww-window.org][Window]]
  - 00. [[./14/ww-roadmap.org][Roadmap]]
 
-** XV
+** XV. 
  - Contents Volume XII 
  - Preface Volume XII
  - Appendix
