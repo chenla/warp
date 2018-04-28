@@ -32,6 +32,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+This is the volume where I let the cat out of the bag that I'm not
+only talking about earth, but potentially any place that man can make
+sustainably habitable in our solar system.
+
+We use the terms heliosphere, lithosphere, and biosphere here not
+strictly in the astrophyical sense.  
+
+
+
+
 ** TL;DR
 ** References 
 
