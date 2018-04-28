@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE: 7.41  Preamble TOC
+#+TITLE:   Mythos  TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,26 +10,22 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[.././index.org][top]]] [[[../index.org][up]]] [[[../42/index.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* 7.41 Preamble Table of Contents
+* Mythos | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/41/index.org
-:Created:  2018-04-26T18:25@Prek Leap (11.642600N-104.919210W)
-:ID:       1a46687a-00e0-41fd-a5d5-b61067823234
-:VER:      578013997.760089568
+:Name:     /home/deerpig/proj/chenla/warp/07/41/ww-mythos.org
+:Created:  2018-04-28T12:17@Prek Leap (11.642600N-104.919210W)
+:ID:       4862bc7f-8115-4e32-a753-8666c854fb4e
+:VER:      578164697.061482433
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:AYI4-6284
+:BXID:     proj:RMU1-3123
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - 00. [[./ww-mythos.org][Mythos]]          -> culural map
-  - 00. Syllabus        -> organizing all knowledge
-  - 00. Rabbit Hole     -> threshold doorways 
-  - 00. Pourquoi        -> why something came to be
 
 

@@ -129,7 +129,9 @@ bibliography:../hoard/bib.bib
 
 generative infrastructure
 
-** XII Culture
+** XII Cooperation
+
+** XIII Culture
 
 Origins and Lingua Franca are the bedrock for culture, so
 why put it here?
@@ -139,7 +141,7 @@ atheists can learn from religion.
 
 It's also about the social structures of daily life
 
-** XIII
+** XIV
  - Contents Volume XII 
  - Preface Volume XII
  - Appendix
