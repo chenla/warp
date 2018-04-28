@@ -27,7 +27,6 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
 ** I. Foundations
  - Copyright Page
  - [[./epigraph.org][Epigraph]]
@@ -126,11 +125,18 @@ bibliography:../hoard/bib.bib
  - 00. Constitution
  - 00. Statutes
 ** XI Infrastructure
+ - Contents Volume XI
+ - Inroduction Volume XI
 
 generative infrastructure
 
-** XII. Cooperation
+** XII. Commerce
+ - Contents Volume XII
+ - Inroduction Volume XII
+
 ** XIII. Culture
+ - Contents Volume XI
+ - Inroduction Volume XII
 
 Origins and Lingua Franca are the bedrock for culture, so
 why put it here?
