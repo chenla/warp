@@ -58,3 +58,6 @@ strictly in the astrophyical sense.
     cite:clarke:1984profiles 
   - Heppenheimer, T. A., Colonies in space. (1977), : Stackpole.
     cite:heppenheimer:1977colonies
+  - Sagan, C. E., Pale blue dot: a vision of the human future in space
+    (1994), : Random House Publishing Group.
+    cite:sagan:1994pale
