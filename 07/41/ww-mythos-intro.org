@@ -64,16 +64,17 @@ anyone, anywhere in the world at any stage of development by mapping
 any cultural mythos as a skin on top of this interface.
 
 The 3rd of Clarke's three laws states: "Any sufficiently advanced
-technology is indistinguishable from magic."  Technology has long now
-surpassed the ability for most non-specialists to understand.  A large
-number of people today have no idea how most of the technology they
-use every day works.  Ask the average person how an air conditioner
-works and you'll get a shrug.  People largely use technology, they
-don't understand it.  And today we are still in the early stages of
-the tecnhological revolution.  For most people, using Siri on an
-iPhone is functionally equivilent to magic.  So employing the
-foundational framework for undestanding the world, our cultural mythos
-as a a technological interface is the most natural approach to take.
+technology is indistinguishable from magic."cite:clarke:1984profiles
+Technology has long now surpassed the ability for most non-specialists
+to understand.  A large number of people today have no idea how most
+of the technology they use every day works.  Ask the average person
+how an air conditioner works and you'll get a shrug.  People largely
+use technology, they don't understand it.  And today we are still in
+the early stages of the tecnhological revolution.  For most people,
+using Siri on an iPhone is functionally equivilent to magic.  So
+employing the foundational framework for undestanding the world, our
+cultural mythos as a a technological interface is the most natural
+approach to take.
 
 ** TL;DR
 
