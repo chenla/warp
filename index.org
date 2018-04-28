@@ -130,10 +130,20 @@ bibliography:../hoard/bib.bib
 
 generative infrastructure
 
-** XII. Commerce
+** XII. Economy
  - Contents Volume XII
  - Inroduction Volume XII
-
+ - 00. Generated Production Chains (GPC)
+ - 00. Energy Based Value System
+ - 00. Ad Hoc Currencies
+ - 00. Supply
+ - 00. Production
+ - 00. Logistics
+   - Modal Palletization
+   - Dabba Wallah
+ - 00. Commerce
+ - 00. Consumption
+ - 00. Recycling
 ** XIII. Culture
  - Contents Volume XI
  - Inroduction Volume XII
