@@ -28,10 +28,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
- - [[./00/ww-epigraph.org][Epigraph]]
- - [[./00/intro.org][Introduction]]
- - 00. [[./00/ww-plan.org][Plan of the Work]]
- - 00. [[./00/ww-synopsis.org][Synopsis]]
+ - [[./ww-epigraph.org][Epigraph]]
+ - [[./intro.org][Introduction]]
+ - 00. [[./ww-plan.org][Plan of the Work]]
+ - 00. [[./ww-synopsis.org][Synopsis]]
  - 00. [[./index.org][Contents Volume I]]
  - 00. [[./intro.org][Introduction Volume I]]
  - 01. [[./01/ww-civilization.org][Civilis]]
