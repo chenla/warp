@@ -27,14 +27,17 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** I. Foundations
+** Front Matter
  - Copyright Page
  - [[./epigraph.org][Epigraph]]
  - Dedication
+ - Acknowledgments
  - Preface
  - [[./intro.org][Introduction]]
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
+ - Prolegomenon
+** I. Foundations
  - [[./01/index.org][Contents Volume I]]
  - [[./01/intro.org][Introduction Volume I]]
  - 01. [[./01/01/index.org][Civilization]]
@@ -191,6 +194,21 @@ bibliography:../hoard/bib.bib
      - the fashion layer should riff on themes that are
        layed down by the culture-layer -- not toss
 
+** XIV. Implementation
+  - contents volume XIV
+  - introduction volume XIV
+  - middle
+  - culture
+  - scope
+    - guild
+    - contact
+    - special circumstance
+
+---
+
+The three branches of civilization which provide checks and
+balances on each other.
+
 middle   runs things on a day to day basis
 culture  is largely in the background, has great power but
          thinks and acts very slowly - it saves, safeguards 
@@ -198,16 +216,17 @@ culture  is largely in the background, has great power but
 Scope    very strong and works in real time, but has a 
          very short leash -- it is an interface with
          everything outside
-** XVI. Scenarios
+
+** XV. Scenarios
  - [[./14/index.org][Contents Volume XIV]]
  - [[./14/intro.org][Introduction Volume XIV]]
  - 00. [[./14/ww-scenarios.org][Scenarios]]
  - 00. [[./14/ww-window.org][Window]]
  - 00. [[./14/ww-roadmap.org][Roadmap]]
 
-** XVII. Back Matter 
- - Contents Volume XII 
- - Preface Volume XII
+** Back Matter 
+ - Contents
+ - Preface
  - Appendix
    - shoulders
    - rabbit holes
