@@ -38,8 +38,8 @@ bibliography:../hoard/bib.bib
  - [[./synopsis.org][Synopsis]]
  - [[./01/index.org][Contents Volume I]]
  - [[./01/intro.org][Introduction Volume I]]
- - 01. [[./01/01/index.org][Civilis]]
- - 02. [[./01/02/index.org][Ab initio]]
+ - 01. [[./01/01/index.org][Civilization]]
+ - 02. [[./01/02/index.org][First Principles]]
  - 03. [[./01/03/index.org][Nature of Order]]
  - 04. [[./01/04/index.org][Estrangement]]
  - 05. [[./01/05/index.org][Boundries]]
@@ -141,11 +141,11 @@ atheists can learn from religion.
 It's also about the social structures of daily life
 
 ** XIV Implementation
- - [[./06/index.org][Contents Volume VI]]
- - [[./06/ww-intro-vol-6.org][Introduction Volume VI]]
- - 38. [[./06/ww-scenarios.org][Scenarios]]
- - 39. [[./06/ww-window.org][Window]]
- - 40. [[./06/ww-roadmap.org][Roadmap]]
+ - [[./14/index.org][Contents Volume XIV]]
+ - [[./14/intro.org][Introduction Volume XIV]]
+ - 00. [[./14/ww-scenarios.org][Scenarios]]
+ - 00. [[./14/ww-window.org][Window]]
+ - 00. [[./14/ww-roadmap.org][Roadmap]]
 
 ** XV
  - Contents Volume XII 
