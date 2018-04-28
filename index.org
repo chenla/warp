@@ -88,8 +88,8 @@ bibliography:../hoard/bib.bib
  - 36. [[./05/ww-middle.org][Middle]]
  - 37. [[./05/ww-arc.org][Arc]]
 ** VI Heliosphere
- - Contents Volume VI
- - Introduction Volume VI
+ - [[./06/index.org][Contents Volume VI]]
+ - [[./06/intro.org][Introduction Volume VI]]
  - 38. Habitats for Man
  - 39. Heliosphere
  - 40. Biospheres
