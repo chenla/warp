@@ -105,5 +105,10 @@ as a a technological interface is the most natural approach to take.
   - Campbell, J., Myths to live by (1984), : Bantam. 
     cite:campbell:1984myths-live-by
 
-  - Clarkes three laws.
-    Profiles of the Future.
+  - Clarke, A. C., Profiles of the future: an inquiry into the limits
+    of the possible (1984), : Henry Holt & Co.
+    cite:clarke:1984profiles 
+
+  - Wikipedia, , /Clarke's three laws --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018clarkes-three-laws
