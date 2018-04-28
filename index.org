@@ -78,7 +78,7 @@ bibliography:../hoard/bib.bib
  - 30. [[./04/ww-replicators.org][Replicators]]
  - 31. [[./04/ww-fabrication.org][Fabrication]]
  - 32. [[./04/ww-agency.org][Agency]]
-** V.  Workflow
+** V. Workflow
  - [[./05/index.org][Contents Volume V]]
  - [[./05/ww-intro-vol-5.org][Introduction Volume V]]
  - 33. [[./05/ww-appl.org][APPL]]
@@ -126,7 +126,7 @@ bibliography:../hoard/bib.bib
  - 00. Statutes
 ** XI Infrastructure
  - Contents Volume XI
- - Inroduction Volume XI
+ - Introduction Volume XI
  - 00. Information
  - 00. Energy
    - Fuel
@@ -140,9 +140,24 @@ bibliography:../hoard/bib.bib
  - 00. Environment (as in life support)
 ** XII. Economy
  - Contents Volume XII
- - Inroduction Volume XII
- - 00. Generated Production Chains (GPC)
- - 00. Energy Based Value System
+ - [[./12/intro.org][Introduction Volume XII]]
+ - 00. Capitalism
+   - capitalization is bottom up, so it beat command and
+     control systems.
+   - cons. 
+     - ecological niche based -- fill the niche and let
+       competition regulate by killing off oversupply.
+     - positive feedback loops
+     - monopolies & centralization
+     - produces gluts
+     - encourages overconsumption
+     - wealth and power inequalities (hoarding)
+     - rent seeking (middlemen & corruption)
+ - 00. Free Market Framework
+   - meant to address the weaknesses of capitalist systems
+     and reinforce and reward the parts that work.
+ - 00. Generated Production Pipes (GPP)
+ - 00. Energy Based Valuation
  - 00. Ad hoc Currencies
  - 00. Supply
  - 00. Production
@@ -157,24 +172,40 @@ bibliography:../hoard/bib.bib
  - 00. Recycling
 ** XIII. Culture
  - Contents Volume XI
- - Inroduction Volume XII
+ - Introduction Volume XII
+   - culture ensures that you will recognize tomorrow
+   - offset crazy-ass ROC
+ - slow infrastructure
+ - slow governance
+ - long term investment -> bread cast apon the water
+   - moonshots
+   - builds the impossible
+ - collective memory
+   - don't repeat past mistakes
+   - collect, preserve and curate the present
+ - guardians of the commons -> this must be central part of 
+                               governance articles
+ - continuity
+   - structures of daily life
+   - vernacular architecture & design
+     - the fashion layer should riff on themes that are
+       layed down by the culture-layer -- not toss
 
-Origins and Lingua Franca are the bedrock for culture, so
-why put it here?
-
-Culture is about all the stuff that that TEDTalk about what
-atheists can learn from religion.
-
-It's also about the social structures of daily life
-
-** XIV. Implementation
+middle   runs things on a day to day basis
+culture  is largely in the background, has great power but
+         thinks and acts very slowly - it saves, safeguards 
+         and maintains the hoard  
+Scope    very strong and works in real time, but has a 
+         very short leash -- it is an interface with
+         everything outside
+** XVI. Scenarios
  - [[./14/index.org][Contents Volume XIV]]
  - [[./14/intro.org][Introduction Volume XIV]]
  - 00. [[./14/ww-scenarios.org][Scenarios]]
  - 00. [[./14/ww-window.org][Window]]
  - 00. [[./14/ww-roadmap.org][Roadmap]]
 
-** XV. 
+** XVII. Back Matter 
  - Contents Volume XII 
  - Preface Volume XII
  - Appendix
