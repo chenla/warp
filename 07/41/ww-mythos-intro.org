@@ -1,0 +1,109 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Mythos Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]]
+
+* Mythos Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/07/41/ww-mythos-intro.org
+:Created:  2018-04-28T12:22@Prek Leap (11.642600N-104.919210W)
+:ID:       997c4246-ba4f-4969-9be8-28f0efc34783
+:VER:      578164993.642778031
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:XSW3-3303
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+
+Mythos is the cornerstone of human cognition, communication and social
+systems.  Myth at it's core begins with an origin story, and from
+there expands out to provide a narrative framework for people to
+understand and navigate the world around them.  Myths change over time
+to reflect not only how people see and experience the world, but also
+what they are capable of understanding.  Big History is the
+cornerstone for a cultural mythos for a technologically advanced
+civilization, but it wouldn't be appropriate for cultures at earlier
+succession stages.
+
+For this reason, we need to match myth with the developmental stage
+that people are in.  This doesn't mean that people at earlier stages
+are /savages/ or stupid, they are every bit as intelligent as we are
+today, and in some respect their understanding of their place in
+nature was more advanced than ours today.  Mythos is inherently lossy,
+it is a map of a territory that has big gaps in it.  The smaller the
+gaps, the more fine-grained a worldview and more nuanced and abstract
+the cultural mythos is to understand it.
+
+Religions and even governance are both based on cultural mythos of
+their time.  As JRR Tolkien understood, you can't build a spoken or
+written language without an underlying mythology.
+
+Mythos is a progressive living narrative that not only seeks to
+explain, but provides means for us to cope with the world.  Technology
+extends and externalizes our ability to cope and manipulate the world
+and with the development of cognitive machines it provides an ideal
+fondation for building an universal interface that can be used by
+anyone, anywhere in the world at any stage of development by mapping
+any cultural mythos as a skin on top of this interface.
+
+The 3rd of Clarke's three laws states: "Any sufficiently advanced
+technology is indistinguishable from magic."  Technology has long now
+surpassed the ability for most non-specialists to understand.  A large
+number of people today have no idea how most of the technology they
+use every day works.  Ask the average person how an air conditioner
+works and you'll get a shrug.  People largely use technology, they
+don't understand it.  And today we are still in the early stages of
+the tecnhological revolution.  For most people, using Siri on an
+iPhone is functionally equivilent to magic.  So employing the
+foundational framework for undestanding the world, our cultural mythos
+as a a technological interface is the most natural approach to take.
+
+** TL;DR
+
+
+** References
+
+  - Hanson, R., /Like the ancients, we have gods. they’ll get greater/
+    (2018).
+    cite:hanson:2018we-have-gods
+  - Suarez, D., Freedom (tm) (2011), : Signet.
+    cite:suarez:2011freedom
+  - Campbell, J., & Moyers, B., The power of myth (1991), : Anchor.
+    cite:campbell:1991power-of-myth 
+  - Campbell, J., The masks of god, vol. 4: creative mythology
+    (1991), : Arkana.
+    cite:campbell:1991masks-of-god-4
+  - Campbell, J., The masks of god, volume 3: occidental mythology
+    (1964), : Penguin Books.
+    cite:campbell:1991masks-of-god-3
+  - Campbell, J., The masks of god, volume 2: oriental mythology
+    (2008), : Martin Secker & Warburg.
+    cite:campbell:2008masks-of-god-2
+  - Campbell, J., The masks of god, vol. 1: primitive mythology
+    (1960), : Martin Secker & Warburg.
+    cite:campbell:1960masks-of-god-1
+  - Campbell, J., The hero with a thousand faces: commemorative
+    edition, vol. 17 edition 1 (2004), : Princeton University Press.
+    cite:campbell:2004hero-thousand
+  - Campbell, J., Myths to live by (1984), : Bantam. 
+    cite:campbell:1984myths-live-by
+
+  - Clarkes three laws.
+    Profiles of the Future.
