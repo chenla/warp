@@ -34,11 +34,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./ww-synopsis.org][Synopsis]]
  - [[./index.org][Contents Volume I]]
  - [[./intro.org][Introduction Volume I]]
- - 01. [[./01/ww-civilization.org][Civilis]]
- - 02. [[./02/ww-ab-initio.org][Ab initio]] 
- - 03. [[./03/ww-order.org][Nature of Order]]
- - 04. [[./04/ww-estrangement.org][Estrangement]]
- - 05. [[./05/ww-boundries.org][Boundries]]
- - 06. [[./06/ww-principles.org][Principles]]
+ - 01. [[./01/index.org][Civilization]]
+ - 02. [[./02/index.org][First Principles]]
+ - 03. [[./03/index.org][Nature of Order]]
+ - 04. [[./04/index.org][Estrangement]]
+ - 05. [[./05/index.org][Boundries]]
+ - 06. [[./06/index.org][Principles]]
 
 
