@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Middle
+#+TITLE: The Culture
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Middle
+* The Culture
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-middle.org
@@ -40,6 +40,30 @@ civilization.
 — Vernor Vinge
 #+end_quote
 
+
+** Scope
+
+The primer works as a kind of kernal in an operating system,
+the kernal translates between human languages to machine
+language that the CPU understands.
+
+The majority of an operating system is all the stuff that we
+want computers to do, we need an interace, we need to run
+programs, we need to connect to other computers over
+networks, we need tools, automated processes, security etc.
+
+Iaan Banks wrote a series of books about a post-scarcity
+civilization called The Culture that is run and largely
+governed by benevolent AIs.
+
+We will borrow this term in this Part to give a little
+insight on how the civilization we are building will
+interface with the primer which is the civilization's
+kernal.
+
+
+
+
 ** TL;DR
 
 In a nutshell, Middle is automated infrastructure,
@@ -49,7 +73,7 @@ In fact, my conception of it as it stands is to take over a
 large part of what government, utilities, logistics, and the
 financial sector do today.
 
-If it works -- Middle is infastructure that makes
+If it works -- Middle is infrastructure that makes
 fine-grained distributed systems possible for both its and
 bits.
 
