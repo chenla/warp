@@ -128,8 +128,20 @@ something is not a zero-sum transfer, then it no longer functions as
 property.  So the concept of copyright changed to mean that the person
 who owned the original copy also effectively owned all copies made of
 it, whether they were physical or not.  This has not worked out very
-well.  But it also has thrown a very large and growing part of the
-concept of property and market-economies out of wack.
+well.
+
+As more and more wealth becomes information that is not tied to a
+physical object, the base assumption of market-economies based on
+zero-sum transfer of work and goods becomes increasingly unstable.
+
+This is set to become even more complicated as AI systems become smart
+enough to autonomously control machines.  Does a self-driving car need
+an owner?  The entire assumption that all agents are human beings
+because only human beings are capable of being autonomous and
+self-directing becomes as unstable as treating information as
+property.
+
+
 
 
 
