@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: The Culture OS
+#+TITLE: The OS
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* The Culture OS
+* The OS
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-middle.org
