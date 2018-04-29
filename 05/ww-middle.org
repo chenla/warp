@@ -77,6 +77,39 @@ inproving over time.  A limbic system for a civilization is
 a rather scary thought, so let's stick with the kernal
 metaphor.
 
+We will go into all the gory details in a later volume, but
+we need to understand from the perspective of workflow a
+hoard is compiled to become a primer and then the running
+primer is providing feedback back up to the hoard via the
+ARC or archive which we will introduce in the next Part.
+
+The civilization we are imagining is not a monolithic random
+thing that we have today -- it is structured a bit like a
+meta government that is divided into three very broad
+branches that provide checks and balances on each other.
+
+The branches are MIDDLE, CULTURE and SCOPE.  MIDDLE's domain
+are the faster pace-layers of governance, infrastructure and
+commerce, CULTURE operates at the slowest pace-layer, and
+maintains continuity, long term thinking and planning and
+things that are too slow for Sapians to think about much.
+It is CULTURE which will be in control of the Arc.  Finally
+we have SCOPE.  Scope is outside the pace-layers.  Where
+CULTURE and MIDDLE are highly distributed, SCOPE is global.
+SCOPE has greate power, but is kept on a short leash.  SCOPE
+ensures that the distributed system stays connected and
+doesn't fracture and fork.  SCOPE is the interface with
+anything outside of The Culture, both in terms of diplomacy,
+trade and security.  SCOPE is divided into a number of
+subsections which we won't get into here.
+
+So let's now consider the relationship between the primer
+and the culture and how together they form a complete
+running operating system for civilzation.  We will need to
+cover a lot more ground before we will be ready to return to
+this three branch model to understand the architecture and
+the reasons behind the design.
+
 
 ** TL;DR
 
