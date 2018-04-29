@@ -45,210 +45,59 @@ We need people with these skills and we especially need women who have these ski
 Cambodia needs people with advanced IT skills if they are going to be able to break out of the Microsoft Bubble and start using advanced technologies.  It's like in the movie Field of Dreams -- build a skilled labor pool and they will invest.  If we can pave the way in Cambodia and show how to teach these advanced technologies, other schools will follow our lead.  But when they do, the focus will be on men and women won't be left behind, but they will struggle. 
 
 For this reason we need to focus both on teaching the technologies that will make Cambodia competitive in IT and to address the gender gap in education and in hiring.  This is why our focus is on teaching women.  We need to learn how to address the special challenges that they face and show employers that it's to their advantage to hire women. 
+
 ** Proposal Summary
 
 We are primarily a research group that was established in 2005 to initially develop technologies for building highly scalable distributed long term libraries that can maintain collections for hundreds and hopefully thousands of years that capture and preserve the surrounding context of what is in collections so that future generations will be able to understand we were talking about.  The project first started in Japan in 1998 and was meant to become a companion library to become part of the 10,000 year clock that is being built by the Long Now Foundation.  The clock, which is over two floors tall, is being build now in mountain in Texas and is designed to run with little or no human intervention for 10,000 years. 
 
 The work on the library made us realize that libraries can not be treated as time capsules to be locked away in a cave.  There is nothing wrong with time capsules, but a library is a living breathing repository of human memory and experience.  Libraries are the genome for civilizations. 
-The digitization revolution quickly made us realize that
-libraries, which think and work at far slower time scales
-than at faster pace-layers where knowledge was being
-created.  Simply put, libraries were being left behind, and
-the institutional functions that libraries provide to
-civilization were not being addressed by the dotcom boom.
 
-Since then we have worked to re-imagine electronic libraries
-no as repositories of works, but as maps of human knowledge.
-We began work on what we call Slow AI, a semi-autonomous
-cognitive machine that thinks and works at time scales which
-are too slow for humans.  The library might be our memory,
-but we need processes that ensure that bit rot doesn't
-destroy these collections over decades and centuries, and to
-integrate new material, literally weaving it into
-collections so that these libraries can become the
-foundation for a wide variety of application from forestry,
-groundwater management, monitoring of nuclear waste storage,
-climate monitoring and change and institutional management
-of national infrastructure.
+The digitization revolution quickly made us realize that libraries, which think and work at far slower time scales than at faster pace-layers where knowledge was being created.  Simply put, libraries were being left behind, and the institutional functions that libraries provide to civilization were not being addressed by the dotcom boom. 
 
-As we stated before, people with advanced skills are
-critical to our project.  And women are being left behind.
+Since then we have worked to re-imagine electronic libraries no as repositories of works, but as maps of human knowledge. We began work on what we call Slow AI, a semi-autonomous cognitive machine that thinks and works at time scales which are too slow for humans.  The library might be our memory, but we need processes that ensure that bit rot doesn't destroy these collections over decades and centuries, and to integrate new material, literally weaving it into collections so that these libraries can become the foundation for a wide variety of application from forestry, groundwater management, monitoring of nuclear waste storage, climate monitoring and change and institutional management of national infrastructure. 
 
-After three decades living in the region we are aware of the
-special challenges that women in SE Asia have in addition to
-the challenges that women in developed countries have.
+As we stated before, people with advanced skills are critical to our project.  And women are being left behind.
 
-Social structures in SE Asia are still anchored around
-tight-knit villages (even in big cities) which are made up
-of extended families.  Most families only have enough money
-to send one or two children to university and most of the
-time it's the boys that are sent.  Like my mother who grew
-up in the great depression, the only way she was able to go
-to college was to do it on her own.  Her family didn't
-provide any financial support, that went to the boys.
+After three decades living in the region we are aware of the special challenges that women in SE Asia have in addition to the challenges that women in developed countries have. 
 
-However, it's women in countries like Cambodia who are the
-backbone of family structures.  They are expected to
-generate income, take care of the house, cook, clean and
-raise children and the elderly.  There is very strong
-pressure placed on them to stay within the village and
-family.  This is the single biggest challenge.  We need to
-find solutions for women here that allow them to meet the
-needs of their families expectations, but also to build
-their own lives and careers.
+Social structures in SE Asia are still anchored around tight-knit villages (even in big cities) which are made up of extended families.  Most families only have enough money to send one or two children to university and most of the time it's the boys that are sent.  Like my mother who grew up in the great depression, the only way she was able to go to college was to do it on her own.  Her family didn't provide any financial support, that went to the boys. 
 
-This is where Remote Work comes into play. There are a
-growing number of often very successful companies whose work
-force work from where they live, scattered around the
-planet.
+However, it's women in countries like Cambodia who are the backbone of family structures.  They are expected to generate income, take care of the house, cook, clean and raise children and the elderly.  There is very strong pressure placed on them to stay within the village and family.  This is the single biggest challenge.  We need to find solutions for women here that allow them to meet the needs of their families expectations, but also to build their own lives and careers. 
 
-We want to prepare women to work anywhere they want, but if
-they are unable to leave the country or move to a big city
-away from their family and village these these kinds
-organizations provide a flexible means of providing these
-women with very good jobs and the flexibility to also meet
-family expectations.  It's not enough to teach people skills
-if they are unable to go to where the jobs are.  So we will
-bring the jobs to them and find ways to make that work.
+This is where Remote Work comes into play. There are a growing number of often very successful companies whose work force work from where they live, scattered around the planet. 
+
+We want to prepare women to work anywhere they want, but if they are unable to leave the country or move to a big city away from their family and village these these kinds organizations provide a flexible means of providing these women with very good jobs and the flexibility to also meet family expectations.  It's not enough to teach people skills if they are unable to go to where the jobs are.  So we will bring the jobs to them and find ways to make that work. 
 
 ** Motivation to start project
 
-All of our work is grounded in the ideals founded in the
-Enlightenment; rationality, scientific process,
-understanding and making allowances for human limitations,
-and a drive improve peoples lives today, while working on
-long term solutions that will help all of civilization to
-progress.  We believe that we can achieve these goals living
-and working in places like Cambodia more than in Berlin or
-Silicon Valley.
+All of our work is grounded in the ideals founded in the Enlightenment; rationality, scientific process, understanding and making allowances for human limitations, and a drive improve peoples lives today, while working on long term solutions that will help all of civilization to progress.  We believe that we can achieve these goals living and working in places like Cambodia more than in Berlin or Silicon Valley. 
 
-Educating women has made the single biggest impact on
-humanity in the last hundred years.  Educating women will
-eventually bring population explosion under control.  But
-this is just the tip of the iceberg.  Women in SE Asia have
-more influence on their children and families than anyone
-else.  If your mom is smart and educated, you will have a
-far better chance of also becoming smart and educated.
-Investing in women in developing countries is an investment
-in the entire country.  The women will drag the men along
-with them up the ladder if they want to or not.
+Educating women has made the single biggest impact on humanity in the last hundred years.  Educating women will eventually bring population explosion under control.  But this is just the tip of the iceberg.  Women in SE Asia have more influence on their children and families than anyone else.  If your mom is smart and educated, you will have a far better chance of also becoming smart and educated. Investing in women in developing countries is an investment in the entire country.  The women will drag the men along with them up the ladder if they want to or not. 
 
-The pilot program we are establishing is located at Prek
-Leap National College of Agriculture.  The school is in the
-process of upgrading to become a National College of
-Agricuture and Technology.  Our partnership with the school
-is to help bring the technology side to the school and to
-return the school to being a research school as it was
-before the Khmer Rouge. 
+The pilot program we are establishing is located at Prek Leap National College of Agriculture.  The school is in the process of upgrading to become a National College of Agricuture and Technology.  Our partnership with the school is to help bring the technology side to the school and to return the school to being a research school as it was before the Khmer Rouge. 
 
-Over three quarters of our students are from remote
-provinces.  We have the experience needed to reach women and
-help them no matter where they are from.  The school
-provides housing (not great housing but we're working on
-that too) and an environment that students who aren't from
-urban areas feel comfortable.
+Over three quarters of our students are from remote provinces.  We have the experience needed to reach women and help them no matter where they are from.  The school provides housing (not great housing but we're working on that too) and an environment that students who aren't from urban areas feel comfortable. 
 
-Since the school is under both the ministry of agriculture
-and the ministry of education we are in a good position to
-find potential candidates for the program from anywhere in
-the country.
+Since the school is under both the ministry of agriculture and the ministry of education we are in a good position to find potential candidates for the program from anywhere in the country. 
 
 ** What Innovations?
 
-1. Estabish baseline communication, critical thinking and
-problem solving cognitive skills -- learning how to
-learn. 2. Instill the habit of life-long learning, it starts
-in the cradle and ends in the grave.  This is a habit
-that is contagious, and will be passed on to student's
-children. 3. Education is not a place, it is a process and a
-frame of mind that is part of everything you do, so we will
-provide a framework designed so that all material can be
-used in classroom and as life-long self-directed independent study.
-4. Mastery learning ensures that everyone progresses only
-when they have mastered what they are working on.  So
-students will not be left behind, and courses will not
-progress in group lockstep.  5. Blended learning techniques
-"flip the classroom" so that students watch lectures as 10
-minute videos before class and then class time is spent on
-actual work and practice to master the material with the
-help of instructors.  6. A Resume is a terrible way for
-employers to gain a sense of a person's work and kills.
-Each student will have a public Git repository (on Github)
-which will contain all of their classwork and project work.
-Their repo will show what they can do, not just tell people
-what they can do.  7. We are in the process of establishing
-a mentorship program with professional women working in IT
-from around the world.  We will match each student with a IT
-professional who will act as a mentor and sometimes even a
-tutor who will help students through the course material.
-Mentors will be encouraged to visit Cambodia where they can
-stay at the school for a few days or even a few weeks and
-establish a personal relationship with their student, and
-will be encouraged to make their own videos at the school in
-the fields they are experts in.
-
+1. Estabish baseline communication, critical thinking and problem solving cognitive skills -- learning how to learn. 2. Instill the habit of life-long learning, it starts in the cradle and ends in the grave.  This is a habit that is contagious, and will be passed on to student's children. 3. Education is not a place, it is a process and a frame of mind that is part of everything you do, so we will provide a framework designed so that all material can be used in classroom and as life-long self-directed independent study. 4. Mastery learning ensures that everyone progresses only when they have mastered what they are working on.  So students will not be left behind, and courses will not progress in group lockstep.  5. Blended learning techniques "flip the classroom" so that students watch lectures as 10 minute videos before class and then class time is spent on actual work and practice to master the material with the help of instructors.  6. A Resume is a terrible way for employers to gain a sense of a person's work and kills. Each student will have a public Git repository (on Github) which will contain all of their classwork and project work. Their repo will show what they can do, not just tell people what they can do.  7. We are in the process of establishing a mentorship program with professional women working in IT from around the world.  We will match each student with a IT professional who will act as a mentor and sometimes even a tutor who will help students through the course material. Mentors will be encouraged to visit Cambodia where they can stay at the school for a few days or even a few weeks and establish a personal relationship with their student, and will be encouraged to make their own videos at the school in the fields they are experts in. 
 ** Objectives
 
-The main objectives are that over a four year program of
-study that students will obtain the core communication and
-technical skills needed for jobs in one of two tracks.
+The main objectives are that over a four year program of study that students will obtain the core communication and technical skills needed for jobs in one of two tracks. 
 
-The first track will be as system administrators and DevOps
-coordinators who work between operations and development.
-This is especially important for companies who do continious
-release.
+The first track will be as system administrators and DevOps coordinators who work between operations and development. This is especially important for companies who do continious release. 
 
-The second track will be to work as machine learning
-developers.  Machine learning skills are in very high demand
-and are set to become the largest growth sector in the IT
-industry.  As Kevin Kelly wrote, in the 19th century all you
-needed to do to get rich was to take something mechanical
-and electrify it.  The same thing is happening today by
-taking anything that uses software and adding AI to it.
+The second track will be to work as machine learning developers.  Machine learning skills are in very high demand and are set to become the largest growth sector in the IT industry.  As Kevin Kelly wrote, in the 19th century all you needed to do to get rich was to take something mechanical and electrify it.  The same thing is happening today by taking anything that uses software and adding AI to it. 
 
-Third, through mentorship programs, working on real world
-open source projects in classes, and remote internships
-students will graduate with a portfolio of work, and
-experience working in a company.
+Third, through mentorship programs, working on real world open source projects in classes, and remote internships students will graduate with a portfolio of work, and experience working in a company. 
 
-Fourth, we will work to develop the physical infrastructure
-for women to be able to do these jobs.  Village life is very
-intense and chaotic.  For this to work, women will need what
-Virginia Woolfe called "a room of one's own".  We will work
-with students to develop solutions to this problem
-directly.  There are a number of different ways it can be
-done, and Remote Work companies commonly provide funds to
-workers to need to rent a room, or even a budget to work out
-of a coffee shop.  It's premature to say what those
-solutions are until we know what the specific needs of the
-students in the program will have.
+Fourth, we will work to develop the physical infrastructure for women to be able to do these jobs.  Village life is very intense and chaotic.  For this to work, women will need what Virginia Woolfe called "a room of one's own".  We will work with students to develop solutions to this problem directly.  There are a number of different ways it can be done, and Remote Work companies commonly provide funds to workers to need to rent a room, or even a budget to work out of a coffee shop.  It's premature to say what those solutions are until we know what the specific needs of the students in the program will have. 
 
-One thing you notice when you spend time in villages is that
-from very early age, children learn to help take care of
-younger children around them at a lower cognitive
-developmental stage than they are.  It's facinating to
-watch, and it works very well.  In India there is a saying
-that the last step in learning something is to teach it.  So
-putting this together, it will be natural for students to
-contribute to the course material and to help students who
-are coming up behind them.  We will encourage students to
-make their own videos.  In fact this will be an important
-part of the program.  It's not enough to make one video that
-everyone watches.  It's better to have the same topic
-covered by several people from different perspectives.  This
-will be an important part of reinforcing materal covered
-over time that will be part of using spaced repitition as a
-teaching method.
+One thing you notice when you spend time in villages is that from very early age, children learn to help take care of younger children around them at a lower cognitive developmental stage than they are.  It's facinating to watch, and it works very well.  In India there is a saying that the last step in learning something is to teach it.  So putting this together, it will be natural for students to contribute to the course material and to help students who are coming up behind them.  We will encourage students to make their own videos.  In fact this will be an important part of the program.  It's not enough to make one video that everyone watches.  It's better to have the same topic covered by several people from different perspectives.  This will be an important part of reinforcing materal covered over time that will be part of using spaced repitition as a teaching method. 
 
-Safety is difficult and needs much more consideration, but
-we believe that creating save online communities and
-fostering a habit of looking out for one another in
-students, instructors and mentors will be an important part
-of this process.  Bad things happen when they are secret,
-and being part of a community in which everyone has each
-other's back will be one of the programs core principles.
-And online safety is only a small part of that.  Domestic
-violence, peer pressure and the inevitable messiness of
-realtionships  with the opposite sex, both romantically,
-socially and professionally are all equally important.
+Safety is difficult and needs much more consideration, but we believe that creating save online communities and fostering a habit of looking out for one another in students, instructors and mentors will be an important part of this process.  Bad things happen when they are secret, and being part of a community in which everyone has each other's back will be one of the programs core principles. And online safety is only a small part of that.  Domestic violence, peer pressure and the inevitable messiness of realtionships  with the opposite sex, both romantically, socially and professionally are all equally important. 
+
+**  Benifits to community
 
