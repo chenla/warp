@@ -206,6 +206,23 @@ a civilization.
 :END:
 
 
+Elon Musk has said many times that he is always looking for
+industries where there are enormous inefficiencies and if
+you can reduce those inefficiencies by orders of magnitude
+you will make a lot of money and transform an industry.
+
+This is exactly what he has done with SpaceX.  He is
+transforming the space launch industry building that use
+rockets tht cost 500-600 million and thrown away after the
+first use to a system that reuses most of the rocket many
+times and reduce launch costs to under US$60 million.  That
+is today.  Within 10 years the rockets will be one hundred
+percent reusable and can be refueled within a couple of
+hours and flown again like a commercial jet.
+
+The same opportunity exists today with ERP software which
+potentially could be used by every company on the planet.
+
 Enterprise Resource Planning (ERP) software is a broad class
 of software that manages nearly all aspects of a business.
 Typical ERP modules include:
@@ -266,16 +283,16 @@ To give the illusion of traditional corporate silos, people
 in different departments with different levels of access
 will each see a different view of the company from their
 perspective within the context of what they do in the
-company.  We call this a worldview.  An account's worldview
-of a company is vastly different from customer service or
-the people running production, which has it's own software
-applications specific to what they are producing.  The CEO
-or President has god like powers to see everything but they
-couldn't function if they did -- so oddly enough the higher
-someone is in the power structure the more abstract and
-summarized their worldview is.  This allows them to see the
-entire company at a glance and see patterns of where things
-are working and where they aren't.
+company.  We call this a worldview.  An accountant's
+worldview of a company is vastly different from customer
+service or the people running production, which has it's own
+software applications specific to what they are producing.
+The CEO or President has god like powers to see everything
+but they couldn't function if they did -- so oddly enough
+the higher someone is in the power structure the more
+abstract and summarized their worldview is.  This allows
+them to see the entire company at a glance and see patterns
+of where things are working and where they aren't.
 
 This would provide companies with very flexible and
 customizable ways of shaping the way processes are handled
@@ -287,7 +304,7 @@ Designing an ERP system this way would be transformative,
 but it is only part of what's possible.  Because all
 information in the company is in one large graph database,
 we eliminate places in the system where the same information
-is stored in different places.  This will reduce many errors
+is stored in multiple places.  This will reduce many errors
 that cause so many problems in large or even small
 organizations.  The second thing that becomes possible is
 that it becomes relatively easy to automate a significant
@@ -298,7 +315,7 @@ out consistently, almost instantly and reduce the number of
 people needed to manage information in a large organization.
 
 But this is only the beginning.  So far we have only
-considered ERP as a monolithic inhouse software company.
+considered ERP as a monolithic inhouse software application.
 One company, one ERP system.  This is even how cloud-based
 ERP systems on the market are done.  One company one account
 -- each company is a silo in its right.
@@ -317,7 +334,7 @@ doing different parts that are all pulled together by one
 comapny who puts their logo on it and markets and sells it.
 It's the same reason that it takes $30-100 million to make a
 hollywood movie, everything is outsourced and everyone is
-taking a cut inbetween everyone else.
+taking a cut in between everyone else.
 
 This is enormously complex and between most of each company
 in the chain are a lot of other companies providing
@@ -325,7 +342,7 @@ logistics, banking services, sourcing, outsourcing
 etc. etc.  So if a change is needed or something isn't
 working, it is a long slow complicated and expensive process
 that has to propagate through all of the contractors and
-middlemen, all taking a cut inbetween.  The vast majority of
+middlemen, all taking a cut in between.  The vast majority of
 these things done in the middle are simple, so simple that
 within the next 5-10 years machine-learning systems will be
 smart enough to do this better, faster and cheaper than
@@ -339,10 +356,10 @@ lego bricks that are stuck together to accomplish one thing,
 and then broken back up into separate bricks and reassembled
 into a different configuration to do something else.
 
-If all ERP software is designed to modular, scalable and
+If all ERP software is designed to be modular, scalable and
 distributed so that everything becomes a one-time virtual
 supply-production-delivery chain with most of the tasks
-between automated by machine-learning systems.  If
+between automated by machine-learning systems -- if
 everyone's ERP system can be interoperable with all other
 ERP software at all other companies, then all of this
 becomes possible.  This would be the single biggest change
@@ -400,7 +417,7 @@ then the system isn't working.
 In addition we need people with the skills to help build
 this.  That is what the Women's IT program is for.  To train
 the people we need to build this system.  If we start the
-program this year the first graduates in a couple years time
+program this year the first graduates, in a couple years time,
 will be ready when we need them.
 
 And second we need to build out a distributed network of
