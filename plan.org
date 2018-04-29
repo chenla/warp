@@ -204,6 +204,232 @@ a civilization.
 :PROPERTIES:
 :ID:       682f45da-1356-4b4a-a911-8abb845cc9a7
 :END:
+
+
+Enterprise Resource Planning (ERP) software is a broad class
+of software that manages nearly all aspects of a business.
+Typical ERP modules include:
+
+  - Procurement
+  - Production
+  - Distribution
+  - Accounting 
+  - Human Resources
+  - Customer Services (CRM)
+  - Sales
+
+The software that provides these modules is typically made
+up of a separate database for each module, a schema that
+hardcodes the fields in each database and some business
+logic for generating reports and monitoring the performance
+of the company.  ERP is arguably the single most important
+software application that any company uses and after looking
+over a number of of these products and having seen the
+source code for two different ERP systems I can say that
+they are desperately outdated and provide only a fraction of
+what a well designed ERP system could deliver.
+
+Just a single module CRM turned Salesforce into a multi
+billion dollar company.  ERP presents an enormous
+opportunity to build a Google scale business.
+
+This hasn't been done because the people who use ERP and
+write ERP software see ERP as a number of completely
+separate silos where little information passes between the
+silos.
+
+But those silos only exist because of the way that companies
+structure their information.  And as the saying goes, the
+way you organize information is how power is organized in an
+organization.
+
+But in reality everything in ERP or anything that is done in
+any organization can be modeled very simply.  Everything is
+a process chain, where a process is created to do
+something.  The process is broken down into different steps
+that are handled by different specialists in an
+organization.  These processes are governed by rules the
+specify how the task is done, and what each step needs to
+acomplish.  Processes and each step of each process is
+handled by different people with different levels of
+authority and responsibility.  Different people are allowed
+to see different aspects of a process and in many cases only
+upper management is allowed to see all parts of a process as
+it moves through different departments.
+
+That's it, everything is a process broken into steps, steps
+are governed by rules, called business logic, and there are
+different levels of authority, and access for each person
+working on any particular step.
+
+To give the illusion of traditional corporate silos, people
+in different departments with different levels of access
+will each see a different view of the company from their
+perspective within the context of what they do in the
+company.  We call this a worldview.  An account's worldview
+of a company is vastly different from customer service or
+the people running production, which has it's own software
+applications specific to what they are producing.  The CEO
+or President has god like powers to see everything but they
+couldn't function if they did -- so oddly enough the higher
+someone is in the power structure the more abstract and
+summarized their worldview is.  This allows them to see the
+entire company at a glance and see patterns of where things
+are working and where they aren't.
+
+This would provide companies with very flexible and
+customizable ways of shaping the way processes are handled
+in their ERP system, largely by customizing their
+worldviews to match their specific way of doing and seeing
+things.
+
+Designing an ERP system this way would be transformative,
+but it is only part of what's possible.  Because all
+information in the company is in one large graph database,
+we eliminate places in the system where the same information
+is stored in different places.  This will reduce many errors
+that cause so many problems in large or even small
+organizations.  The second thing that becomes possible is
+that it becomes relatively easy to automate a significant
+amount of the business logic using rulesets managed by
+machine-learning subsystems (sometimes called artificial
+intelligence).  This will ensure that processes are carried
+out consistently, almost instantly and reduce the number of
+people needed to manage information in a large organization.
+
+But this is only the beginning.  So far we have only
+considered ERP as a monolithic inhouse software company.
+One company, one ERP system.  This is even how cloud-based
+ERP systems on the market are done.  One company one account
+-- each company is a silo in its right.
+
+Douglas Engelbart (who invented the mouse and the windows
+interface) recognized this as an enormous problem as
+far back as the late 1950's. At the time Englebart worked
+for one of the big military areospace companies, I think it
+was Northrup or Grumman.  When a something large like a
+bomber or fighter aircraft is made, or even a car or
+toaster, no one company makes all of it.  Raw materials come
+from some companies, other companies build sub assemblies,
+many sub assemblies are made up of other sub assemblies.
+Building anything today is a complex chain of different
+companies doing different parts that are all pulled together
+by one comapny who puts their logo on it and markets and
+sells it.
+
+This is enormously complex and between most of each company
+in the chain are a lot of other companies providing
+logistics, banking services, sourcing, outsourcing
+etc. etc.  So if a change is needed or something isn't
+working, it is a long slow complicated and expensive process
+that has to propagate through all of the contractors and
+middlemen, all taking a cut inbetween.  The vast majority of
+these things done in the middle are simple, so simple that
+within the next 5-10 years machine-learning systems will be
+smart enough to do this better, faster and cheaper than
+people.
+
+Now imagine a distributed ERP system that treats these vast
+constellations of contractors and subcontractors and
+middlemen as single parts or departments in a single
+company.  And all goods and services are treated as little
+lego bricks that are stuck together to accomplish one thing,
+and then broken back up into separate bricks and reassembled
+into a different configuration to do something else.
+
+If all ERP software is designed to modular, scalable and
+distributed so that everything becomes a one-time virtual
+supply-production-delivery chain with most of the tasks
+between automated by machine-learning systems.  If
+everyone's ERP system can be interoperable with all other
+ERP software at all other companies, then all of this
+becomes possible.  This would be the single biggest change
+that AI would bring to the global-value chain and would have
+an impact on the world that is almost beyond imagining.
+
+The building blocks are fairly simple.  Machine learning is
+increasing in power at a tremendous pace.  What is needed is
+a vision like the one I have outlined to pull all of these
+together and get it to market.
+
+The advantages would sell the system itself.  What was the
+value of the first fax machine that rolled off the assembly
+line?  Zero.  Because there was no one you could send a fax
+to.  But everytime someone bought a fax machine it increased
+the value of your fax machine, so people would push other
+people to buy fax machines because it made their fax machine
+more valuable.  This triggers the network effect and you get
+exponential growth of networks.
+
+So, to build this, we write up a business plan and find a
+VC, raise a pile of money and build it?  No. You might be
+able to pull it off and take your place beside Google,
+Amazon, Facebook and Alibaba, but that isn't what the world
+needs.  The last thing we need is another monster company
+that owns us.
+
+A system like this has to start small, and almost off the
+grid in places where no one will think to pay attention.
+Cambodia is perfect.  Start very small, very cheap and
+network together a couple of supply production chains while
+you are developing the system.  Eventually the network will
+grow to the point that it will start spreading around the
+world and reach a tipping point before the big companies
+have a chance to stop it.
+
+Safeguards need to be put in place to ensure that the
+systems stays distributed, stays federated and open so that
+everyone is doing business with each other on a level
+playing field.
+
+ERP is only a small part of what such a system is capable
+of, governments, scientific reasearch, education, management
+of long term resources like ground water and work on climate
+change could all use the same system to make the exchange of
+informtion, goods and services something that works on the
+very smallest scales up to the very largest.
+
+This is the system that we are starting to design and will
+build.  To do this we need some seed money to get things
+started, but the beautiful thing about this approach is that
+if it works, then you make money, right away.  If it doesn't
+then the system isn't working.
+
+In addition we need people with the skills to help build
+this.  That is what the Women's IT program is for.  To train
+the people we need to build this system.  If we start the
+program this year the first graduates in couple years time
+will be ready when we need them.
+
+And second we need to build out a distributed network of
+processing and storage that will become the backbone for the
+new network.  While we are building out the ERP network,
+this service can generate money traditionally through
+renting out virtual machines and docker containers to other
+companies.  This is the reason that we started Kinto.  It
+will be profitable within 18 months at which time the ERP
+network will become it's biggest customer and it will then
+grow as fast as the ERP network grows.
+
+So to start out, we need to get the Women's IT program
+started, get Kinto up and running and making money, and form
+a small development team of 3-4 people to work on building
+the prototype ERP system.  The development team should have
+a working system networking together several hundred
+companies about the time that the first class graduates and
+we will be ready to scale.
+
+This is a positive-sum system we want to build, everyone
+wins, everyone improves their lives because the more we
+automate the more more wealth is being generated using fewer
+resources.  We get rid of the middlemen, and then each
+producer in chain get's a better life.  This will be the
+same for the smallest dirt farmer to companies like Boeing
+building jumbojets.  That's the vision.
+
+Please help us make this happen.
+
+
 ** Programs
 :PROPERTIES:
 :ID:       7466a761-d9a2-4a2a-aeb9-10aa36963509
