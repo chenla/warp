@@ -101,3 +101,47 @@ Safety is difficult and needs much more consideration, but we believe that creat
 
 **  Benifits to community
 
+Benefits are all bottom up.  You find the key person in a community that will in turn help lift everyone else up with them.  Education is like that.  As we've already statd above, women in a village and family are the cornerstone of everything that happens in that community.  In villages, men and women occupy somewhat different spheres.  Men have their fighting-cocks and like to drink and eat and spend a lot of their free time with other men.  Women are connected to all generations and influence everyone, both men and women, from babies to grandparents.  Solve their problems and you will see that all the lives around them will improve as well. Because a woman's problems are the same as the families problems. 
+
+The most important part of the curriculum that will infect everyone at home over time will be critical thinking, and problem solving and communication skills.  It's hubris to think that any one project will solve much of anything.  You must be in it for the long haul, and think in terms of making long term impact over generations.  To some extent the old saying that you can't teach an old dog new tricks is true.  Humans have limited capacity to adapt and change in a lifetime unless from an early age you give them a cognitive tool box that allows them to keep learning and changing throughout their lives.  It is these habits and skills that students will infect their children and other chilren around them with, that will have a long term impact. 
+
+How will it benifit our team?  First, a large part of our long term goals is rethinking education for the 21st century.  So the program will be a laboratory for finding out what works and what doesn't. 
+
+Second, we need people with these skills for our larger Slow AI projects, so we hope that some students will join our team. 
+
+Third, all students will be exposed to our larger goals and projects and we hope that when they go out into the workforce that they will help spread the ideas we are developing if and when it makes sense to do so.  If we are developing things that are useful, people will use them. It's as simple as that. 
+
+Finally, we don't do zero-sum anything.  Everything we do must contribute to improving peoples lives, and in so doing, making the world a better place and improving our own lives. 
+
+** Methodologies
+
+In the innovation section we outlined our core methodologies.  So putting them all together goes something like the following: 
+
+The first two years of study will be evenly split between learning out to learn and improving english communication skills, both spoken, written and reading.  The IT industry constitutes a subculture that includes it's own cultural mythos, slang and traditions.  Earlier this month, the president of SpaceX, Gwynne Shotwell was asked on stage, as a bit of a lame joke, "okay, Star Wars or Star Trek?" Without hesitation she just answered "Firefly."  There were cheers in the audience and I'm sure the person who asked the question didn't understand what happened.  But with that answer Shotwell instantly told everyone within the tech subculture that she was one of them.  It's not enough for students to learn how to code, they need to become part of the subculture that they will be working in.  We will use that cultural subculture as a means of teaching critical thinking and communication skills. 
+
+One reason that women have a diffcult time being accepted in the IT subculture by other men is that they didn't grow up in that subculture and are treated as outsiders.  Ensuring that students understand that larger culture that they will be part of and that they will become part of a global IT community will be very important. 
+
+As for learning the actual technical skills, the most important thing there is that people learn by doing.  And the sooner you are learning by working on real projects, not just exercises, the faster they will learn and be able to contribute to the projects they will work on. 
+
+** Technical Details
+To teach these skills there isn't a lot of distinction between hardware and the software stack that is running on them.  We already have an advanced hardware and software stack which is up and running that will provide students with all of the resources they will need. 
+
+We will use an existing multi-media studio next door to our classroom for making videos. 
+
+We already have an OpenStack cluster for virtual machines. Students will each have their "project' on the Openstack Cluster where they can manage and create any number of virtual machines which will be used to gain practical experience they will need in their jobs and in order to complete class assignments. 
+
+We already have an OpenShift cluster for containerized processes.  Virtual machines are being replaced in many cases with containerized processes like Docker.  It's important that students learn to develop and manage software running both in containers and or in virtual machines.  The OpenShift cluster will provide that. 
+
+We already have set up a dedicated group GitLab Server for all work which is separate from their public portfolio on GitHub. 
+
+We will install a dedicated Mattermost group server which is an open source version of Slack.  This is where most online class interaction will take place, both with other students, instructors and with mentors.  In Remote Work companies, Slack or something like Mattermost along with email and git repositories is the core means of project development, communications and managment.  Students will learn to work in this environment almost from day one. 
+
+Every student will have their own laptop and a large format tablet (the tablet is important for reading technical materials in epub and pdf formats). 
+
+All class work will employ a concept called Literate Programing, which combines documentation (or any kind of document) with code.  All code will be part essay and part source code.  The code can be run inside the documents using both Jupyter Notebooks (iPython) which are becoming standard in the sciences.  But most work will use the Emacs Text Editor, Orgmode which is a literate programming (some call it literate DevOps) framework which combines code from any language into documents.  Code can then be tangled, automatically and run as a traditional software application or run within the document like in a Jupyter notebook. Everything will be kept and shared in Git repositories. 
+
+A special built classroom which is designed for students to work together on projects, rather than sit and listen to lectures.  The school has already given us the classroom and we recieve funding for and begin rennovation in June. 
+
+The funding that we are requesting will largely be spent on building the course materials, videos and written materials and software infrastructure for the pilot program as well as training instructors and mentors.  There will be a sharp learning curve for instructors and mentors to learn and become comfortable with the methodologies we will implement. 
+
+** 
