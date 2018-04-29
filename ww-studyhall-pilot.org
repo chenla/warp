@@ -31,9 +31,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
-
-
 ** Gender Equality in Digital Development
 
 We are very edgy, interested in edges, places where technology is approaching a threshold that triggers a cascade that transforms a country's economy and social structures.  For the past 30 years I have lived and worked on the cutting edge of IT development in East and South East Asia.  In each country I have lived, that country was nearing a tipping-point that results in systemic change.  In mainland China in the '80s it was data networks, in the '90s in Hong Kong it was Internet and the beginning of the World Wide Web.  For the past five years we've been working on what we call Slow AI.  Machine-cognitive systems for managing processes that are too slow for people to notice. Our biggest problem is finding local people who have the skills to work in this area. We've always worked with women, as partners, developers, designers and our best managers.  Cambodia is in a period of enormous economic and cultural change.  But from an IT perspective they are still stuck in what we call the Microsoft Bubble stage of economic development.  IT education focuses on teaching MS techologies used by large organizations, and now Web App and Mobile App development. Yawn. 
@@ -99,7 +96,7 @@ One thing you notice when you spend time in villages is that from very early age
 
 Safety is difficult and needs much more consideration, but we believe that creating save online communities and fostering a habit of looking out for one another in students, instructors and mentors will be an important part of this process.  Bad things happen when they are secret, and being part of a community in which everyone has each other's back will be one of the programs core principles. And online safety is only a small part of that.  Domestic violence, peer pressure and the inevitable messiness of realtionships  with the opposite sex, both romantically, socially and professionally are all equally important. 
 
-**  Benifits to community
+** Benifits to community
 
 Benefits are all bottom up.  You find the key person in a community that will in turn help lift everyone else up with them.  Education is like that.  As we've already statd above, women in a village and family are the cornerstone of everything that happens in that community.  In villages, men and women occupy somewhat different spheres.  Men have their fighting-cocks and like to drink and eat and spend a lot of their free time with other men.  Women are connected to all generations and influence everyone, both men and women, from babies to grandparents.  Solve their problems and you will see that all the lives around them will improve as well. Because a woman's problems are the same as the families problems. 
 
@@ -144,4 +141,41 @@ A special built classroom which is designed for students to work together on pro
 
 The funding that we are requesting will largely be spent on building the course materials, videos and written materials and software infrastructure for the pilot program as well as training instructors and mentors.  There will be a sharp learning curve for instructors and mentors to learn and become comfortable with the methodologies we will implement. 
 
-** 
+To write this application I using the entire hardware and software stack outlined above.
+
+** Expected Impact
+
+The most important impact we expect is in the larger cambodian ITC industry.  There are already a number of companies who have told me that they desperately need people with these skills to fill existing positions.  There are even more who have told me that they aren't adopting these technologies because they can't find people with the skills to use them. 
+
+We expect that building a labor pool of people with advanced IT skills will have a significant impact that will greatly increase what Cambodian companies are able to do in ITC. 
+
+This will also make Cambodia a more attractive place for foriegn investment.  I have been told repeatedly by foreign companies that they would love to open offices in Cambodia if they could find people with the skills they need.  This program will provide that. 
+
+We will also provide outreach and education to teach employers here in Cambodia about how Remote works and how it can work for their companies.  So over time we hope that graduates who can not move to Phnom Penh will be able to work for Cambodian companies from anywhere in Cambodia. That is still a long ways off, but we believe that eventually local companies will adopt the same practices as foreign companies. 
+
+Our biggest impact though will be as being an example and template that other schools can use in their own programs. We intend to hold an ongoing series of seminars for Cambodian educators to help them learn how to bring these ideas and techniques their own schools. 
+
+** Follow-up
+
+We have made a ten year commitment to PrekLeap to not only as a pilot program but to use it as a way for the school to bootstrap a new permanent computer science degree program.  We see Chalkhall as an ongoing laboratory for developing educational techniques and learning material. 
+
+As the program here matures we intend to duplicate the pilot program at another university in Champasak in Laos.
+
+** Maintaining the project
+
+We have been working on our larger projects since 2006 full time with little or no funding, using donations of used equipment and volunteer help. 
+
+Lack of funding is less importand than making a long term commitment to the project goals and to continue the work with or without funding.  This program will launch with or without this grant.  Our partner founded the World Beat Cultural Center in Balboa Park San Diego.  The Beat started with no funding, still get's little funding, and yet over thirty years later it's still there, still helping disadvantaged children.  And they will be there for another thirty years.  That is the kind of commitment we have to our work in Cambodia. 
+
+This is our home, and this work is our life, it's not another NGO project where everyone packs up when the funding runs out and move on to the next shiny funded project. 
+
+Everything we build is designed to be part of something larger.  We aren't going anywhere, just as most of our students will live the rest of their lives in Cambodia. 
+
+That said, the remote work companies we are talking to are expected to sponsor student tuitons and provide laptops and
+tablets for students.
+
+We already have a dozen local and expat IT professionals who will volunteer to make videos, and work as mentors and tutors. We will also recieve placement fees from companies who hire our graduates, eventually we hope that those fees will end up funding instructor salaries. 
+
+We still need to secure additional funding for insructors until we are self sufficient but we have enough volunteers and resources now to see our pilot program through until all students graduate. 
+
+
