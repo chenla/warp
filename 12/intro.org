@@ -82,9 +82,27 @@ self-regulating utopia.  What they forget is that at the beginning of
 the industrial revolution mass production created just this kind of
 self-regulated system and it resulted in truly horrible behavior.
 
+Unfortunately, economies today assume that anything bartered or traded
+must be either goods or services.  All goods are a form of property
+which has an owner.  The word property also means land, which under
+the present system also has an owner, even if that owner is a diety.
 
+Services, on the other hand, treat work-done on behalf of someone else
+as a kind of property as well.  Work is energy expended to do
+something.  Services are usually measured in increments of time, and
+the value of a service is determined by how easy or difficult the work
+done is.
 
+The problem with this system is that it doesn't account for
+information, which until a few decades ago could only be used as
+physical goods that stored information, such as a book, musical
+recording or video tape.  Information could also be treated as a
+service in the form of transmission information, or in the form of a
+performance such as a concert.
 
+The digital revolution made it possible for the cost of storing and
+transmitting information so cheap that for all practical purposes it
+became free.
 
 ** TL;DR
 
