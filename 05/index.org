@@ -32,5 +32,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 33. [[./ww-appl.org][APPL]]
  - 34. [[./ww-hoard.org][Hoard]]
  - 35. [[./ww-primer.org][Primer]]
- - 36. [[./ww-middle.org][Middle]]
+ - 36. [[./ww-middle.org][The Culture OS]]
  - 37. [[./ww-arc.org][Arc]]
