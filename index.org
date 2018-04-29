@@ -146,7 +146,7 @@ bibliography:../hoard/bib.bib
  - 00. Water
  - 00. Environment (as in life support)
 ** XII. Economy
- - [[./12/indec.org][Contents Volume XII]]
+ - [[./12/index.org][Contents Volume XII]]
  - [[./12/intro.org][Introduction Volume XII]]
  - 00. Capitalism
  - 00. Free Market Framework
