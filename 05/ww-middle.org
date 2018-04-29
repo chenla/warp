@@ -61,7 +61,21 @@ insight on how the civilization we are building will
 interface with the primer which is the civilization's
 kernal.
 
-
+All civilizations are very slow AIs from the Indus Valley to
+the Mayans.  So it isn't as big a stretch as you might think
+to turn over our civilization to very slow AIs that are
+running actual code.  These aren't AIs in any human sense of
+the word, they aren't general purpose super intelligences
+that are scaled up monkey brains that will run amok and kill
+all of us.  They are closer to Treebeard in The Lord of the
+Rings.  They are tree herders, thinking and working in
+timescales that are too slow for us /hasty/ folks to
+comprehend.  But at their core is not a primitive limbic
+system causing all sorts of mayhem, but a primer that humans
+have constructed and will be constantly tweaking and
+inproving over time.  A limbic system for a civilization is
+a rather scary thought, so let's stick with the kernal
+metaphor.
 
 
 ** TL;DR
