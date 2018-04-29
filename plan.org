@@ -304,18 +304,20 @@ ERP systems on the market are done.  One company one account
 -- each company is a silo in its right.
 
 Douglas Engelbart (who invented the mouse and the windows
-interface) recognized this as an enormous problem as
-far back as the late 1950's. At the time Englebart worked
-for one of the big military areospace companies, I think it
-was Northrup or Grumman.  When a something large like a
-bomber or fighter aircraft is made, or even a car or
-toaster, no one company makes all of it.  Raw materials come
-from some companies, other companies build sub assemblies,
-many sub assemblies are made up of other sub assemblies.
-Building anything today is a complex chain of different
-companies doing different parts that are all pulled together
-by one comapny who puts their logo on it and markets and
-sells it.
+interface) recognized this as an enormous problem as far
+back as the late 1950's. At the time Englebart worked for
+one of the big military areospace companies, I think it was
+Northrop or Grumman.  When a something large like a bomber
+or fighter aircraft is made, or even a car or toaster, no
+one company makes all of it.  Raw materials come from some
+companies, other companies build sub assemblies, many sub
+assemblies are made up of other sub assemblies.  Building
+anything today is a complex chain of different companies
+doing different parts that are all pulled together by one
+comapny who puts their logo on it and markets and sells it.
+It's the same reason that it takes $30-100 million to make a
+hollywood movie, everything is outsourced and everyone is
+taking a cut inbetween everyone else.
 
 This is enormously complex and between most of each company
 in the chain are a lot of other companies providing
@@ -398,7 +400,7 @@ then the system isn't working.
 In addition we need people with the skills to help build
 this.  That is what the Women's IT program is for.  To train
 the people we need to build this system.  If we start the
-program this year the first graduates in couple years time
+program this year the first graduates in a couple years time
 will be ready when we need them.
 
 And second we need to build out a distributed network of
@@ -423,7 +425,7 @@ This is a positive-sum system we want to build, everyone
 wins, everyone improves their lives because the more we
 automate the more more wealth is being generated using fewer
 resources.  We get rid of the middlemen, and then each
-producer in chain get's a better life.  This will be the
+producer in a chain get's a better life.  This will be the
 same for the smallest dirt farmer to companies like Boeing
 building jumbojets.  That's the vision.
 
