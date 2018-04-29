@@ -1,0 +1,37 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Volume XII. Economy Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+
+* Volume XII. Economy Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/12/intro.org
+:Created:  2018-04-29T17:21@Prek Leap (11.642600N-104.919210W)
+:ID:       f79d80a5-4060-4e2a-b60a-fcc7e90a55e7
+:VER:      578269330.325224032
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:BVD2-8622
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Table of Contents
+** TL;DR
+
+

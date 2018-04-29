@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
  - Contents Volume XII
- - [[./intro.org][Introduction Volume XII]]]
+ - [[./intro.org][Introduction Volume XII]]
  - 00. Capitalism
    - capitalization is bottom up, so it beat command and
      control systems.
