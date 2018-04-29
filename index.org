@@ -27,6 +27,7 @@ bibliography:../hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+* In Brief
 ** Front Matter
  - Copyright Page
  - [[./epigraph.org][Epigraph]]
@@ -37,6 +38,7 @@ bibliography:../hoard/bib.bib
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
+* Building Blocks
 ** I. Foundations
  - [[./01/index.org][Contents Volume I]]
  - [[./01/intro.org][Introduction Volume I]]
@@ -89,6 +91,7 @@ bibliography:../hoard/bib.bib
  - 35. [[./05/ww-primer.org][Primer]]
  - 36. [[./05/ww-middle.org][Middle]]
  - 37. [[./05/ww-arc.org][Arc]]
+* The Parts
 ** VI. Heliosphere
  - [[./06/index.org][Contents Volume VI]]
  - [[./06/intro.org][Introduction Volume VI]]
@@ -102,6 +105,7 @@ bibliography:../hoard/bib.bib
  - 42. [[./07/41/index.org][Big History]] 
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
+
 ** VIII. Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
@@ -197,7 +201,7 @@ bibliography:../hoard/bib.bib
        pretend to throw everything out and start from
        scratch are not being honest with themselves and are
        just making a mess of things.
-
+* Assembly
 ** XIV. Implementation
   - contents volume XIV
   - introduction volume XIV
@@ -226,6 +230,8 @@ SCOPE    very strong and works in real time, but has a
  - 00. [[./14/ww-scenarios.org][Scenarios]]
  - 00. [[./14/ww-window.org][Window]]
  - 00. [[./14/ww-roadmap.org][Roadmap]]
+
+* The Rest
 
 ** Back Matter 
  - Contents
