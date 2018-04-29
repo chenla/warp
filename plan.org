@@ -211,9 +211,12 @@ a civilization.
 
 *** Women in Cambodian IT
 
-Women have found it challenging to enter the IT industry.
-The industry is well known for being male dominated, and at
-times is hostile to women entering the field.  Employers
+[[./ww-studyhall-pilot.org][Chalkhall Pilot Program]]
+
+
+Women have find it challenging to enter the IT industry.
+The industry is well known for being male dominated, and is
+often hostile to women entering the field.  Employers
 generally understand that this is something that has to
 change, but there aren't as many women graduating from IT
 programs as men, in large part because the hostility to
@@ -276,9 +279,9 @@ time they graduate.  These technologies are where the jobs
 are and will be in the next decade throughout the world.
 
 The program is broken into three parts: Communication,
-Critical Thinking and Problem Solving and finally
-specialization in two different fields that are in high
-demand worldwide.
+Critical Thinking, Problem Solving and specialization in one
+of two fields that are in high demand worldwide; DevOps and
+Machine Learning.
 
 The first two years will concentrate on building basic
 skills needed before they can begin advanced studies but
