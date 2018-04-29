@@ -102,7 +102,36 @@ performance such as a concert.
 
 The digital revolution made it possible for the cost of storing and
 transmitting information so cheap that for all practical purposes it
-became free.
+became free.  Treating information as either goods or services was
+not a very good fit.  So, the concept of copyright and design patents
+were invented to treate specific arrangements of information as
+property in their own right.  This worked well when physical
+recordings the norm because you weren't selling information, just an
+object whose value came from the information recorded on the object.
+
+When all of these objects were replaced by digitized information
+transmitted essentially for free over the Internet there was no way to
+monetize information beause transmission of information makes no
+distinction of what is being transmitted.  Transission works fine as a
+service, but without physical objects to sell, the producers of
+information no longer had means of earning a living from it.
+
+Copyright literally means the right to copy, but that was when what
+was copied was a physical object which is property with an owner.  If
+you take away my copy of physical object then I no longer have that
+object, that object as wealth has been taken or transfered to a
+different owner.  But digital copies that are not permanent physical
+objects can be copied and transmitted for free without depriving the
+person the copy was made from of their copy.  Ownership is a zero-sum
+process that tranfers one thing from one owner to another.  If
+something is not a zero-sum transfer, then it no longer functions as
+property.  So the concept of copyright changed to mean that the person
+who owned the original copy also effectively owned all copies made of
+it, whether they were physical or not.  This has not worked out very
+well.  But it also has thrown a very large and growing part of the
+concept of property and market-economies out of wack.
+
+
 
 ** TL;DR
 
