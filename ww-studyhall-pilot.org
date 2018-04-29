@@ -1,0 +1,95 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Chalkhall Pilot Program
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+
+* Chalkhall Pilot Program
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/ww-studyhall-pilot.org
+:Created:  2018-04-29T10:30@Prek Leap (11.642600N-104.919210W)
+:ID:       39b1118d-a92a-4d15-9755-a99e350bf147
+:VER:      578244683.455938276
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:FIX2-2044
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+
+
+** Gender Equality in Digital Development
+
+We are very edgy, interested in edges, places where
+technology is approaching a threshold that triggers a
+cascade that transforms a country's economy and social
+structures.  For the past 30 years I have lived and worked
+on the cutting edge of IT development in East and South East
+Asia.  In each country I have lived, that country was
+nearing a tipping-point that results in systemic change.  In
+mainland China in the '80s it was data networks, in the '90s
+in Hong Kong it was Internet and the beginning of the World
+Wide Web.  For the past five years we've been working on
+what we call Slow AI.  Machine-cognitive systems for
+managing processes that are too slow for people to notice.
+Our biggest problem is finding local people who have the
+skills to work in this area.
+
+We've always worked with women, as partners, developers,
+designers and our best managers.  Cambodia is in a period of
+enormous economic and cultural change.  But from an IT
+perspective they are still stuck in what we call the
+Microsoft Bubble stage of economic development.  IT
+education focuses on teaching MS techologies used by large
+organizations, and now Web App and Mobile App
+development. Yawn.
+
+It's difficult to find programmers here who have even heard
+of languages like Python or Ruby, let alone Haskell, Lisp, R
+and the newcomers Rust and Golang which hopefully will
+replace C++ and Java respectively (and the sooner the
+better).  No one knows linux, or containerization, or even
+version control!
+
+We need people with these skills and we especially need
+women who have these skills.  Why women?  Men and women are
+equally intelligent, and yet if you have 50 men and 50
+women, in IT most of the men will get hired, or at least
+hired first, and the smartest and hardest working women will
+struggle to find jobs that match their skills.  We've found
+that it's easier to find extremely smart and talented women
+than men.  We've also found that women in IT have far better
+communication skills than their socially challenged male
+counterparts.
+
+Cambodia needs people with advanced IT skills if they are
+going to be able to break out of the Microsoft Bubble and
+start using advanced technologies.  It's like in the movie
+Field of Dreams -- build a skilled labor pool and they will
+invest.  If we can pave the way in Cambodia and show how to
+teach these advanced technologies, other schools will follow
+our lead.  But when they do, the focus will be on men and
+women won't be left behind, but they will struggle.
+
+For this reason we need to focus both on teaching the
+technologies that will make Cambodia competitive in IT and
+to address the gender gap in education and in hiring.  This
+is why our focus is on teaching women.  We need to learn how
+to address the special challenges that they face and show
+employers that it's to their advantage to hire women.
