@@ -146,7 +146,7 @@ bibliography:../hoard/bib.bib
  - 00. Water
  - 00. Environment (as in life support)
 ** XII. Economy
- - Contents Volume XII
+ - [[./12/indec.org][Contents Volume XII]]
  - [[./12/intro.org][Introduction Volume XII]]
  - 00. Capitalism
    - capitalization is bottom up, so it beat command and
