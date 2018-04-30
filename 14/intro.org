@@ -32,5 +32,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+The three branches of civilization which provide checks and
+balances on each other.
+
+MIDDLE   runs things on a day to day basis
+CULTURE  is largely in the background, has great power but
+         thinks and acts very slowly - it saves, safeguards 
+         and maintains the hoard  
+SCOPE    very strong and works in real time, but has a 
+         very short leash -- it is an interface with
+         everything outside
+
+
+
 ** TL;DR
 ** References
