@@ -55,6 +55,10 @@ layer.  This is clearly seen in the layout of roads in cities.  The
 structures in cities may change at wildly different rates of
 change, the roads remain in place for centuries or even millennia.
 
+Infrastructure as a rule has humble beginnings and over time is
+reinforced and expanded using the same paths laid down by the first
+inhabitants.
+
 #+begin_quote
 They say the cows laid out Boston.  Well,there are worse surveyors.
 #+end_quote
@@ -72,6 +76,14 @@ which were easier to walk on that blazing a trail through grass and
 brush.  Those paths eventually were broadend over time to allow more
 traffic and eventually became roads.  And many roads, once laid out
 stay in place for very very long times.
+
+In the same way, when railroad networks were built, they didn't follow
+paths laid out by animals or even  existing roads, but they did
+connect settlements that were originally built along such routes.  The
+railway networks became the physical template for other
+infrastructure.  AT&T built telegraph networks that followed railway
+tracks.  Many of the first telcos such as Sprint originally were
+railroad companies.
 
 
 ** TL;DR
