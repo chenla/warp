@@ -161,7 +161,7 @@ bibliography:../hoard/bib.bib
  - 00. Recycling
 ** XIII. Culture
  - [[./13/index.org][Contents Volume XI]]
- - Introduction Volume XII
+ - [[./13/intro.org][Introduction Volume XII]]
  - 00. Slow infrastructure
  - 00. Slow governance
  - 00. Long term investment
