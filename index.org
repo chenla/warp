@@ -160,7 +160,7 @@ bibliography:../hoard/bib.bib
  - 00. Consumption
  - 00. Recycling
 ** XIII. Culture
- - Contents Volume XI
+ - [[./13/index.org][Contents Volume XI]]
  - Introduction Volume XII
    - culture ensures that you will recognize tomorrow
    - offset crazy-ass ROC
