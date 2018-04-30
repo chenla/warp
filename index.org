@@ -136,15 +136,10 @@ bibliography:../hoard/bib.bib
  - Introduction Volume XI
  - 00. Information
  - 00. Energy
-   - Fuel
-   - Electricity
-   - Heat
  - 00. Transporation
-   - Goods
-   - People
  - 00. Waste
  - 00. Water
- - 00. Environment (as in life support)
+ - 00. Environment
 ** XII. Economy
  - [[./12/index.org][Contents Volume XII]]
  - [[./12/intro.org][Introduction Volume XII]]
