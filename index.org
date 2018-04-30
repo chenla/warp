@@ -166,12 +166,11 @@ bibliography:../hoard/bib.bib
 * Assembly
 ** XIV. Implementation
  - 00. [[./14/index.org][Contents volume XIV]]
- - 00. Introduction volume XIV
+ - 00. [[./14/intro.org][Introduction volume XIV]]
  - 00. Middle
  - 00. Culture
  - 00. Scope
-   - Guild
-   - Special Circumstancess
+
 ---
 
 The three branches of civilization which provide checks and
