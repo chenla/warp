@@ -32,6 +32,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+Almost everything is a kind of infrastructure.  Governance, education,
+production, law, electrical grids, road systems, airports, petrol
+stations, post offices, courts.  In most cases infrastructure is made
+up of networks that are systems that connect things together.
+
+
 ** TL;DR
 ** References
 
