@@ -105,7 +105,6 @@ bibliography:../hoard/bib.bib
  - 42. [[./07/41/index.org][Big History]] 
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
-
 ** VIII. Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
@@ -176,7 +175,6 @@ bibliography:../hoard/bib.bib
  - 00. [[./15/ww-scenarios.org][Scenarios]]
  - 00. [[./15/ww-window.org][Window]]
  - 00. [[./15/ww-roadmap.org][Roadmap]]
-
 * The Rest
 
 ** Back Matter 

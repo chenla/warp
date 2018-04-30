@@ -44,6 +44,29 @@ SCOPE    very strong and works in real time, but has a
          very short leash -- it is an interface with
          everything outside
 
+It's important that just because we are suggesting that civilization
+adopt a negative feedback loop mechanism that is typically associated
+with goverance of nation states they are not the same thing.
+
+Since civilization is a system, negative feedback loops are needed to
+maintain a stable system from going too far out of balance.
+
+The idea of separating a civilization into different branches that
+provide negative feedback loops is a natural fit.  But they are not
+the same as a branch of government though they will overlap and
+sometimes appear to be the same thing.
+
+In a distributed nested and federated network governance takes place
+at many different layers.  So long as the system is designed that all
+local governance, from that within a family or shop, up to governance
+of a polis/nomes and regional and even global bodies then governance
+will always take place as close to where it is needed.
+
+So the three branches are not so much defined by articles of
+governance but rather as broad categories of functions within a
+culture that maintain negative feedback loops.  For this to work
+everyone has to agree that each branch has a function and can be told
+what to do by the other branches when things get out of wack.
 
 
 ** TL;DR
