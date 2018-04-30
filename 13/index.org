@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
  - Contents Volume XI
- - Introduction Volume XII
+ - [[./intro.org][Introduction Volume XII]]
    - culture ensures that you will recognize tomorrow
    - offset crazy-ass ROC
  - slow infrastructure
