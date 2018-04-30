@@ -162,27 +162,12 @@ bibliography:../hoard/bib.bib
 ** XIII. Culture
  - [[./13/index.org][Contents Volume XI]]
  - Introduction Volume XII
-   - culture ensures that you will recognize tomorrow
-   - offset crazy-ass ROC
- - slow infrastructure
- - slow governance
- - long term investment -> bread cast apon the water
-   - moonshots
-   - builds the impossible
- - collective memory
-   - don't repeat past mistakes
-   - collect, preserve and curate the present
- - guardians of the commons -> this must be central part of 
-                               governance articles
- - continuity
-   - structures of daily life
-   - vernacular architecture & design
-     - the fashion-layer should riff on themes that are
-       layed down by the culture-layer.  Build on what came
-       before, this needs to be a cultural norm.  Those who
-       pretend to throw everything out and start from
-       scratch are not being honest with themselves and are
-       just making a mess of things.
+ - Slow infrastructure
+ - Slow governance
+ - Long term investment
+ - Collective memory
+ - Commons
+ - Continuity
 * Assembly
 ** XIV. Implementation
   - contents volume XIV
