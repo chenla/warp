@@ -162,12 +162,12 @@ bibliography:../hoard/bib.bib
 ** XIII. Culture
  - [[./13/index.org][Contents Volume XI]]
  - Introduction Volume XII
- - Slow infrastructure
- - Slow governance
- - Long term investment
- - Collective memory
- - Commons
- - Continuity
+ - 00. Slow infrastructure
+ - 00. Slow governance
+ - 00. Long term investment
+ - 00. Memory
+ - 00. Commons
+ - 00. Continuity
 * Assembly
 ** XIV. Implementation
   - contents volume XIV
