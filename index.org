@@ -170,14 +170,13 @@ bibliography:../hoard/bib.bib
  - 00. Continuity
 * Assembly
 ** XIV. Implementation
-  - contents volume XIV
-  - introduction volume XIV
-  - middle
-  - culture
-  - scope
-    - guild
-    - contact
-    - special circumstancess
+ - 00. Contents volume XIV
+ - 00. Introduction volume XIV
+ - 00. Middle
+ - 00. Culture
+ - 00. Scope
+   - Guild
+   - Special Circumstancess
 ---
 
 The three branches of civilization which provide checks and
