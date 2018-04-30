@@ -31,6 +31,36 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+This volume outlines the requirements of both the Culture Pace-Layer
+as well as CULTURE, one of the three branches of civilization.
+
+Culture is the slowest layer of civilization.  It works at time scales
+which are measured in generations, not single lifetimes.  Ensuring
+that there is continuity between all generations that are alive at any
+given time is important.  When aspects of culture becomes splintered
+and there are different cultures for different generations things
+don't work well.
+
+For many people this will sound like a call for returning to
+traditional ways of life that are out of sync with the way things are
+at any given present.  When generations began to stratify into
+different subcultures the concept of a "generation gap", "youth
+culture" and other demarcations between people at different stages of
+life became something that was assumed to be a natural part of modern
+life.  This is largely because many aspects of life that were
+traditionally part of culture shifted to the fashion pace-layer.  As
+Stewart Brand said, the young are obsessed with fashion, but it bores
+the hell out of older people because they've already lived through it
+and just seen it as ephemeral and largely pointless.  The
+fashion-layer is where you try out new ideas, experiment, break
+things.  The things that work become absorbed by the slower layers,
+but most of it is the same things that don't work, repackaged again
+and again because each generation has to learn by making the same
+mistakes that everyone does when they are young.
+
+
+
 ** TL;DR
 ** References
 
