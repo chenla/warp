@@ -68,6 +68,15 @@ culture that maintain negative feedback loops.  For this to work
 everyone has to agree that each branch has a function and can be told
 what to do by the other branches when things get out of wack.
 
+This would likely not be possible without machine-cogs automating and
+managing things according to rulesets that we create for them to
+follow.  It's difficult to articulate the difference between gov
+branches and civilization branches because they need to function more
+as ecological negative feedback loops than top-down composed
+organizational human negative feedback mechanisms.  Branches are
+simply codified expressions and manifestations of pace-layers, or put
+another way, pace-layers as slow-AIs with a higher degree of agency
+than our paper-based rulesets that constitute governmental systems.
 
 ** TL;DR
 ** References
