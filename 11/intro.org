@@ -95,7 +95,35 @@ maintained by a patchwork of governments, individuals and companies.
 But in the larger and long term sense, they are owned by everyone and
 each agent or entity that controls or claims ownership of any one part
 of infrastructure is a custodian of that infrastructure more than an
-owner.  
+owner.  Over time nations and corporations come and go, but so long as
+there is a civilization in place, the infrastructure will remain in
+place, and often the same places for very long periods of time.
+
+All of this might seen obvious, but to many people it isn't.  It's
+important to maintain and manage commons, and keep access to it as
+open as possible.  This extends to knowledge and creative works that
+encode or embody that knowledge.  Knowledge is a commons that everyone
+builds on top of.  To claim that one entity "owns" something that was
+only possible to build because of the previous work done by those who
+came before us is ludicrous.  And restricting access to knowledge that
+has been recorded and improved over many generations is both theft and
+has the effect of slowing or even stopping innovation and discovery
+that our species needs for surival.  It should literally be considered
+to be a crime against humanity.
+
+Creating new works that expand and extend and improve civilization are
+never done in isolation from what came before them, they like cow
+paths that turned into roads.  This is why all copyright law is based
+on the concept that knolwedge is a type of commons and that copyright
+is a /temporary/ monopoly granted to either restrict access to that
+knowledge to gain advantage over others -- power.  Or as an monetary
+incentive to create new works.  Both are weak and ultimately futile in
+the long term, but are effective and destructive in the long term.
+
+Knowledge is not a good or a service, and therefore can not be treated
+as property.  Anything that is not property is part of the commons
+and is owned by everyone.  Conflating insentives to create with
+ownership of something owned by everyone needs to stop.
 
 ** TL;DR
 ** References
