@@ -1,0 +1,151 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 039. Window
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+* 039. Window
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/ww-window.org
+:Created:  2018-04-10T11:37@Prek Leap (11.642600N-104.919210W)
+:ID:       8b6a07f6-42d2-4798-b240-abccb5905c90
+:VER:      576607092.547884359
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:JHH6-7762
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Table of Contents
+ - The Fifty Year Window
+ - Low Hanging Fruit
+ - Population Drop
+ - Climate Change
+
+
+** TL;DR
+
+Fifty years is an interesting period of time 
+
+
+
+
+A Roadmap for Mankind over the next 50 years to move from
+being a centralized global civilization, with crtical
+knowledge, infrastructure and wealth pooled in a handful of
+people, places, and organizations, to a distributed
+multiplanetary civilization reflecting the needs of a
+rapidly shrinking population on earth and an increasingly
+hostile climate.
+
+Elon Musk has said on several occasions that we have a very
+short window to become a multi-planet species, if we don't
+do it soon, we may never be able to do it.
+
+  - low hanging fruit picked :: Peak Cheap Non-Renewable
+       Energy, which made the industrial revolution and the
+       information revolution possible -- if the present
+       level of civilization collapses, these resources will
+       not be available to rebuild.
+
+  - Population Collapse :: if we fall below MV for
+       technological civilization to continue to innovate at
+       same level, which is needed to solve:
+
+  - Constant Battles :: man's tendency to to self-destruct
+
+  - Climate change   :: spend too much time on survival
+
+We have to have our shit together within 50 years, to begin
+making substantial change or we may not have the time,
+resources, or number of people needed to solve the big
+problems
+
+----
+
+
+ - The Window -- 50 years plus or minus 20
+
+ - the only thing that has saved us after we have fouled our
+   own beds and made them uninhabitable is that we move on
+   to the next place and reduce pressure on our old homes to
+   let them heal, if we haven't destroyed it beyond its
+   ability to heal.  we expand or we die.
+
+ - but we are now faced with the fact that we have nearly
+   exhausted all of the low hanging fruit -- energy and
+   natural resources and our population has exceeded the
+   carrying capacity of the biosphere.
+
+ - we need to expand into the solar system -- where there is
+   no shortage of natural resources and energy
+
+    - all energy is nuclear, be it fossil fuels, wind or
+      solar or our own limmited ability to split or fuse the
+      atom
+
+    - it is likely that within a lifetime or two at most,
+      the majority of energy that mankind uses will be for
+      computation -- even today, Google alone represents 1-2
+      percent of energy use in the united states.  solar and
+      renewables can likely satisfy all of our other energy
+      requirements -- but not computation
+
+** The Fifty Year Window
+
+#+begin_quote
+But science as a whole proceeds apace. We pour in more
+effort, more manpower, and greater ingenuity into further
+discovery and knowledge. A simple example is one of the
+first quantities to be studied in the field of
+scientometrics: the number of scientists over time. The
+first U.S. PhDs were granted by Yale University
+in 1861. Since that time the number of scientists in the
+United States and throughout the world has increased
+rapidly. For example, the membership of scientists in the
+Federation of American Societies for Experimental Biology
+increased from fewer than five hundred in the year 1920 to
+well over fifty thousand by the late 1990s. This hundredfold
+increase is extremely rapid in a period of less than eighty
+years and is indicative of the increase in scientific power
+through sheer numbers of scientists.
+
+In fact, if you uttered the statement “Eighty percent of all
+the scientists who have ever lived are alive today” nearly
+anytime in the past three hundred years, you’d be
+right. This has allowed more research to be done by larger
+scientific teams. Not only that, but higher-impact research
+is done by teams with many more scientists. Of course,
+growth like this is not sustainable—a long exponential
+increase in the number of scientists means that at some
+point the number of scientists would need to exceed the
+number of humans on Earth. While this may almost be the case
+on Krypton, Superman’s home planet, where the whole
+population seems to consist entirely of scientists, I don’t
+see this happening on Earth anytime soon. But this rapid
+growth demonstrates that scientific discovery is by no means
+anywhere near finished.
+
+-- The Half-Life of Facts cite:arbesman:2012half-life
+#+end_quote
+
+
+** References
+
+  - Arbesman, S., The half-life of facts: why everything we
+    know has an expiration date (2012), : Current Hardcover.
+    cite:arbesman:2012half-life
