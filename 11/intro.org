@@ -35,8 +35,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 Almost everything is a kind of infrastructure.  Governance, education,
 production, law, electrical grids, road systems, airports, petrol
-stations, post offices, courts.  In most cases infrastructure is made
-up of networks that are systems that connect things together.
+stations, post offices, courts, banks, telephone networks etc.  In
+most cases infrastructure is made up of networks that are systems that
+connect things together.
+
+And because infrastructure's purpose is to connect things together it
+is a pace-layer that is dead in the middle; it can't change to fast or
+too slow.  It must adapt and be maintained fast enough to support the
+faster pace-layers, but slow enough to ensure that it's around long
+enough for the lower layers to provide their functions.
+
+Infrastructure is as much in the public as the private sector.
+Commerce taking the form of private sector corporate bodies might be
+given the task of managing parts of infrastructure, but they are not
+private, they must be accessible to everyone to be infrastructure.
+
 
 
 ** TL;DR
