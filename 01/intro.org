@@ -30,22 +30,45 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
+** Scope
 
 The first volume lays out the broad foundation for the work,
 what is civilization, how did it emerge, what forms has it
 taken throughout history, what are the driving forces behind
-it.  This lays the groundwork for understanding different
-ways that civilization might work in a technologically
-advanced post-scarcity future that we are starting to see
-the beginnings of today which we will get into in detail in
+it.  What things have worked and we want to keep or bring
+back?  What things did not or are not working and how do we
+ensure that we don't repeat those mistakes?
+
+This lays the groundwork for understanding different ways
+that civilization might work in a technologically advanced
+post-scarcity future that we are starting to see the
+beginnings of today which we will get into in detail in
 Volume III.
 
-*** 01. Civilis
+** TL;DR
+
+We all have to learn some things the hard way, both as
+individuals and as societies.  You learn to avoid direct
+contact with a flame, by getting burned.  Some things we
+need to experience in order for some lessons to become
+registered in our limbic system.  This is especially true
+for the young.  But existential mistakes that result in
+systemic failure and even collapse of civilizations should
+not be something anyone needs to repeat.  And over the long
+term, Mankind is getting better at not repeating those kinds
+of mistakes.  War has been in steady decline since the end
+of WWII.  We don't murder each other as much, and states
+aren't murdering their own people for minor offences as
+much.  There is still a long ways to go, but we're generally
+headed in the right direction.
 
 
 
-*** 02. Ab Initio
+*** 01. Civilization
+
+
+
+*** 02. First Principles
 
 Then what do we mean by first principles? In a word, it is
 what Paul Graham called, when describing the design of the
