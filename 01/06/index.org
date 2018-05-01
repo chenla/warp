@@ -59,7 +59,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - High Modernism
      - Romanticism
      - Dishonorable Mentions
-       - Friedrich Nietzsche (anything associated with him)
        - Objectivism and Ayn Rand
        - Malthusianism
        - Libertarianism
