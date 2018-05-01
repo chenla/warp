@@ -34,5 +34,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - The Nature of Dualities
  - Dualities in Nature
  - Part-Whole
- - [[./08/ww-map-territory.org][Map-Territory]]
+ - [[./ww-map-territory.org][Map-Territory]]
  - Meta-Data
