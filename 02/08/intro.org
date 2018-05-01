@@ -63,3 +63,12 @@ metadata can describe a data set, but can also be used as data
 depending on the POV
 
 ** References
+
+ - Koestler, A., The ghost in the machine (1989), : Arkama Books.
+   cite:koestler:1989ghost
+ - Mella, P., The holonic revolution: holons, holarchies and holonic
+   networks:the ghost in the production machine (2009), : Pavia
+   University Press.
+   cite:mella:2009holon-revolution
+ - Wikipedia, , /The ghost in the machine --- wikipedia, the free
+   encyclopedia/ (2017).  cite:wiki:2017ghost-machine-book
