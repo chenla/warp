@@ -72,3 +72,6 @@ depending on what is changing.
   - Wikipedia, , /Diffusion of innovations --- Wikipedia,
     the free encyclopedia/ (2018).
     cite:wiki:2018diffusion-of-innovations
+  - Wikipedia, , /Light cone --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018light-cone
