@@ -57,3 +57,22 @@ bibliography:~/proj/chenla/hoard/bib.bib
    reinforce each other and become larger than the sum of
    their parts.
  - care -- practice -- integrity
+
+** Scope
+
+The problem is that since the development of spoken written
+languages Sapiens have become increasingly estranged from the
+world in which they belong.  This estrangement is a rift
+which since 1800 is widening into a a canyon and threatens
+to become a continental divide if we can not find a way of
+healing this estrangement and creating societies and
+buildings and modes of living in which we can feel
+cormfortable and at home in again.  This is the foundation
+work which will be the most difficult to do, but everything
+depends on us getting this right.  And if we can get this
+right, and mend the rift a lot of other things will fall
+into place.
+
+** TL;DR
+** References
+
