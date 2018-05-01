@@ -30,6 +30,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope
+** TL;DR
+** Chapter
+
 Specifically causal propagation -- 
 
 How is Causal Propagation a POV?  That's what we have to explain here.
@@ -40,7 +44,7 @@ time the observer sees X but on the other side of the galaxy at the
 same time but different place the observer sees Y because change has
 does not propagate at the same rate.
 
-Propagation, like timem is a one-way process.
+Propagation, like time is a one-way process.
 
 Change is not instantaneous, it is tied to the physical laws of the
 universe.  Change can only change as fast as those physical laws
@@ -54,7 +58,9 @@ So the maximum ROC at relative scales is limited by the speed of
 light.
 
 The exception is quantum entanglement -- but at the moment this isn't
-important unless we develop tech that leverages
+important unless we develop tech that leverages -- and
+maintaining entanglement is the big challenge for quantum
+computing to leave the laboratory.
 
 Change is also relative to the distance between two things -- the
 shorter the distence the faster things change between them -- at
@@ -75,3 +81,7 @@ depending on what is changing.
   - Wikipedia, , /Light cone --- Wikipedia, the free
     encyclopedia/ (2018).
     cite:wiki:2018light-cone
+
+
+  - Slow Ideas | Atul Gawande July, 2013, The New Yorker
+    https://www.newyorker.com/magazine/2013/07/29/slow-ideas
