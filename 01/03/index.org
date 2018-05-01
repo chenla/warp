@@ -331,3 +331,23 @@ eco-village called Rosneath Farm.
 
 — https://www.amazon.com/gp/customer-reviews/RP68T412R31VW/ref=cm_cr_othr_d_rvw_ttl?ie=UTF8&ASIN=0972652914
 #+end_quote
+
+Did some googling about Rosneath Farm, which looked like it
+had great promise, but the owner of the land fucked it all
+up and the project was mired in court battles for over five
+years.
+
+I believe the author of the review above was by Warwich
+Rowell who seems to be the main person behind the project.
+It also looked like he passed away....
+
+One of the big problems with permaculture is the shear
+amount of knowledge you need to be able to do it
+successfully, and I don't think there are a lot of metrics
+that have been pulled together that track how these systems
+work and how much they can really produce.  Everything I
+have seen so far is anecdotal.
+
+Perhaps that's the agro app that I need to build on saltmine
+-- a framework for managing polyculture farms and
+communities.
