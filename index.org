@@ -52,7 +52,7 @@ bibliography:../hoard/bib.bib
  - [[./02/index.org][Contents Volume II]]
  - [[./02/ww-intro-vol-2.org][Introduction Volume II]]
  - 07. [[./02/07/index.org][Points of View]]
- - 08. [[./02/08/ww-dualities.org][Dualities]]
+ - 08. [[./02/08/index.org][Dualities]]
  - 09. [[./02/09/ww-generators.org][Generators]]
  - 10. [[./02/10/index.org][Scaffolds]]
  - 11. [[./02/11/ww-systems.org][Systems]]

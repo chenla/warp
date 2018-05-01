@@ -31,6 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
+ 
  - The Nature of Dualities
  - Dualities in Nature
  - Part-Whole
