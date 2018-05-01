@@ -71,7 +71,7 @@ bibliography:../hoard/bib.bib
  - 21. [[./03/ww-structures.org][Structures]]
  - 22. [[./03/ww-surpluses.org][Surpluses]]
  - 23. [[./03/ww-distribution.org][Distribution]]
- - 24. [[./03/ww-succession.org][Sucwcession]]
+ - 24. [[./03/ww-succession.org][Succession]]
  - 25. [[./03/ww-infrastructure.org][Infrastructure]]
 ** IV. Methodologies
  - [[./04/index.org][Contents Volume IV]]
