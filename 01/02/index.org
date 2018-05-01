@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Ab initio
+#+TITLE: First Principles
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Ab initio
+* First Principles
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-ab-initio.org
@@ -33,25 +33,26 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Table of Contents
   - Table of Contents
   - [[./intro.org][Introduction]]
-  - getting rid of the onion
+  - 00. Getting rid of the onion
     - Discard romanticism and her sister mysticism
     - Discard dogmatism, but don't throw away good ideas
-    that happen to be part of discarded ideologies
+      that happen to be part of discarded ideologies
     - as complicated as it needs to be -- not reductionism,
-    which was the mistake that modernists made
+      which was the mistake that modernists made
   
-  - mutually exclusive and irreducible
-  - free of baggage
-  - principles are not assumptions
+  - 00. Mutually exclusive and 
+  - 00. Irreducible
+  - 00. String Free
+  - 00. No Assumptions
   - at best laws, but at least facts.
 
-  - No Zero Day -- ab initio, not tabla rasa -- we build
-    on what works and what has worked -- if it doesn't
-    work then discard it, change the system to fit human
-    nature, not human nature to fit a system.
-  - Don't be hasty -- things take as long to change as
-    they take.
-  - Be relentless as well as patient.
-  - The last to escape -- hope, don't give in to despair
+  - 00. No Zero Day -- ab initio, not tabla rasa -- we build
+        on what works and what has worked -- if it doesn't
+        work then discard it, change the system to fit human
+        nature, not human nature to fit a system.
+  - 00. Don't be hasty -- things take as long to change as
+        they take.
+  - 00. Be relentless as well as patient.
+  - 00. The last to escape -- hope, don't give in to despair
 
 
