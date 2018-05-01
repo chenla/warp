@@ -35,6 +35,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - 10. [[./10/index.org][Scaffolds]]
   - 11. [[./11/index.org][Systems]]
   - 12. [[./12/index.org][Patterns]]
-  - 13. [[./13/inded.org][Standards]]
+  - 13. [[./13/index.org][Standards]]
   - 14. [[./14/index.org][Legibility]]
 
