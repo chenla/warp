@@ -1,0 +1,37 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Boundries Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]]
+
+
+* Boundries Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/05/intro.org
+:Created:  2018-05-01T17:27@Prek Leap (11.642600N-104.919210W)
+:ID:       993594f2-9332-4da3-b9d6-84fcb5800c8b
+:VER:      578442504.546867026
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:YRA3-4585
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+** References
+
