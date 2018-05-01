@@ -83,11 +83,9 @@ still not clear if it compensates enough for man to solve
 the potentially existential problems that face us over the
 next fity to a hundred years.
 
-*** 01. Civilization
-
-
-
-*** 02. First Principles
+For these reasons it makes sense to occasionally take a long
+hard look at principles and assumptions that we are building
+civilization on top of.  
 
 Then what do we mean by first principles? In a word, it is
 what Paul Graham called, when describing the design of the
