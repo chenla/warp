@@ -64,11 +64,27 @@ depending on the POV
 
 ** References
 
+ - Bland, W. L., & Bell, M. M., A holon approach to agroecology,
+   International Journal of agricultural sustainability, 5(4), 280–294
+   (2007).
+   cite:bland:2007holon
  - Koestler, A., The ghost in the machine (1989), : Arkama Books.
    cite:koestler:1989ghost
+ - Koestler, A., Some general properties of self-regulating open
+   hierarchic order, In A. Koestler, & J. R. Smythies, Beyond
+   Reductionism, New Perspectives in the Life Sciences [Proceedings
+   of] the Alpbach Symposium [1969] (pp. ) (1969). : .
+   cite:koestler:1969some
  - Mella, P., The holonic revolution: holons, holarchies and holonic
    networks:the ghost in the production machine (2009), : Pavia
    University Press.
    cite:mella:2009holon-revolution
+ - I Prigogine, I. S., Order out of chaos: man's new dialogue with
+   nature (1984), : Bantam New Age Books.
+   cite:prigogine:1984order
  - Wikipedia, , /The ghost in the machine --- wikipedia, the free
    encyclopedia/ (2017).  cite:wiki:2017ghost-machine-book
+ - Wikipedia, , /Holon (philosophy) --- wikipedia, the free
+   encyclopedia/ (2017).  cite:wiki:2017holon
+ - Wilber, K., A brief history of everything (1996), : Newleaf.
+   cite:wilbur:1996brief
