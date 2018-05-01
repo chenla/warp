@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 1.2.1 Ab Initio Introduction
+#+TITLE: 1.2.1 First Principles Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -16,7 +16,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 [[[../../index.org][top]]] [[[./index.org][up]]] [next]
 
 
-* 1.2.1 Ab Initio Introduction
+* 1.2.1 First Principles Introduction
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/01/02/intro.org
@@ -31,13 +31,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
+** Scope
 ** TL;DR
-
-What does it mean to start from first principles?
-
-
-** Civilization from First Principles
 
 #+begin_quote
 I should have desired, in the first place, to explain in it what
@@ -63,6 +58,7 @@ on them, as that there may be nothing in the whole series of
 deductions which is not perfectly manifest.
 
 — Decartes, Preface, Principles of Philosophy (1644)
+  cite:descartes:2010principles
 #+end_quote
 
 Why civilization, let alone rethink it from first priniple?
@@ -260,5 +256,12 @@ for country.  If not for the Mongols, China would likely
 have fallen as completely to Europeans as did India.
 
 
+** References
 
+  - Descartes, R., Principles of philosophy, the (2010), :
+    Kessinger Publishing, LLC.
+    cite:descartes:2010principles
+  - Wikipedia, , /First principle --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018first-principles
 
