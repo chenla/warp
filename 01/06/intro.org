@@ -30,7 +30,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope 
+
+This brings us to the final part of the first volume which
+explores the principles on which we can build societies and
+a civilization for mankind that has a solid foundation that
+gives us a place within a world that is both beautiful,
+natural and fulfills that spiritual dimension of our ability
+to see and understand patterns of living-order in the world
+around us, that takes into account our strengths and
+weaknesses and allows us to make progress and a better world
+for ourselves and our children.
+
 ** TL;DR
 
-** Slouching Towards Optimism
+** References
 
