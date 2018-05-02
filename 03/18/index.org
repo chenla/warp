@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Tools
+#+TITLE: Tools TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Tools
+* Tools Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-tools.org
+:Name:     /home/deerpig/proj/chenla/warp/03/18/index.org
 :Created:  2018-04-07T18:12@Prek Leap (11.642600N-104.919210W)
 :ID:       4cc37cda-30b3-430c-b333-d0e813668a74
 :VER:      576371633.617733192
@@ -29,6 +29,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+  - Contents
+  - Introduction
+
 
 ** TL;DR
 
