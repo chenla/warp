@@ -27,17 +27,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
- - 00. [[./index.org][Contents Volume III]]
- - 00. [[./ww-intro-vol-3.org][Introduction]] Volume III
- - 15. [[./ww-identity.org][Identity]]
- - 16. [[./ww-citizens.org][Citizens]]
- - 17. [[./ww-polis.org][Polis]]
- - 18. [[./ww-tools.org][Tools]]
- - 19. [[./ww-machines.org][Machines]]
- - 20. [[./ww-energy.org][Energy]]
- - 21. [[./ww-structures.org][Structures]]
- - 22. [[./ww-surpluses.org][Surpluses]]
- - 23. [[./ww-distribution.org][Distribution]]
- - 24. [[./ww-succession.org][Succession]]
- - 25. [[./ww-infrastructure.org][Infrastructure]]
+ - Contents Volume III
+ - [[./intro.org][Introduction Volume III]]
+ - 15. [[./15/index.org][Identity]]
+ - 16. [[./16/index.org][Citizens]]
+ - 17. [[./17/index.org][Polis]]
+ - 18. [[./18/index.org][Tools]]
+ - 19. [[./19/index.org][Machines]]
+ - 20. [[./20/index.org][Energy]]
+ - 21. [[./21/index.org][Structures]]
+ - 22. [[./22/index.org][Surpluses]]
+ - 23. [[./23/index.org][Distribution]]
+ - 24. [[./24/index.org][Succession]]
+ - 25. [[./25/index.org][Infrastructure]]
