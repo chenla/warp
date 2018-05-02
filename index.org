@@ -67,7 +67,7 @@ bibliography:../hoard/bib.bib
  - 17. [[./03/17/index.org][Polis]]
  - 18. [[./03/18/index.org][Tools]]
  - 19. [[./03/19/index.org][Machines]]
- - 20. [[./03/ww-energy.org][Energy]
+ - 20. [[./03/20/index.org][Energy]]
  - 21. [[./03/ww-structures.org][Structures]
  - 22. [[./03/ww-surpluses.org][Surpluses]
  - 23. [[./03/ww-distribution.org][Distribution]
