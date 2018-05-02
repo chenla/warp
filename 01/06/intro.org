@@ -46,3 +46,15 @@ for ourselves and our children.
 
 ** References
 
+- Association, A. H., /Humanism and its aspirations:
+  humanist manifesto iii./ (2003).
+  cite:aha:2003humanism
+- Einstein, A., Essays in humanism (2011), : Philosophical
+  Library/Open Road.
+  cite:einstein:2011humanism 
+- Pinker, S., Enlightenment now: the case for reason,
+  science, humanism, and progress (2018), : Viking.
+  cite:pinker:2018enlightenment 
+
+
+- TEDTalk on golden rule

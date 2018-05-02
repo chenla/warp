@@ -101,8 +101,8 @@ bibliography:../hoard/bib.bib
 ** VII. Origins
  - [[./07/index.org][Contents Volume VII]]
  - [[./07/intro.org][Introduction Volume VII]]
- - 41. [[./41/index.org][Preamble]]
- - 42. [[./07/41/index.org][Big History]] 
+ - 41. [[./07/41/index.org][Preamble]]
+ - 42. [[./07/42/index.org][Big History]]
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
 ** VIII. Lingua Franca
