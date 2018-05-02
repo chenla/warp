@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Citizens
+#+TITLE: Citizens Table of Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Citizens
+* Citizens Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-citizens.org
+:Name:     /home/deerpig/proj/chenla/warp/03/16/index.org
 :Created:  2018-03-31T19:06@Prek Leap (11.642600N-104.919210W)
 :ID:       27d6c1cd-9319-4e06-9fad-5358bcf6842f
 :VER:      575770060.502844557
@@ -30,10 +30,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - Contents
+  - Introduction
+
+
 ** TL;DR
-** Table of Contents
-
-
 
 Citizen Polis & Citizen Domus
 
@@ -153,3 +154,4 @@ is an epoch which distinguished between ‘citizens’ and
      - basic income a little below happiness threshold
    - obligations
    -
+
