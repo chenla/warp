@@ -68,7 +68,7 @@ bibliography:../hoard/bib.bib
  - 18. [[./03/18/index.org][Tools]]
  - 19. [[./03/19/index.org][Machines]]
  - 20. [[./03/20/index.org][Energy]]
- - 21. [[./03/ww-structures.org][Structures]
+ - 21. [[./03/21/index.org][Structures]]
  - 22. [[./03/ww-surpluses.org][Surpluses]
  - 23. [[./03/ww-distribution.org][Distribution]
  - 24. [[./03/ww-succession.org][Succession]
