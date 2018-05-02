@@ -64,7 +64,7 @@ bibliography:../hoard/bib.bib
  - [[./03/intro.org][Introduction Volume III]]
  - 15. [[./03/15/index.org][Identity]]
  - 16. [[./03/16/index.org][Citizens]]
- - 17. [[./03/ww-polis.org][Polis]
+ - 17. [[./03/17/index.org][Polis]
  - 18. [[./03/ww-tools.org][Tools]
  - 19. [[./03/ww-machines.org][Machines]
  - 20. [[./03/ww-energy.org][Energy]
