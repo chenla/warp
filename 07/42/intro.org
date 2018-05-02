@@ -32,7 +32,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
-
 ** Representing Time
 
 Big History is pretty fucking cool.  The idea is to tell the
@@ -128,3 +127,9 @@ article after another.  And Wikipedia is poor at being a
 gateway to all literature on a subject.  That's not a
 criticism, it's just the way that it was designed.  But that
 is very much needed.
+
+** References
+
+  - Behmand, M., Burke, T., & Simon, R. B., Teaching big history
+    (2015), : University of California Press.
+    cite:behmand:2015teaching
