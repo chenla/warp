@@ -70,7 +70,7 @@ bibliography:../hoard/bib.bib
  - 20. [[./03/20/index.org][Energy]]
  - 21. [[./03/21/index.org][Structures]]
  - 22. [[./03/22/index.org][Surpluses]]
- - 23. [[./03/ww-distribution.org][Distribution]
+ - 23. [[./03/23/index.org][Distribution]]
  - 24. [[./03/ww-succession.org][Succession]
  - 25. [[./03/ww-infrastructure.org][Infrastructure]
 ** IV. Methodologies
