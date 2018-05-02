@@ -61,7 +61,7 @@ bibliography:../hoard/bib.bib
  - 14. [[./02/14/ww-legibility.org][Legibility]]
 ** III. Components
  - [[./03/index.org][Contents Volume III]]
- - [[./03/ww-intro-vol-3.org][Introduction Volume III]]
+ - [[./03/intro.org][Introduction Volume III]]
  - 15. [[./03/ww-identity.org][Identity]]
  - 16. [[./03/ww-citizens.org][Citizens]]
  - 17. [[./03/ww-polis.org][Polis]]
