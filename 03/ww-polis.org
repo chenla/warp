@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Polis
+#+TITLE: Polis TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Polis
+* Polis Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/ww-polis.org
@@ -368,3 +368,14 @@ danger.
     (2016). : London School of Economics and Political
     Science.
     cite:sennett:2016pynx
+  - TEDted:2013city, , City 2.0: the habitat of the future
+    and how to get there (2013), : TED Conferences.
+    cite:ted:2013city-2
+  - Smith, P., City: a guidebook for the urban age (2012), :
+    Bloomsbury Press.  cite:smith:2012city
+  - Katz, B., & Bradley, J., The metropolitan revolution:
+    how cities and metros are fixing our broken politics and
+    fragile economy (2013), : Brookings Institution Press.
+    cite:katz:2013metropolitan
+  - Brand, S., Whole Earth Discipline (2010), : Penguin Books.
+    cite:brand:2010whole-earth-discipline
