@@ -84,12 +84,18 @@ https://en.wikipedia.org/wiki/Pourquoi_story
   - Bryson, B., A short history of nearly everything
     (2003), : Broadway Books.
     cite:bryson:2003short
+  - Christian, D., /Big history: why we need to teach the
+    modern origin story/ (2012).  cite:christian:2012big
   - Christian, D. M., Maps of time : an introduction to big
     history (2011), : University of California Press.
     cite:christian:2011maps-of-time
   - Christian, D., /The history of our world in 18 minutes |
     david christian/ (2011).
     cite:ted:2011:history-david-christian
+  - Christian, D., The return of universal history, History
+    and Theory, 49(4), 6–27 (2010).
+    http://dx.doi.org/10.1111/j.1468-2303.2010.00557.x
+    cite:christian:2010return
   - Crofton, I., & Black, J., The little book of big history
     (2017), : Pegasus Books.
     cite:crofton:2017little
@@ -102,6 +108,8 @@ https://en.wikipedia.org/wiki/Pourquoi_story
     cite:harari:2011sapiens
   - Hawking, S., A brief history of time (1998), : Bantam Press.
     cite:hawking:1988brief,hawking:1998brief
+  - Kindersley, D., Big History (2016), : DK Publishing.
+    cite:kindersley:2016big-history 
   - Langmuir, C. H., & Broecker, W., How to build a habitable
     planet: the story of earth from the big bang to humankind
     (2012), : Princeton University Press.
