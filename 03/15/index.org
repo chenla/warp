@@ -31,6 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - [[./intro.org][Introduction]]
   - Legibility
   - Rights
     - Property -> ownership of wealth and property
