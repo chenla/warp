@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Fabrication
+#+TITLE: Fabrication TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Fabrication
+* Fabrication Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-fabrication.org
+:Name:     /home/deerpig/proj/chenla/warp/04/31/index.org
 :Created:  2018-04-16T12:31@Prek Leap (11.642600N-104.919210W)
 :ID:       f67b6411-1e2b-4fe7-a4b9-aa5543da2118
 :VER:      577128773.320555408
@@ -29,6 +29,43 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+  - Content
+  - Introduction
+  - Succession- pioneer stage
+      - sparse nodes, like early Internet
+      - dummy nodes
+      - surrogate nodes
+    - intermediate stages
+    - mature stage
+  - Niche
+  - Development
+    - identify problem or need 
+    - imagine solution form hypothesis
+    - collect patterns
+    - form language
+    - identify inputs, side effects and desired outputs
+    - end of life, and recycling/repurposing as input to
+      other niches and processes
+    - process start and end points
+    - break into steps
+    - feedback mechanisms
+    - rules and process logic
+  - Build
+    - build model, test scenarios
+    - build prototype - alpha
+    - build beta and try in production
+    - build release candidate put into production
+  - Deployment
+    - collect feedback, fix bugs
+    - identify new features
+    - loop add features, test, release 
+    - when something breaks roll back
+    - monitor feedback for maintain and management --
+      anticipate failures
+  - Iteration
+  - Running Processes
+    - when stable, replicate while developing new features and fixes
 
 ** TL;DR
 
@@ -85,42 +122,3 @@ feature to force people to upgrade their software and pay more money.
 In the 1990's is was common if you had a copy of English Word, that it
 would not open word files created in Japanese Word, even if the
 document used no Japanese characters at all.
-
-
-** Table of Contents
-
-
-  - Succession- pioneer stage
-      - sparse nodes, like early Internet
-      - dummy nodes
-      - surrogate nodes
-    - intermediate stages
-    - mature stage
-  - Niche
-  - Development
-    - identify problem or need 
-    - imagine solution form hypothesis
-    - collect patterns
-    - form language
-    - identify inputs, side effects and desired outputs
-    - end of life, and recycling/repurposing as input to
-      other niches and processes
-    - process start and end points
-    - break into steps
-    - feedback mechanisms
-    - rules and process logic
-  - Build
-    - build model, test scenarios
-    - build prototype - alpha
-    - build beta and try in production
-    - build release candidate put into production
-  - Deployment
-    - collect feedback, fix bugs
-    - identify new features
-    - loop add features, test, release 
-    - when something breaks roll back
-    - monitor feedback for maintain and management --
-      anticipate failures
-  - Iteration
-  - Running Processes
-    - when stable, replicate while developing new features and fixes
