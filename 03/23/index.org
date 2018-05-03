@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Introduction
+  - [[./intro.org][Introduction]]
   - Creation & Ownership
 
   - Goods 
@@ -70,6 +70,3 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Wireless Frequencies
     - 
 
-** TL;DR
-
-Basically this includes all economics
