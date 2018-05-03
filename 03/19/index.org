@@ -30,8 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
-** Table of Contents
+- Contents
+- [[./intro.org][Introduction]] 
 - Classification of Tools
   - Simple Machines (classical mechanical)
     SEE: [[https://en.wikipedia.org/wiki/Simple_machine][Simple Machine]] | Wikipedia
