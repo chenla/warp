@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./intro.org][Introduction]]
  - 26. [[./26/index.org][The Way]]
  - 27. [[./27/index.org][Cycles]]
- - 28. [[./ww-rules.org][Rules]
+ - 28. [[./28/index.org][Rules]]
  - 29. [[./ww-workflow.org][Workflow]
  - 30. [[./ww-replicators.org][Replicators]
  - 31. [[./ww-fabrication.org][Fabrication]
