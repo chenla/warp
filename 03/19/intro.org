@@ -32,6 +32,93 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+** TL;DR
+
+#+begin_quote
+This realization shows that it is the joints, or the connections that
+provide movement, that are the primary elements of a machine. Starting
+with four types of joints, the revolute joint, sliding joint, cam
+joint and gear joint, and related connections such as cables and
+belts, it is possible to understand a machine as an assembly of solid
+parts that connect these joints.
+
+— [[https://en.wikipedia.org/wiki/Simple_machine][Simple Machine]] | Wikipedia
+#+end_quote
+
+#+begin_quote
+What is Machine?
+
+A machine is mechanism or a combination of mechanism which,
+apart from imparting definite motion to the part, also
+transmit and modified the available energy into some kind of
+desired work. It is neither a source of energy nor a
+producer of work but helps in proper utilization of the
+same. The motive power has to be derived from external
+sources.
+
+Now come out what is MECHANISM -
+
+A combination of a number of bodies assembled in such a way
+that the motion of one cause constrained and predictable
+motion to the other.
+
+...
+
+What is machine tool ? 
+
+Any stationary power-driven machine that is used to shape or
+form parts made of metal or other materials.
+
+Nishu Yadav, Mechanical engineer
+Answered Jan 19, 2016
+—  [[https://www.quora.com/What-is-the-difference-between-a-machine-and-a-tool][What is the difference between a machine and a tool?]] | Quora 2011
+#+end_quote  
+
+There is a lot of overlap between a tool and machine.
+
+A tool is generally an extension of the human body that is powered by
+human muscle and typically directly comes into contact with the
+material it is working with.
+
+Machines are often complex externally powered mechanisms that provide
+a complex mechanism (as does the human body for a tool) that directs
+and controls it.
+
+Most things things we will call machines here are mechanical or
+cognitive systems.
+
+We divide machines into two classes, machine-clockwork (or clockwork
+machines) and machine-cognition (or cognitive machines).
+Machine-clockwork require the direction or operation of a
+self-directed agent.  Machine-cog is a machine which is semi-or-fully
+self-directed, can recognize patterns, make decsions and learn.
+
+*** Clockwork
+**** Matter
+Just as with tools, there are machines which are used to manipulate
+and shape phyisical things.  There are machines for moving matter from
+one place to another.
+**** Energy
+There are machines for generating power by capturing it in one form
+and transfering it to another form.
+**** Information
+There are also machines that manipulate information.  These are
+divided into, transmission, computation and memory.  We call these
+types of information machines machine-clockwork because they require
+direction from a cognitive agent.
+*** Cognitive
+A human is a combination clock-work and cognitive-machine.  A Cray
+Supercomputer running machine learning applications is a cognitive
+machine.  A self-contained robot is, like a human, both clockwork and
+self-directed.
+
+*** Hard, Wet and Soft Machines
+
+
+** References
+
+  - [[https://www.quora.com/What-is-the-difference-between-a-machine-and-a-tool][What is the difference between a machine and a tool?]] | Quora 2011  
+
 
 
 
