@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Distribution
+#+TITLE: Distribution TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Distribution
+* Distribution Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-distribution.org
+:Name:     /home/deerpig/proj/chenla/warp/03/23/intro.org
 :Created:  2018-03-29T09:54@Prek Leap (11.642600N-104.919210W)
 :ID:       c0e7485f-1aa2-4f7a-8805-75624be0aa7a
 :VER:      575564139.374550726
@@ -30,12 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-Basically this includes all economics
-
-** Table of Contents
-
+  - Contents
+  - Introduction
   - Creation & Ownership
 
   - Goods 
@@ -73,3 +69,7 @@ Basically this includes all economics
     - Cables (copper, glass, etc.)
     - Wireless Frequencies
     - 
+
+** TL;DR
+
+Basically this includes all economics
