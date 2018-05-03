@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Machines
+#+TITLE: Machines TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Machines
+* Machines Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-machines.org
+:Name:     /home/deerpig/proj/chenla/warp/03/19/index.org
 :Created:  2018-04-15T17:21@Prek Leap (11.642600N-104.919210W)
 :ID:       c3c0543f-1102-404c-94cf-9bcf5251a1a5
 :VER:      577059736.555374828
@@ -30,52 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-There is a lot of overlap between a tool and machine.
-
-A tool is generally an extension of the human body that is powered by
-human muscle and typically directly comes into contact with the
-material it is working with.
-
-Machines are often complex externally powered mechanisms that provide
-a complex mechanism (as does the human body for a tool) that directs
-and controls it.
-
-Most things things we will call machines here are mechanical or
-cognitive systems.
-
-We divide machines into two classes, machine-clockwork (or clockwork
-machines) and machine-cognition (or cognitive machines).
-Machine-clockwork require the direction or operation of a
-self-directed agent.  Machine-cog is a machine which is semi-or-fully
-self-directed, can recognize patterns, make decsions and learn.
-
-*** Clockwork
-**** Matter
-Just as with tools, there are machines which are used to manipulate
-and shape phyisical things.  There are machines for moving matter from
-one place to another.
-**** Energy
-There are machines for generating power by capturing it in one form
-and transfering it to another form.
-**** Information
-There are also machines that manipulate information.  These are
-divided into, transmission, computation and memory.  We call these
-types of information machines machine-clockwork because they require
-direction from a cognitive agent.
-*** Cognitive
-A human is a combination clock-work and cognitive-machine.  A Cray
-Supercomputer running machine learning applications is a cognitive
-machine.  A self-contained robot is, like a human, both clockwork and
-self-directed.
-
-*** Hard, Wet and Soft Machines
-
 
 ** Table of Contents
-
-
 - Classification of Tools
   - Simple Machines (classical mechanical)
     SEE: [[https://en.wikipedia.org/wiki/Simple_machine][Simple Machine]] | Wikipedia
@@ -104,6 +60,7 @@ self-directed.
     - belts
 
 
+** TL;DR
 
 #+begin_quote
 This realization shows that it is the joints, or the connections that
@@ -144,6 +101,46 @@ Nishu Yadav, Mechanical engineer
 Answered Jan 19, 2016
 —  [[https://www.quora.com/What-is-the-difference-between-a-machine-and-a-tool][What is the difference between a machine and a tool?]] | Quora 2011
 #+end_quote  
+
+There is a lot of overlap between a tool and machine.
+
+A tool is generally an extension of the human body that is powered by
+human muscle and typically directly comes into contact with the
+material it is working with.
+
+Machines are often complex externally powered mechanisms that provide
+a complex mechanism (as does the human body for a tool) that directs
+and controls it.
+
+Most things things we will call machines here are mechanical or
+cognitive systems.
+
+We divide machines into two classes, machine-clockwork (or clockwork
+machines) and machine-cognition (or cognitive machines).
+Machine-clockwork require the direction or operation of a
+self-directed agent.  Machine-cog is a machine which is semi-or-fully
+self-directed, can recognize patterns, make decsions and learn.
+
+*** Clockwork
+**** Matter
+Just as with tools, there are machines which are used to manipulate
+and shape phyisical things.  There are machines for moving matter from
+one place to another.
+**** Energy
+There are machines for generating power by capturing it in one form
+and transfering it to another form.
+**** Information
+There are also machines that manipulate information.  These are
+divided into, transmission, computation and memory.  We call these
+types of information machines machine-clockwork because they require
+direction from a cognitive agent.
+*** Cognitive
+A human is a combination clock-work and cognitive-machine.  A Cray
+Supercomputer running machine learning applications is a cognitive
+machine.  A self-contained robot is, like a human, both clockwork and
+self-directed.
+
+*** Hard, Wet and Soft Machines
 
 
 ** References
