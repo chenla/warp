@@ -31,12 +31,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+This Part will mostly be about Rule Sets -- we now have a whole Part
+on Systems which will deal with feedback loops.
+
 ** TL;DR
 
 
-Thinking about this more -- I think that this Part will
-mostly be about Rule Sets -- we now have a whole Part on
-Systems which will deal with feedback loops.
-
-So, do we rename Rules?
 
