@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Replicators
+#+TITLE: Replicators TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Replicators
+* Replicators Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-replicators.org
+:Name:     /home/deerpig/proj/chenla/warp/04/30/intro.org
 :Created:  2018-04-03T19:13@Prek Leap (11.642600N-104.919210W)
 :ID:       19a89240-4242-441d-9ac2-e4fa340885b8
 :VER:      576029703.462139349
@@ -30,21 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-w&w -> patterns -> keystone reference -> design -> instance
-
-This section is all about the different ways that designs are turned
-into instances which are exemplar's of that design.
-
-
-
-A large part of this will talk about communications, 
-
-
-** Table of Contents
-
-
+  - Contents
+  - Introduction
   - Replication
     - hard: manufacturing
     - wet:  chemical/biological
@@ -89,3 +76,14 @@ A large part of this will talk about communications,
     - bombard dna with radiation to produce mutations
     - evolutionary processes are built on random errors producing
       variations that improve a design.
+
+** TL;DR
+
+w&w -> patterns -> keystone reference -> design -> instance
+
+This section is all about the different ways that designs are turned
+into instances which are exemplar's of that design.
+
+
+
+A large part of this will talk about communications, 
