@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Content
-  - Introduction
+  - [[./intro.org][Introduction]]
   - Succession- pioneer stage
       - sparse nodes, like early Internet
       - dummy nodes
