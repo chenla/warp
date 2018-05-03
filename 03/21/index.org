@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Strucutures
+#+TITLE: Strucutures TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Strucutures
+* Strucutures Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-structures.org
+:Name:     /home/deerpig/proj/chenla/warp/03/21/index.org
 :Created:  2018-03-21T18:34@Prek Leap (11.642600N-104.919210W)
 :ID:       c76b2682-c6c4-4f2b-91b5-d564f2918890
 :VER:      574904163.914123690
@@ -30,17 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-The Structures section has been cleaned out and is no longer
-about data and social structures.  That material has been
-moved to their respetive sections.
-
-The section is no devoted to physical structures -- buildings.
-
-** Table of Contents
-
-
+  - Contents
+  - Introduction
   - Buildings
     - Generative Processes -> bottom up, not top down.
     - The Room as atomic unit
@@ -65,4 +56,12 @@ The section is no devoted to physical structures -- buildings.
       intended it this way -- his arcologies were not meant
       to be plans, but what mature generative multi-story
       settlements might look like.
+
+** TL;DR
+
+The Structures section has been cleaned out and is no longer
+about data and social structures.  That material has been
+moved to their respetive sections.
+
+The section is no devoted to physical structures -- buildings.
 
