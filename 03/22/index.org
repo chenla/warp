@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Introduction
+  - [[./intro.org][Introduction]]
   - Potential & Kinetic Stores
     - Stockpiled -> subject to entropy, has a shelf life
     - Potential  -> surplus capacity
