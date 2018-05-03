@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Rules
+#+TITLE: Rules TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Rules
+* Rules Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-rules.org
+:Name:     /home/deerpig/proj/chenla/warp/04/28/intro.org
 :Created:  2018-04-16T16:30@Prek Leap (11.642600N-104.919210W)
 :ID:       f60b7e34-48fd-498e-9cf9-2c93ae933aa6
 :VER:      577143071.029732494
@@ -30,6 +30,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - Contents
+  - Introduction
+  - Evaluation
+    - authentication
+    - verification
+  - Identification 
+    - thresholds
+    - patterns 
+  - Feedback
+    - watchers/listeners
+    - recorders & logs
+    - triggers
+    - actions
+  - Pipes
+  - Loops
+  - Cascades & inheritance
+
 ** TL;DR
 
 Thinking about this more -- I think that this Part will
@@ -37,26 +54,3 @@ mostly be about Rule Sets -- we now have a whole Part on
 Systems which will deal with feeback loops.
 
 So, do we rename Rules?
-
-  - evaluation
-
-    - authentication
-    - verification
-
-  - identification 
-    - thresholds
-    - patterns
-    - 
-  - Feedback
-    - watchers/listeners
-    - recorders & logs
-    - triggers
-    - actions
-
-  - Pipes
-  - Loops
-
-  - Cascades & inheritance
-
-** Table of Contents
-
