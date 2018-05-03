@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Surpluses
+#+TITLE: Surpluses TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Surpluses
+* Surpluses Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/www-surpluses.org
+:Name:     /home/deerpig/proj/chenla/warp/03/23/index.org
 :Created:  2018-03-28T09:26@Prek Leap (11.642600N-104.919210W)
 :ID:       b9308444-6373-4863-9048-94908f7497c3
 :VER:      575476039.252820558
@@ -29,6 +29,31 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+  - Contents
+  - Introduction
+  - Potential & Kinetic Stores
+    - Stockpiled -> subject to entropy, has a shelf life
+    - Potential  -> surplus capacity
+    - kinetic    -> on the hoof, battery charge, in-transit
+  - Types of Supluses:
+    - Production
+      - Sun shines, Wind blows, Water flows, Gravity pulls
+      - Chemical -> Fire burns
+      - Atomic & Nuclear
+      - Animal -> burden, leveraging their natures
+      - Plant  -> leverging their natures
+      - [[./ww-slavery.org][Slavery]]
+      - Machine clockwork
+      - Machine cognition
+      - Time
+        - speed (communication and transporation)
+        - light (extra time from electric light) 
+    - Stores, Reserves & Stockpiles
+      - goods (grain, tinned food)
+      - services (unused capacity)
+    - Caches (network)
+    - Capacity
 
 ** TL;DR
 
@@ -64,31 +89,6 @@ needed to construct buildings.  The assembly line, and a
 vast number of industrial machines reduced the labor
 required before to a handful of semi-skilled people.  Life
 was still hard -- but it was better.
-
-** Table of Contents
-
-  - Potential & Kinetic Stores
-    - Stockpiled -> subject to entropy, has a shelf life
-    - Potential  -> surplus capacity
-    - kinetic    -> on the hoof, battery charge, in-transit
-  - Types of Supluses:
-    - Production
-      - Sun shines, Wind blows, Water flows, Gravity pulls
-      - Chemical -> Fire burns
-      - Atomic & Nuclear
-      - Animal -> burden, leveraging their natures
-      - Plant  -> leverging their natures
-      - [[./ww-slavery.org][Slavery]]
-      - Machine clockwork
-      - Machine cognition
-      - Time
-        - speed (communication and transporation)
-        - light (extra time from electric light) 
-    - Stores, Reserves & Stockpiles
-      - goods (grain, tinned food)
-      - services (unused capacity)
-    - Caches (network)
-    - Capacity
 
 ** Capacity
 
