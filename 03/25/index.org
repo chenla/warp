@@ -1,24 +1,24 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Infrastructure
+#+TITLE: Infrastructure TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Infrastructure
+* Infrastructure Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-infrastructure.org
+:Name:     /home/deerpig/proj/chenla/warp/03/25/index.org
 :Created:  2018-03-30T20:10@Prek Leap (11.642600N-104.919210W)
 :ID:       86af1f15-565b-4e37-816b-d730cbed2f2f
 :VER:      575687467.712771573
@@ -29,6 +29,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+  - Contents
+  - Introduction
+  - Federation -> distributed and self-owned - no franchise
+  - Boostrap   -> how to build the monster from nothing
+  - Finance    -> finance succession stages
+  - Physical   -> infrastructure stack
+    - fuel
+    - waste
+    - water
+    - information
+    - tranportation
+  - Virtual    -> mirrors physical
+    - ERP -- process modeling and management
+    - monitoring & collection
+    - logic -- rulesets and running ML code
 
 ** TL;DR
 
@@ -55,21 +70,6 @@ education and financial systems.
 Finally infrastructure needs to be understood in terms of
 shearing layers, with different layers having different 
 rates of change.
-
-** Table of Contents
-  - Federation -> distributed and self-owned - no franchise
-  - Boostrap   -> how to build the monster from nothing
-  - Finance    -> finance succession stages
-  - Physical   -> infrastructure stack
-    - fuel
-    - waste
-    - water
-    - information
-    - tranportation
-  - Virtual    -> mirrors physical
-    - ERP -- process modeling and management
-    - monitoring & collection
-    - logic -- rulesets and running ML code
 
 ** Move to Primer
 
