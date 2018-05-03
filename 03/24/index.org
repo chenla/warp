@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Succession
+#+TITLE: Succession TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Succession
+* Succession Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-succession.org
+:Name:     /home/deerpig/proj/chenla/warp/03/24/index.org
 :Created:  2018-04-17T12:28@Prek Leap (11.642600N-104.919210W)
 :ID:       12b23860-380a-454a-bd52-51068e214e20
 :VER:      577214948.262552646
@@ -30,30 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-We have already introduced the Successon Model, as one of
-our core Scaffolds but it's important to start introducing
-some example Succession implementations that could be used in
-building civilizations.
-
-The succession models here are very much first drafts and
-will change radically as we learn more and work continues.
-
-The examples used here are NOT normative.  Succession models
-will be defined as Succession Patterns in APPL which will be
-adapted for use in Hoards to generate Primers.
-
-This Part is meant to be a practicum in taking the
-principles and sructures that we have explored thus far and
-see how they can be used to create actual Succession models
-that could be deployed.
-
-As the Succession Patterns are developed and changed, these
-examples will be updated as well.  Please refer to the
-succession patterns in the latest version of APPL 
-
-** Table of Contents
+  - Contents
+  - Introduction
 
 *** Thresholds
 We've already explained what succession models are and how
@@ -103,6 +81,29 @@ understand their role in human civilization
         - independent
     - Teraforming 
   - Habitats & Planetoids
+
+** TL;DR
+
+We have already introduced the Successon Model, as one of
+our core Scaffolds but it's important to start introducing
+some example Succession implementations that could be used in
+building civilizations.
+
+The succession models here are very much first drafts and
+will change radically as we learn more and work continues.
+
+The examples used here are NOT normative.  Succession models
+will be defined as Succession Patterns in APPL which will be
+adapted for use in Hoards to generate Primers.
+
+This Part is meant to be a practicum in taking the
+principles and sructures that we have explored thus far and
+see how they can be used to create actual Succession models
+that could be deployed.
+
+As the Succession Patterns are developed and changed, these
+examples will be updated as well.  Please refer to the
+succession patterns in the latest version of APPL 
 ** References
 
   - Smith, S., & Mark, S., The historical roots of the
