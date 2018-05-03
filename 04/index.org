@@ -29,12 +29,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - [[./index.org][Contents Volume IV]]
  - [[./intro.org][Introduction]]
- - 26. [[./ww-the-way.org][The Way]]
- - 27. [[./ww-cycles.org][Cycles]]
- - 28. [[./ww-rules.org][Rules]]
- - 29. [[./ww-workflow.org][Workflow]]
- - 30. [[./ww-replicators.org][Replicators]]
- - 31. [[./ww-fabrication.org][Fabrication]]
- - 32. [[./ww-agency.org][Agency]]
+ - 26. [[./26/index.org][The Way]]
+ - 27. [[./ww-cycles.org][Cycles]
+ - 28. [[./ww-rules.org][Rules]
+ - 29. [[./ww-workflow.org][Workflow]
+ - 30. [[./ww-replicators.org][Replicators]
+ - 31. [[./ww-fabrication.org][Fabrication]
+ - 32. [[./ww-agency.org][Agency]
 
 
