@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Agency
+#+TITLE: Agency Table of Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Agency
+* Agency Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-agency.org
+:Name:     /home/deerpig/proj/chenla/warp/04/32/index.org
 :Created:  2018-04-16T17:33@Prek Leap (11.642600N-104.919210W)
 :ID:       381c1f0d-376f-4116-9c41-e1c1f9de7705
 :VER:      577146859.382227864
@@ -30,40 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-Agency is an interesting work, it can be a physical location of an
-agent or a whole organization with a stated purpose, it can be a verb
-to have the capacity or authority to do something.
-
-An agent is an abstract term, like an observer.  In fact an observer
-is a type of agent.  Agents can be a go-between or facilitator, such
-as a solicitor or lawyer or someone who arranges sales of properties.
-And of course there is everyone's favorite, the secret agent, who is a
-spy working to gather intelligence from a party without their
-knowledge or approval.
-
-Our use the term agency borrows a bit from all of them, but in
-particular as an agent or group of agents who maintain and direct
-running processes.  An agent can be a human being, a clockwork or
-cognitive machine.
-
-Agency is the stand in term we will use to denote any organizations
-who maintain running processes, including anything from a mom and pop
-corner store, to a multinational business or even a self-declared
-sovereign state.
-
-Agency is the process of running processes, just as second-order
-cybernetics can be said to be the study of uderstanding understanding.
-
-What we want to do here is to outline the requirements and principles
-and patterns for how to run and coordinate a living distributed
-civilization.  In otherwords, this is the operator's operating manual
-for civilization.  This is, as people say in IT, non-trivial.
-
-** Table of Contents
-
-
+ - Contents
+ - [[./intro.org][Introduction]]
  - role of agents
  - role of agencies (n)
  - what does it mean to be given agency
