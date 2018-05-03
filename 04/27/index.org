@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Cycles
+#+TITLE: Cycles TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Cycles
+* Cycles Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-cyles.org
+:Name:     /home/deerpig/proj/chenla/warp/04/27/index.org
 :Created:  2018-03-30T20:19@Prek Leap (11.642600N-104.919210W)
 :ID:       00882336-1b86-4095-b3e4-d71ed31baddc
 :VER:      575688051.534106669
@@ -30,25 +30,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-
-Rename as Cycles
-
-Cycles -- not just for production but in culture as well.
-
-Hard  -> include biological -- seeing biological systems as hardware.
+  - Contents
+  - Introduction
+  - Cycles
+ Hard  -> include biological -- seeing biological systems as hardware.
   -> galactic cycles
   -> solar cycles
-Soft
+ Soft
   - REPL
   - Cascades
   - Iteration
-Wet
+ Wet
   -> cultural loops
   -> generational cycles
 
 
-** Table of Contents
+** TL;DR
 
+Cycles -- not just for production but in culture as well.
 
 
