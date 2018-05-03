@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Workflow
+#+TITLE: Workflow TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Workflow
+* Workflow Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-workflow.org
+:Name:     /home/deerpig/proj/chenla/warp/04/29/index.org
 :Created:  2018-04-01T19:12@Prek Leap (11.642600N-104.919210W)
 :ID:       781acb41-12b6-4bba-bdb3-51c90bf961e3
 :VER:      575856815.708964449
@@ -29,6 +29,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+ - Contents
+ - Introduction
+ - Workflow
+   - step based procedural process 
+ - Tools
+   - dynamic, extensible, self-documenting
+   - a tool does one thing -> some things that are called
+     tools are actually toolchains packaged as tools such as
+     word processers.
+ - Toolchains
+   - Steps and Pipes
+   - Feedback and in-process self-improvement
+ - Composition
+   - process of writing, design, research
+   - iteration by approximation
+ - Rollback -> Reversibility
+ - Documentation
+ - History
 
 ** TL;DR
 
@@ -81,21 +100,3 @@ practicing it's craft.  It also needs to know when it
 doesn't understand and ask questions, and not necessarily
 take the answers literally, but weave them into the process
 -- answers are not the same as directives.
-
-** Table of Contents
- - Workflow
-   - step based procedural process 
- - Tools
-   - dynamic, extensible, self-documenting
-   - a tool does one thing -> some things that are called
-     tools are actually toolchains packaged as tools such as
-     word processers.
- - Toolchains
-   - Steps and Pipes
-   - Feedback and in-process self-improvement
- - Composition
-   - process of writing, design, research
-   - iteration by approximation
- - Rollback -> Reversibility
- - Documentation
- - History
