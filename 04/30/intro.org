@@ -30,7 +30,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
+** Scope
 ** TL;DR
 
+w&w -> patterns -> keystone reference -> design -> instance
+
+This section is all about the different ways that designs are turned
+into instances which are exemplar's of that design.
+
+A large part of this will talk about communications, 
+** References
 
