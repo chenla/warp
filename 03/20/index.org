@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Energy
+#+TITLE: Energy TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Energy
+* Energy Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-energy.org
+:Name:     /home/deerpig/proj/chenla/warp/03/20/index.org
 :Created:  2018-04-06T10:13@Prek Leap (11.642600N-104.919210W)
 :ID:       faa8cf45-a9af-48ce-b16b-0ef2936849f1
 :VER:      576256501.944267670
@@ -29,6 +29,31 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+  - Contents
+  - Introduction
+HARD
+  - fuel -> chemical and electrical
+  - flow -> electrical -- though I suppose gas cold be treated as a
+    flow
+  - measured -> in joules and watts
+  - mechanisms
+    - kenetic   -> muscle, wind, water, sunlight
+    - potential -> stored
+
+    - direct    -> muscle, mechanical (turning a shaft)
+    - muscle, wind, water, sunlight, 
+    - indirect heat-to-steam-to-piston, internal combustion - heat-to-piston  
+    - sunlight converted into sugars
+    - sunlight converted into electricity
+    - atoms split or fused -> heat -> electricity
+WET
+  - fuel -> food
+  - flow -> oxygen
+  - measured in calories 
+
+SOFT
+  - measured in watt/hours
 
 ** TL;DR
 
@@ -48,31 +73,3 @@ energy production and consumption.
 
 — [[https://aeon.co/essays/how-science-fiction-feeds-the-fuel-solutions-of-the-future?utm_medium=feed&utm_source=rss-feed][Fuelling the future]] |  Iwan Rhys Morus, Aeon 2018
 #+end_quote
-
-
-
-** Table of Contents
-
-HARD
-  - fuel -> chemical and electrical
-  - flow -> electrical -- though I suppose gas cold be treated as a
-    flow
-  - measured -> in joules and watts
-  - mechanisms
-    - kenetic   -> muscle, wind, water, sunlight
-    - potential -> stored
-
-    - direct    -> muscle, mechanical (turning a shaft)
-    - muscle, wind, water, sunlight, 
-    - indirect heat-to-steam-to-piston, internal combustion - heat-to-piston  
-    - sunlight converted into sugars
-    - sunlight converted into electricity
-    - atoms split or fused -> heat -> electricity
-
-WET
-  - fuel -> food
-  - flow -> oxygen
-  - measured in calories 
-
-SOFT
-  - measured in watt/hours
