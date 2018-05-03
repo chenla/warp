@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Rules TOC
+#+TITLE: Rules Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,35 +15,28 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Rules Table of Contents
+* Rules Introduction
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/04/28/intro.org
-:Created:  2018-04-16T16:30@Prek Leap (11.642600N-104.919210W)
-:ID:       f60b7e34-48fd-498e-9cf9-2c93ae933aa6
-:VER:      577143071.029732494
+:Created:  2018-05-03T10:17@Prek Leap (11.642600N-104.919210W)
+:ID:       99564074-26e1-4077-8a61-40a2d0548398
+:VER:      578589538.807207097
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:QAT0-6787
+:BXID:     proj:DBF6-2166
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./intro.org][Introduction]]
-  - Evaluation
-    - authentication
-    - verification
-  - Identification 
-    - thresholds
-    - patterns 
-  - Feedback
-    - watchers/listeners
-    - recorders & logs
-    - triggers
-    - actions
-  - Pipes
-  - Loops
-  - Cascades & inheritance
+** Scope
+** TL;DR
+
+
+Thinking about this more -- I think that this Part will
+mostly be about Rule Sets -- we now have a whole Part on
+Systems which will deal with feedback loops.
+
+So, do we rename Rules?
 
