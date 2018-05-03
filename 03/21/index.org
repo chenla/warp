@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
 * Strucutures Table of Contents
 :PROPERTIES:
@@ -57,11 +57,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
       to be plans, but what mature generative multi-story
       settlements might look like.
 
-** TL;DR
 
-The Structures section has been cleaned out and is no longer
-about data and social structures.  That material has been
-moved to their respetive sections.
-
-The section is no devoted to physical structures -- buildings.
 

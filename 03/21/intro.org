@@ -31,6 +31,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+The Structures section has been cleaned out and is no longer
+about data and social structures.  That material has been
+moved to their respetive sections.
+
+The section is no devoted to physical structures -- buildings.
+
 ** TL;DR
 
-
+** References
