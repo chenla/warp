@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Introduction
+  - [[./intro.org][Introduction]]
 HARD
   - fuel -> chemical and electrical
   - flow -> electrical -- though I suppose gas cold be treated as a
