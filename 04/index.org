@@ -35,6 +35,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 29. [[./29/index.org][Workflow]]
  - 30. [[./30/index.org][Replicators]]
  - 31. [[./31.index.org][Fabrication]]
- - 32. [[./ww-agency.org][Agency]
+ - 32. [[./32/index.org][Agency]]
 
 
