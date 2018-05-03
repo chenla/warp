@@ -32,5 +32,59 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+** TL;DR
+
+There is workflow for a person, for a group and for system
+processes.  The last may sound strange but I think this is
+the right way of thinking about it.
+
+If a Pattern Language is a concept and a Primer is a expression
+then the hoard is an instance.
+
+The Primer is the DNA, and the Hoard is the translation of
+the DNA by RNA into proteins that actually build stuff.
+
+---
+
+Feedback and test between steps -> this is far more
+important than almost anything else.  The better you can
+test and know when something is finished, and even better
+the quality of something when it is finished is the
+difference between an assembly line and a master craftsman.
+We need to bake that into automated processes so that they
+not only can test but learn how to improve and that means
+dealing with ambiguity.
+
+The more feedback loops built into processes the better, and
+that means that processes need to be designed to be able to
+continually add additional feedback loops that pass feedback
+to higher layers of abstraction.
+
+The other important thing that needs to be built in is that
+you need to be able to improve things potentially at every
+step of a running process, it is part of the REPL, not
+something done outside and added to the process.  Code today
+is written outside of the running process but when a
+craftsman is making something, he looks to see how to
+improve the process and what he makes as he makes or
+composes.  This is what is missing from industrial workflows
+and toolchains. and this means that feedback loops need
+multiple higher layers of pattern recognition to learn to
+tweak themselves as they work.
+
+---
+
+This is critically important if the MIDDLE is to be able to
+do the job envisioned -- it needs to be a highly distributed
+ML system generated bottom up from very flexible and
+fine-grained iterative self-improving feeback loops.  In
+effect we need a system that is constantly intentionally
+practicing it's craft.  It also needs to know when it
+doesn't understand and ask questions, and not necessarily
+take the answers literally, but weave them into the process
+-- answers are not the same as directives.
+
+** References
+
 
 
