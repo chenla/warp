@@ -30,7 +30,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
   - Contents
-  - Introduction
+  - [[./intro.org][Introduction]]
   - Federation -> distributed and self-owned - no franchise
   - Boostrap   -> how to build the monster from nothing
   - Finance    -> finance succession stages
