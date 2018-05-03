@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Introduction
+  - [[./intro.org][Introduction]]
 
 *** Thresholds
 We've already explained what succession models are and how

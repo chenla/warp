@@ -1,0 +1,36 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Succecssion Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[.;/index.org][up]]]
+
+* Succecssion Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/03/24/intro.org
+:Created:  2018-05-03T09:38@Prek Leap (11.642600N-104.919210W)
+:ID:       d0bcd51e-826f-44e0-bc74-3a13e011fb02
+:VER:      578587164.589052977
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TJM8-4540
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+
+
