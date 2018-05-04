@@ -47,7 +47,7 @@ that in the story, God is not so much punishing Man, but
 making a premptive strike against man, who had eaten from
 the tree of knowledge and was then ejected from the Garden.
 In the destruction of the Tower God shows that he (the Old
-Testement always potrays their God as masculine) what he was
+Testement always portrays their God as masculine) what he was
 scared of most was what Man would do with that knowledge --
 cooperate.  And by cooperating Man collectively would be
 able to challenge God.  The implication is that the source
@@ -56,8 +56,37 @@ fragmenting a single common language into many, it would
 make the type of cooperation needed to challenge God's
 knowledge and power impossible.
 
+This fits well with the Christian concept of time as
+unwinding since The Fall, because at Babel God showed his
+hand and that he was actively putting barriers in Man's way
+after ejection from the Garden.  So in a sense, Babel
+becomes a pourquoi story that explains entropy as a process
+guided by God's hand. The Enlightenment turned this on it's
+head and introduced the vision of time as progress and Man's
+progression from savagery to
+civilization. cite:thompson:1978darkness
 
-
+The ability for us to progress is directly proportionate to
+how well we can cooperate with each other, and cooperation
+is founded on communication.  For all the richness, beauty
+and variety of the spectrum of different human languages,
+there is no getting around that mankind's greatest
+achievements throughout history were made when there there
+were lingua francas, often in the form of second languages,
+such as Greek, Arabic, Latin and Mandarin which were used to
+bridge communication between different cultures, speed the
+propagation of information including news, scientific
+discovery and even religious belief systems.  All of the
+major montheistic religeons were held together for most of
+their history because of the continuity of a common language
+over several millennia.  In this sense, the lingua franca
+minimized the introduction of errors through translation.
+Since each language is build on a cultural mythos,
+translating a sacred text to a different language inevitably
+introduces subtle shifts of meaning, no matter how careful
+the translator attempts to stay true to the original text.
+Once you change the surrounding context of something, you
+change the meaning as well.
 
 ** References
 
@@ -84,4 +113,7 @@ knowledge and power impossible.
     new horizons in postcolonial cultural studies (cross
     cultures 65) (2003), : Rodopi.
     cite:mair:2003politics-english
+  - Thompson, W. I., Darkness and scattered light: four
+    talks on the future (1978), : Anchor Books.
+    cite:thompson:1978darkness 
 
