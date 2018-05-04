@@ -27,5 +27,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - Contents
+  - Introduction
+  - Inevitibility
+  - Propagation
+    - Information
+    - Matter
+  - Types of Habitats
+    - Planets
+    - Planetary Atmospheres
+    - O'Neil Cylinders
 
 
