@@ -128,7 +128,12 @@ the translator attempts to stay true to the original text.
 Once you change the surrounding context of something, you
 change the meaning as well.
 
+The dark side of most Lingua Francas is that they have
+largely been used as tools of oppression, of empire,
+imperialism and as a tool of cultural genocide. 
 
+Lingua franca's are an important part of any state to make
+it's people legible.cite:scott:1998seeing
 
 
 
@@ -157,7 +162,10 @@ change the meaning as well.
     new horizons in postcolonial cultural studies (cross
     cultures 65) (2003), : Rodopi.
     cite:mair:2003politics-english
+  - Scott, J. C., Seeing like a state: how certain schemes
+    to improve the human condition have failed (1998), :
+    Yale University Press. 
+    cite:scott:1998seeing 
   - Thompson, W. I., Darkness and scattered light: four
     talks on the future (1978), : Anchor Books.
     cite:thompson:1978darkness 
-
