@@ -89,7 +89,7 @@ bibliography:../hoard/bib.bib
  - 33. [[./05/33/index.org][APPL]]
  - 34. [[./05/34/index.org][Hoard]]
  - 35. [[./05/35/index.org][Primer]]
- - 36. [[./05/36/index.org][The OS]
+ - 36. [[./05/36/index.org][The OS]]
  - 37. [[./05/37/index.org][Arc]
 * The Parts
 ** VI. Heliosphere
