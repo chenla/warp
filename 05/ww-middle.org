@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: The OS
+#+TITLE: The OS Table of Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* The OS
+* The OS Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-middle.org
+:Name:     /home/deerpig/proj/chenla/warp/05/36/index.org
 :Created:  2018-04-11T10:02@Prek Leap (11.642600N-104.919210W)
 :ID:       98e7fb2e-aad4-48dc-974b-2391215c0bd6
 :VER:      576687835.335944509
@@ -29,6 +29,20 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+ - Contents
+ - Introduction 
+ - identifying wants, needs, and what you have
+ - assemblying a process
+ - breaking into steps
+   - what input does each step require?
+   - what hardware, tools, machines etc are needed?
+   - what level quality for each step (tolerances, etc)
+   - what level of skill, expertise?
+   - how much time to complete?
+   - what feedback loops are needed for quality control
+ - minimize or eliminate liquidity whenever possible (using money is a
+   failure).
 
 
 ** Epigraph
@@ -148,22 +162,6 @@ the pizza shop, and then eventually collecting the empty box
 (along with all other cardboard) and sending it to a company
 who recycles cardboard which is then sent to cardboard
 companies as raw material for making more pizza boxes.
-
-
-** Table of Contents
-
-
- - identifying wants, needs, and what you have
- - assemblying a process
- - breaking into steps
-   - what input does each step require?
-   - what hardware, tools, machines etc are needed?
-   - what level quality for each step (tolerances, etc)
-   - what level of skill, expertise?
-   - how much time to complete?
-   - what feedback loops are needed for quality control
- - minimize or eliminate liquidity whenever possible (using money is a
-   failure).
 
 ** Notes
 
