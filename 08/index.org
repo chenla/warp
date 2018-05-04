@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents Volume VIII
   - [[./intro.org][Introduction Volume VIII]]
-  - Living Languages
+  - 00. Living Languages
     - Rules -> there are no rules, languages grow organically
     - Languages drift over time
     - When languages come into contact they exchange
@@ -38,24 +38,27 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Meaning changes over time as context changes
     - Artificial Languages are doomed to falure
     - Languages don't care about committees
-  - Lingua Francas
+  - 00. Lingua Francas
     - rosetta stone
     - latin, greek, arabic, mandarin, french, spanish
     - pidgins & creoles
-  - World Languages
+  - 00. World Languages
     - World Languages as second languages are good for
       everybody
     - Lingua francas follow:
       - money, power, arts, science, religion
     - Inclusiveness
-  - Continuity
+  - 00. Continuity
     - pace-layers -> changes, but not in real time as change
                      reaches a threshold for a p-layer it will refresh to
                      catch up so it's not out of sync
     - common dictionary
     - propagation -> keeping it in common use
-
-
+  - 00. Requirements for a Common Language
+    - Spoken
+    - Written
+    - Incantation 
+    - Shamanistic
 
  
 

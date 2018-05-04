@@ -112,6 +112,7 @@ bibliography:../hoard/bib.bib
  - 00. Lingua Francas
  - 00. World Languages
  - 00. Continuity
+ - 00. Requirements
 ** IX. Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
