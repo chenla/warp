@@ -95,9 +95,9 @@ bibliography:../hoard/bib.bib
 ** VI. Heliosphere
  - [[./06/index.org][Contents Volume VI]]
  - [[./06/intro.org][Introduction Volume VI]]
- - 38. Habitats for Man
- - 39. Heliosphere
- - 40. Biospheres
+ - 38. [[./38/index.org][Habitats for Man]]
+ - 39. [[./39/index.org][Heliosphere]]
+ - 40. [[./40/index.org][Biospheres]]
 ** VII. Origins
  - [[./07/index.org][Contents Volume VII]]
  - [[./07/intro.org][Introduction Volume VII]]
