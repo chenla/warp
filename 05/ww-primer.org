@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Primer
+#+TITLE: Primer TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Primer
+* Primer Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-primer.org
+:Name:     /home/deerpig/proj/chenla/warp/05/35/index.org
 :Created:  2018-04-10T11:03@Prek Leap (11.642600N-104.919210W)
 :ID:       3e6205e9-f41b-4320-8fb8-f82616149612
 :VER:      576605078.415659344
@@ -30,6 +30,39 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - Contents
+  - Introduction
+  - The Young Ladies Illustrative Primer
+  - Succession Stage Layers
+    - Components
+      - Physical Media & Format/Interface
+      - LOD
+      - Skeins -- skein is a linear narrative, woven through
+        the warp & woof of a fabric layer.
+    - Fabric Layer 
+      - Pre-tool 
+      - Tool
+      - Clockwork
+        - Mechanical 
+        - Electric
+        - Electronic
+      - Cognitive
+   - Unlocking Methodologies and Mechanisms  
+   - 
+
+  - Dimensions of each Stage
+    - Cultural Mythos as framework derived from, built on
+      top of an eventually displacing existing systms.  This
+      is how religions have spread throughout time -- Islam,
+      Christianity and Buddhism didn't replace previous
+      religions, they displaced them and appropriated
+      local cultural systems, language and beliefs.
+    - Social and family structures reflect economic level of
+      development more than than culture.  Each stage will
+      have it's own social and family structures.
+    - Each manifestation of the Primer will be shaped by the
+      environmental and climatic conditions of where it will
+      be used so when it is deployed as a primer
 
 ** TL;DR
 
@@ -100,40 +133,6 @@ that no one is being excluded or being held back.
 
 As the good Doctor Thompson put it, you buy your ticket, you
 take the ride.  And it's vital that everyone gets a ticket.
-
-** Table of Contents
-
-  - The Young Ladies Illustrative Primer
-  - Succession Stage Layers
-    - Components
-      - Physical Media & Format/Interface
-      - LOD
-      - Skeins -- skein is a linear narrative, woven through
-        the warp & woof of a fabric layer.
-    - Fabric Layer 
-      - Pre-tool 
-      - Tool
-      - Clockwork
-        - Mechanical 
-        - Electric
-        - Electronic
-      - Cognitive
-   - Unlocking Methodologies and Mechanisms  
-   - 
-
-  - Dimensions of each Stage
-    - Cultural Mythos as framework derived from, built on
-      top of an eventually displacing existing systms.  This
-      is how religions have spread throughout time -- Islam,
-      Christianity and Buddhism didn't replace previous
-      religions, they displaced them and appropriated
-      local cultural systems, language and beliefs.
-    - Social and family structures reflect economic level of
-      development more than than culture.  Each stage will
-      have it's own social and family structures.
-    - Each manifestation of the Primer will be shaped by the
-      environmental and climatic conditions of where it will
-      be used so when it is deployed as a primer
 
 
 
