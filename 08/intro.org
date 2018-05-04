@@ -39,6 +39,46 @@ networks.
 
 ** TL;DR
 
+#+begin_quote
+1 And the whole earth was of one language, and of one speech.
+
+2 And it came to pass, as they journeyed from the east, that
+  they found a plain in the land of Shinar; and they dwelt
+  there.
+
+3 And they said one to another, Go to, let us make brick,
+  and burn them throughly. And they had brick for stone, and
+  slime had they for morter.
+
+4 And they said, Go to, let us build us a city and a tower,
+  whose top may reach unto heaven; and let us make us a name,
+  lest we be scattered abroad upon the face of the whole
+  earth.
+
+5 And the Lord came down to see the city and the tower,
+  which the children of men builded.
+
+6 And the Lord said, Behold, the people is one, and they
+  have all one language; and this they begin to do: and now
+  nothing will be restrained from them, which they have
+  imagined to do.
+
+7 Go to, let us go down, and there confound their language,
+  that they may not understand one another's speech.
+
+8 So the Lord scattered them abroad from thence upon the
+  face of all the earth: and they left off to build the city.
+
+9 Therefore is the name of it called Babel; because the Lord
+  did there confound the language of all the earth: and from
+  thence did the Lord scatter them abroad upon the face of all
+  the earth.
+
+— Genesis 11:1–9, King James Bible
+  https://en.wikisource.org/wiki/Bible_(King_James)/Genesis#11
+#+end_quote
+
+
 On the face of it, the story of the fall of the Tower of
 Babel is a pourquoi story, providing a backstory for why
 there are so many different human languages.  The story has
@@ -77,7 +117,7 @@ such as Greek, Arabic, Latin and Mandarin which were used to
 bridge communication between different cultures, speed the
 propagation of information including news, scientific
 discovery and even religious belief systems.  All of the
-major montheistic religeons were held together for most of
+major monotheistic religeons were held together for most of
 their history because of the continuity of a common language
 over several millennia.  In this sense, the lingua franca
 minimized the introduction of errors through translation.
@@ -87,6 +127,10 @@ introduces subtle shifts of meaning, no matter how careful
 the translator attempts to stay true to the original text.
 Once you change the surrounding context of something, you
 change the meaning as well.
+
+
+
+
 
 ** References
 
