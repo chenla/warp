@@ -30,7 +30,164 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+
+** Epigraph
+
+#+begin_quote
+It takes and industrial civilization to build an industrial
+civilization.
+
+— Vernor Vinge
+#+end_quote
+
 ** Scope
+
+The primer works as a kind of kernal in an operating system,
+the kernal translates between human languages to machine
+language that the CPU understands.
+
+The majority of an operating system is all the stuff that we
+want computers to do, we need an interace, we need to run
+programs, we need to connect to other computers over
+networks, we need tools, automated processes, security etc.
+
+Iaan Banks wrote a series of books about a post-scarcity
+civilization called The Culture that is run and largely
+governed by benevolent AIs.
+
+We will borrow this term in this Part to give a little
+insight on how the civilization we are building will
+interface with the primer which is the civilization's
+kernal.
+
+All civilizations are very slow AIs from the Indus Valley to
+the Mayans.  So it isn't as big a stretch as you might think
+to turn over our civilization to very slow AIs that are
+running actual code.  These aren't AIs in any human sense of
+the word, they aren't general purpose super intelligences
+that are scaled up monkey brains that will run amok and kill
+all of us.  They are closer to Treebeard in The Lord of the
+Rings.  They are tree herders, thinking and working in
+timescales that are too slow for us /hasty/ folks to
+comprehend.  But at their core is not a primitive limbic
+system causing all sorts of mayhem, but a primer that humans
+have constructed and will be constantly tweaking and
+inproving over time.  A limbic system for a civilization is
+a rather scary thought, so let's stick with the kernal
+metaphor.
+
+We will go into all the gory details in a later volume, but
+we need to understand from the perspective of workflow a
+hoard is compiled to become a primer and then the running
+primer is providing feedback back up to the hoard via the
+ARC or archive which we will introduce in the next Part.
+
+The civilization we are imagining is not a monolithic random
+thing that we have today -- it is structured a bit like a
+meta government that is divided into three very broad
+branches that provide checks and balances on each other.
+
+The branches are MIDDLE, CULTURE and SCOPE.  MIDDLE's domain
+are the faster pace-layers of governance, infrastructure and
+commerce, CULTURE operates at the slowest pace-layer, and
+maintains continuity, long term thinking and planning and
+things that are too slow for Sapians to think about much.
+It is CULTURE which will be in control of the Arc.  Finally
+we have SCOPE.  Scope is outside the pace-layers.  Where
+CULTURE and MIDDLE are highly distributed, SCOPE is global.
+SCOPE has greate power, but is kept on a short leash.  SCOPE
+ensures that the distributed system stays connected and
+doesn't fracture and fork.  SCOPE is the interface with
+anything outside of The Culture, both in terms of diplomacy,
+trade and security.  SCOPE is divided into a number of
+subsections which we won't get into here.
+
+So let's now consider the relationship between the primer
+and the culture and how together they form a complete
+running operating system for civilzation.  We will need to
+cover a lot more ground before we will be ready to return to
+this three branch model to understand the architecture and
+the reasons behind the design.
+
+
 ** TL;DR
 
+In a nutshell, Middle is automated infrastructure,
+everything in the middle of everything else.
+
+In fact, my conception of it as it stands is to take over a
+large part of what government, utilities, logistics, and the
+financial sector do today.
+
+If it works -- Middle is infrastructure that makes
+fine-grained distributed systems possible for both its and
+bits.
+
+Middle is simply an infrastructure for creating just-in-time
+single-use adhoc value chains it doesn't matter if it's an
+email, or a container-ship, a process is created, broken
+into steps, agents located to complete each step and and
+ensure that each step is done correctly.
+
+Each step only has to deal with the step they have
+contracted to do.
+
+So if you have a pizza shop, all you have to do is make the
+pizzas.  You don't have to buy ingrediants, or do
+accounting, or take orders, make deliveries -- just take the
+order, the system will ensure you have the ingrediants (at
+the quality and quantity you need) tell the system when the
+pizza will be ready, and as it's put in the box there will
+be an agent to pick it up.
+
+Even the cardboard in the box, will be part of it's own
+chain -- that starts with making the corregated cardboard,
+die-cutting the cardboard, printing the box, getting it to
+the pizza shop, and then eventually collecting the empty box
+(along with all other cardboard) and sending it to a company
+who recycles cardboard which is then sent to cardboard
+companies as raw material for making more pizza boxes.
+
+** Notes
+
+The middle itself is not a middleman -- it is a federated
+distributed system that everyone contributes to.  If you
+want to join the network, you by a server that runs X times
+the number of containers you need to do your business --
+that extra capacity is aggregated to run Middle.
+
+If Middle needs more capacity, it will provision it by
+upping the amount of power each node is required to provide
+when they replace their server.
+
+Middle only will work if it can anticipate and plan many
+moves ahead, and constantly adjust when anticipated demand
+acceed or are lower than it expects.  This means shuffling
+around resources that have already been allocated.
+
+So let's go back to pizza boxes.  Let's say that Middle
+believes that because of a sporting event, that X number of
+pizzas will be ordered during that event.  So in
+anticipation, X number of boxes are delivered to the shops
+expected to make those pies.  But something happens, perhaps
+the event is canceled, and those boxes will be sitting there
+for a while until they can be used.  But, unexpectedly, in
+another city, there is a change where suddenly there is a
+surge in pizza orders -- instead of sending boxes from the
+cardboard company to those shops, some of the unused boxes
+from the other city are picked up and sent to the other
+city.  In reality there are all sorts of things wrong with
+this scenario -- for example, printed boxes for one city may
+not work in another.  But the idea here is that the system
+is flexible enough to use final destinations as a sort of
+distributed cache network -- where anyone can knock on their
+neighbor's door to borrow a cup of sugar.
+
+Centralized just-in-time is brittle -- if there is a problem
+with the central system (say like the Bangkok floods) then
+the whole system grinds to a halt.  But if everyone is part
+of the cache, giving and taking as needed, then if there is
+a failure of any certain percentage of nodes, the system can
+rebalance and route around the problems while it is being
+fixed.
 
