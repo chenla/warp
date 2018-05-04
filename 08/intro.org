@@ -128,6 +128,47 @@ the translator attempts to stay true to the original text.
 Once you change the surrounding context of something, you
 change the meaning as well.
 
+
+What all of this boils down to is propagation of
+information, maintaining a common cultural context which
+makes communication without misunderstanding possible.
+
+The functional requirements for a distributed civilization:
+
+  - a common origin story --> big history
+  - a common language     --> lingua franca (typically as a
+                              second language)
+  - the common language must change at different rates in
+    different pace-layers
+  - a machine understanable incantation language
+  - a shamanistic API which allows the creation of different
+    incantation languages which are domain and/or cultural
+    specific.
+  - the API and Incantation languages must be able to
+    gracefully degrade backwards and forwards across
+    succession stages.
+ 
+This takes care of many problems with drift and continuity
+so long as propagation rates of information do not exceed
+whatever the parameter for holding things together.  For the
+type of civilization we are envisioning at the top
+succession layer, this will likely be a day.
+
+American and British English was in the process of becoming
+separate languages, which stopped in the 20th century with
+the introduction of mass communication -- epecially video,
+audio and long distance telephony and later the Internet.
+
+The flip side to this, is that by bringing the world
+together into a single sphere of near instant communication,
+we will see that languages will increasingly borrow words
+into local languges from around the world.  This is already
+happening.  It means that if the global language is English,
+English will become more and more internationalized, rather
+than being based largely on American English.  American
+English will soon be just one more local varient of English.
+
+
 The dark side of most Lingua Francas is that they have
 largely been used as tools of oppression, of empire,
 imperialism and as a tool of cultural genocide.  This is not
