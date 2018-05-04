@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 33. A Pace-Layer Pattern Language
+#+TITLE: 33. A Pace-Layer Pattern Language TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 33. A Pace-Layer Pattern Language
+* 33. A Pace-Layer Pattern Language Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww/appl.org
+:Name:     /home/deerpig/proj/chenla/warp/05/33/index.org
 :Created:  2018-04-10T10:57@Prek Leap (11.642600N-104.919210W)
 :ID:       9eabb218-75d0-4a23-a358-00c13fe7d021
 :VER:      576604703.780441407
@@ -30,8 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
-
+  - Contents
+  - Introduction
   - Development Stage
     - Stub (S)
     - Proposed (P)
