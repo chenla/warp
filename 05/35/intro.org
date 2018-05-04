@@ -1,0 +1,113 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Primer Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Primer Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/05/35/intro.org
+:Created:  2018-05-04T18:40@Prek Leap (11.642600N-104.919210W)
+:ID:       d98f35e3-b132-475f-ab78-445049d7a171
+:VER:      578706074.953791617
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:UMG8-3663
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+
+The Primer is the Hoard after it has been compiled, deployed
+running production.
+
+In our case, this will take a number of physical and
+electronic forms depending on the succession stage the that
+reader belongs to.
+
+The primer is structured like a multi-level labyrinth, with
+no Minotaur in the middle.  Each level is designed so that
+it forms the foundational prerequisites for the next level.
+This is not a quest or a game, the reason for this structure
+is both pedantic and pragmatic.  
+
+
+As Vernor Vinge repeatedly observed, you need an industrial
+civilization to build an industrial civilization.  You can't
+build an AI until you have a computer, you can't build a
+computer (with apologies to Babbage) unless you have
+integrated circuits, you can't have integrated circuits
+unless you have an electrified mechanical industrial
+infrastructure, you can't have an electrified mechanical
+infrastructure unless you have an industrial infrastructure
+to electrify and you can build that ingrastructure without a
+base pre-electrical civilization, with a stable means of
+providing the base levels of Maslow's hierarchy; food,
+shelter, health, saftey and the free time to learn and
+experiment.
+
+So each level will be designed using media appropriate to
+that succession stage.  Stone and etched metal for basic
+pictoral information to get one started and stay alive,
+paper for those who have basic literate and numerative
+skills, and eventually dynamic machine graphical interfaces
+and perhaps more advanced types of interfaces when the
+technology becomes available.
+
+If we think of the Primer as being a multi-layered fabric
+made up of threads that compromise its warp and woof, then
+the Primer is the mechanism that acts as a skein, a thread
+or path through each layer of fabric and then from layer to
+layer.
+
+It is important to understand that we are building a
+/Distributed/ civilization.  Each Hoard is designed to be an
+expression of the place it will be used in, and over time
+those changes will become deeper and richer.  Changes which
+are intrinsic to a place and climate and fashion of a given
+succession stage and the historical and cultural context of
+the place and people will shape h There is no one Primer to
+Rule them all.  Primers will be built for different
+seccession stages, for individuals, for students at
+different ages or levels of skill and knowledge, there will
+be primers for masters, and hobbiests, for groups and
+organizations of different sizes and purposes.  In other
+words a Primer is a Holon that is part of a larger Holarchy.
+The trick is to ensure that all primers remain interoperable
+with each other at all scales and in all contexts.  For
+example, succession stages will not be be global for a very
+long time.  As William Gibson said, they just aren't evenly
+distributed, so interoperability in terms of being able
+gracefully degrade or to upgrade is especially important to
+ensure that everyone progresses at the pace that they are
+able to and remain in their comfort zone, while ensuring
+that no one is being excluded or being held back.
+
+As the good Doctor Thompson put it, you buy your ticket, you
+take the ride.  And it's vital that everyone gets a ticket.
+
+
+
+** References
+
+#+begin_comment
+ - NEED  Neal Stephenson's Diamond Age Quote.
+ - NEED  Hunter Thompson Quote
+ - NEED  Vernor Vinge Quote
+ - NEED  William Gibson Quote
+#+end_comment
