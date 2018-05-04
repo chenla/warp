@@ -31,15 +31,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 
-** Epigraph
-
-#+begin_quote
-It takes and industrial civilization to build an industrial
-civilization.
-
-— Vernor Vinge
-#+end_quote
-
 ** Scope
 
 The primer works as a kind of kernal in an operating system,
@@ -109,8 +100,14 @@ cover a lot more ground before we will be ready to return to
 this three branch model to understand the architecture and
 the reasons behind the design.
 
-
 ** TL;DR
+
+#+begin_quote
+It takes and industrial civilization to build an industrial
+civilization.
+
+— Vernor Vinge
+#+end_quote
 
 In a nutshell, Middle is automated infrastructure,
 everything in the middle of everything else.
