@@ -58,7 +58,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Spoken
     - Written
     - Incantation 
-    - Shamanistic
+    - Shamanistic API
 
  
 
