@@ -28,9 +28,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
  - 00. [[./index.org][Contents Volume V]]
- - 00. [[./ww-intro-vol-5.org][Introduction Volume V]]
- - 33. [[./ww-appl.org][APPL]]
- - 34. [[./ww-hoard.org][Hoard]]
- - 35. [[./ww-primer.org][Primer]]
- - 36. [[./ww-middle.org][The OS]]
- - 37. [[./ww-arc.org][Arc]]
+ - 00. [[./intro.org][Introduction Volume V]]
+ - 33. [[./33/index.org][APPL]]
+ - 34. [[./34/index.org][Hoard]]
+ - 35. [[./35/index.org][Primer]]
+ - 36. [[./36/index.org][The OS]]
+ - 37. [[./37/index.org][Arc]]
