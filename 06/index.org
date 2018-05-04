@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents Volume VI
  - [[./intro.org][Introduction Volume VI]]
- - 38. Habitats for Man
+ - 38. [[./38/index.org][Habitats for Man]]
    - Inevitibility
    - Propagation
      - Information
@@ -38,12 +38,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Planets
      - Planetary Atmospheres
      - O'Neil Cylinders
- - 39. Heliosphere
+ - 39. [[./39/index.org][Heliosphere]]
    - Light
    - Heat
    - Gravity
    - Interstellar Shielding
- - 40. Biospheres
+ - 40. [[./40/index.org][Biospheres]]
    - Lithosphere 
      - The Ground You Stand On 
        -> any superstructure that supports a biosphere
