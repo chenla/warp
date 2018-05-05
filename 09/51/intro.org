@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Pedagogy Introduction
 #+STARTUP: showall
-#+TITLE:   Pedagogy TOC
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,24 +15,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Pedagogy Table of Contents
+* Pedagogy Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/51/index.org
-:Created:  2018-05-05T18:37@Prek Leap (11.642600N-104.919210W)
-:ID:       9f55fe18-2ee3-41d6-9bdc-15aa934c2e3f
-:VER:      578792339.353995093
+:Name:     /home/deerpig/proj/chenla/warp/09/51/intro.org
+:Created:  2018-05-05T18:52@Prek Leap (11.642600N-104.919210W)
+:ID:       6089264e-3e4c-44fd-9685-25901a442435
+:VER:      578793194.104095057
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:YYM0-2880
+:BXID:     proj:SKY5-8754
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./intro.org][Introduction]]
-  - Evaluation
-  - Backward Design
+** Scope
+** TL;DR
+** References
 
 
