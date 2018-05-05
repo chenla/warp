@@ -30,5 +30,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - Introduction
+  - Blended Learning
+  - Homework
+  - Portfolios
+  - Self Directed Learning
+  - Mastery Learning
+  - Portfolio Building
 
 
