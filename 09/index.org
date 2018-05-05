@@ -34,17 +34,4 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 52. [[./52/index.org][Methods]]
  - 53. [[./53/index.org][Mastery]]
  - 54. [[./54/index.org][Curriculum]] 
-   - Trivium
-     - Grammar
-     - Logic
-     - Rhetoric
-   - Quadrivium
-     - Mimesis
-     - Rhizomata
-     - Systema
-     - Transacta
-   - Laurea
-     - Laurea Magister
-     - Laurea Practicum 
-     - Practicum -> Techne
 
