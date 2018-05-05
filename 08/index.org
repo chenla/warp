@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents Volume VIII
   - [[./intro.org][Introduction Volume VIII]]
-  - 00. Languages
+  - 45. [[./45/index.org][Languages]]
     - Foundational Cultural Mythos 
     - Languages as Dynamic Systems
     - Evolution of spoken languages
@@ -47,12 +47,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
         everybody
       - Lingua francas follow:
       - money, power, arts, science, religion
-  - 00. Writing Systems
+  - 46. [[./46/index.org][Writing Systems]]
       - Types
         - hieroglyph
         - ideogram
         - phonetic
-  - 00. Incantation
+  - 47. [[./47/index.org][Incantation]]
     - Invocation & Incantation are functionally the same
     - Incantation as translators and bridges between worlds
     - Executible Language
@@ -60,11 +60,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Incantations & Spells
     - Spoken and Written forms
     - Computer Programing Languages
-  - 00. Interoperability
+  - 48. [[./48/index.org][Interoperability]]
     - rosetta stone
     - translation dictionaries & grammars
     - APIs  
-  - 00  Towards A Common Languge
+  - 49. [[./49/index.org][Towards A Common Languge]]
     - Definition & Scope
       - Spoken
       - Written
