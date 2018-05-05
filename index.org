@@ -40,8 +40,8 @@ bibliography:../hoard/bib.bib
  - Prolegomenon
 * Building Blocks
 ** I. Foundations
- - [[./01/index.org][Contents Volume I]]
- - [[./01/intro.org][Introduction Volume I]]
+ - [[./01/index.org][Contents]]
+ - [[./01/intro.org][Introduction]]
  - 01. [[./01/01/index.org][Civilization]]
  - 02. [[./01/02/index.org][First Principles]]
  - 03. [[./01/03/index.org][Nature of Order]]
@@ -49,8 +49,8 @@ bibliography:../hoard/bib.bib
  - 05. [[./01/05/index.org][Boundries]]
  - 06. [[./01/06/index.org][Principles]]
 ** II. Frameworks
- - [[./02/index.org][Contents Volume II]]
- - [[./02/ww-intro-vol-2.org][Introduction Volume II]]
+ - [[./02/index.org][Contents]]
+ - [[./02/ww-intro-vol-2.org][Introduction]]
  - 07. [[./02/07/index.org][Points of View]]
  - 08. [[./02/08/index.org][Dualities]]
  - 09. [[./02/09/ww-generators.org][Generators]]
@@ -60,8 +60,8 @@ bibliography:../hoard/bib.bib
  - 13. [[./02/13/ww-standards.org][Standards]]
  - 14. [[./02/14/ww-legibility.org][Legibility]]
 ** III. Components
- - [[./03/index.org][Contents Volume III]]
- - [[./03/intro.org][Introduction Volume III]]
+ - [[./03/index.org][Contents]]
+ - [[./03/intro.org][Introduction]]
  - 15. [[./03/15/index.org][Identity]]
  - 16. [[./03/16/index.org][Citizens]]
  - 17. [[./03/17/index.org][Polis]]
@@ -84,8 +84,8 @@ bibliography:../hoard/bib.bib
  - 31. [[./04/ww-fabrication.org][Fabrication]]
  - 32. [[./04/ww-agency.org][Agency]]
 ** V. Workflow
- - [[./05/index.org][Contents Volume V]]
- - [[./05/intro.org][Introduction Volume V]]
+ - [[./05/index.org][Contents]]
+ - [[./05/intro.org][Introduction]]
  - 33. [[./05/33/index.org][APPL]]
  - 34. [[./05/34/index.org][Hoard]]
  - 35. [[./05/35/index.org][Primer]]
@@ -93,37 +93,37 @@ bibliography:../hoard/bib.bib
  - 37. [[./05/37/index.org][Arc]]
 * Components
 ** VI. Heliosphere
- - [[./06/index.org][Contents Volume VI]]
- - [[./06/intro.org][Introduction Volume VI]]
+ - [[./06/index.org][Contents]]
+ - [[./06/intro.org][Introduction]]
  - 38. [[./38/index.org][Habitats for Man]]
  - 39. [[./39/index.org][Heliosphere]]
  - 40. [[./40/index.org][Biospheres]]
 ** VII. Origins
- - [[./07/index.org][Contents Volume VII]]
- - [[./07/intro.org][Introduction Volume VII]]
+ - [[./07/index.org][Contents]]
+ - [[./07/intro.org][Introduction]]
  - 41. [[./07/41/index.org][Preamble]]
  - 42. [[./07/42/index.org][Big History]]
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
 ** VIII. Lingua Franca
- - [[./08/index.org][Contents Volume VIII]]
- - [[./08/index.org][Introduction Volume VIII]]
+ - [[./08/index.org][Contents]]
+ - [[./08/index.org][Introduction]]
  - 45. [[./08/45/index.org][Languages]]
  - 46. [[./08/46/index.org][Writing Systems]]
  - 47. [[./08/47/index.org][Incantation]]
  - 48. [[./08/48/index.org][Interoperability]]
  - 49. [[./08/49/index.org][A Common Language]]
 ** IX. Curriculum
- - [[./09/index.org][Contents Volume IX]]
- - [[./09/intro.org][Introduction Volume IX]]
+ - [[./09/index.org][Contents]]
+ - [[./09/intro.org][Introduction]]
  - 50. [[./09/50/index.org][Learning]]
  - 51. [[./09/51/index.org][Pedagogy]]
  - 52. [[./09/52/index.org][Methods]]
  - 53. [[./09/53/index.org][Mastery]]
  - 54. [[./09/54/index.org][Curriculum]]
 ** X. Governance
- -[[./10/index.org][ Contents Volume X]]
- - [[./10/intro.org][Introduction Volume X]]
+ -[[./10/index.org][ Contents]]
+ - [[./10/intro.org][Introduction]]
  - 55. Distributed Governance
  - 56. Articles
  - 57. Declaration
@@ -132,8 +132,8 @@ bibliography:../hoard/bib.bib
  - 60. Constitution
  - 61. Statutes
 ** XI Infrastructure
- - [[./11/index.org][Contents Volume XI]]
- - [[./11/intro.org][Introduction Volume XI]]
+ - [[./11/index.org][Contents]]
+ - [[./11/intro.org][Introduction]]
  - 00. Information
  - 00. Energy
  - 00. Transporation
@@ -141,8 +141,8 @@ bibliography:../hoard/bib.bib
  - 00. Water
  - 00. Environment
 ** XII. Economy
- - [[./12/index.org][Contents Volume XII]]
- - [[./12/intro.org][Introduction Volume XII]]
+ - [[./12/index.org][Contents]]
+ - [[./12/intro.org][Introduction]]
  - 00. Capitalism
  - 00. Free Market Framework
  - 00. Generated Production Pipes (GPP)
@@ -155,8 +155,8 @@ bibliography:../hoard/bib.bib
  - 00. Consumption
  - 00. Recycling
 ** XIII. Culture
- - [[./13/index.org][Contents Volume XI]]
- - [[./13/intro.org][Introduction Volume XII]]
+ - [[./13/index.org][Contents]]
+ - [[./13/intro.org][Introduction]]
  - 00. Slow infrastructure
  - 00. Slow governance
  - 00. Long term investment
@@ -165,14 +165,14 @@ bibliography:../hoard/bib.bib
  - 00. Continuity
 * Assembly
 ** XIV. Implementation
- - 00. [[./14/index.org][Contents volume XIV]]
- - 00. [[./14/intro.org][Introduction volume XIV]]
+ - 00. [[./14/index.org][Contents]]
+ - 00. [[./14/intro.org][Introduction]]
  - 00. Middle
  - 00. Culture
  - 00. Scope
 ** XV. Scenarios
- - [[./15/index.org][Contents Volume XV]]
- - [[./15/intro.org][Introduction Volume XV]]
+ - [[./15/index.org][Contents]]
+ - [[./15/intro.org][Introduction]]
  - 00. [[./15/ww-scenarios.org][Scenarios]]
  - 00. [[./15/ww-window.org][Window]]
  - 00. [[./15/ww-roadmap.org][Roadmap]]
