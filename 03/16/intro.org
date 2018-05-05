@@ -153,3 +153,48 @@ is an epoch which distinguished between ‘citizens’ and
    - obligations
    -
 
+** rules of cooperation
+
+*privacy* is a reasonible expection that that different
+roles in a person or organization are compartmentalized so
+that they are not visible to other people and organizations
+unless that access is granted.  However, if a person or
+organization violates established norms as set by a
+relationship between two parties then that privacy may be
+violated.
+
+*transparancy* is a reasonable expectation that when two
+parties iteract for a particular purpose, that both parties
+are able to see what the other party is doing or has done to
+ensure that both parties are within the bounds set by the
+activity they are taking part in.  I guess each party can be
+thought of as a stakeholder.
+
+*accountability* that if one or more parties cooperating for
+a particular purpose breaks the agreement, that there is a
+mechanism to ensure that the stakeholder that violates the
+conditions they agreed to makes good on that agreement and
+that this can be enforced.
+
+
+At the two ends of the spectrum is the conflict between
+anonymity and legiblity:
+
+
+*anonymity* is limited to an audience and or a role.  There
+is no reason why a society can't allow anonymity so long as
+the role that uses it doesn't cross over into actions that
+are not socially acceptable.  The problem with this is how
+states and other's in power define "what is acceptable".  In
+repressive regimes the answer is usually, 'not fucking
+much'.  Anonymity is needed as part of a mechanism for
+accountibility.
+
+*legibility* is the ability for someone (usually a state) to
+treat a person and whatever assets and wealth they have
+transparent (visible).  Traditionally this is for collecting
+taxes, conscription, and to thwart attempts to challenge the
+state.  So legibility is simply a kind of imposed
+transparency by a State.
+
+The State is concerned mostly with speech and property. 
