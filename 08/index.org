@@ -29,17 +29,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents Volume VIII
   - [[./intro.org][Introduction Volume VIII]]
-  - 00. Spoken
-    - living languaged ->Rules -> there are no rules, languages grow organically
-    - Languages drift over time
-    - When languages come into contact they exchange
-      vocabulary
-    - Languages drift in isolation, and homogenize when not
+  - 00. Languages
+    - Languages as Dynamic Systems
+    - Evolution of spoken languages
+    - Living languages -> languages grow organically
+    - Languages Drift  -> in isolation
+    - Languages Steal  -> homogenize when in contact
     - Meaning changes over time as context changes
-    - Artificial Languages are doomed to falure
+    - Artificial Languages are Doomed
     - Languages don't care about committees
     - Lingua Francas
-      - rosetta stone
       - latin, greek, arabic, mandarin, french, spanish
       - pidgins & creoles
     - World Languages
@@ -47,10 +46,26 @@ bibliography:~/proj/chenla/hoard/bib.bib
         everybody
       - Lingua francas follow:
       - money, power, arts, science, religion
+  - 00. Written
 
-
+  - 00. Incantation
+    - Invocation & Incantation are functionally the same
+    - Incantation as translators and bridges between worlds
+    - Executible Language
+    - Shamanistic & Magical
+    - Incantations & Spells
+    - Spoken and Written forms
+    - Computer Programing Languages
+    
+  - 00. Interoperability
+    - rosetta stone
+    - translation dictionaries & grammars
+    - APIs  
   - 00 Towards A Common Languge
     - Definition & Scope
+      - Spoken
+      - Written
+      - Incantation
     - Requirements
       - Inclusiveness
       - Continuity
@@ -58,13 +73,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
         - pace-layers -> changes, but not in real time as change
                          reaches a threshold for a p-layer it will refresh to
                          catch up so it's not out of sync
+        - encoding & succession-stages
       - Common Dictionary
-
-
-    - Spoken
-    - Written
-    - Incantation 
-
+        - Dictionaries are snapshots
+        - Periodic Feature Freeze
+        - Each Release preserves context for language from
+          that era.
 
  
 
