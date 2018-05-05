@@ -27,5 +27,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - Contents
+  - Introduction
+  - Foundational Cultural Mythos 
+  - Languages as Dynamic Systems
+  - Evolution of spoken languages
+  - Living languages -> languages grow organically
+  - Languages Drift  -> in isolation
+  - Languages Steal  -> homogenize when in contact
+  - Meaning changes over time as context changes
+  - Artificial Languages are Doomed
+  - Languages don't care about committees
+  - Lingua Francas
+    - latin, greek, arabic, mandarin, french, spanish
+    - pidgins & creoles
+  - World Languages
+    - World Languages as second languages are good for
+      everybody
+    - Lingua francas follow:
+    - money, power, arts, science, religion
 
 
