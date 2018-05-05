@@ -109,10 +109,10 @@ bibliography:../hoard/bib.bib
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
  - 45. [[./08/45/index.org][Languages]]
- - 46. [[./08/46/index.org][Writing Systems
- - 47. [[./08/47/index.org][Incantation
- - 48. [[./08/48/index.org][Interoperability
- - 49. [[./08/49/index.org][A Common Language
+ - 46. [[./08/46/index.org][Writing Systems]]
+ - 47. [[./08/47/index.org][Incantation]]
+ - 48. [[./08/48/index.org][Interoperability]]
+ - 49. [[./08/49/index.org][A Common Language]]
 ** IX. Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
