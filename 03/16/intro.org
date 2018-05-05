@@ -163,7 +163,7 @@ organization violates established norms as set by a
 relationship between two parties then that privacy may be
 violated.
 
-*transparancy* is a reasonable expectation that when two
+*transparency* is a reasonable expectation that when two
 parties iteract for a particular purpose, that both parties
 are able to see what the other party is doing or has done to
 ensure that both parties are within the bounds set by the
@@ -198,3 +198,12 @@ state.  So legibility is simply a kind of imposed
 transparency by a State.
 
 The State is concerned mostly with speech and property. 
+
+
+Without an identity model that sets the parameters for
+behavior and boundries for individuals and groups, we get a
+panopticon and ultimately a disfunctional society.  All
+individuals, stakeholders and organizations are held to the
+same expectation of privacy, transparency and negative
+feedback loops that ensure accountability.  All three have
+to be in balance.
