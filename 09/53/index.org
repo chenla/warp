@@ -29,5 +29,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - Introduction
+  - How We Learn
+    - Spaced Repetition
+    - Knowledge
+    - Technique
+    - Context
+    - Process
+  - Mastery
+  - Practice
+  - Otium
+  - Negotium
 
 
