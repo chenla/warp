@@ -108,11 +108,11 @@ bibliography:../hoard/bib.bib
 ** VIII. Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
- - 45. Languages
- - 46. Writing Systems
- - 47. Incantation
- - 48. Interoperability
- - 49. A Common Language
+ - 45. [[./08/45/index.org][Languages
+ - 46. [[./08/46/index.org][Writing Systems
+ - 47. [[./08/47/index.org][Incantation
+ - 48. [[./08/48/index.org][Interoperability
+ - 49. [[./08/49/index.org][A Common Language
 ** IX. Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
