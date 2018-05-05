@@ -31,8 +31,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./intro.org][Introduction Volume VIII]]
  - 50. [[./50/index.org][Learning]]
  - 51. [[./51/index.org][Pedagogy]]
-   - Evaluation
-   - Backward Design
  - 52. [[./52/index.org][Methods]]
    - Blended Learning
    - Homework
