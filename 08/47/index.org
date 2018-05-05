@@ -27,5 +27,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
-
+  - Contents
+  - Introduction
+  - Invocation & Incantation are functionally the same
+  - Incantation as translators and bridges between worlds
+  - Executible Language
+  - Shamanistic & Magical
+  - Incantations & Spells
+  - Spoken and Written forms
+  - Computer Programing Languages
