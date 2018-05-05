@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents Volume VIII
  - [[./intro.org][Introduction Volume VIII]]
- - 00. Learning
+ - 50. [[./50/index.org][Learning]]
    - education is not a place
    - what all citizens need to know
    - life long learning -> self, training, degree
@@ -39,17 +39,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
      expertise etc.
    - Lifetime learning -> build your hoard
    - Context
- - 00. Pedagogy
+ - 51. [[./51/index.org][Pedagogy]]
    - Evaluation
    - Backward Design
- - 00. Methods
+ - 52. [[./52/index.org][Methods]]
    - Blended Learning
    - Homework
    - Portfolios
    - Self Directed Learning
    - Mastery Learning
    - Portfolio Building
- - 00. Mastery
+ - 53. [[./53/index.org][Mastery]]
    - How We Learn
      - Spaced Repetition
      - Knowledge
@@ -60,7 +60,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Practice
    - Otium
    - Negotium
- - 00. Curriculum 
+ - 54. [[./54/index.org][Curriculum]] 
    - Trivium
      - Grammar
      - Logic
