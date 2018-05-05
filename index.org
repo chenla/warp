@@ -116,11 +116,11 @@ bibliography:../hoard/bib.bib
 ** IX. Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
- - 00. Learning
- - 00. Pedagogy
- - 00. Methods
- - 00. Mastery
- - 00. Curriculum
+ - 50. [[./09/50/index.org][Learning]]
+ - 51. [[./09/51/index.org][Pedagogy]]
+ - 52. [[./09/52/index.org][Methods]]
+ - 53. [[./09/53/index.org][Mastery]]
+ - 54. [[./09/54/index.org][Curriculum]]
 ** X. Governance
  -[[./10/index.org][ Contents Volume X]]
  - [[./10/intro.org][Introduction Volume X]]
