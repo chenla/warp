@@ -91,7 +91,7 @@ bibliography:../hoard/bib.bib
  - 35. [[./05/35/index.org][Primer]]
  - 36. [[./05/36/index.org][The OS]]
  - 37. [[./05/37/index.org][Arc]]
-* The Parts
+* Components
 ** VI. Heliosphere
  - [[./06/index.org][Contents Volume VI]]
  - [[./06/intro.org][Introduction Volume VI]]
@@ -108,11 +108,11 @@ bibliography:../hoard/bib.bib
 ** VIII. Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
- - 00. Living Languages
- - 00. Lingua Francas
- - 00. World Languages
- - 00. Continuity
- - 00. Requirements
+ - 45. Living Languages
+ - 46. Lingua Francas
+ - 47. World Languages
+ - 48. Continuity
+ - 49. Requirements
 ** IX. Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]
