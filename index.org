@@ -108,11 +108,11 @@ bibliography:../hoard/bib.bib
 ** VIII. Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
- - 45. Living Languages
- - 46. Lingua Francas
- - 47. World Languages
- - 48. Continuity
- - 49. Requirements
+ - 45. Languages
+ - 46. Writing Systems
+ - 47. Incantation
+ - 48. Interoperability
+ - 49. A Common Language
 ** IX. Curriculum
  - [[./09/index.org][Contents Volume IX]]
  - [[./09/intro.org][Introduction Volume IX]]

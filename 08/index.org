@@ -46,7 +46,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
         everybody
       - Lingua francas follow:
       - money, power, arts, science, religion
-  - 00. Written
+  - 00. Writing Systems
       - Types
         - hieroglyph
         - ideogram
@@ -59,12 +59,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Incantations & Spells
     - Spoken and Written forms
     - Computer Programing Languages
-    
   - 00. Interoperability
     - rosetta stone
     - translation dictionaries & grammars
     - APIs  
-  - 00 Towards A Common Languge
+  - 00  Towards A Common Languge
     - Definition & Scope
       - Spoken
       - Written
