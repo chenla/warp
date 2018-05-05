@@ -108,7 +108,7 @@ bibliography:../hoard/bib.bib
 ** VIII. Lingua Franca
  - [[./08/index.org][Contents Volume VIII]]
  - [[./08/index.org][Introduction Volume VIII]]
- - 45. [[./08/45/index.org][Languages
+ - 45. [[./08/45/index.org][Languages]]
  - 46. [[./08/46/index.org][Writing Systems
  - 47. [[./08/47/index.org][Incantation
  - 48. [[./08/48/index.org][Interoperability
