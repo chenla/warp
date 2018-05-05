@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Introduction
+  - [[./intro.org][Introduction]]
   - rosetta stone
   - translation dictionaries & grammars
   - APIs  
