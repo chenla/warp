@@ -124,13 +124,13 @@ bibliography:../hoard/bib.bib
 ** X. Governance
  -[[./10/index.org][ Contents Volume X]]
  - [[./10/intro.org][Introduction Volume X]]
- - 00. Distributed Governance
- - 00. Articles
- - 00. Declaration
- - 00. Rights
- - 00. Duties
- - 00. Constitution
- - 00. Statutes
+ - 55. Distributed Governance
+ - 56. Articles
+ - 57. Declaration
+ - 58. Rights
+ - 59. Duties
+ - 60. Constitution
+ - 61. Statutes
 ** XI Infrastructure
  - [[./11/index.org][Contents Volume XI]]
  - [[./11/intro.org][Introduction Volume XI]]
