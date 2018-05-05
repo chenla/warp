@@ -29,6 +29,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - Introduction
-  
+  - education is not a place
+  - what all citizens need to know
+  - life long learning -> self, training, degree
+  - accreditation
+  - certification
+  - different entry points at different stages of life,
+    expertise etc.
+  - Lifetime learning -> build your hoard
+  - Context
+
 
 
