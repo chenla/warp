@@ -1,0 +1,46 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   Curriculum TOC
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Curriculum Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/09/54/index.org
+:Created:  2018-05-05T18:45@Prek Leap (11.642600N-104.919210W)
+:ID:       2fe6437f-3d6a-4146-bf79-211c984f71c1
+:VER:      578792809.902926483
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:AWE4-8813
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+  - Contents
+  - Introduction
+  - Trivium
+    - Grammar
+    - Logic
+    - Rhetoric
+  - Quadrivium
+    - Mimesis
+    - Rhizomata
+    - Systema
+    - Transacta
+  - Laurea
+    - Laurea Magister
+    - Laurea Practicum 
+    - Practicum -> Techne
+
+
