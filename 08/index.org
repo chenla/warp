@@ -47,7 +47,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
       - Lingua francas follow:
       - money, power, arts, science, religion
   - 00. Written
-
+      - Types
+        - hieroglyph
+        - ideogram
+        - phonetic
   - 00. Incantation
     - Invocation & Incantation are functionally the same
     - Incantation as translators and bridges between worlds
@@ -73,7 +76,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
         - pace-layers -> changes, but not in real time as change
                          reaches a threshold for a p-layer it will refresh to
                          catch up so it's not out of sync
-        - encoding & succession-stages
+        - Encoding & succession-stages
+        - Homoiconicity
+        - Human & Machine Understandable
       - Common Dictionary
         - Dictionaries are snapshots
         - Periodic Feature Freeze
