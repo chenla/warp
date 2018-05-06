@@ -31,7 +31,43 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+Standards are the bedrock of interoperability as well as State
+legibility.  Tax collecting is behind an enormous amount
+standardization.  This became an enormous advantage in
+industrialization and in trade.  If everyone uses the same standards
+of measurement it becomes far easier to exchange things with others.
+
+Standards have now become part of nearly every part of industrialized
+and technologically advanced civilization.
+
+Over time, standards have become increasingly fine-grained.  Time
+keeping is a good example....
+
+Another example is the epic story of the man who standardized srew and
+bolt threads....
+
+The metric system....
+
+The great power of standards is that they make many things machine
+legible that otherwise would be beyond the ability for most
+machine-cog to understand.
+
+There are still holdovers from preindustrial eras -- a major one is
+physical address formats which are so diverse and riddled with
+inconsistencies that they are nightmare for humans to parse, let along
+software systems.  GPS coordinates are machine understandable, but not
+very human friendly.  room, floor, building, street, town, state,
+country addresses are powerful in that they can contain far more
+information and context than a lat-lon-elevation address can convey,
+but that context is often so local, that even people living an hour's
+drive away may not be able to navigate it without help from a local.
+This is where "you can't get there from here" comes from.
+
+
 ** TL;DR
+
+
 
 ** Data Structures
 
