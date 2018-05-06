@@ -54,7 +54,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 59. [[./59/index.org][Duties]]
  - 60. [[./60/index.org][Constitution]]
    - Offices & Branches
-
    - Membership
    - Recognition
  - 61. [[./61/index.org][Statutes]]
