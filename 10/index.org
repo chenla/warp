@@ -27,14 +27,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - Contents Volume IX
- - [[./intro.org][Introduction Volume IX]]
- - 55. Distributed Governance
+ - Contents
+ - [[./intro.org][Introduction]]
+ - 55. [[./55/index.org][Distributed Governance]]
    - building vs scratch
    - scaling governance
    - networks
    - mongol empire
- - 56. Articles
+ - 56. [[./56/index.org][Articles]]
    - Foundattions
      - Humanist
      - Rational
@@ -45,16 +45,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Scale
    - Ethics
    - Politics
- - 57. Declaration
+ - 57. [[./57/index.org][Declaration]]
    - Assumptions
      - Principles
    - Intent
    - Social Contract
- - 58. Rights
- - 59. Duties
- - 60. Constitution
+ - 58. [[./58/index.org][Rights]]
+ - 59. [[./59/index.org][Duties]]
+ - 60. [[./60/index.org][Constitution]]
    - Offices & Branches
 
    - Membership
    - Recognition
- - 61. Statutes
+ - 61. [[./61/index.org][Statutes]]
