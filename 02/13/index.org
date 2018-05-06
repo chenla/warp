@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Introduction
+  - [[./intro.org][Introduction]]
   - Lingua Franca
     - cross pace-layer legibility 
     - Spoken Language
