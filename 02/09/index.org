@@ -1,12 +1,12 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Generators
+#+TITLE: Generators TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Generators
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-generators.org
+:Name:     /home/deerpig/proj/chenla/warp/ww-index.org
 :Created:  2018-03-21T18:39@Prek Leap (11.642600N-104.919210W)
 :ID:       83fc3e98-307f-4f2d-8307-33a539de2467
 :VER:      574904423.054583107
@@ -30,46 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
-
-** TL;DR
-
-Most generators generate random crap and chaos, but a few,
-created all of the structure that we see in the universe and
-here on earth, a handful of generators created life, and a
-handful of other generators built civilization.
-
-   - cellular autonoma
-   - DNA/RNA
-   - generative grammers
-   - lisp macros -> code that generates code
-   - generative processes
-
-
-  - phase changes -- small changes that trigger systemic change.
-
-
-The model in half-life that talks about grid -- randomly
-drop grains of sand on different square, and set how many
-grains a square can hold before it triggers a cascade that
-sends grains into adjascent squares.
-
-Generative grammers have to work something like that -- they
-are processes and most importantly is that they can cascade
-to generate more order -- to become antifragile.
-
----
-
-where in w&w do we put fragility, resiliance and
-antigragile?
-
-          estrangement?
-
-I think part will go there -- what are the things that make
-something strong or beautiful
-
-and then we put how to generate them here....
-
-Or do we strip that out of estrangment and create it's own
-section....
+  - Contents
+  - [[./intro.org][Introduction]]
 
