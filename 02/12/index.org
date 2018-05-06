@@ -1,24 +1,24 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Patterns
+#+TITLE: Patterns TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Patterns
+* Patterns Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-patterns.org
+:Name:     /home/deerpig/proj/chenla/warp/02/12/index.org
 :Created:  2018-03-21T18:53@Prek Leap (11.642600N-104.919210W)
 :ID:       b4e16117-5a4a-42ce-92ec-46c3c2c7be7a
 :VER:      574905297.409361047
@@ -30,7 +30,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
+  - Contents
+  - Introduction
   - Patterns and Processes
     - Patterns
     - Rules
@@ -63,6 +64,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
    - shearing layers
      - 
+
+** The Timeless Way TOC
 
 #+begin_comment
 THE TIMELESS WAY
