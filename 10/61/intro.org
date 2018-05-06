@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Statutes Introduction
 #+STARTUP: showall
-#+TITLE:   Statutes TOC
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,21 +15,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Statutes Table of Contents
+* Statutes Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/61/index.org
-:Created:  2018-05-06T11:02@Prek Leap (11.642600N-104.919210W)
-:ID:       9a589432-6b04-4bc9-b0f5-1265c88ecf11
-:VER:      578851400.224459003
+:Name:     /home/deerpig/proj/chenla/warp/10/61/intro.org
+:Created:  2018-05-06T11:20@Prek Leap (11.642600N-104.919210W)
+:ID:       2f2d7def-6c2a-4d85-a3db-16300caf29c8
+:VER:      578852497.271938651
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:OEO4-3367
+:BXID:     proj:WCC1-3167
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./intro.org][Introduction]]
+** Scope
+** TL;DR
+** References
+
 
