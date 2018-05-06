@@ -27,12 +27,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - Contents
- - [[./intro.org][Introduction]]
- - 55. [[./55/index.org][Distributed Governance]]
- - 56. [[./56/index.org][Articles]]
- - 57. [[./57/index.org][Declaration]]
- - 58. [[./58/index.org][Rights]]
- - 59. [[./59/index.org][Duties]]
- - 60. [[./60/index.org][Constitution]]
- - 61. [[./61/index.org][Statutes]]
+  - Contents
+  - [[./intro.org][Introduction]]
+  - 55. [[./55/index.org][Distributed Governance]]
+  - 56. [[./56/index.org][Articles]]
+  - 57. [[./57/index.org][Declaration]]
+  - 58. [[./58/index.org][Rights]]
+  - 59. [[./59/index.org][Duties]]
+  - 60. [[./60/index.org][Constitution]]
+  - 61. [[./61/index.org][Statutes]]
