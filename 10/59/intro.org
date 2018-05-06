@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Duties Introduction
 #+STARTUP: showall
-#+TITLE:   Duties TOC
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,22 +15,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Duties Table of Contents
+* Duties Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/59/index.org
-:Created:  2018-05-06T10:57@Prek Leap (11.642600N-104.919210W)
-:ID:       63170902-9fd4-43f2-a066-d58e3d6fd1d4
-:VER:      578851132.781091370
+:Name:     /home/deerpig/proj/chenla/warp/10/59/intro.org
+:Created:  2018-05-06T11:16@Prek Leap (11.642600N-104.919210W)
+:ID:       6a780280-e717-4419-a368-7aba6d8edcc0
+:VER:      578852238.888874064
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:RMK0-4156
+:BXID:     proj:VII3-7712
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./intro.org][Introduction]]
+** Scope
+** TL;DR
+** References
+
 
 
