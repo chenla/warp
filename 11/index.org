@@ -29,15 +29,102 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents Volume XI
  - [[./intro.org][Introduction Volume XI]]
- - 00. Information
- - 00. Energy
-   - Fuel
-   - Electricity
-   - Heat
- - 00. Transporation
-   - Goods
-   - People
- - 00. Waste
- - 00. Water
- - 00. Environment (as in life support)
+ - 00. As Commons
+   - Private & Public
+     Even when infrastructure is privately owned, if it is
+     essential to maintaining civilization, States have
+     always had the option of either nationalizing or
+     privitizing. This provides a negative feedback loop.
+
+     New Classes of Infrastructure nearly always begin in
+     the private sector and eventually become public and are
+     increasingly regulated as it becomes a critical part of
+     civilization.
+   - Nationalization & Privitization
+     If private infrastructure goes off the rails (so to
+     speak) is may be nationalized, reorganized and run as a
+     public utility.  If State management becomes too
+     inefficient or corrupt, infrastructure may then be
+     privatized. Many examples.
+   - Right of Way
+   - Self-Owned
+     In United States corporate law, a private incorporated
+     company has nearly all the same rights as an
+     individual.  This brings up the possibility of AI's
+     being self-owned corporations with no human owners.
+   
+     A self-driving car not having an owner, but instead sells
+     it's services to transport people and goods, and the
+     revenue used go to fuel, repairs and saving to replace
+     itself with a new vehicle.
+ - 00. As Systems
+   - Stores & Flows
+   - Interconnectivity
+     - standards
+     - grids & networks
+ - 00. Natural 
+   Two sides, management of natural resources,
+   and warning, defense and recorvery from natural
+   disasters.
+   - Resource
+     - Water
+     - Glaciers
+     - Rivers
+     - Oceans, Seas and Inland Bodies of Water
+     - Airspace
+     - Spectrum
+     - Fish & Game
+     - Environmental Protection
+   - Disaster
+     - Tsunami Warning & Defensive
+     - Asteroid or Comet Defense
+     - Tornadeo Warning & Shelters
+     - Hurricane/Typhoon/Cyclon Warning & Evacuation
+     - Drought
+ - 00. Individual
+   - Roles
+   - Education
+   - Memberships
+   - Citizenship
+   - Records (generated, and recorded data -- financial, medical etc)
+   - Information (photos, videos, notes, works, books etc)
+   - Storage (material)
+   - Shelter
+ - 00. Cultural 
+   - libraries
+   - museums, 
+   - repositories
+   - works (OED Dict of National Biography etc)
+ - 00. Economic
+   - Banks 
+   - Bourse
+   - Currency System
+   - Legal
+ - 00. Social
+   - Public Safety & Defence
+   - Incarceration
+   - Disaster Relief
+   - Fire Fighting
+   - Education
+   - Accreditation
+   - Diplomatic
+ - 00. Health
+   - Mental Health
+   - Hospitals & Clinics
+   - Pharmacuetical
+   - Disease Control
+   - Organ Banks
+ - 00. Material 
+   - Information
+   - Energy
+     - Fuel
+     - Electricity
+     - Heat
+   - Transporation
+     - Goods
+     - People
+   - Waste
+   - Water
+   - Environmental (life support)
+
 
