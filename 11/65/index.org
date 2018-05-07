@@ -29,3 +29,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
+   - Information
+   - Energy
+     - Fuel
+     - Electricity
+     - Heat
+   - Transporation
+     - Goods
+     - People
+   - Waste
+   - Water
+   - Environmental (life support)
