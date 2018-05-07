@@ -134,15 +134,15 @@ bibliography:../hoard/bib.bib
 ** XI Infrastructure
  - [[./11/index.org][Contents]]
  - [[./11/intro.org][Introduction]]
- - 62. Commons
- - 63. Systems
- - 64. Natural
- - 65. Material
- - 66. Economic
- - 67. Social
- - 68. Health
- - 69. Cultural
- - 70. Individual
+ - 62. [[./11/62/index.org][Commons]]
+ - 63. [[./11/63/index.org][Systems]]
+ - 64. [[./11/64/index.org][Natural]]
+ - 65. [[./11/65/index.org][Material]]
+ - 66. [[./11/66/index.org][Economic]]
+ - 67. [[./11/67/index.org][Social]]
+ - 68. [[./11/68/index.org][Health]]
+ - 69. [[./11/69/index.org][Cultural]]
+ - 70. [[./11/70/index.org][Individual]]
 ** XII. Economy
 :PROPERTIES:
 :ID:       bc6974e6-743e-420e-a802-a9b987cbc9d5
