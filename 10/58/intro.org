@@ -34,5 +34,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** TL;DR
 ** References
 
-
-
+ - https://en.wikipedia.org/wiki/Rights
+ - https://en.wikipedia.org/wiki/Negative_and_positive_rights
+ - https://en.wikipedia.org/wiki/Substantive_rights
