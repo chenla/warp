@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./intro.org][Introduction]]
 
   Cultural in terms of physical structures and processes, but also the
-  institutions that use them.  
+  institutions that use them.
 
   - Libraries
   - Museums
