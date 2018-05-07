@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents Volume XI
  - [[./intro.org][Introduction Volume XI]]
- - 00. As Commons
+ - 62. Commons
    - Private & Public
      Even when infrastructure is privately owned, if it is
      essential to maintaining civilization, States have
@@ -57,12 +57,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
      it's services to transport people and goods, and the
      revenue used go to fuel, repairs and saving to replace
      itself with a new vehicle.
- - 00. As Systems
+ - 63. Systems
    - Stores & Flows
    - Interconnectivity
      - standards
      - grids & networks
- - 00. Natural 
+ - 64. Natural 
    Two sides, management of natural resources,
    and warning, defense and recorvery from natural
    disasters.
@@ -81,40 +81,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Tornadeo Warning & Shelters
      - Hurricane/Typhoon/Cyclon Warning & Evacuation
      - Drought
- - 00. Individual
-   - Roles
-   - Education
-   - Memberships
-   - Citizenship
-   - Records (generated, and recorded data -- financial, medical etc)
-   - Information (photos, videos, notes, works, books etc)
-   - Storage (material)
-   - Shelter
- - 00. Cultural 
-   - libraries
-   - museums, 
-   - repositories
-   - works (OED Dict of National Biography etc)
- - 00. Economic
-   - Banks 
-   - Bourse
-   - Currency System
-   - Legal
- - 00. Social
-   - Public Safety & Defence
-   - Incarceration
-   - Disaster Relief
-   - Fire Fighting
-   - Education
-   - Accreditation
-   - Diplomatic
- - 00. Health
-   - Mental Health
-   - Hospitals & Clinics
-   - Pharmacuetical
-   - Disease Control
-   - Organ Banks
- - 00. Material 
+ - 65. Material 
    - Information
    - Energy
      - Fuel
@@ -126,5 +93,38 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Waste
    - Water
    - Environmental (life support)
+ - 66. Economic
+   - Banks 
+   - Bourse
+   - Currency System
+   - Legal
+ - 67. Social
+   - Public Safety & Defence
+   - Incarceration
+   - Disaster Relief
+   - Fire Fighting
+   - Education
+   - Accreditation
+   - Diplomatic
+ - 68. Health
+   - Mental Health
+   - Hospitals & Clinics
+   - Pharmacuetical
+   - Disease Control
+   - Organ Banks
+ - 69. Cultural 
+   - libraries
+   - museums, 
+   - repositories
+   - works (OED Dict of National Biography etc)
+ - 70. Individual
+   - Roles
+   - Education
+   - Memberships
+   - Citizenship
+   - Records (generated, and recorded data -- financial, medical etc)
+   - Information (photos, videos, notes, works, books etc)
+   - Storage (material)
+   - Shelter
 
 

@@ -134,12 +134,15 @@ bibliography:../hoard/bib.bib
 ** XI Infrastructure
  - [[./11/index.org][Contents]]
  - [[./11/intro.org][Introduction]]
- - 00. Information
- - 00. Energy
- - 00. Transporation
- - 00. Waste
- - 00. Water
- - 00. Environment
+ - 62. Commons
+ - 63. Systems
+ - 64. Natural
+ - 65. Material
+ - 66. Economic
+ - 67. Social
+ - 68. Health
+ - 69. Cultural
+ - 70. Individual
 ** XII. Economy
 :PROPERTIES:
 :ID:       bc6974e6-743e-420e-a802-a9b987cbc9d5
