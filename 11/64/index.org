@@ -30,3 +30,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./intro.org][Introduction]]
 
+    Two sides, management of natural resources,
+    and warning, defense and recorvery from natural
+    disasters.
+
+  - Resource
+    - Water
+    - Glaciers
+    - Rivers
+    - Oceans, Seas and Inland Bodies of Water
+    - Airspace
+    - Spectrum
+    - Fish & Game
+    - Environmental Protection
+  - Disaster
+    - Tsunami Warning & Defensive
+    - Asteroid or Comet Defense
+    - Tornadeo Warning & Shelters
+    - Hurricane/Typhoon/Cyclon Warning & Evacuation
+    - Drought
+
