@@ -31,10 +31,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./intro.org][Introduction]]
  - 62. [[./62/index.org][Commons]]
  - 63. [[./63/index.org][Systems]]
-   - Stores & Flows
-   - Interconnectivity
-     - standards
-     - grids & networks
  - 64. [[./64/index.org][Natural]] 
    Two sides, management of natural resources,
    and warning, defense and recorvery from natural
