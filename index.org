@@ -144,9 +144,6 @@ bibliography:../hoard/bib.bib
  - 69. [[./11/69/index.org][Cultural]]
  - 70. [[./11/70/index.org][Individual]]
 ** XII. Economy
-:PROPERTIES:
-:ID:       bc6974e6-743e-420e-a802-a9b987cbc9d5
-:END:
  - [[./12/index.org][Contents]]
  - [[./12/intro.org][Introduction]]
  - 00. Capitalism
