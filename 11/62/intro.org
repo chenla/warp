@@ -32,7 +32,50 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+Infrastructure can be thought of as a sort of hybid
+commons.  Infrastructure connects things together, provides
+a control structure for flows of material, energy, and
+information.  At any given time, any piece of infrastructure
+may be owned and controlled privately, or collectively.  But
+because that infrastructure is critical to maintaining a
+functional system or society, private infrastructure might
+be nationalised and national infrastructure privatized.
+This creates a kind of negative feedback loop that ensures
+that that infrastructure remains in place and functional.
+
 ** TL;DR
+
+- Private & Public
+     Even when infrastructure is privately owned, if it is
+     essential to maintaining civilization, States have
+     always had the option of either nationalizing or
+     privitizing. This provides a negative feedback loop.
+
+     New Classes of Infrastructure nearly always begin in
+     the private sector and eventually become public and are
+     increasingly regulated as it becomes a critical part of
+     civilization.
+- Nationalization & Privitization
+     If private infrastructure goes off the rails (so to
+     speak) is may be nationalized, reorganized and run as a
+     public utility.  If State management becomes too
+     inefficient or corrupt, infrastructure may then be
+     privatized. Many examples.
+- Right of Way
+- Self-Owned
+     In United States corporate law, a private incorporated
+     company has nearly all the same rights as an
+     individual.  This brings up the possibility of AI's
+     being self-owned corporations with no human owners.
+   
+     A self-driving car not having an owner, but instead sells
+     it's services to transport people and goods, and the
+     revenue used go to fuel, repairs and saving to replace
+     itself with a new vehicle.
+
+
+
 ** References
 
 
