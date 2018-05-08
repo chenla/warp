@@ -32,9 +32,32 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+Economic infrastructure makes possible the complex exchange of goods
+and services between a large group.
 
+There are a lot of assumptions about economic infrastructure today
+that are based on our present free-market economy.  But this system
+took centuries to evolve and to assume that the present system will
+remain in its present form isn't even paying attention to current
+events.  The world has moved away from currencies backed by stores of
+material goods such as gold and silver to be replaced by fiat
+currencies which are nothing more than information which is backed by
+the threat of physical force by a State.  Even these currencies could
+be eventually be replaced with trustless crypto-currencies.  However,
+this is doubtful because the majority of cryto-currencies are still
+fiat-currencies whose value is based on belief of their value as a
+medium of exchange relative to other currencies.  Micro-trading has
+transformed stock exchanges and turned them into little more than
+speculative casinos that are being used less and less for their
+intended purpose of financing commercial and even public enterprise.
 
+Economic infrastructure is presently at the beginning of
+transformation into a post-scarcity civilization in which markets,
+money and investments will be radically transformed. 
 
+This section will create a generalized model for economic
+infrastructure and it's requirements that work across all succession
+stages, past, present and future.
 
 ** TL;DR
 ** References
