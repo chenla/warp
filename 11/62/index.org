@@ -27,12 +27,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-- Contents
-- [[./intro.org][Introduction]]
-- Private & Public
-- Nationalization & Privitization
-- Right of Way
-- Self-Owned
+  - Contents
+  - [[./intro.org][Introduction]]
+  - Private & Public
+  - Nationalization & Privitization
+  - Right of Way
+  - Shared Resource
+  - Tradegy of the Commons
+
 
 
 
