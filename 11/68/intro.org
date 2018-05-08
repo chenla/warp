@@ -31,7 +31,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+It's always been a mystery to me that the single most important type
+of infrastructure, that impacts every person who has ever or will ever
+live has recieved in many ways the least amount of attention.  With
+the exception of a handful of relatively small countries, healthcare
+infrastructure is a mess.  It is withheld from a large part of the
+population or is made so expensive to effectively withhold it from a
+large number of people.  Ignoring it or not dealing with it has
+resulted in massive social disruption -- from mass incarceration of
+people because of substance abuse and the black market economy that
+exists to meet the demand.  Dealing with a public health issue as a
+moral or judicial issue is nothing short of madness.
 
+We need to rethink healthcare infrastructure from the ground up as a
+top priority because solving this problem will make enormous social
+and economic problems not only be manageable but solvable.  This will
+save enormous amounts of resources that could be spent elsewhere and
+causes untold pain and misery.
 ** TL;DR
 ** References
 
