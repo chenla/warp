@@ -58,10 +58,21 @@ library infrastructure and does not perform most of the roles that
 libraries do for society.  This is a failure in understanding their
 importance and teaching people of how they are vital to socieites.
 
-The other side of preservation is infrastructure for the practice of
-day to day culture, from maintaining stadiums and concert halls, to
+The other side of cultural infrastructure is for the practice of day
+to day culture, from maintaining stadiums and concert halls, to
 maintaining stores of decorations used for various cultural events,
-and fesitvals.
+and festivals.
+
+Finally we come to structures of historial importance, from buildings
+that preserve past architectual styles, to great momuments such as the
+temple complex at Angkor Wat.  The United Nations World Heritage Sites
+(which replace the older idea of the 7 Wonders of the World) are a
+good example of how to recognize such important cultural and natural
+artifacts.  But it is also a good example of how few resources are
+given to their preservation.  Many sites on the UN list are in
+developing countries who do not have the resources to maintain and
+preserve these sites and many are in danger of being lost because
+there are no funds to maintain them.
 
 ** TL;DR
 ** References
