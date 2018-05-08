@@ -31,6 +31,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+Much of infrastructure can be understood as types of systems made up
+of stores and flows and regulated by negative feedback loops.
+Infrastructure dynamically changes to meet the needs it is built for.
+Over time infrastructure is abandoned, or dismantled, expanded,
+upgraded or downsized. In many industrialized states, many railway
+lines were abandoned, and at the beginning of this century, the global
+network of "pay telephones" have largely been dismantled, and in
+developing economies never built in the first place.
+
 ** TL;DR
 ** References
 
