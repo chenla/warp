@@ -35,6 +35,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 Cultural in terms of physical structures and processes, but also the
 institutions that use them.
 
+Cultural infrastructure is all about entropy and information.  As
+things change over time, watershed events, keystone people in history,
+structures, and artifacts that range from great art, to preservation
+of instances of objects from material life are a critical part of
+civilization.  The knowledge of how people lived in the past, and to
+ensure that the knowledge that they used to live at different times in
+the past must be preserved so that if it is needed again in the
+future, be it how to make a flint arrowhead to manufacturing processes
+for cathode-ray tubes could be critical to the surival of future
+generations.  We don't know what will be needed in the future -- which
+is why it's called the future.
+
+The other side of preservation is infrastructure for the practice of
+day to day culture, from maintaining stadiums and concert halls, to
+maintaining stores of decorations used for various cultural events,
+and fesitvals.
+
 ** TL;DR
 ** References
 
