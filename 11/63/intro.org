@@ -38,7 +38,17 @@ Over time infrastructure is abandoned, or dismantled, expanded,
 upgraded or downsized. In many industrialized states, many railway
 lines were abandoned, and at the beginning of this century, the global
 network of "pay telephones" have largely been dismantled, and in
-developing economies never built in the first place.
+developing economies never built in the first place.  While whole new
+classes of infrastructure have undergone enormous change.  State
+regulation of spectrum, which is a sort of natural resource for
+wireless communications was very crudely regulated and allocated.
+Technological advances has made large amounts of spectrum, both wide
+and narrow useful.  In the 20th century only a narrow part of
+bandwidth was regulated and even then, used for radio communications,
+and broadcast of television signals.  In some countries some of the
+spectrum for television broadcasts have been repurposed for
+communications as video transmission was first digitized and moved to
+high speed optical fiber networks.
 
 ** TL;DR
 ** References
