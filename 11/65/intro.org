@@ -32,6 +32,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+Most of the time, when people talk of infrastructure they mean
+Material Infrastructure which includes roads, bridges, electrical
+grids, phone networks, water and waste utilities, garbage pickup etc.
+Material infrastructure includes flows and stores of Matter, Energy
+and Information.
+
+While we are here on earth we think of the atmosphere, which is a
+mixture of gases within a range of atmopheric pressure to be a natural
+resource.  However, as man begin to moves into space and throughout
+the solar system, the atmosphere will be perhaps the single most
+critical type of infrastructure.
+
+
 ** TL;DR
 ** References
 
