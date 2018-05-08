@@ -31,6 +31,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+This will take more thought to work out...
+
+Personal infrastructure is all about 
+
+  - material life, food, shelter, health
+    - assets (stores)
+    - processes (flows)
+  - records -- data
+  - information -- saved information in the form of media
+  - works -- information created by the individual
+  - roles:
+    - responsibilities
+    - access and levels of authority
+    - membership in social groups
+    - security
+    - debt and credit
+
+This takes the form of physical and virtual in the form of
+digitized information.  In early succession stages almost
+everything is material, but as we progress through stages it
+becomes more abstract and information based -- assets are
+given valuations in fiat currencies.
+
 
 ** TL;DR
 ** References
