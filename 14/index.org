@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume XIV.Implementation TOC
+#+TITLE:   Volume XIV. Implementation TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Volume XIV.Implementation Table of Contents
+* Volume XIV. Implementation Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/14/index.org
@@ -29,10 +29,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - 00. Contents volume XIV
  - 00. [[./intro.org][Introduction volume XIV]]
+
+ - State Structures for Civilization
+
+
+ - Branches
+   - Negative Feedback Loops
+   
+
+
  - 00. Middle
  - 00. Culture
  - 00. Scope
    - Guild
+   - Contact
+   - Onboarding
    - Special Circumstancess
-
-
