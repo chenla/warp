@@ -31,7 +31,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+Social infrastructure includes much of what States provide.
+Some of it is private, but most of it is in the public
+domain.
 
+Social infrastructure include everything from the military,
+police, education, prisons, fire fighting, search and rescue
+and even diplomacy.
+
+We are not including Healthcare Infrastructure here because
+its scope is so large that it will be dealt with alone in
+the next chapter.
+
+Cultural infrastructure will have it's own chapter as well.
 ** TL;DR
 ** References
 
