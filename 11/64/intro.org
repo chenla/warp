@@ -32,8 +32,18 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
-Two sides, management of natural resources, and warning, defense and
-recorvery from natural disasters.
+Natural resources can often be treated as a type of infrastructure,
+both in terms of flows of water, heat, light.  But also stores of
+ground water, oil and gas (commonly refered to as reserves, geothermal
+heat.  In this context, we think of nature as something to be managed
+and distributed.
+
+That control is very limited, natural forces will always be bigger
+than we are, and pose dangers in the form of earthquakes, typhoons,
+volcanos, droughts, floods and fire.  Infrastructure for mitigating
+forces beyond our control comes in the form of warning systems,
+defensive sea walls and contigency plans for evacuations and recovery
+from catastrophic destruction of human settlements and infrastructure.
 
 ** TL;DR
 ** References
