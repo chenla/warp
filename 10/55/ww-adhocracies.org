@@ -103,6 +103,52 @@ and people, will turn over at a frenetic and ever- accelerating rate.
 pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::71
 #+end_quote
 
+#+begin_quote
+First, in this particular system of organization, the
+individual has traditionally occupied a sharply defined slot
+in a division of labor. Second, he fit into a vertical
+hierarchy, a chain of command running from the boss down to
+the lowliest menial. Third, his organizational
+relationships, as Weber emphasized, tended toward
+permanence.
+
+Each individual, therefore, filled a precisely positioned
+slot, a fixed position in a more or less fixed
+environment. He knew exactly where his department ended and
+the next began; the lines between organizations and their
+sub-structures were anchored firmly in place. In joining an
+organization, the individual accepted a set of fixed
+obligations in return for a specified set of rewards. These
+obligations and rewards remained the same over relatively
+long spans of time. The individual thus stepped into a
+comparatively permanent web of relationships—not merely with
+other people (who also tended to remain in their slots for a
+long time)—but with the organizational framework, the
+structure, itself.
+
+Some of these structures are more durable than others. The
+Catholic Church is a steel frame that has lasted for 2000
+years, with some of its internal sub-structures virtually
+unchanged for centuries at a time. In contrast, the Nazi
+Party of Germany managed to bathe Europe in blood, yet it
+existed as a formal organization for less than a quarter of
+a century.  In turn, just as organizations endure for longer
+or shorter periods, so, too, does an individual's
+relationship with any specific organizational
+structure. Thus man's tie to a particular department,
+division, political party, regiment, club, or other such
+unit has a beginning and an end in time. The same is true of
+his membership in informal organizations—cliques, factions,
+coffee-break groups and the like. His tie begins when he
+assumes the obligations of membership by joining or being
+conscripted into an organization.  His tie ends when he
+quits or is discharged from it—or when the organization,
+itself, ceases to be.
+
+— pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::72
+#+end_quote
+
+
 ** References
 
   - Toffler, A., Future shock (1971), : Bantam Books. 
