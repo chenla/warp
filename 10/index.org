@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../09/index.org][prev]]]
+[[[../index.org][top]]] [[[../09/index.org][prev]]]
 
 * Volume X Governance Table of Contents
 :PROPERTIES:
