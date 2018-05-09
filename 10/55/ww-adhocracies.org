@@ -33,6 +33,39 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+** Webber Quotes
+
+#+begin_quote
+These competencies are underpinned by rules, laws, or administrative
+regulations. That means:
+
+   1. A rigid division of labor is in place for the purpose of
+      performing regular daily tasks as official duties in the
+      functioning of the bureaucratically governed system.
+   2. In order to fulfill these duties the necessary chains of command
+      are firmly established and divided up [among the Beamte], and
+      their capacity to coerce (physical, sacred, or other) is firmly
+      restricted by regulation.
+   3. Regular and continuous fulfillment of these assigned duties, and
+      the execution of respective rights is systematically secured by
+      hiring people with certified qualifications.
+
+These three aspects constitute the essence of bureaucratic
+administration of a Behörde in the public sector. In the private
+sector, these three aspects constitute the essence of a bureaucratic
+management of a private company [Betrieb]. Not until the emergence of
+the modern state could this type of bureaucratic government Behörde be
+fully realized in political and church organizations. And it was not
+until the development of the most advanced forms of capitalism that
+this kind of administration emerged in the private sector.
+
+pdfview:../../../hoard/lib/waters:2015webers-rationalism.pdf::84
+#+end_quote
+
+
+
+
 ** References
 
 
