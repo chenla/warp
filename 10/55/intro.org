@@ -31,6 +31,33 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+At the heart of goverance is discourse -- it might be one to
+many discourse, in the case of a monarchy or many to one in
+the case of a democracy.
+
+But it is still a discourse.  Ah, you say, but a dictator,
+by definition, dictates what he (they all seem to be men)
+wants, where is the discourse?  They only can rule if they
+have a group, even if it is a small group, who will do what
+they are told, there is an underlying discourse happening in
+even the most tyrannical regimes because the supreme leader
+can only stay in power through the support of those who
+follow them.  Keep rewarding your minions and you stay in
+power.
+
+In democracies and representive democracies the discourse
+is, in theory transparent where the processes are open for
+everyone to see.
+
+Governance boils down to managing infrastructure for a
+territory.  A territory can be either physical or
+organizational or any combination in between, be anything
+from a postage stamp collecting club, to a super-power
+nation-state controlling a continent.
+
+  - Overton Window
+
 ** TL;DR
 ** References
 
