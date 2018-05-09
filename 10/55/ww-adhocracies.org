@@ -34,6 +34,61 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 
+It just hit me that the way want implement adhocracies is
+different from the way that Toffler and others used the term
+back in the 1970's or even in the last ten years.  In most
+cases, it is used as an alternative structure to a
+bureaucracy.  A bureaucracy is usually a system that is used
+to manage large industrial or goverment ministry scale
+organizations. The word invokes mountains of red tape, of
+labryinths of compartmentalized offices with different
+requirements and agendas.  These are hierarchical top down
+command organizational structures.
+
+What I am envisioning is almost the opposite. The idea is to
+create a bottom up adhocracy network, that pulls together a
+diverse collection of resources, services, equipment,
+information and knowledge so that all of these small atomic
+single purpose operators can assembly on-the-fly to achieve
+one thing, and then disband and then reform in another
+configuration to do something else.  And that this is all
+done as a more flexible means of production at scale which
+is far more flexible and efficient.  All of this needs to be
+done as an automated network where you go to advertise what
+you need or want, and the network will pull together
+everythiing to do it and then coordinate between each party
+in doing their specific step in the process.  This will be a
+very large complex service to be able to provide but with
+advances in machine-cognition, it is likely that traditional
+top down industrial organizations will break up and become
+distributed, the production happening as close to the
+customer as possible.  It will work like a Dabba Wallah
+delivery network where a lunch box is passed from person to
+person until it reaches it's destination.  The system is
+bottom up and self-routing.  But in our proposed network,
+a step in production takes place as it moves closer and
+closer to the end user.  After each step is complete, the
+network will then pass on a new job in a different
+production chain.  This makes it possible to create higher
+quality goods and services at scales and efficiencies that
+match traditional centralized industrial systems.
+
+The big challenge here is not creating and coordinating
+these chains, but to build ways for sparse networks of
+people, and teams who have never worked together before and
+may not work together again to work and communicate with
+each other as efficiently as if they were in the same
+factory or office.  We have text, voice and video networks
+for people to communicate today, but the quality of the
+communication is lossy and doesn't in many cases doesn't
+work.   Ad hoc teams must feel like they are working
+together in the same room.  There will be problems with time
+zones, but that can be compensated for -- people are good at
+finding a time that both parties are awake and working at
+the same time enough to make this viable -- but we need far
+better communication tools to make it work.
+
+
 ** Weber Quotes
 
 #+begin_quote
