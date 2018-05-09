@@ -205,6 +205,32 @@ itself, ceases to be.
 — pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::72
 #+end_quote
 
+#+begin_quote
+When Lockheed Aircraft Corporation won a controversial
+contract to build fifty-eight giant C-5A military air
+transports, it created a whole new 11,000-man organization
+specifically for that purpose. To complete the
+multi-billion-dollar job, Lockheed had to coordinate the
+work not only of its own people, but of hundreds of
+subcontracting firms. In all, 6000 companies are involved in
+producing the more than 120,000 parts needed for each of
+these enormous airplanes. The Lockheed project organization
+created for this purpose has its own management and its own
+complex internal structure.
+
+The first of the C-5A's rolled out of the shop exactly on
+schedule in March, 1969, twenty-nine months after award of
+the contract. The last of the fifty-eight transports was due
+to be delivered two years later. This meant that the entire
+imposing organization created for this job had a planned
+life span of five years. What we see here is nothing less
+than the creation of a disposable division—the
+organizational equivalent of paper dresses or throw-away
+tissues.
+
+— pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::75
+#+end_quote
+
 
 #+begin_quote
 When a leading manufacturer set out to win a certain large
