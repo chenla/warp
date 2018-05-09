@@ -63,9 +63,11 @@ this kind of administration emerged in the private sector.
 pdfview:../../../hoard/lib/waters:2015webers-rationalism.pdf::84
 #+end_quote
 
-
-
-
 ** References
 
-
+  - Toffler, A., Future shock (1971), : Bantam Books. 
+    cite:toffler:1971future-shock
+  - Waters, T., & Waters, D., Weber’s rationalism and modern
+    society: new translations on politics, bureaucracy, and
+    social stratification (2015), : Palgrave Macmillan US.
+    cite:waters:2015webers-rationalism
