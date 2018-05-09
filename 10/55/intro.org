@@ -192,10 +192,9 @@ cross-department task forces.
 -- https://en.wikipedia.org/wiki/Adhocracy
 #+end_quote
 
-
-
 ** References
 
-
+  - Toffler, A., Future shock (1971), : Bantam Books. 
+    cite:toffler:1971future-shock
 
 
