@@ -149,6 +149,31 @@ itself, ceases to be.
 #+end_quote
 
 
+#+begin_quote
+When a leading manufacturer set out to win a certain large
+contract from the National Aeronautics and Space Agency, it
+assembled a team of approximately one hundred people
+borrowed from various functional divisions of the
+company. The project team worked for about a year and a half
+to gather data and analyze the job even before the
+government formally requested bids. When the time came to
+prepare a formal bid—a "proposal," as it is known in the
+industry—the "pre- proposal project team" was dissolved and
+its members sent back to their functional divisions.  A new
+team was brought into being to write the actual proposal.
+
+Proposal-writing teams often work together for a few
+weeks. Once the proposal is submitted, however, the proposal
+team is also disbanded. When the contract is won (if it is),
+new teams are successively established for development, and,
+ultimately, production of the goods required. Some
+individuals may move along with the job, joining each
+successive project team
+
+— pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::75
+#+end_quote
+
+
 ** References
 
   - Toffler, A., Future shock (1971), : Bantam Books. 
