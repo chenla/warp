@@ -34,7 +34,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 
-** Webber Quotes
+** Weber Quotes
 
 #+begin_quote
 These competencies are underpinned by rules, laws, or administrative
@@ -61,6 +61,25 @@ until the development of the most advanced forms of capitalism that
 this kind of administration emerged in the private sector.
 
 pdfview:../../../hoard/lib/waters:2015webers-rationalism.pdf::84
+#+end_quote
+
+#+begin_quote
+Main principles (characteristics):
+
+  1. Specialized roles
+  2. Recruitment based on merit (e.g., tested through open
+     competition)
+  3. Uniform principles of placement, promotion, and transfer in an administrative system
+  4. Careerism with systematic salary structure
+  5. Hierarchy, responsibility and accountability
+  6. Subjection of official conduct to strict rules of discipline and control
+  7. Supremacy of abstract rules
+  8. Impersonal authority (e.g., office bearer does not bring the office with him)
+  9.  Political neutrality
+
+
+— pdfview:../../../hoard/lib/waters:2015webers-rationalism.pdf::84 
+  summarized in cite:wiki:2018max-weber
 #+end_quote
 
 
