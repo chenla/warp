@@ -217,6 +217,13 @@ bye-bye, when the need for them has disappeared."
 
 ** References
 
+  - Birkinshaw, J., & Ridderstråle, J., Adhocracy for an
+    agile age, McKinsey Quarterly, (), (2015).
+    cite:birkinshaw:2015adhocracy
+  - Dolan, T. E., Revisiting adhocracy: from rhetorical
+    revisionism to smart mobs, Journal of Futures Studies,
+    15(2), 33–50 (2010).
+    cite:dolan:2010revisiting
   - Fesler, J. W., The Bureaucratic Phenomenon,
     Administrative Science Quarterly, 10(2), 261–266 (1965).
     http://dx.doi.org/10.2307/2391417
@@ -230,4 +237,3 @@ bye-bye, when the need for them has disappeared."
   - Wikipedia, , /Max weber --- Wikipedia, the free
     encyclopedia/ (2018).
     cite:wiki:2018max-weber 
-
