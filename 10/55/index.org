@@ -33,19 +33,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Governance Pace-Layer
   - Humanist Principles
   - Egalitarian
-  - Slow Automation
+  - Threshold Triggers
   - Adhocracies
   - Meta-Origin Story
   - Commons Protocol
   - Structure
 
-#+begin_quote
-Alvin Toffler claimed in his book Future Shock that
-adhocracies will get more common and are likely to replace
-bureaucracy. He also wrote that they will most often come in
-form of a temporary structure, formed to resolve a given
-problem and dissolved afterwards. An example are
-cross-department task forces.
-
--- https://en.wikipedia.org/wiki/Adhocracy
-#+end_quote
