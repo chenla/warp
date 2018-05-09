@@ -173,6 +173,47 @@ successive project team
 — pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::75
 #+end_quote
 
+#+begin_quote
+Task forces and other ad hoc groups are now proliferating
+throughout the government and business bureaucracies, both
+in the United States and abroad. Transient teams, whose
+members come together to solve a specific problem and then
+separate, are particularly characteristic of science and
+help account for the kinetic quality of the scientific
+community.  Its members are constantly on the move,
+organizationally, if not geographically.
+
+— pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::75-76
+#+end_quote
+
+#+begin_quote
+We shall shortly see that this process, repeated often
+enough, alters the loyalties of the people involved; shakes
+up lines of authority; and accelerates the rate at which
+individuals are forced to adapt to organizational
+change. For the moment, however, it is important to
+recognize that the rise of ad hoc organization is a direct
+effect of the speed-up of change in society as a whole.
+
+— pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::76
+#+end_quote
+
+#+begin_quote
+So long as a society is relatively stable and unchanging,
+the problems it presents to men tend to be routine and
+predictable. Organizations in such an environment can be
+relatively permanent. But when change is accelerated, more
+and more novel first-time problems arise, and traditional
+forms of organization prove inadequate to the new
+conditions. They can no longer cope. As long as this is so,
+says Dr. Donald A. Schon, president of the Organization for
+Social and Technical Innovation, we need to create
+"self-destroying organizations ... lots of autonomous,
+semi-attached units which can be spun off, destroyed, sold
+bye-bye, when the need for them has disappeared."
+
+— pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::76
+#+end_quote
 
 ** References
 
