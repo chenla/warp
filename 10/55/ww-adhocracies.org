@@ -231,6 +231,9 @@ tissues.
 — pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::75
 #+end_quote
 
+This is exactly what Englebart was talking about 
+
+
 
 #+begin_quote
 When a leading manufacturer set out to win a certain large
