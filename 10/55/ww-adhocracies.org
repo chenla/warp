@@ -217,9 +217,17 @@ bye-bye, when the need for them has disappeared."
 
 ** References
 
+  - Fesler, J. W., The Bureaucratic Phenomenon,
+    Administrative Science Quarterly, 10(2), 261–266 (1965).
+    http://dx.doi.org/10.2307/2391417
+    cite:fesler:1965bureaucratic 
   - Toffler, A., Future shock (1971), : Bantam Books. 
     cite:toffler:1971future-shock
   - Waters, T., & Waters, D., Weber’s rationalism and modern
     society: new translations on politics, bureaucracy, and
     social stratification (2015), : Palgrave Macmillan US.
     cite:waters:2015webers-rationalism
+  - Wikipedia, , /Max weber --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018max-weber 
+
