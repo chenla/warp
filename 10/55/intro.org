@@ -56,6 +56,87 @@ organizational or any combination in between, be anything
 from a postage stamp collecting club, to a super-power
 nation-state controlling a continent.
 
+This is done by finding ways of getting everyone in that
+territory to cooperate to maintain and run infrastructure
+according to how governance prescribes.
+
+Discourse is the process of taking information from
+shareholders in the territory and determining what will or
+will not be done about it.  In small groups, egalitarian
+systems work well because the complexity of group dynamics
+falls within human cognitive limits.  When the size of a
+group exceeds those limits mechanisms need to be put into
+place to allow such un-natural structures to work.  This is
+when small groups of elites emerge to make descions on the
+groups behalf.  More often than not, those descions are
+based on the wants and needs of the elites and everyone else
+get's a lesser share and ability to participate in the
+discourse.
+
+This means that large organizations benifit a few and are
+tolerated or endured by the many.  But this is the only way
+we can manage large organizations -- because we can only
+work together in small groups, most people need to hand over
+that process to the elites which are a proxy that makes a
+large group undertandable within our cognitive limits.  The
+elites are a substitute for that small egalitarian pack.
+
+The takeaway from all of this is that large organizations
+work, but only at the expense of most members of the
+organization. 
+
+Ideally, people should only need to interact with and
+cooperate and control the immediate territory where they
+live, and then your group need only to cooperate with other
+groups to achieve larger goals that can't be carried out by
+a small group.  There are a number of mechanisms that
+achieve that.  There are many examples of small groups which
+would come together for short periods of time to achieve
+something collectively and then disband for the rest of the
+year.  This has worked very well in many very diverse
+cultures around the world over thousands of years.
+
+What screwed this up was agriculture.  As soon as we stopped
+being mobile, those temporary large organizations became
+permanent and fixed.
+
+I believe that in a post-scarcity civilization we can
+leverage cognitive-machines and other technologies to
+replace the work needed to manage and maintain most
+infrastructure, and then we all can belong to small groups
+who deal with the cooperation and coordination of daily
+life.  Then, periodically groups will come together briefly
+to make large scale collective descions, hand it over to the
+slow-AIs managing the plumbing and then disband until the
+next time something needs to be done.
+
+There doesn't need to be any fixed organizational structure
+like we have today in the nation-state system, so long as
+all groups agree to a set of rules, rights and duties that
+apply to everyone.  Since different things happen at
+different rates of change, these temporary governments will
+form at different intervals, some might only happen once a
+century, others once a year.  Smaller groups of groups might
+need to come together once a month.
+
+This would be impossible to achieve without trustless
+semi-autonomous systems that can't be corrupted without
+everyone becoming aware of it.  Think of it as a sort of
+distributed blockchain governance to manage autonomous
+infrastructure.
+
+If this would be a bottom up, generative system governed by
+a complex mesh of self-learning negative feedback loops.
+
+This approach, if we could ever find a way of designing,
+building it and getting it to work, would be far better fit
+with human nature and within our cognitive limits and
+establish an egalitarian system of governance and
+infrastructure that can scale from a couple, or even a girl
+and her dog, up to a global civilization or even a
+civilization that could span the solar system.
+
+
   - Overton Window
 
 ** TL;DR
