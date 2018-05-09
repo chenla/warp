@@ -142,18 +142,20 @@ Main principles (characteristics):
 
 #+begin_quote
 For we are witnessing not the triumph, but the breakdown of
-bureaucracy. We are, in fact, witnessing the arrival of a new
-organizational system that will increasingly challenge, and ultimately
-supplant bureaucracy. This is the organization of the future. I call
-it "Ad-hocracy."
+bureaucracy. We are, in fact, witnessing the arrival of a
+new organizational system that will increasingly challenge,
+and ultimately supplant bureaucracy. This is the
+organization of the future. I call it "Ad-hocracy."
 
-Man will encounter plenty of difficulty in adapting to this new style
-organization. But instead of being trapped in some unchanging,
-personality-smashing niche, man will find himself liberated, a
-stranger in a new free-form world of kinetic organizations. In this
-alien landscape, his position will be constantly changing, fluid, and
-varied. And his organizational ties, like his ties with things, places
-and people, will turn over at a frenetic and ever- accelerating rate.
+Man will encounter plenty of difficulty in adapting to this
+new style organization. But instead of being trapped in some
+unchanging, personality-smashing niche, man will find
+himself liberated, a stranger in a new free-form world of
+kinetic organizations. In this alien landscape, his position
+will be constantly changing, fluid, and varied. And his
+organizational ties, like his ties with things, places and
+people, will turn over at a frenetic and ever- accelerating
+rate.
 
 pdfview:../../../hoard/lib/toffler:1971future-shock.pdf::71
 #+end_quote
