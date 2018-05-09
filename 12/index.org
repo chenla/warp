@@ -41,10 +41,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - encourages overconsumption
      - wealth and power inequalities (hoarding)
      - rent seeking (middlemen & corruption)
- - 00. Free Market Framework
+ - 00. Market Framework
    - meant to address the weaknesses of capitalist systems
      and reinforce and reward the parts that work.
- - 00. Generated Production Pipes (GPP)
+ - 00. Supply & Production Chains 
+   - Generated Production Pipes (GPP)
    - holarchies of steps each step represents people,
      companies etc.
    - dynamically assembled processes
@@ -52,7 +53,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 00. Value
    - Succession stage valuation models
    - Energy Based Valuation
- - 00. Ad hoc Currencies
+ - 00. Currencies
+   - physical weatlh backed by force
+   - symbolic wealth backed by physical weatlh
+   - symbolic wealth backed by belief
+   - ad hoc -- dynamically create and destroy
  - 00. Supply
  - 00. Production
  - 00. Logistics
