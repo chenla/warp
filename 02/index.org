@@ -27,8 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Table of Contents Volume II
-  - [[./ww-intro-vol-2.org][Introduction Volume II]]
+  - Contents
+  - [[./ww-intro-vol-2.org][Introduction]]
   - 07. [[./07/index.org][Points of View]]
   - 08. [[./08/index.org][Dualities]]
   - 09. [[./09/index.org][Generators]]
