@@ -32,6 +32,31 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+** TL;DR
+
+#+begin_comment
+I'm hesitating to commit to this outline because the model
+that is emerging is bluring the line between private and
+public sectors -- private is becoming more public and public
+more private.  If the private sector falls under the same
+rules and the public, and the governance mechanisms are
+distributed so that power naturally propagates to the edge
+rather than collect into poolss at the center.
+
+If so, an economy that is close to what we have today will
+not be the same over time.
+
+Part of the reason in a free-market based economy that
+government is so big is that there are so many things that a
+free-market doesn't do well.  Without a profit motive
+free-markets won't do anything.  And if you try to turn
+public sector functions you get mixed results because many
+things have to be done without trying to make a profit.
+This then becomes a distribution problem as much as anything
+else.
+#+end_comment
+
+
 An economy cuts a pretty broad swath of a civilization:
 
 #+begin_quote
@@ -150,7 +175,5 @@ broadcast announcements.  The news iself is also a broadcast service
 without a monitizaton model.  With little to no money, one small
 company, called Craig's List wiped out the majority of tranditional
 newspaper's revenue, classified ads.
-
-** TL;DR
 ** References
 
