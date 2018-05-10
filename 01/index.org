@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
- - [[./index.org][Contents]]
+ - Contents
  - [[./intro.org][Introduction]]
  - 01. [[./01/index.org][Civilization]]
  - 02. [[./02/index.org][First Principles]]
