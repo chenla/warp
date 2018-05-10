@@ -28,8 +28,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
- - [[./index.org][Contents Volume I]]
- - [[./intro.org][Introduction Volume I]]
+ - [[./index.org][Contents]]
+ - [[./intro.org][Introduction]]
  - 01. [[./01/index.org][Civilization]]
  - 02. [[./02/index.org][First Principles]]
  - 03. [[./03/index.org][Nature of Order]]
