@@ -132,6 +132,11 @@ https://en.wikipedia.org/wiki/Pourquoi_story
     cite:harari:2011sapiens
   - Hawking, S., A brief history of time (1998), : Bantam Press.
     cite:hawking:1988brief,hawking:1998brief
+  - Kennard, D. N., Journey of the universe : the epic story
+    of cosmic, earth, and human transformation (2011), :
+    Yale University Press;Northcutt Productions : InCA
+    Productions.
+    cite:kennard:2011journey
   - Kindersley, D., Big History (2016), : DK Publishing.
     cite:kindersley:2016big-history 
   - Langmuir, C. H., & Broecker, W., How to build a habitable
@@ -140,6 +145,11 @@ https://en.wikipedia.org/wiki/Pourquoi_story
     cite:broecker:2012how
   - Sagan, C., Cosmos (1985), : Ballantine Books.
     cite:sagan:1985cosmos 
+  - Swimme, B., The universe is a green dragon (1984), :
+    Bear and Company.  cite:swimme:1984green-dragon
+  - Swimme, B., & Berry, T., The universe story (1992), :
+    Arkana.
+    cite:swimme:1992universe 
   - Urban, T., /Putting time in perspective – updated/ (2013).
     cite:urban:2013putting-time
   - Wikipedia, , /Big history project --- wikipedia, the free
