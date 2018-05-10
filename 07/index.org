@@ -27,9 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
- - Contents Volume VII
- - [[./intro.org][Introduction Volume VII]]
+ - Contents
+ - [[./intro.org][Introduction]]
  - 41. [[./41/index.org][Preamble]]
  - 42. [[./42/index.org][Big History]]
  - 43. [[./43/index.org][Regimes]]
