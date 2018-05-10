@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]]
+[[[../index.org][top]]] [[[../12/index.org][prev]]] [[[./14/index.org][next]]]
 
 * Volume XIII. Culture Table of Contents
 :PROPERTIES:
@@ -27,8 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - Contents Volume XI
- - [[./intro.org][Introduction Volume XII]]
+ - Contents
+ - [[./intro.org][Introduction]]
    - culture ensures that you will recognize tomorrow
    - offset crazy-ass ROC
  - slow infrastructure
