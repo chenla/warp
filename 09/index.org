@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   8. Volume IX Curriculum TOC
+#+TITLE:   Volume IX Curriculum TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../08/index.org][prev]]] [[[../10/index.org][next]]]
 
-* 8. Volume IX Curriculum Table of Contents
+* Volume IX Curriculum Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/09/index.org
@@ -27,8 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - Contents Volume VIII
- - [[./intro.org][Introduction Volume VIII]]
+ - Contents
+ - [[./intro.org][Introduction]]
  - 50. [[./50/index.org][Learning]]
  - 51. [[./51/index.org][Pedagogy]]
  - 52. [[./52/index.org][Methods]]
