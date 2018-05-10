@@ -57,6 +57,7 @@ association.  But it did provide a context in which life
 could function in a meaningful manner.
 
 — Thomas Berry, "The New Story" (1973)
+  cite:berry:1978new-story
 #+end_quote
 
 
@@ -92,6 +93,8 @@ https://en.wikipedia.org/wiki/Pourquoi_story
   - Behmand, M., Burke, T., & Simon, R. B., Teaching big
     history (2015), : University of California Press.
     cite:behmand:2015teaching
+  - Berry, T., The New Story, Teilhard Studies, (1),(1978).
+    cite:berry:1978new-story
   - Big History Project, /Big History Project Teaching Guide/ (2017).
     cite:project:2017bhp-teaching 
   - Big History Project, /Big History Project Reading Guide/ (2017).
