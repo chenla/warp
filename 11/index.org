@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] 
+[[[../index.org][top]]] [[[../10/index.org][prev]]] [[[../12/index.org][next]]]
 
 * Volume XI. Infrastructure Table of Contents
 :PROPERTIES:
