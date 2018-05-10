@@ -131,7 +131,7 @@ bibliography:../hoard/bib.bib
  - 59. [[./10/59/index.org][Duties]]
  - 60. [[./10/60/index.org][Constitution]]
  - 61. [[./10/51/index.org][Statutes]]
-** XI Infrastructure
+** XI. Infrastructure
  - [[./11/index.org][Contents]]
  - [[./11/intro.org][Introduction]]
  - 62. [[./11/62/index.org][Commons]]
