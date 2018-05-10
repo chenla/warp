@@ -27,8 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents Volume VIII
-  - [[./intro.org][Introduction Volume VIII]]
+  - Contents
+  - [[./intro.org][Introduction]]
   - 45. [[./45/index.org][Languages]]
   - 46. [[./46/index.org][Writing Systems]]
   - 47. [[./47/index.org][Incantation]]
