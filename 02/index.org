@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume II Frameworks  TOC
+#+TITLE:   Volume II. Frameworks TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../01/index.org][prev]]] [[[../03/index.org][next]]]
 
-* Volume II Frameworks Table of Contents
+* Volume II. Frameworks Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/index.org
