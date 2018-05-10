@@ -39,6 +39,27 @@ is so; it is not so; it is so; it is not so.”
  — Ben Franklin
 #+end_quote
 
+#+begin_quote
+It's all a question of story.  We are in trouble just now
+because we do not have a good story.  We are in between
+stories.  The Old Story -- the account of how the world came
+to be and how we fit into is -- is not functioning properly,
+and we have not learned the New Story.  The Old Story
+sustaied us for a long time.  It shaped our emotional
+attitudes, provided us with life purpose, energized action.
+It consecrated suffering, integrated knowledge, guided
+education.  We awoke in the morning and knew who we were.
+We could identify crime and punish criminals.  Everything
+was taken care of because the story was there.  It did not
+make men good; it did not take away the pains and
+stupidities of life, or make for unfailing warmth in human
+association.  But it did provide a context in which life
+could function in a meaningful manner.
+
+— Thomas Berry, "The New Story" (1973)
+#+end_quote
+
+
 ** TL;DR
 
 All is preface, but in the case of orgin stories it is
