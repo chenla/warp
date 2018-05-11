@@ -35,5 +35,37 @@ bibliography:~/proj/chenla/hoard/bib.bib
 Economics as a propagation mechanism
 
 ** TL;DR
+** Epigraph
+#+begin_quote
+If a universal mind existed, of the kind that projected
+itself into the scientific fancy of Laplace – a mind that
+could register simultaneously all the processes of nature
+and society, that could measure the dynamics of their
+motion, that could forecast the results of their
+inter-reactions – such a mind, of course, could a priori
+draw up a faultless and exhaustive economic plan, beginning
+with the number of acres of wheat down to the last button
+for a vest. The bureaucracy often imagines that just such a
+mind is at its disposal; that is why it so easily frees
+itself from the control of the market and of Soviet
+democracy. But, in reality, the bureaucracy errs frightfully
+in its estimate of its spiritual resources. In its
+projections it is necessarily obliged, in actual
+performance, to depend upon the proportions (and with equal
+justice one may say the disproportions) it has inherited
+from capitalist Russia, upon the data of the economic
+structure of contemporary capitalist nations, and finally
+upon the experience of successes and mistakes of the Soviet
+economy itself. But even the most correct combination of all
+these elements will allow only a most imperfect framework of
+a plan, not more.
+
+— Leon Trotsky, The Soviet Economy in Danger (1932)
+  cite:trotsky:1933soviet
+  #+end_quote
 
 
+** References
+  - Trotsky, L., & ZINOV'EV, G. E., /Soviet economy in
+    danger. the expulsion of zinoviev/ (1933).
+    cite:trotsky:1933soviet
