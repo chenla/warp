@@ -103,8 +103,8 @@ bibliography:../hoard/bib.bib
  - [[./07/intro.org][Introduction]]
  - 41. [[./07/41/index.org][Preamble]]
  - 42. [[./07/42/index.org][Big History]]
- - 43. [[./43/index.org][Regimes]]
- - 44. [[./44/index.org][Stack]]
+ - 43. [[./07/43/index.org][Regimes]]
+ - 44. [[./07/44/index.org][Stack]]
 ** VIII. Lingua Franca
  - [[./08/index.org][Contents]]
  - [[./08/index.org][Introduction]]
