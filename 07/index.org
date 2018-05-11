@@ -36,14 +36,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
  - Origins
-   - background
-   - scaffolds (purpose)
+   - Intro & background
+   - Scaffolds (purpose)
      - context   -> for all knowledge
      - identity
      - worldview -> 
      - agency 
-   - mechanisms
-     - awe         => recognition
+   - Mechanisms
+     - [[./ww-awe.org][Awe]]         => recognition - coming into contact
                       objective with subjective identity
      - ritual      => sync and reinforce mechanism
      - worship     => internalization mechanism
@@ -54,8 +54,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - History
      - what was written
      - chronometrics
-   - The Big Here & Long Now
+   - Mythos
+   - The Universal Big Here & Long Now
      - introduction
+     - a humanist ich-Du
      - complexity thresholds
      - Regimes
-   - The Human Here & Now
+   - The Local Human Here & Now
+     - mapping ich-Es        -> you to the local & immediate
+     - Narrative Overlays
+       - personification     -> map to abstract concepts
+       - machine animism
+     
