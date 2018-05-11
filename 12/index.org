@@ -29,10 +29,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 00. Capitalism
-   - capitalization is bottom up, so it beat command and
+ - 00. Systems & Concepts
+   - Capitalism
+     - capitalization is bottom up, so it beat command and
      control systems.
-   - cons. 
+     - cons. 
      - ecological niche based -- fill the niche and let
        competition regulate by killing off oversupply.
      - positive feedback loops
@@ -41,10 +42,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - encourages overconsumption
      - wealth and power inequalities (hoarding)
      - rent seeking (middlemen & corruption)
- - 00. Market Framework
+   - Mixed Economies
+   - Socialism
+   - Guild Socialism : https://en.wikipedia.org/wiki/Guild_socialism
+   - Autogestion     : https://en.wikipedia.org/wiki/Economic_system#List_of_economic_systems
+   - Anarchism       : https://en.wikipedia.org/wiki/Anarchism
+   - Propietism      : https://en.wikipedia.org/wiki/Proprietism
+   - Syndicalism     : https://en.wikipedia.org/wiki/Syndicalism
+   - Collectivism    : https://en.wikipedia.org/wiki/Collectivism
+ - 00 Requirements
+   - Stage I, II, II, IV
+ - 00. Property
+ - 00. Markets
    - meant to address the weaknesses of capitalist systems
      and reinforce and reward the parts that work.
- - 00. Supply & Production Chains 
+ - 00. Chains 
    - Generated Production Pipes (GPP)
    - holarchies of steps each step represents people,
      companies etc.
