@@ -33,3 +33,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 42. [[./42/index.org][Big History]]
  - 43. [[./43/index.org][Regimes]]
  - 44. [[./44/index.org][Stack]]
+
+
+ - Origins
+   - background
+   - scaffolds (purpose)
+     - context   -> for all knowledge
+     - identity
+     - worldview -> 
+     - agency 
+   - mechanisms
+     - awe         => recognition
+                      objective with subjective identity
+     - ritual      => sync and reinforce mechanism
+     - worship     => internalization mechanism
+     - incantation => (aka prayer) agency mechanism
+   - Narratives
+     - universal   -> eternal blue sky
+     - local       -> mapping you, home, family
+   - History
+     - what was written
+     - chronometrics
+   - The Big Here & Long Now
+     - introduction
+     - complexity thresholds
+     - Regimes
+   - The Human Here & Now
