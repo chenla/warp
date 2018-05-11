@@ -95,7 +95,7 @@ bibliography:../hoard/bib.bib
 ** VI. Heliosphere
  - [[./06/index.org][Contents]]
  - [[./06/intro.org][Introduction]]
- - 38. [[./38/index.org][Habitats for Man]]
+ - 38. [[./38/index.org][Habitats]]
  - 39. [[./39/index.org][Heliosphere]]
  - 40. [[./40/index.org][Biospheres]]
 ** VII. Origins
@@ -146,11 +146,11 @@ bibliography:../hoard/bib.bib
 ** XII. Economy
  - [[./12/index.org][Contents]]
  - [[./12/intro.org][Introduction]]
- - 00. Capitalism
- - 00. Free Market Framework
- - 00. Generated Production Pipes (GPP)
- - 00. Energy Based Valuation
- - 00. Ad hoc Currencies
+ - 00. Systems & Concepts
+ - 00. Markets
+ - 00. Chains
+ - 00. Value
+ - 00. Currencies
  - 00. Supply
  - 00. Production
  - 00. Logistics
