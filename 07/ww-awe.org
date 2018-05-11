@@ -34,6 +34,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** TL;DR
 ** References
 
+  - Behmand, M., Burke, T., & Simon, R. B., Teaching big history
+    (2015), : University of California Press.
+    cite:behmand:2015teaching
+  - Buber, M., & Smith, R. G., I and thou, New York: Scribner, (), 11
+    (1958).
+    cite:buber:1958i-and-thou
   - Elkins, D. N., Reflections on mystery and awe, The Psychotherapy
     Patient, 11(3-4), 163–168 (2001).
     http://dx.doi.org/10.1300/j358v11n03_12
