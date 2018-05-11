@@ -34,7 +34,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** TL;DR
 ** References
 
+  - Elkins, D. N., Reflections on mystery and awe, The Psychotherapy
+    Patient, 11(3-4), 163–168 (2001).
+    http://dx.doi.org/10.1300/j358v11n03_12
+    cite:slkins:2001reflections
   - Keltner, D., & Haidt, J., Approaching awe, a moral, spiritual, and
     aesthetic emotion, Cognition \& emotion, 17(2), 297–314 (2003).
     cite:keltner:2003approaching
-
+  - Andresen, J., Awe and the transforming of awarenesses,
+    Contemporary Psychoanalysis, 35(3), 507–521 (1999).
+    http://dx.doi.org/10.1080/00107530.1999.10746397
+    cite:andresen:1999awe
+  - Shiota, M. N., Keltner, D., & Mossman, A., The nature of awe:
+    elicitors, appraisals, and effects on self-concept, Cognition &
+    Emotion, 21(5), 944–963 (2007).
+    http://dx.doi.org/10.1080/02699930600923668
+    cite:shiota:2007nature-awe
