@@ -86,21 +86,44 @@ There is a spiritual dimension in all human lives and belief
 systems, including secular and non relgious or epecially
 atheists.  
 
-States institutions invoke
+States institutions invoke awe in a variety of contexts
+through the show of force, both through the collective will
+demonstrated by people wearing identical uniforms and
+displaying weapons, marching in lock step.  There is no
+question that provoke one, will provoke them all.
+
+Institutional architecture is chock full of devices to
+instill awe, from Christian Catherdrials, Egyption Pyramids,
+to the lofty Parthenon standing tall above the city for all
+to see.  Executive, judicial and legislative buildings are
+all made on grand scales that make the individual feel
+small, but also a sense of belonging and safety.  Museums,
+opera houses, statues and monuments, grand bridges and even
+tunnels all are designed to invoke some sense of awe.
+
+Costume and furniture contribute as well.  Uniforms not only
+indicate collective will of armies, but hierarchy within
+organizations as well, from the judges whig and robes, to
+crowns and sceptors of monarchs to big hats, medals,
+medallions a shimmer in bright color, the sparkle of gem
+stones and metallic reflection of precious metals.
 
 ** TL;DR
 
 #+begin_quote
-Social psychologists Dacher Keltner and Jonathan Haidt assert that two
-fundamental features are present in all cases of awe: perceived
-vastness and accommodation.  Vastness applies obviously to such things
-as the immensity of the scale of the universe, a central interest of
-Big History, but also to anything that appears larger than the self,
-or the self ’s ordinary frame of reference. This includes unequal
-social status, such as awe of royalty and fame, seen today in our cult
-of celebrity. The second characteristic of awe identified by Keltner
-and Haidt, accommodation, refers to the necessity created by “an
-inability to assimilate an experience into current mental structures.
+Social psychologists Dacher Keltner and Jonathan Haidt
+assert that two fundamental features are present in all
+cases of awe: perceived vastness and accommodation.
+Vastness applies obviously to such things as the immensity
+of the scale of the universe, a central interest of Big
+History, but also to anything that appears larger than the
+self, or the self ’s ordinary frame of reference. This
+includes unequal social status, such as awe of royalty and
+fame, seen today in our cult of celebrity. The second
+characteristic of awe identified by Keltner and Haidt,
+accommodation, refers to the necessity created by “an
+inability to assimilate an experience into current mental
+structures.
 
 — Neal Wolfe, The Case for Awe (2015)  p.338
   cite:behmand:2015teaching
@@ -109,30 +132,33 @@ inability to assimilate an experience into current mental structures.
 
 #+begin_quote
 Job’s direct challenge regarding God’s existence and ethical
-intentions is thus met with an indirect response, wherein the deity
-goes on at length about how little humans know of anything. Fragile,
-limited creatures that they are, how can they possibly understand the
-ways of God?  he demands. And given their ignorance, what right do
-they have to use such words as undeserved and unmerited? There are
-untold things about the galaxy that mankind cannot properly interpret
-and upon which, therefore, it ought not presume to impose its flawed
-logic. Human beings did not bring the cosmos into being and, despite
-their occasional feelings to the contrary, they do not control or own
-it. God tries to shake Job out of his preoccupation with the events in
-his own life by drawing his attention to the immensity and variety of
-nature. He evokes a sweeping vision of the totality of existence, from
-the foundation of the earth to the tracks of the constellations, from
-the heights attained by a hawk in flight to the labour pains of a
-mountain goat, in the hope of instilling in the man from Uz a
-redeeming sense of awe.
+intentions is thus met with an indirect response, wherein
+the deity goes on at length about how little humans know of
+anything. Fragile, limited creatures that they are, how can
+they possibly understand the ways of God?  he demands. And
+given their ignorance, what right do they have to use such
+words as undeserved and unmerited? There are untold things
+about the galaxy that mankind cannot properly interpret and
+upon which, therefore, it ought not presume to impose its
+flawed logic. Human beings did not bring the cosmos into
+being and, despite their occasional feelings to the
+contrary, they do not control or own it. God tries to shake
+Job out of his preoccupation with the events in his own life
+by drawing his attention to the immensity and variety of
+nature. He evokes a sweeping vision of the totality of
+existence, from the foundation of the earth to the tracks of
+the constellations, from the heights attained by a hawk in
+flight to the labour pains of a mountain goat, in the hope
+of instilling in the man from Uz a redeeming sense of awe.
 
-The strategy works: Job is reminded of the scale of all that surpasses
-him and of the age, size and mystery of space. God’s whirlwind, and
-the sonorous, sublime words he speaks, excite a pleasing terror in his
-audience, a sense of how petty are man’s disasters in comparison with
-the ways of eternity, leaving Job – and the rest of us, perhaps – a
-little readier to bow to the incomprehensible and morally obscure
-tragedies that every life entails.
+The strategy works: Job is reminded of the scale of all that
+surpasses him and of the age, size and mystery of
+space. God’s whirlwind, and the sonorous, sublime words he
+speaks, excite a pleasing terror in his audience, a sense of
+how petty are man’s disasters in comparison with the ways of
+eternity, leaving Job – and the rest of us, perhaps – a
+little readier to bow to the incomprehensible and morally
+obscure tragedies that every life entails.
 
 — cite:botton:2013religion-atheists
 #+end_quote
@@ -140,29 +166,29 @@ tragedies that every life entails.
 
 ** References
 
-  - Behmand, M., Burke, T., & Simon, R. B., Teaching big history
-    (2015), : University of California Press.
+  - Behmand, M., Burke, T., & Simon, R. B., Teaching big
+    history (2015), : University of California Press.
     cite:behmand:2015teaching
-  - Buber, M., & Smith, R. G., I and thou, New York: Scribner, (), 11
-    (1958).
-    cite:buber:1958i-and-thou
-  - Elkins, D. N., Reflections on mystery and awe, The Psychotherapy
-    Patient, 11(3-4), 163–168 (2001).
+  - Buber, M., & Smith, R. G., I and thou, New York:
+    Scribner, (), 11 (1958).  cite:buber:1958i-and-thou
+  - Elkins, D. N., Reflections on mystery and awe, The
+    Psychotherapy Patient, 11(3-4), 163–168 (2001).
     http://dx.doi.org/10.1300/j358v11n03_12
     cite:slkins:2001reflections
-  - Keltner, D., & Haidt, J., Approaching awe, a moral, spiritual, and
-    aesthetic emotion, Cognition \& emotion, 17(2), 297–314 (2003).
+  - Keltner, D., & Haidt, J., Approaching awe, a moral,
+    spiritual, and aesthetic emotion, Cognition \& emotion,
+    17(2), 297–314 (2003).
     cite:keltner:2003approaching
   - Andresen, J., Awe and the transforming of awarenesses,
     Contemporary Psychoanalysis, 35(3), 507–521 (1999).
     http://dx.doi.org/10.1080/00107530.1999.10746397
     cite:andresen:1999awe
-  - Shiota, M. N., Keltner, D., & Mossman, A., The nature of awe:
-    elicitors, appraisals, and effects on self-concept, Cognition &
-    Emotion, 21(5), 944–963 (2007).
+  - Shiota, M. N., Keltner, D., & Mossman, A., The nature of
+    awe: elicitors, appraisals, and effects on self-concept,
+    Cognition & Emotion, 21(5), 944–963 (2007).
     http://dx.doi.org/10.1080/02699930600923668
     cite:shiota:2007nature-awe
-  - de Botton, A., Religion for atheists : a non-believer's guide to
-    the uses of religion (2013), : Knopf Doubleday Publishing
-    Group;Signal.
+  - de Botton, A., Religion for atheists : a non-believer's
+    guide to the uses of religion (2013), : Knopf Doubleday
+    Publishing Group;Signal.
     cite:botton:2013religion-atheists
