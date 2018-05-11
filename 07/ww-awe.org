@@ -31,6 +31,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+Awe is a kind of recognition mechanism.  It stops us cold, forced to
+confront things that are beyond our comprehension, reminding us of
+just how small and fragile we are in the larger context of things.
+
+
+Sometimes awe invoke fear, even terror.  I remember going to a
+pleasant white sand beach in Phuket with someone who had grown up
+inland and had never been in physical proximity with the ocean before.
+For me, who had grown up not too far from the cold, chaotic and often
+violent Atlanic ocean, the Andaman Sea was soothing and calm.  For
+her, the vast potential power she could feel in the gentle waves
+lapping her feet unnerved her.  That same beach some five years later
+bore the impact of a 5-6 meter high wave in the 2004 Indian Ocean
+Tsunami that killed in total over 230,000 oeioke abd displaced another
+1.74 million.  My friend was right.
+
+But awe just as often invokes wonder and an overwhelming sense of the
+sublime.
+
+In this sense, awe is an important mechanism for reorienting ourselves
+and our perspective of the world around us.
+
 ** TL;DR
 
 #+begin_quote
