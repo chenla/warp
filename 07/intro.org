@@ -60,6 +60,21 @@ could function in a meaningful manner.
   cite:berry:1978new-story
 #+end_quote
 
+#+begin_quote
+[B]y the late twentieth century, science essentially
+confirmed their assertion of the non-individuated permanence
+of all phenomena.  I don’t think any adjective can
+adequately capture the profundity of such an achievement. We
+have placed ourselves at the heart of the universal
+narrative. Such awareness clearly goes well beyond “just the
+facts.” We find that the universe is not just something “out
+there” that we may know about intellectually... but that it
+is what we are actually part and parcel of.
+
+— Neal Wolfe, The Case for Awe (2015)
+  cite:behmand:2015teaching p.340
+#+end_quote
+
 
 ** TL;DR
 
