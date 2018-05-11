@@ -32,6 +32,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+#+begin_quote
+Social psychologists Dacher Keltner and Jonathan Haidt assert that two
+fundamental features are present in all cases of awe: perceived
+vastness and accommodation.  Vastness applies obviously to such things
+as the immensity of the scale of the universe, a central interest of
+Big History, but also to anything that appears larger than the self,
+or the self ’s ordinary frame of reference. This includes unequal
+social status, such as awe of royalty and fame, seen today in our cult
+of celebrity. The second characteristic of awe identified by Keltner
+and Haidt, accommodation, refers to the necessity created by “an
+inability to assimilate an experience into current mental structures.
+
+— Neal Wolfe, The Case for Awe (2015)  p.338
+  cite:behmand:2015teaching
+#+end_quote
+
+
 ** References
 
   - Behmand, M., Burke, T., & Simon, R. B., Teaching big history
@@ -56,3 +74,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     Emotion, 21(5), 944–963 (2007).
     http://dx.doi.org/10.1080/02699930600923668
     cite:shiota:2007nature-awe
+  - de Botton, A., Religion for atheists : a non-believer's guide to
+    the uses of religion (2013), : Knopf Doubleday Publishing
+    Group;Signal.
+    cite:botton:2013religion-atheists
