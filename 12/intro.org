@@ -6,7 +6,7 @@
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -41,7 +41,7 @@ public sectors -- private is becoming more public and public
 more private.  If the private sector falls under the same
 rules and the public, and the governance mechanisms are
 distributed so that power naturally propagates to the edge
-rather than collect into poolss at the center.
+rather than collect into pools at the center.
 
 If so, an economy that is close to what we have today will
 not be the same over time.
@@ -54,6 +54,115 @@ public sector functions you get mixed results because many
 things have to be done without trying to make a profit.
 This then becomes a distribution problem as much as anything
 else.
+
+---
+
+Was just scanning through all of the different economic
+models that have been tried or proposed, and I find it
+striking that they are almost all completely top town, and
+based on clear and simple rules that don't leave much room
+when things go wrong, or, like anarchism and
+market-captialism are completely free of rules and are based
+on the belief that economic systems are self-organizing and
+regulating.  There isn't a lot of creative thinking going on
+here.  Their models of human nature, limitations and
+cognitive bias are equally simplistic.  I suspect that they
+mostly assume that these models can scale to any size, and
+that different models might work at specific scales and
+their corresponding level of complexity but not at smaller
+or greater scales.
+
+Regulated Capitalism is sort of the best of the worst
+because it is based on a flexible bottom-up model that can
+adapt to chaotic unpredictible systems.  But it is also
+requires large bureaucratic infrastructure and state-owned
+services which can fill in the gaps that markets are not
+good at filling. 
+
+There are bits and pieces in most of the systems that are
+worth adapting and incorporating.
+
+So let's start by coming up with a basic list of things that
+people seem to require because of the ecolological niche we
+were designed to fill.
+
+We can only keep a limited number of things in our heads at
+one time, two is fine, three is pushing it, more than that
+is impossible without using some kind of system like writing
+to store more items so we can load and unload different
+parts of the problem and work towards a solution that would
+otherwise be impossible.  This places a limit on how many
+relationships we can maintain with other people.  Above
+these limits such as Dunbar's number, things break down.
+We're not good at scaling, except for brief periods for an
+event, festival, or to accomplish a group activity like
+seasonal Mastadon or caribou hunts.  During such events,
+resources are plentiful and there is less competitive
+pressure between people.  But it doesn't last long, and if
+we don't disband and move away from each other things fall
+apart.  Our inability to keep more than a few things in our
+working memory at a time also limits how much we can
+cooperate and how abstract trading resources can become
+without externalizing them.
+
+We are pack animals which naturally create hierarchies
+within groups -- leaders, followers etc.  We leverage our
+large cerebral cortex so that we use a transactional system
+so that different members maintain different specialized
+knowledge.
+
+We are territorial, we establish territories as individuals
+and as groups.  This leads to conflict when more than one
+group is competing for the same resources.  This problem was
+compounded by the agracultural revolution because our
+territories became fixed an inflexible.
+
+We instinctively collect more than we need as a buffer for
+when resources are scarce.  Like squirels saving nuts for
+the winter.  That instinct leads to hoarding and greed at
+the expense of others in the group or other groups.
+
+We are not good at planning for time scales larger than
+human life times.  We have sometimes managed to create
+systems that can be passed down to many generations which
+are stable, but the actions and decsions are still short
+term and within living memory.  We feel strong connection to
+our grand parents and on the other side, our grandchildren,
+but not much farther in the past or into the future.
+
+So some forms of property seem to be unavoidable, but
+property can be owned indivudally or collectively.  So long
+as people feel in control of the property that they interact
+with, even if it is for short periods of time, we seem to do
+okay.
+
+Currencies seem to be unavoidable, but because they are
+universal tokens that can be used to obtain any kind of
+resource they are naturally hoarded.  Is it possible to
+build currency systems that, when combined with group
+ownership and other feedback systems that ensure that
+hoarding is not needed because there is no danger of
+scarcity?
+
+Nomadic cultures keep posessions to a minimum, and feel more
+secure in some respects because they know that if resources
+are scarce in one place they can go somewhere else to find
+them.  Sedantary pastorial agricultural cultures that later
+concentrate into cities are stuck where they are, and can't
+move when resources are scarce so stocks are the only way to
+compensate for that.  Nomadic cultures are based around
+flows.
+
+Man seems to be designed to be a little of both, no one or
+the other.  We like to stay put when things are comfortable
+and plentiful, but get bored if we stay for too long and end
+up fighting with each other.  Routines which are too regular
+and are continued too long are not healthy.  One good thing
+about pastorial agrictulture and nomads is that seasons
+bring variety of diet and activities.  Industrial
+civilization has made everything available everywhere year
+round -- this is not healthy.
+
 #+end_comment
 
 
