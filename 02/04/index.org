@@ -29,13 +29,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Table of Contents 
   - [[./intro.org][Introduction]]
-  - 01. [[./01-entities.org][Entity Model]
-  - 02. [[./02-ontologies.org][Ontology Model]
-  - 03. [[./03-pace-layers.org][Pace-Layer Model]
-  - 04. [[./04-succession-model.org][Succession Model]
-  - 05. [[./05-goldilocks.org][Goldilocks-Thresholds]
-  - 06. [[./06-hard-soft-wet.org][Hard Soft Wet]
-  - 07. [[./07-world-models.org][World Models]
+  - 01. [[./01-entities.org][Entity Model]]
+  - 02. [[./02-ontologies.org][Ontology Model]]
+  - 03. [[./03-pace-layers.org][Pace-Layer Model]]
+  - 04. [[./04-succession-model.org][Succession Model]]
+  - 05. [[./05-goldilocks.org][Goldilocks-Thresholds]]
+  - 06. [[./06-hard-soft-wet.org][Hard Soft Wet]]
+  - 07. [[./07-world-models.org][World Models]]
 
 
 
