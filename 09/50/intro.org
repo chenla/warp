@@ -118,6 +118,31 @@ what we don't know and expose us to things we need to
 remember at just the right time. This applies to individuals
 as well as to groups.
 
+** Notes
+
+Great Hall, Chalk Hall, Study Hall, Karel
+
+Great hall -- one off, collective then disband 
+Chalk Hall -- group lecture and discourse 
+Study hall -- social setting for study, coffee shop, at set times and place
+Karel.        -- otium, private study, practice and contemplation
+
+Threads 
+
+personal rss for spaced repetition one unit has three videos and three different texts
+
+Mediums. Stone, chalk, ink, pixel 
+
+Three succession stages 
+Three cognitive stages
+Three levels of difficulty
+Three video and three text repetitions , with different Foci, LOD and POV
+
+Five foci -- intro, mastery, depth, awe, reference
+
+Pattern, concept, tool, place, person, event, technique, recipe, keystone ( ), parameter, rule, story, quote
+
+Rule is broad, from moore's law, to grammar rule, to algorithm 
 
 
 ** References
