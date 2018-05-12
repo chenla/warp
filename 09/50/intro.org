@@ -131,7 +131,7 @@ learning goals which are then treated as another kind of
 project.  And projects are treated as just another kind of
 learning goal.
 
-So there is your hoard -- which is made up of:
+Your hoard is made up of:
 
   - what you intentionally keep
   - new information coming in
@@ -147,6 +147,15 @@ So there is your hoard -- which is made up of:
     - delayed conversations
     - long term conversations -> over a lifetime or
       generations
+  - works -> things that you compose or edit
+    - journals
+    - essays
+    - long form books
+    - drawings
+    - hand written notes and notebooks (non digital formats)
+    - bitmap and vector graphics
+    - video and audio recordings
+
 
 ** Notes
 
