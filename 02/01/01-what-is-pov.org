@@ -1,24 +1,24 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.2 What is a Point of View?
+#+TITLE: 01 What is a Point of View?
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./03-cognitive-pov.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./02-cognitive-pov.org][next]]]
 
-* 2.7.2 What is a Point of View?
+* 01 What is a Point of View?
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.2.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/01-what-is-pov.org
 :Created:  2018-04-20T17:47@Prek Leap (11.642600N-104.919210W)
 :ID:       d8da4ae7-94c0-46f3-a0e8-f04c9d14fa46
 :VER:      577493293.598233270
