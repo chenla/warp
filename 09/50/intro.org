@@ -155,6 +155,23 @@ Your hoard is made up of:
     - hand written notes and notebooks (non digital formats)
     - bitmap and vector graphics
     - video and audio recordings
+  - data -- logs that keep track of what you did, where and
+    when you did it.  So when you save a bookmark there
+    should be a lot of other surrounding context saved along
+    with it.  This is the data that we are scared that
+    facebook and google have on us, and which we as
+    individuals need to leverage for ourselves and obfuscate
+    what outsiders are able to collect.  So we need to learn
+    to spy on ourselves and learn how to leverage the
+    information collected to understand the world around us
+    and to get stuff done.
+
+This all becomes a graph, with each thing in the data store
+linked to other things.  But this is not just a dumb
+filesystem with additional links -- we need subsystems which
+are also trying to make connections as well -- so we have
+the composed, /intentional graph/, and the /augmented graph/
+
 
 
 ** Notes
