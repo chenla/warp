@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.12 Process
+#+TITLE: 11. Process
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./11-propagation.org][prev]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./10-propagation.org][prev]]]
 
-* 2.7.12 Process
+* 11. Process
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.12.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/11-process.org
 :Created:  2018-04-20T18:22@Prek Leap (11.642600N-104.919210W)
 :ID:       60570841-8e7f-4957-ab2d-7cafcc832474
 :VER:      577495405.142163343
