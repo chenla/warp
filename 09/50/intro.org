@@ -32,6 +32,47 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+How do we learn?  For that matter what is learning in the
+first place?  Acquiring new knowledge, behaviors, skills etc
+is just not going to cut it.
+
+What does it mean to aquire new knowledge?  It's not just
+recording information into memory, like adding a file to a
+file system in a storage device.  The device doesn't /know/
+what is stored, it is just a bunch of bits that are
+organized into a hierarchical file system of files and
+directories. Each file has a pointer to somewhere in the tree.
+
+Memory is not learning, but it is part of it.  A memory is a
+variety of different bit sensory data that has been
+processed through a hierarchy of pattern matchers which link
+different things together.
+
+The more time that you are exposed to similar things, the
+more /familiar/ it becomes.  You build up a composite mental
+image of something by repeated exposure -- the more times,
+the more detailed the model and the more links to other
+patterns and memories -- it is then that you can say you
+have learned something, that it has become knowledge.
+
+You can know /about/ something and you can /know/ something
+-- that your model is strong enough to give you confidence
+that you understand the thing.  That doesn't mean you are
+right or that what you know is even real, in fact learning
+is not about truth, or reality or lies and delusions.  It's
+just a mental model that has enough connections to
+constitute knowledge.
+
+Learning is directly tied to survival -- things change in
+the environment around you and unless you are constantly
+updating your mental model of what is around you, you will
+die.
+
+
+
+
+
 ** References
 
 
