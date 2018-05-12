@@ -193,6 +193,21 @@ taking in information, to actively seeking it, or tagging it
 or capturing it or taking action.
 
 
+
+** Foci
+
+Focus provides different types of context for reinforcing
+memory -- you don't just show the same flashcard over and
+over, you show the same information in different contexts
+each time.
+
+- introduction -> for new information 
+- mastery      -> deliberate interactive practice
+- depth        -> learning more about something from
+                   different POVs 
+- awe          -> reinforce connections and bigger concept 
+- reference    -> look-up, detailed & comprehensive 
+
 ** Notes
 
 Great Hall, Chalk Hall, Study Hall, Karel
