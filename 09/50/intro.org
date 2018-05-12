@@ -120,16 +120,33 @@ as well as to groups.
 
 ** Chalkhall & Saltmine
 
- Thinking back to Engelbart's concept of the integrated
- information for a knowledge worker -- it's no enough.  We
- need to integrate goal seeking both in terms of tasks but
- also short and long term goals in terms of processes broken
- into steps.  We then need to create a system that knows
- what you know, and when you are about to forget it and
- weave the reinforcement into the daily workslow.  You can
- then set learning goals which are then treated as another
- kind of project.  And projects are treated as just another
- kind of learning goal.
+Thinking back to Engelbart's concept of the integrated
+information for a knowledge worker -- it's no enough.  We
+need to integrate goal seeking both in terms of tasks but
+also short and long term goals in terms of processes broken
+into steps.  We then need to create a system that knows what
+you know, and when you are about to forget it and weave the
+reinforcement into the daily workslow.  You can then set
+learning goals which are then treated as another kind of
+project.  And projects are treated as just another kind of
+learning goal.
+
+So there is your hoard -- which is made up of:
+
+  - what you intentionally keep
+  - new information coming in
+    - general info -- news
+    - what you intentionally look for and read/watch/listen
+    - messages sent to you -- intentional
+  - reaction to that information
+    - save, delete, label
+    - notes, annotations, links
+    - messages in response -- phone calls, sms, email
+  - conversations - discourse
+    - real time conversations
+    - delayed conversations
+    - long term conversations -> over a lifetime or
+      generations
 
 ** Notes
 
