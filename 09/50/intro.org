@@ -192,8 +192,12 @@ an article or story allows you to change direction from
 taking in information, to actively seeking it, or tagging it
 or capturing it or taking action.
 
-
-  
+** Discovery
+  - serendipitous
+  - look up (what is known) 
+  - search (what is not known)
+  - rabbit-hole
+  - yak-shaving
 
 ** Foci
 
