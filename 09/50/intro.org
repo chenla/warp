@@ -33,6 +33,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 
+What I'm trying to get at here is a build very simple toy
+model for learning that we can build a system around.
+
 How do we learn?  For that matter what is learning in the
 first place?  Acquiring new knowledge, behaviors, skills etc
 is just not going to cut it.
@@ -64,10 +67,41 @@ is not about truth, or reality or lies and delusions.  It's
 just a mental model that has enough connections to
 constitute knowledge.
 
-Learning is directly tied to survival -- things change in
-the environment around you and unless you are constantly
-updating your mental model of what is around you, you will
-die.
+If pattern matchers see the same pattern long enough then
+they constitute a an abstract concept 
+
+When you go about learning something, it doesn't matter
+what, from making your bed, to building a pagoda you do it
+by observing through experimentation or a demonstration of
+what is to be learned.
+
+Then you try to duplicate it.  This is very complex and
+requires different parts of the brain, from the limbic
+system telling you to fear beign burnt when dealing with
+fire, to the muscle memory of your placing your fingers on
+the fret board of a ukulele.  This allows your concsious
+mind to hand off different kinds of memories and
+knowledge to different parts of your brain.  This frees up
+cognitive resources to do complex things.
+
+We are not consciously aware of most of the lower level
+pattern matchers but only the 'final' conclusion of the
+hierarchy in giving a confidence that you know what you are
+looking at.
+
+So when we teach people, we provide them with multiple
+exposures, which might only require a few repitition or tens
+of thousands of repititions to master something very
+complex.
+
+The number of repititions required depend on how many
+different connections you can make to what is being learned.
+So if you teach someone something, you should teach the same
+thing from slightly different perspectives and contexts with
+each repitition.  So, multiple exposure, with each exposure
+incrementally different from the last exposure in order to
+establish a wider variety information to connect to
+different memories and pattern recognizers in your brain.
 
 
 
