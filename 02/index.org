@@ -29,12 +29,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./ww-intro-vol-2.org][Introduction]]
-  - 07. [[./07/index.org][Points of View]]
-  - 08. [[./08/index.org][Dualities]]
-  - 09. [[./09/index.org][Generators]]
-  - 10. [[./10/index.org][Scaffolds]]
-  - 11. [[./11/index.org][Systems]]
-  - 12. [[./12/index.org][Patterns]]
-  - 13. [[./13/index.org][Standards]]
-  - 14. [[./14/index.org][Legibility]]
+  - 01. [[./01/index.org][Points of View]]
+  - 02. [[./02/index.org][Dualities]]
+  - 03. [[./03/index.org][Generators]]
+  - 04. [[./04/index.org][Scaffolds]]
+  - 05. [[./05/index.org][Systems]]
+  - 06. [[./06/index.org][Patterns]]
+  - 07. [[./07/index.org][Standards]]
+  - 08. [[./08/index.org][Legibility]]
 
