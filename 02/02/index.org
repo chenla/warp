@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 08. Dualities
+#+TITLE: 02. Dualities
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 08. Dualities
+* 02. Dualities
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-dualities.org
+:Name:     /home/deerpig/proj/chenla/warp/02/02/index.org
 :Created:  2018-03-21T18:29@Prek Leap (11.642600N-104.919210W)
 :ID:       e896fbca-99d6-461e-a6d9-bc189290dc60
 :VER:      574903855.243785982
@@ -31,8 +31,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
  - Contents
  - [[./intro.org][Introduction]]
- - The Nature of Dualities
- - Dualities in Nature
- - Part-Whole
- - [[./ww-map-territory.org][Map-Territory]]
- - Meta-Data
+ - 01. The Nature of Dualities
+ - 02. Dualities in Nature
+ - 03. Part-Whole
+ - 04. [[./ww-map-territory.org][Map-Territory]]
+ - 05. Meta-Data
