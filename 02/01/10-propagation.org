@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.11 Propagation
+#+TITLE: 10. Propagation
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./10-narrative.org][prev]]] [[[./12-process.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./09-narrative.org][prev]]] [[[./11-process.org][next]]]
 
-* 2.7.11 Propagation
+* 10. Propagation
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.11.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/10-propagation.org
 :Created:  2018-04-20T18:20@Prek Leap (11.642600N-104.919210W)
 :ID:       29f5ddae-216a-4ddb-948a-8c004a3193c6
 :VER:      577495303.671516502
