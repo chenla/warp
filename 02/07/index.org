@@ -1,44 +1,70 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Standards TOC
 #+STARTUP: showall
-#+TITLE:  02.07.0 Points of View | TOC
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./intro.org][next]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 02.07.0 Points of View | Table of Contents
+* Standards Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/index.org
-:Created:  2018-04-20T17:20@Prek Leap (11.642600N-104.919210W)
-:ID:       5b67c7d7-3a29-4443-9bf2-e9cf57bba9d5
-:VER:      577491703.085507570
+:Name:     /home/deerpig/proj/chenla/warp/02/13/index.org
+:Created:  2018-04-01T21:32@Prek Leap (11.642600N-104.919210W)
+:ID:       8878c7a1-956a-4c42-ab79-7de5c99abfd6
+:VER:      575865222.487965257
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:EPR5-5420
+:BXID:     proj:BHE3-5840
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - 2.7.0  Table of Contents
-  - 2.7.1 [[./intro.org][ Introduction]]
-  - 2.7.2  [[./02-what-is-pov.org][What is a Point of View?]] (POV)
-  - 2.7.3  [[./03-cognitive-pov.org][POV as a Cognitive Tool]]
-  - 2.7.4  [[./04-objective-pov.org][Defining Objective POVs]]
-  - 2.7.5  [[./05-lod.org][Level of Detail]] (LOD)
-  - 2.7.6  [[./06-roc.org][Rate of Change]] (ROC)
-  - 2.7.7  [[./07-poc.org][Process of Change]] (POC)
-  - 2.7.8  [[./08-as-povs.org][LOD, ROC and POC as Points of Views]]
-  - 2.7.9  [[./09-scale.org][Scale]]
-  - 2.7.10 [[./10-narrative.org][Narrative]]
-  - 2.7.11 [[./11-propagation.org][Propagation]]
-  - 2.7.12 [[./12-process.org][Process]]
+  - Contents
+  - [[./intro.org][Introduction]]
+  - Lingua Franca
+    - cross pace-layer legibility 
+    - Spoken Language
+    - Written Lanuage
+    - Text Encoding
+      - Unicode
+    - Machine Languages
+    - Markup Languages
+    - Incantation Languages
+  - Measurement
+    - Time
+      - the second
+      - seconds from epoch
+      - time measurement and planetary bodies
+        - timeslips & leap years
+      - human diurnal cycles 
+      - calendars
+    - Space
+    - Mass
+    - Energy
+    - Weight & Gravity 
+  - Protocols
+    - Legible Addresses
+    - Token Exchange
+    - HTTP
+    - TCP/IP
+  - APIs
 
+  - Data Structures
+    - atoms       -> symbol, string, integer
+    - rhizomes    -> graphs
+    - ????        -> k-v, triple
+    - sets        -> lists: bag, seq, alt
+    - trees       -> branching lists
+    - layers      -> What about arrays?
 

@@ -1,92 +1,100 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.1 Points of View
+#+TITLE: Standards Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-what-is-pov.org][next]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 2.7.1 Points of View | Introduction
+* Standards Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/intro.org
-:Created:  2018-03-19T19:09@Prek Leap (11.642600N-104.919210W)
-:ID:       cceb8184-21ef-4fb0-9b5f-933e484f7e9f
-:VER:      574733452.681672429
+:Name:     /home/deerpig/proj/chenla/warp/02/13/intro.org
+:Created:  2018-05-06T16:13@Prek Leap (11.642600N-104.919210W)
+:ID:       f773c71e-fe61-469f-9abb-511987c3eba5
+:VER:      578870053.051189268
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:FVG7-8542
+:BXID:     proj:IIS3-3847
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope
+
+Standards are the bedrock of interoperability as well as State
+legibility.  Tax collecting is behind an enormous amount
+standardization.  This became an enormous advantage in
+industrialization and in trade.  If everyone uses the same standards
+of measurement it becomes far easier to exchange things with others.
+
+Standards have now become part of nearly every part of industrialized
+and technologically advanced civilization.
+
+Over time, standards have become increasingly fine-grained.  Time
+keeping is a good example....
+
+Another example is the epic story of the man who standardized srew and
+bolt threads....
+
+The metric system....
+
+The great power of standards is that they make many things machine
+legible that otherwise would be beyond the ability for most
+machine-cog to understand.
+
+There are still holdovers from preindustrial eras -- a major one is
+physical address formats which are so diverse and riddled with
+inconsistencies that they are nightmare for humans to parse, let along
+software systems.  GPS coordinates are machine understandable, but not
+very human friendly.  room, floor, building, street, town, state,
+country addresses are powerful in that they can contain far more
+information and context than a lat-lon-elevation address can convey,
+but that context is often so local, that even people living an hour's
+drive away may not be able to navigate it without help from a local.
+This is where "you can't get there from here" comes from.
+
+
 ** TL;DR
 
-#+begin_comment
-This obviously has to be rewritten so that it is a summary
-rather than given as an specific example used as summary. 
-#+end_comment
 
-The premise is that it is helpful to always understand the
-Point of View (POV) -- or perspective that you are looking
-at something because when you change your POV you change the
-context of what you are seeing and will often see things you
-didn't see before, or even see things in a completely
-different way than you saw before.
 
-We define three different perspectives:
+** Data Structures
 
-  - LOD : Level of Detail
-  - ROC : Rate of Change
-  - POC : Process of Change
+I suppose we can talk about narratives -- linear structures,
+rhizomatic structures where everthing is connected to
+everything, which I suppose is a graph, and then
+hierarchical structures which are tress.
 
-These three POVs form the foundation for how everything else
-*everything* in APPL, Primer & Hoard are understood.
+Humans think all three ways -- we think linearly as stories and
+we think as paths snaking through rhizomatic structures
 
-Each POV becomes increasingly more complex and abstract, but
-each builds on the one before and let's you see the same
-thing from a different perspective.  It does not negate the
-other POVs so much as enriches them and provides a more
-powerful toolbox for modeling and understanding.
+and I think this is how we need to put it:
 
-For example, let's look at the Origin Story that will start
-the Primer.
+  - complexity is best suited to rhizomatic structures
+  - sets are lists for threads winding through those
+    structures these are ideal for modeling deterministic
+    processes. lists can be:
+    - bag -- intentionally unordered -- the order is not significant.
+    - seq -- ordered -- the order may be by time, number,
+      alphabet, magnitude or class.
+    - alt -- which is a branching list in which only a
+      single item can be chosen -- this is taken from user
+      interfaces but also multiple choice tests etc.
+  - trees for creating hierarchies -- which are nature for
+    pack animals -- trees are partial rhizomes that show a
+    specific set of causal, command and control type
+    structures.  
 
-The Origin LOD is basically Big History -- a linear timeline
-with a beginning (big bang) middle (from BB to now) and the
-end (projected heat death of the universe).  The narrative
-is organized around tipping points where complexity reaches
-a critical mass that changes the nature of the universe, and
-then later life on earth and eventually us.  This is a
-fantastic narrative and is a perfect way of easing people
-into the origin story which can be understood like any other
-origin story.
 
-The Origin ROC is basically a finer grained version of Big
-History that uses the concept of causal propagation (think
-Light Cones) to understand that different things change at
-different speeds and that all of these things are mixed
-together.  It's the embodiment of Gibson's the future is
-already here isn't just not evenly distributed.  Brand's
-Pace-Layers is a good way of understanding this, as well as
-Light Cones and causal propagation of change happening at
-the speed of light but making the point that the speed of
-light is the maximum speed that things can propagate, most
-things are propagating far slower.
-
---------
-
-Taken together these three models will give us a set of
-powerful tools for understanding, planning, building, and
-maintaining civilizations.
 
