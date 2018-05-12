@@ -172,6 +172,25 @@ filesystem with additional links -- we need subsystems which
 are also trying to make connections as well -- so we have
 the composed, /intentional graph/, and the /augmented graph/
 
+We can then leverage that data to transform our workflow and
+augment and externalize our intelligence.
+
+For example, if we use a typing break app to deal with RSI
+then we can integrate that with a spaced repitition to use
+those breaks to read something, watch a video that our
+primer has scheduled to reinforce something you are learning
+or researching.
+
+The idea of a feed is not necessarily bad -- so long as it
+isn't being set us as slot machine to generate ad revenue
+for another company.
+
+But the feed must be designed not to suck you in, but to
+help you explore --> a news item should then have side links
+to see the same news from a different POV.  If something in
+an article or story allows you to change direction from
+taking in information, to actively seeking it, or tagging it
+or capturing it or taking action.
 
 
 ** Notes
