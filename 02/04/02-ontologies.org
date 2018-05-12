@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.10.3 Ontologies
+#+TITLE: 02. Ontologies
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-entities.org][prev]]] [[[./04-pace-layers.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./01-entities.org][prev]]] [[[./03-pace-layers.org][next]]]
 
-* 2.10.3 Ontologies
+* 02. Ontologies
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-ontologies.org
+:Name:     /home/deerpig/proj/chenla/warp/02/04/02-ontologies.org
 :Created:  2018-03-27T19:43@Prek Leap (11.642600N-104.919210W)
 :ID:       b20309ce-541f-48ea-8ac8-1506d3bdd2b3
 :VER:      575426696.052189112
