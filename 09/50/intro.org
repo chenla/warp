@@ -194,10 +194,21 @@ or capturing it or taking action.
 
 ** Discovery
   - serendipitous
-  - look up (what is known) 
-  - search (what is not known)
-  - rabbit-hole
-  - yak-shaving
+    - yak-shaving (random, go-to-shopping, serendipity)
+    - rabbit-hole (hunt, track, increase depth LOD)
+  - look up (find what is known)
+    - incremental completion (helm, autocomplete)
+  - query (search for what is not known)
+    - compose question
+    - keywords
+    - faceted search
+    - experiment -- change:
+      - parameters (inputs)
+      - perspective (POV)
+      - level of detail (LOD)
+      - method
+      - filter -- sort
+    
 
 ** Foci
 
