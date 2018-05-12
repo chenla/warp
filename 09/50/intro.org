@@ -118,6 +118,19 @@ what we don't know and expose us to things we need to
 remember at just the right time. This applies to individuals
 as well as to groups.
 
+** Chalkhall & Saltmine
+
+ Thinking back to Engelbart's concept of the integrated
+ information for a knowledge worker -- it's no enough.  We
+ need to integrate goal seeking both in terms of tasks but
+ also short and long term goals in terms of processes broken
+ into steps.  We then need to create a system that knows
+ what you know, and when you are about to forget it and
+ weave the reinforcement into the daily workslow.  You can
+ then set learning goals which are then treated as another
+ kind of project.  And projects are treated as just another
+ kind of learning goal.
+
 ** Notes
 
 Great Hall, Chalk Hall, Study Hall, Karel
