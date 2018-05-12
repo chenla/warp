@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.7 Process of Change (POC)
+#+TITLE: 06. Process of Change (POC)
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../..index.org][top]]] [[[./index.org][up]]] [[[./06-roc.org][prev]]] [[[./08-as-povs.org][next]]]
+[[[../..index.org][top]]] [[[./index.org][up]]] [[[./05-roc.org][prev]]] [[[./07-as-povs.org][next]]]
 
-* 2.7.7 Process of Change (POC)
+* 06. Process of Change (POC)
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.7.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/06-poc.org
 :Created:  2018-04-20T18:11@Prek Leap (11.642600N-104.919210W)
 :ID:       151fc0fd-2a47-4214-9194-9c4b7375f986
 :VER:      577494732.237826365
