@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.9 Scale
+#+TITLE: 08. Scale
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./08-as-povs.org][prev]]] [[[./10-narrative.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./07-as-povs.org][prev]]] [[[./09-narrative.org][next]]]
 
-* 2.7.9 Scale
+* 08. Scale
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.9.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/08-scale.org
 :Created:  2018-04-20T18:16@Prek Leap (11.642600N-104.919210W)
 :ID:       c05a43db-57c3-4b8c-929e-b940582b248e
 :VER:      577495046.304270980
