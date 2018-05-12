@@ -103,7 +103,20 @@ incrementally different from the last exposure in order to
 establish a wider variety information to connect to
 different memories and pattern recognizers in your brain.
 
+We have a good idea not only how we remember things, but
+also how we forget.  Spaced repitition is a technique for
+reinforcing memory just before we forget it.
 
+So we need multiple repititions, spaced correctly with each
+repetition slightly different from the last.
+
+
+Life-long learning must be woven into the fabric and
+workflow of our day to day lives -- so our externalized
+cognitive infrastructure must keep track of what we know and
+what we don't know and expose us to things we need to
+remember at just the right time. This applies to individuals
+as well as to groups.
 
 
 
