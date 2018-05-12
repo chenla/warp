@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.6 Rate of Change (ROC)
+#+TITLE: 05. Rate of Change (ROC)
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./05-lod.org][prev]]] [[[./07-poc.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./04-lod.org][prev]]] [[[./06-poc.org][next]]]
 
-* 2.7.6 Rate of Change (ROC)
+* 05. Rate of Change (ROC)
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.6.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/05-roc.org
 :Created:  2018-04-20T18:07@Prek Leap (11.642600N-104.919210W)
 :ID:       39fb7153-0359-4a77-93ee-09f571e4bc65
 :VER:      577494501.951925063
