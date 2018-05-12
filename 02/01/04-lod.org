@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.5 Level of Detail (LOD)
+#+TITLE: 04. Level of Detail (LOD)
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./04-objective-pov.org][prev]]] [[[./06-roc.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./03-objective-pov.org][prev]]] [[[./05-roc.org][next]]]
 
-* 2.7.5 Level of Detail (LOD)
+* 04. Level of Detail (LOD)
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/07/2.7.5.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/04-lod.org
 :Created:  2018-04-20T18:04@Prek Leap (11.642600N-104.919210W)
 :ID:       332bafb1-30ca-4685-85e9-19d2b12902d8
 :VER:      577494330.563866074
