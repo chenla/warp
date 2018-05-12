@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Generators TOC
+#+TITLE: 03. Generators TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Generators
+* 03. Generators
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-index.org
+:Name:     /home/deerpig/proj/chenla/warp/02/03/index.org
 :Created:  2018-03-21T18:39@Prek Leap (11.642600N-104.919210W)
 :ID:       83fc3e98-307f-4f2d-8307-33a539de2467
 :VER:      574904423.054583107
@@ -32,7 +32,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-
-  - emergent complexity
-  - generative grammars
-  - phase changes
+  - 01. emergent complexity
+  - 02. generative grammars
+  - 03. phase changes
