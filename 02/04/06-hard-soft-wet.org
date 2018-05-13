@@ -1,24 +1,24 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.10.7 Hard Soft and Wet
+#+TITLE: 06. Hard Soft and Wet
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./06-goldilocks.org][prev]]] [[[./08-world-models.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./05-goldilocks.org][prev]]] [[[./07-world-models.org][next]]]
 
-* 2.10.7 Hard Soft and Wet
+* 06. Hard Soft and Wet
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-hard-soft-wet.org
+:Name:     /home/deerpig/proj/chenla/warp/02/04/06-hard-soft-wet.org
 :Created:  2018-04-06T10:41@Prek Leap (11.642600N-104.919210W)
 :ID:       4cb9c53f-63c3-401d-a370-69dc5d8a0520
 :VER:      576258140.846828408
@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
-
+** Scope
 ** TL;DR
 
 In the second wave of artificial intelligence research, before the
