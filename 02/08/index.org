@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Legibility
+#+TITLE: 08. Legibility
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,12 +13,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Legibility
+* 08. Legibility
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-legibility.org
+:Name:     /home/deerpig/proj/chenla/warp/02/08/index.org
 :Created:  2018-04-01T21:37@Prek Leap (11.642600N-104.919210W)
 :ID:       b6a4c81a-40c1-46de-ab63-b9a711e70db8
 :VER:      575865523.511239207
@@ -30,91 +30,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
- - State Legability
- - Machine Legibility
- - Transparency
- - Accountability
-
-** TL;DR
-
-In /Seeing Like A State/ cite:scott:1998seeing James Scott
-defines legibility as the need for states to be able to
-reliably identify and keep accounts of their subjects, or
-citizens, who they are and where they are.  What property
-(in terms of land) they may inhabit or own (if freehold land
-ownership it allowed) and how much wealth they produce.
-Land is surveyed to create claudastral maps indicating the
-boundries of parcels of land, what type of land it is, and
-who is liable for that land.  All of this is done for three
-reasons, collecting taxes, conscription (raising armies) and
-stopping attempts of anyone who tries to wrest power from
-those who are in power.
-
-He makes the case that historically it's been in the
-interest of most people to not be legible if possible
-because the less legible you are to the state, the more
-control over you they have, and the more wealth or even life
-they can extract from you.
-
-Legibility is a process of standardization and simplication,
-that reduces the complexity of making persons and property
-legible.  This standardization comes in many forms, from
-using standard weights and measures, to forcing people to
-adopt legal names, and family names that are easier to keep
-track of.
-
-In addition to standardization and simplication for the
-state, it was quickly adapted by financial institutions for
-keeping track of parties involved in financial
-transactions.  For businesses it made it easier to keep
-inventories and reduce theft and corruption from employees.
-
-It could also be used to keep whole States accountable to
-it's citizens.
-
-Over time, as more and more different types of metrics were
-maintained about more types of goods, processes and
-transactions, the information that makes something legible
-became increasingly abstract and is now lumped together
-under the term metadata, or data that describes data.  Or in
-traditional terms, data that describes people and things and
-what they do.
-
-When there is enough metadata, it becomes big data, and big
-data is valuable in it's own right as an indicator of the
-behavior and future actions of processes and people.
-
-The interesting thing is that, up until now, metadata was
-only valuable in aggregate about a group of things.  But the
-amount of metdata that we now produce as individuals has
-gotten to the point where it now is valuable to collect for
-personal reasons as well.  And if we can find ways of
-collecting all of that metadata that we generate as
-individuals and have some measure of control over who can or
-can't see it, it becomes a kind of personal wealth.
-
-Next, we can use metadata to build models of the world -- in
-the same way that our brains collect information from our
-senses and creates an model of the world that we use to move
-through the world and make decsions.
-
-We will soon be able to create personal models of
-externalized metadata that rivals or eventually surpasses
-what our senses can collect -- that we will be able to
-create externalized world models which are an extension of
-our internal mental models.  
-
-This same capability will also become the foundation for
-artificial intelligence.
-
-
-** References
-
-  - Scott, J. C., Seeing like a state: how certain schemes
-    to improve the human condition have failed (1998), :
-    Yale University Press.
-    cite:scott:1998seeing
-
-  - Pomerantz, J., Metadata (2015), : The MIT Press.
-    cite:pomerantz:2015metadata
+ - Contents
+ - [[./intro.org][Introduction]]
+ - 01. State Legability
+ - 02. Machine Legibility
+ - 03. Transparency
+ - 04. Accountability
