@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:  Volume V  TOC
+#+TITLE:  Volume V.  TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -27,10 +27,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - 00. Contents
- - 00. [[./intro.org][Introduction]]
- - 33. [[./33/index.org][APPL]]
- - 34. [[./34/index.org][Hoard]]
- - 35. [[./35/index.org][Primer]]
- - 36. [[./36/index.org][The OS]]
- - 37. [[./37/index.org][Arc]]
+ - Contents
+ - [[./intro.org][Introduction]]
+ - 01. [[./33/index.org][APPL]]
+ - 02. [[./34/index.org][Hoard]]
+ - 03. [[./35/index.org][Primer]]
+ - 04. [[./36/index.org][The OS]]
+ - 05. [[./37/index.org][Arc]]
