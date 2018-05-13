@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Interoperability TOC
+#+TITLE:   04. Interoperability TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Interoperability Table of Contents
+* 04. Interoperability Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/08/48/index.org

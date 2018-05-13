@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Towards A Common Language  TOC
+#+TITLE:   05. Towards A Common Language  TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Towards A Common Language Table of Contents
+* 05. Towards A Common Language Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/08/49/index.org
+:Name:     /home/deerpig/proj/chenla/warp/08/05/index.org
 :Created:  2018-05-05T18:11@Prek Leap (11.642600N-104.919210W)
 :ID:       78c1a5ba-8c14-4b13-9e39-1833b8404dbc
 :VER:      578790778.743451361

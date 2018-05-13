@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Interoperability Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/08/48/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/08/04/intro.org
 :Created:  2018-05-05T18:22@Prek Leap (11.642600N-104.919210W)
 :ID:       e0c71374-c896-43c7-9b5b-46df3962a28d
 :VER:      578791395.023393714
