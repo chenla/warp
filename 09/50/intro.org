@@ -209,8 +209,78 @@ or capturing it or taking action.
       - method
       - filter -- sort
     
+** Capture
 
-** Foci
+Capture is a feature in orgmode that let's you create
+templates to capture different kinds of information from
+many different contexts, either inside orgmode, in other
+files and emacs applcations (like rss readers, email
+clients, etc) and outside emacs (eg. using web browers).
+
+The templates can be anything you can think of:
+
+  - bookmark (web page)
+  - contact (create new contact)
+  - quote  (capture a quote from what you are reading)
+  - note (create a note)
+  - journal (write a journal entry)
+  - task (create a task)
+    - phone call
+    - email
+    - todo
+
+** Links
+
+Links are usually thought of as a form of navigation, but
+they can also be used to create relationships between
+different things.  Creating a link to a tag is one example.
+Creating a link to a process is another.
+
+There are a wide range of different kinds of links beyond
+the types used on the web.
+
+  - link to page in a pdf
+  - link to an article in an rss feed
+  - link to an email
+  - link to a bibliographic reference
+
+Org-ref has very powerful links, which pull up a model when
+you click on a citation link with many different things you
+can do, including go to the bibliographic entry, go to a pdf
+file corresponding to the reference, create a formated
+citation etc.
+
+We need a far more flexible link model that allows all of
+this as well as one-to-many, two-way links, links that
+narrow and expand content (we have that now, but it is
+treated as a GUI element).
+
+Clearly there is a lot of potential for links that are not
+being used today.
+
+** Tagging
+
+Tagging is the creation of a link or establish a
+relationship between two or more things.
+
+Tags come in three flavours:
+
+  - Relationship to something BT, NT etc
+  - Term in Controlled Vocabulary 
+  - Folksonomy keyword (free association)
+
+For a while there was a widesread argument on the Web about
+if ontologies were better than folksonomies.  I never
+understood why people were getting so upset.  All types of
+tags are useful in different contexts.  There is no single
+way that things should be tagged.
+
+  - Concept, person, place, event, goal, task, resource,
+    application, project etc.
+    - new
+    - existing
+
+** Reinforcement Foci
 
 Focus provides different types of context for reinforcing
 memory -- you don't just show the same flashcard over and
