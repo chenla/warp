@@ -29,9 +29,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 50. [[./50/index.org][Learning]]
- - 51. [[./51/index.org][Pedagogy]]
- - 52. [[./52/index.org][Methods]]
- - 53. [[./53/index.org][Mastery]]
- - 54. [[./54/index.org][Curriculum]] 
+ - 01. [[./01/index.org][Learning]]
+ - 02. [[./02/index.org][Pedagogy]]
+ - 03. [[./03/index.org][Methods]]
+ - 04. [[./04/index.org][Mastery]]
+ - 05. [[./04/index.org][Curriculum]]
 
