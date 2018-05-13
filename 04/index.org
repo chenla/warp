@@ -29,12 +29,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 26. [[./26/index.org][The Way]]
- - 27. [[./27/index.org][Cycles]]
- - 28. [[./28/index.org][Rules]]
- - 29. [[./29/index.org][Workflow]]
- - 30. [[./30/index.org][Replicators]]
- - 31. [[./31/index.org][Fabrication]]
- - 32. [[./32/index.org][Agency]]
+ - 01. [[./01/index.org][The Way]]
+ - 02. [[./02/index.org][Cycles]]
+ - 03. [[./03/index.org][Rules]]
+ - 04. [[./04/index.org][Workflow]]
+ - 05. [[./05/index.org][Replicators]]
+ - 06. [[./06/index.org][Fabrication]]
+ - 07. [[./07/index.org][Agency]]
 
 
