@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Heliosphere TOC
+#+TITLE:   Biospheres TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,27 +12,35 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Heliosphere | Table of Contents
+* Biospheres Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/06/39/index.org
-:Created:  2018-05-04T19:19@Prek Leap (11.642600N-104.919210W)
-:ID:       5729148c-0d71-428e-ab5e-ca9b5dedc39d
-:VER:      578708419.176398910
+:Name:     /home/deerpig/proj/chenla/warp/06/40/index.org
+:Created:  2018-05-04T19:26@Prek Leap (11.642600N-104.919210W)
+:ID:       5bccf8a0-3aef-41ed-8dca-b461c85011cd
+:VER:      578708877.624562806
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:KGA8-1768
+:BXID:     proj:YAI4-1237
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - Contents
- - Introduction
- - Light
- - Heat
- - Gravity
- - Interstellar Shielding
-
-
-
+  - Contents
+  - Introduction
+  - Lithosphere 
+    - The Ground You Stand On 
+      -> any superstructure that supports a biosphere
+    - Planets & Planetoids
+    - Freestanding Habitats
+    - Functional Requirements
+      - gravity
+      - radiation shielding
+      - physical shielding  -> at least from micrometeorites
+   - Hydrophere
+   - Atmosphere
+   - Ecosystems
+     - Micro Organisms
+     - Biodiversity
+     - Genetic Diversity

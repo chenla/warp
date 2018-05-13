@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Habitats TOC
+#+TITLE:   Heliosphere TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,30 +12,27 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Habitats Table of Contents
+* Heliosphere | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/06/38/index.org
-:Created:  2018-05-04T19:15@Prek Leap (11.642600N-104.919210W)
-:ID:       c8ed0243-ff78-4a36-af9e-76936104d95a
-:VER:      578708171.345409789
+:Name:     /home/deerpig/proj/chenla/warp/06/39/index.org
+:Created:  2018-05-04T19:19@Prek Leap (11.642600N-104.919210W)
+:ID:       5729148c-0d71-428e-ab5e-ca9b5dedc39d
+:VER:      578708419.176398910
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:PXQ8-3868
+:BXID:     proj:KGA8-1768
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - Introduction
-  - Inevitibility
-  - Propagation
-    - Information
-    - Matter
-  - Types of Habitats
-    - Planets
-    - Planetary Atmospheres
-    - O'Neil Cylinders
-    - Submerged
+ - Contents
+ - Introduction
+ - Light
+ - Heat
+ - Gravity
+ - Interstellar Shielding
+
+
 
