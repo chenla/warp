@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Social Infrastructure Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/67/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/11/06/intro.org
 :Created:  2018-05-08T19:36@Prek Leap (11.642600N-104.919210W)
 :ID:       9beb73c8-db1f-48db-b8fd-7bf02c31c1fd
 :VER:      579055034.236231716

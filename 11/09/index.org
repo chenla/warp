@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Individual TOC
+#+TITLE:   09. Individual TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Individual Table of Contents
+* 09. Individual Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/79/index.org
+:Name:     /home/deerpig/proj/chenla/warp/11/09/index.org
 :Created:  2018-05-07T19:33@Prek Leap (11.642600N-104.919210W)
 :ID:       058ef9ee-8d4c-415b-aef0-0be1f89b6f86
 :VER:      578968461.130566418

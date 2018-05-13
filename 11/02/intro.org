@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Intrastructure Systems Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/63/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/11/02/intro.org
 :Created:  2018-05-08T18:45@Prek Leap (11.642600N-104.919210W)
 :ID:       dad0c0e0-a90d-4cce-a7c0-7f0f7a7bdc24
 :VER:      579051981.535199988

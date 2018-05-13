@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Economic TOC
+#+TITLE:   05. Economic TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Economic Table of Contents
+* 05. Economic Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/66/index.org
+:Name:     /home/deerpig/proj/chenla/warp/11/05/index.org
 :Created:  2018-05-07T19:16@Prek Leap (11.642600N-104.919210W)
 :ID:       027ab804-122e-4ec1-b176-3dd2787e245b
 :VER:      578967481.969320787

@@ -15,11 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-
 * Natural Infrastructure Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/64/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/11/03/intro.org
 :Created:  2018-05-08T19:00@Prek Leap (11.642600N-104.919210W)
 :ID:       e5ea64c7-2c71-4fb2-9f8e-6d8ffe45ad94
 :VER:      579052872.910614917

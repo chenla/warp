@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Cultural TOC
+#+TITLE:   08. Cultural TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Cultural Table of Contents
+* 08. Cultural Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/69/index.org
+:Name:     /home/deerpig/proj/chenla/warp/11/08/index.org
 :Created:  2018-05-07T19:27@Prek Leap (11.642600N-104.919210W)
 :ID:       db074185-ffa2-4680-b18f-03e5a0d69369
 :VER:      578968137.306374088

@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Cultural Infrastructure Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/69/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/11/08/intro.org
 :Created:  2018-05-08T19:51@Prek Leap (11.642600N-104.919210W)
 :ID:       3e75a5f9-4206-4685-89d6-91fdae639934
 :VER:      579055982.692733356

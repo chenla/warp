@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Natural TOC
+#+TITLE:   03. Natural TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Natural Table of Contents
+* 03. Natural Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/64/index.org
+:Name:     /home/deerpig/proj/chenla/warp/11/03/index.org
 :Created:  2018-05-07T19:05@Prek Leap (11.642600N-104.919210W)
 :ID:       8f12ca8e-b541-4226-91af-19bbc271f669
 :VER:      578966803.213488875

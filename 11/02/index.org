@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Systems TOC
+#+TITLE:   02. Systems TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Systems Table of Contents
+* 02. Systems Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/63/index.org
+:Name:     /home/deerpig/proj/chenla/warp/11/02/index.org
 :Created:  2018-05-07T19:02@Prek Leap (11.642600N-104.919210W)
 :ID:       624c9e8b-9cfe-4993-8eab-87104549d28d
 :VER:      578966603.725913122
