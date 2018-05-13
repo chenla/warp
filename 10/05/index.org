@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Duties TOC
+#+TITLE:   05. Duties TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Duties Table of Contents
+* 05. Duties Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/59/index.org
+:Name:     /home/deerpig/proj/chenla/warp/10/05/index.org
 :Created:  2018-05-06T10:57@Prek Leap (11.642600N-104.919210W)
 :ID:       63170902-9fd4-43f2-a066-d58e3d6fd1d4
 :VER:      578851132.781091370

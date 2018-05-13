@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Articles TOC
+#+TITLE:   02. Articles TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Articles Table of Contents
+* 02. Articles Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/56/index.org
+:Name:     /home/deerpig/proj/chenla/warp/10/02/index.org
 :Created:  2018-05-06T10:50@Prek Leap (11.642600N-104.919210W)
 :ID:       a23d2f83-578e-4ecf-b7ee-d0db89fdc0cb
 :VER:      578850673.597056030

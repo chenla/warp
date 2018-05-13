@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Distributed Governance Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/55/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/10/01/intro.org
 :Created:  2018-05-06T11:04@Prek Leap (11.642600N-104.919210W)
 :ID:       68fba307-fc90-40cb-9ecd-dc17bb096e2a
 :VER:      578851511.959082123

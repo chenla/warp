@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Adhocracies (chapter)
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/55/ww-adhocracies.org
+:Name:     /home/deerpig/proj/chenla/warp/10/01/ww-adhocracies.org
 :Created:  2018-05-09T16:29@Prek Leap (11.642600N-104.919210W)
 :ID:       23c808a9-cf72-4bda-bbf2-7879abd03842
 :VER:      579130209.095549818

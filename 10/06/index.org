@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Constitution TOC
+#+TITLE:   06. Constitution TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Constitution Table of Contents
+* 06. Constitution Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/60/index.org
+:Name:     /home/deerpig/proj/chenla/warp/10/06/index.org
 :Created:  2018-05-06T10:59@Prek Leap (11.642600N-104.919210W)
 :ID:       faebd436-1dfa-406d-b498-40373d5f9b75
 :VER:      578851230.757038749

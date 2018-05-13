@@ -83,7 +83,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./04/ww-replicators.org][Replicators]]
  - 06. [[./04/ww-fabrication.org][Fabrication]]
  - 07. [[./04/ww-agency.org][Agency]]
-** V. Workflow]
+** V. Workflow
  - [[./05/index.org][Contents]]
  - [[./05/intro.org][Introduction]]
  - 01. [[./05/01/index.org][APPL]]
