@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Rules TOC
+#+TITLE: 03. Rules TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Rules Table of Contents
+* 03. Rules Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/28/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/04/03/intro.org
 :Created:  2018-04-16T16:30@Prek Leap (11.642600N-104.919210W)
 :ID:       f60b7e34-48fd-498e-9cf9-2c93ae933aa6
 :VER:      577143071.029732494

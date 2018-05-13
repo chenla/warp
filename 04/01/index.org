@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: The Way TOC
+#+TITLE: 01. The Way TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* The Way Table of Contents
+* 01. The Way Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/26/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/04/01/intro.org
 :Created:  2018-03-21T18:57@Prek Leap (11.642600N-104.919210W)
 :ID:       1834dee4-c712-4a71-b15e-6e0d305426fb
 :VER:      574905518.857812353

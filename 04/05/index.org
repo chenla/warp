@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Replicators TOC
+#+TITLE: 05. Replicators TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Replicators Table of Contents
+* 05. Replicators Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/30/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/04/05/intro.org
 :Created:  2018-04-03T19:13@Prek Leap (11.642600N-104.919210W)
 :ID:       19a89240-4242-441d-9ac2-e4fa340885b8
 :VER:      576029703.462139349
