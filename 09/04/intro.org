@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Mastery Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/53/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/09/04/intro.org
 :Created:  2018-05-05T18:56@Prek Leap (11.642600N-104.919210W)
 :ID:       6bb39b94-84fd-4cc1-b4ec-2713e7632914
 :VER:      578793443.266679671

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Mastery TOC
+#+TITLE:   04. Mastery TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Mastery Table of Contents
+* 04. Mastery Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/53/index.org
+:Name:     /home/deerpig/proj/chenla/warp/09/04/index.org
 :Created:  2018-05-05T18:43@Prek Leap (11.642600N-104.919210W)
 :ID:       1572afbc-9cf7-4d22-8797-2a328d1e4708
 :VER:      578792661.871399411

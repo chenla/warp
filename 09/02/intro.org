@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Pedagogy Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/51/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/09/02/intro.org
 :Created:  2018-05-05T18:52@Prek Leap (11.642600N-104.919210W)
 :ID:       6089264e-3e4c-44fd-9685-25901a442435
 :VER:      578793194.104095057

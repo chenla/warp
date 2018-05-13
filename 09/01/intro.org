@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Learning Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/50/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/09/01/intro.org
 :Created:  2018-05-05T18:50@Prek Leap (11.642600N-104.919210W)
 :ID:       93956f55-64d1-4176-adfb-593f278c836c
 :VER:      578793089.404002186
