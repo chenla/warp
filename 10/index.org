@@ -29,10 +29,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - 55. [[./55/index.org][Distributed Governance]]
-  - 56. [[./56/index.org][Articles]]
-  - 57. [[./57/index.org][Declaration]]
-  - 58. [[./58/index.org][Rights]]
-  - 59. [[./59/index.org][Duties]]
-  - 60. [[./60/index.org][Constitution]]
-  - 61. [[./61/index.org][Statutes]]
+  - 01. [[./01/index.org][Distributed Governance]]
+  - 02. [[./02/index.org][Articles]]
+  - 03. [[./03/index.org][Declaration]]
+  - 04. [[./04/index.org][Rights]]
+  - 05. [[./05/index.org][Duties]]
+  - 06. [[./06/index.org][Constitution]]
+  - 07. [[./07/index.org][Statutes]]
