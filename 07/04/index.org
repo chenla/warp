@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   44 Stack TOC
+#+TITLE:   04. Stack TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]] [[[../43/index.org][prev]]]
 
-* 44 Stack  Table of Contents
+* 04. Stack  Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/44/index.org
+:Name:     /home/deerpig/proj/chenla/warp/07/04/index.org
 :Created:  2018-04-26T20:33@Prek Leap (11.642600N-104.919210W)
 :ID:       aab1ad99-f055-4c52-a5e4-5e9c7f1e98de
 :VER:      578021695.421139864

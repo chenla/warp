@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 7.41.1 Introduction to Big History
+#+TITLE: 02. Introduction to Big History
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-* 7.41.1 Introduction to Big History
+* 02. Introduction to Big History
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/41/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/07/02/intro.org
 :Created:  2018-04-24T11:58@Prek Leap (11.642600N-104.919210W)
 :ID:       29343d16-9619-435e-ae31-1143dd958a1b
 :VER:      577817958.265644731

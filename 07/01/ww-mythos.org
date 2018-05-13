@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Mythos  Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/41/ww-mythos.org
+:Name:     /home/deerpig/proj/chenla/warp/07/01/ww-mythos.org
 :Created:  2018-04-28T12:17@Prek Leap (11.642600N-104.919210W)
 :ID:       4862bc7f-8115-4e32-a753-8666c854fb4e
 :VER:      578164697.061482433

@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Mythos Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/41/ww-mythos-intro.org
+:Name:     /home/deerpig/proj/chenla/warp/07/01/ww-mythos-intro.org
 :Created:  2018-04-28T12:22@Prek Leap (11.642600N-104.919210W)
 :ID:       997c4246-ba4f-4969-9be8-28f0efc34783
 :VER:      578164993.642778031
