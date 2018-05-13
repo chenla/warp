@@ -29,6 +29,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 38. [[./38/index.org][Habitats]]
- - 39. [[./39/index.org][Heliosphere]]
- - 40. [[./40/index.org][Biospheres]] 
+ - 01. [[./01/index.org][Habitats]]
+ - 02. [[./02/index.org][Heliosphere]]
+ - 03. [[./03/index.org][Biospheres]]
