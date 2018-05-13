@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Strucutures TOC
+#+TITLE: 07. Strucutures TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Strucutures Table of Contents
+* 07. Strucutures Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/21/index.org
+:Name:     /home/deerpig/proj/chenla/warp/03/07/index.org
 :Created:  2018-03-21T18:34@Prek Leap (11.642600N-104.919210W)
 :ID:       c76b2682-c6c4-4f2b-91b5-d564f2918890
 :VER:      574904163.914123690

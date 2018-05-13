@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Distribution TOC
+#+TITLE: 09. Distribution TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Distribution Table of Contents
+* 09. Distribution Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/23/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/03/09/intro.org
 :Created:  2018-03-29T09:54@Prek Leap (11.642600N-104.919210W)
 :ID:       c0e7485f-1aa2-4f7a-8805-75624be0aa7a
 :VER:      575564139.374550726
