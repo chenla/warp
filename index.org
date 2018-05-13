@@ -86,11 +86,11 @@ bibliography:../hoard/bib.bib
 ** V. Workflow]
  - [[./05/index.org][Contents]]
  - [[./05/intro.org][Introduction]]
- - 33. [[./05/33/index.org][APPL]]
- - 34. [[./05/34/index.org][Hoard]]
- - 35. [[./05/35/index.org][Primer]]
- - 36. [[./05/36/index.org][The OS]]
- - 37. [[./05/37/index.org][Arc]]
+ - 01. [[./05/01/index.org][APPL]]
+ - 02. [[./05/02/index.org][Hoard]]
+ - 03. [[./05/03/index.org][Primer]]
+ - 04. [[./05/04/index.org][The OS]]
+ - 05. [[./05/05/index.org][Arc]]
 * Components
 ** VI. Heliosphere
  - [[./06/index.org][Contents]]
