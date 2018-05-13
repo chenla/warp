@@ -29,10 +29,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 41. [[./41/index.org][Preamble]]
- - 42. [[./42/index.org][Big History]]
- - 43. [[./43/index.org][Regimes]]
- - 44. [[./44/index.org][Stack]]
+ - 01. [[./01/index.org][Preamble]]
+ - 02. [[./02/index.org][Big History]]
+ - 03. [[./03/index.org][Regimes]]
+ - 04. [[./04/index.org][Stack]]
 
 
  - Origins
