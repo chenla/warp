@@ -1,0 +1,52 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Title Page 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]]
+
+* Title Page
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/title.org
+:Created:  2018-05-13T18:48@Prek Leap (11.642600N-104.919210W)
+:ID:       a947dea1-d8ef-4f8f-9429-d422123d15fa
+:VER:      579484158.756699209
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:WQS5-1216
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+#+begin_center
+A [SYNOPSIS|PROLEGOMENON|DRAFT] OF 
+
+CANTOS I-XV
+OF
+THE WARP & WOOF
+
+---
+
+I-XV      principles & parameters
+XVI-XXV   patterns & definitions
+XXVI-XXX  scources & schemas
+
+
+PHNOM PENH
+CHENLA SCOPIC PRESS
+[2018|2020]
+#+end_center
+
