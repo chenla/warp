@@ -30,6 +30,8 @@ bibliography:../hoard/bib.bib
 
 ** Epigraph: Warp & Woof
 
+*** draft
+
 #+begin_verse
     MAXIMUS, TO HIMSELF
 
@@ -106,6 +108,36 @@ bibliography:../hoard/bib.bib
 
 — SEE: [[ https://www.brainpickings.org/2012/12/27/charles-olson-reads-maximus-to-himself-1963/][Recording of Olson's reading poem in 1963]]
 #+end_verse 
+
+*** prolegomenon
+
+#+begin_verse 
+I have tried to write Paradise
+
+
+Do not move
+  Let the wind speak
+    that is paradise.
+
+Let the Gods forgive what I
+  have made
+Let those I love try to forgive
+  what I have made.
+
+— Canto CXX, Ezra Pound
+#+end_verse
+
+
+*** synopsis
+
+#+begin_verse
+I set out now
+in a box apon the sea
+
+— II.203, Charles Olson
+#+end_verse
+
+
 
 ** Epigraph: Volume 1
 
