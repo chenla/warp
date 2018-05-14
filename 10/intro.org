@@ -111,3 +111,37 @@ happiness
     (2018), : Atlantic Monthly Press.
     cite:keen:2018fix-future 
 
+*** Mondragon System
+
+  - Bradley, K., & Gelb, A., Cooperation at work: the
+    mondragon experience (1983), : Heinemann Educational
+    Books.  cite:bradley:1983cooperation
+  - Cheney, G., Values at work: employee participation meets
+    market pressure at mondragón (1999), : ILR Press.
+    cite:cheney:1999values
+  - Greenwood, D. J., & Santos, J. L. G., Industrial
+    democracy as process: participatory action in the fagor
+    cooperative group of mondragon (1992), : Van Gorcum.
+    cite:greenwood:1992industrial
+  - ICA, , /Co-operative identity, values & principles/
+    (1995).
+    cite:ica:1995co-op-identity
+  - Kasmir, S., The myth of mondragon: cooperatives,
+    politics, and working-class life in a basque town
+    (1996), : State University of New York Press.
+    cite:kasmir:1996myth-mondragon
+  - Roelants, B., & Bajo, C. S., Capital and the debt trap:
+    learning from cooperatives in the global crisis
+    (2011), : Palgrave Macmillan.
+    cite:roelants:2011debt-trap
+  - Thomas, H., & Logan, C., Mondragon: an economic analysis
+    (1982), : G. Allen & Unwin.  cite:thomas:1982mondragon
+  - Whyte, W., Making mondragon: the growth and dynamics of
+    the worker cooperative complex (1991), : ILR Press.
+    cite:whyte:1991making
+  - Wikipedia, , /Rochdale principles --- Wikipedia, the
+    free encyclopedia/ (2018).
+    cite:wiki:2018rochdale-principles
+  - Wikipedia, , /Mondragon corporation --- Wikipedia, the
+    free encyclopedia/ (2018).
+    cite:wiki:2018mondragon-corp
