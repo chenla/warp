@@ -56,18 +56,65 @@ achievable, given the right knowledge.
 #+end_quote
 
 
-Chenla is a series of works, projects, programs and initiatives that
-aim to demonstrate a way for Mankind to build advanced distributed and
-stable technological civilization from first principles. Chenla is not
-proposing the design of any specific civilization, rather, the goal is
-to provide a generative framework for the present and future
-generations to make any number of civilizations.  The history of human
-civilization is iterative and bottom up, building on the civilizations
-that came before them.  With each iteration we learn a little more,
-and do a little better.  It is hoped that these works will be of use
-in making that process a little less random, a little more focused,
-and a lot less disruptive and destructive as it has all too often been
-in the past.
+The Warp & Woof is a generative grammar for 21st century
+Civilization.  The history of our species is that of
+extension and externalization of both mind and body. 
+
+Mind was first extended by speech, then externalized by
+writing systems, followed by techiques for the capture and
+replay of sound and light.  The hand was first extended by
+tools, then externalized by machines.  Now cognitive
+machines are emerging; a combination of externalized mind
+and body.  This process is rapidly changing and we still
+have no idea where this will take us.
+
+Our knowledge of the world around us has always been
+woefully incomplete.  Even though we have managed to tease a
+comprehensive understanding of how the world works at human
+scales, that knowledge has led us far beyond human scales
+both vastly greater and smaller than ourselves, and the
+realization that there is still more we don't know than what
+we know.  And because of this, our knowledge is still
+sparse, with enormous gaps in our maps, only filled by
+speculation which is little better than our ancestor's
+annotating the blank spaces in their maps with the
+admonition, "here there be dragons".
+
+Uncertainty is built into the rules that govern our
+universe,
+
+ of a chaotic and 
+
+
+
+Civilization is iterative and bottom up, building on the
+civilizations that came before them.  With each iteration we
+learn a little more, and do a little better.  It is hoped
+that these works will be of use in making that process a
+little less random, a little more focused, and a lot less
+disruptive and destructive as it has all too often been in
+the past.
+
+
+
+
+Even the term history has been extended and externalized.
+History literally means /what was written/.  We add to human
+writing systems, what was written in the radio isotopes in
+rock and the chemical signitures in ice and the
+electromagneic spectrum from objects so far away that they
+have takes thousands, millions and billions of years to
+reach us.
+
+
+
+
+Chenla is not proposing the design of any specific
+civilization, rather, the goal is to provide a generative
+framework for the present and future generations to make any
+number of civilizations.  
+
+The history of 
 
 #+begin_ascii
             Warp & Woof   <---------\
