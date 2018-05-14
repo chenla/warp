@@ -43,22 +43,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 - [[id:7466a761-d9a2-4a2a-aeb9-10aa36963509][Programs]]
 - [[id:34865dc8-5986-4f88-bb7b-c5eda8675fd4][Initiatives]]
 
-** Introduction
-:PROPERTIES:
-:ID:       0ed7184f-ba2a-45f5-9460-efde6ff00081
-:END:
+** Preamble
 
-#+begin_quote
-Everything that is not forbidden by laws of nature is
-achievable, given the right knowledge.
-
-— David Deutsch 
-#+end_quote
-
-
-The Warp & Woof is a generative grammar for 21st century
-Civilization.  The history of our species is that of
-extension and externalization of both mind and body. 
+The history of our species is that of extension and
+externalization of both mind and body.
 
 Mind was first extended by speech, then externalized by
 writing systems, followed by techiques for the capture and
@@ -118,6 +106,25 @@ increasing in numbers until there was no where left to
 expand and we found ourselves back where we had started
 from to devour and pave over the very savvanahs where we had
 begun. 
+
+
+
+
+** Introduction
+:PROPERTIES:
+:ID:       0ed7184f-ba2a-45f5-9460-efde6ff00081
+:END:
+
+#+begin_quote
+Everything that is not forbidden by laws of nature is
+achievable, given the right knowledge.
+
+— David Deutsch 
+#+end_quote
+
+
+The Warp & Woof is a generative grammar for 21st century
+Civilization.  
 
 
 
