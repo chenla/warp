@@ -39,10 +39,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][source]]
   - [[id:18e41791-cb01-4114-943d-a26bc95c1099][kernal]]
   - [[id:401aaec4-899d-4972-b500-ea222cef7c2c][storage]] 
-- [[id:682f45da-1356-4b4a-a911-8abb845cc9a7][Projects]]
-- [[id:7466a761-d9a2-4a2a-aeb9-10aa36963509][Programs]]
-- [[id:34865dc8-5986-4f88-bb7b-c5eda8675fd4][Initiatives]]
-
 ** Introduction
 :PROPERTIES:
 :ID:       0ed7184f-ba2a-45f5-9460-efde6ff00081
