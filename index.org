@@ -35,6 +35,7 @@ bibliography:../hoard/bib.bib
  - Dedication
  - Acknowledgments
  - Preface
+ - [[./preamble.org][Preamble]]
  - [[./intro.org][Introduction]]
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
