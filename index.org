@@ -29,6 +29,7 @@ bibliography:../hoard/bib.bib
 
 * In Brief
 ** Front Matter
+ - [[./title.org][Title Page]]
  - Copyright Page
  - [[./epigraph.org][Epigraph]]
  - Dedication
@@ -38,7 +39,7 @@ bibliography:../hoard/bib.bib
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
-* Building Blocks
+* Cantos I-V Building Blocks
 ** I. Foundations
  - [[./01/index.org][Contents]]
  - [[./01/intro.org][Introduction]]
@@ -91,7 +92,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./05/03/index.org][Primer]]
  - 04. [[./05/04/index.org][The OS]]
  - 05. [[./05/05/index.org][Arc]]
-* Components
+* Cantos VI-VIII Components
 ** VI. Heliosphere
  - [[./06/index.org][Contents]]
  - [[./06/intro.org][Introduction]]
@@ -166,7 +167,7 @@ bibliography:../hoard/bib.bib
  - 00. Memory
  - 00. Commons
  - 00. Continuity
-* Assembly
+* Cantos XIV-XV Assembly
 ** XIV. Implementation
  - 00. [[./14/index.org][Contents]]
  - 00. [[./14/intro.org][Introduction]]
