@@ -31,3 +31,241 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 
+The history of our species is that of extension and
+externalization of both mind and body.
+
+Mind was first extended by speech, then externalized by
+writing systems, followed by techiques for the capture and
+replay of sound and light.  The hand was first extended by
+tools, then externalized by machines.  Now cognitive
+machines are emerging; a combination of externalized mind
+and body.  This process is rapidly changing and we still
+have no idea where this will take us.
+
+Our knowledge of the world around us has always been
+woefully incomplete.  Even though we have managed to tease a
+comprehensive understanding of how the world works at human
+scales, that knowledge has led us far beyond human scales
+both vastly greater and smaller than ourselves, and the
+realization that there is still more we don't know than what
+we know.  And because of this, our knowledge is still
+sparse, with enormous gaps in our maps, only filled by
+speculation; little better than our ancestor's annotating
+the blank spaces in their maps with the admonition, "here
+there be dragons".
+
+Uncertainty is hard coded into the rules that govern our
+universe, that complexity and order which makes everything
+from galaxies and stars to the weeds threatening to overtake
+a vegitable bed are the exception rather than the rule.
+
+Each of us reacts differently to that unassailable
+uncertainty and the unknown.  As Olson said, "some men ride
+on such space, others have to fasten themselves like a tent
+stake to survive... They are the alternatives."  The first
+people, the nomads learned to ride like a surfer, taking the
+inevitable falls in stride, breaking camp and moving with
+the seasons.  Those who stopped their wandering replaced
+their tent stakes with walls and roofs that blocks out the
+sky, pretending that this separated and protected them from
+the uncertainty of the elements, attacks from predators and
+from each other.  
+
+Timidity won and we become a sedantary and dominantly urban
+species.  That call to ride space and face the world on its
+own terms is still there in all of us, though it has been
+squeezed down until it... went to sleep.  We have built
+walls higher, taller and ever thicker which within we have
+complete control.  When the sun bears down, we cool the air
+within.  When the days grow short and ever colder, we heat
+the air and seldom even look outside and called it
+Civilization.  
+
+The nomads moved on when they wished, the wind at their
+backs, following the sun, following the game and greener
+pastures just over the next hill.  Sendantary man didn't
+move so much as grow incrementally like a fungus creeping
+growth that devoured what resources they encountered as they
+went.  Over millennia they overtook the nomads and left them
+with no place to wander.  In this way we kept expanding, and
+increasing in numbers until there was no where left to
+expand and we found ourselves back where we had started
+from to devour and pave over the very savvanahs where we had
+begun. 
+
+If all of this sounds romantic, it isn't.  In many places on
+the climate is not as clemant as the savvanahs where we
+began our wanderings.  A wall is far better protection from
+the lion than the campfire.  Vigilance is taxing, it
+consumes our time, leaving little in way of time to think
+and find new ways to solve problems.  The nomad is limited
+to what can be carried, or pulled or packed on animals.  The
+only hedge the nomad has over seasons with little water,
+fruit or grain is to keep moving.  The farm and city gave us
+safety from our old nemisis, the means to build up stocks to
+see us through drought and disease.  But it came at a great
+cost.  We weren't designed to be indefinately cooped up
+tightly together.  Herds offer protection from external
+threats but only at the expense of individual agency.  Pack
+animals reward agency and adaptibility.  Herds require far
+less cognitive muscle.  Herds move as one, because each
+individual learns to move in sync with those in front and
+beside them.  When herds stampede, they move as a fluid
+whole leaving few if any behind.  When humans stampede, we
+trample and sufficate each other to death.  Civilization may
+have conditioned us to live together, but it goes against
+our instincts designed to live, specialize and coordinate in
+packs.
+
+A metaphor that has become popular of late is to liken human
+civilization to the growth of ecoli bacterium in a petri
+dish containing a nutrient agar.  When the bateria is
+introduced to the petri dish is consumes the nutrients and
+reproduces.  This is a very simple system that produces a
+positive feedback loop.  With nothing to check the bateria's
+growth it will eat and grow, eat and grow until they hit the
+edge of the petri dish and all the nutrients have been
+consumed, and shortly thereafter the quickly bateria dies
+off.  At present, earth can be thought of as a petri dish and we
+are the ecoli that are growing and consuming resources until
+we too will hit the edge of the petri dish and die off in
+the same way.
+
+The parable of the petri dish works because it is a
+simplfied. The earth's biosphere is host to is an
+astonishing complexity and variety of life. It is not a toy
+model as in our parable.  But like all good parables it
+speaks an underlying truth that we are subject to.
+
+Humans have cheated the petri-dish scenario by employing the
+/Kobayashi Maru test/.  In the fictional Star Trek universe
+the protagonist, James T Kirk takes a test as a young man
+when in training at Starfleet academy.  In the test the
+captain is placed in a scenario in which a ship named the
+Kobayashi Maru is under attack by overwhelming enemy forces.
+The person taking the test is given the goal of saving the
+Kobayashi Maru and safely escaping or destroying the enemy
+forces.  Unknown to the person taking the test is that the
+scenario is designed to be unwinnable.  The test was
+designed to see how condidates respond to catastrophic
+failure.  The only person to pass the test is our hero
+Kirk. He won, basically by cheating, and reprogramming the
+computer running the scenario.  The take away is that the
+hero believes that there is no such thing as a no win
+scenario.
+
+This is the ploy that Man has used time and again to cheat
+the petri-dish scenario.  All early civilizations collapsed
+because they had reached the edge of their petri dishes.
+But over many centuries of trial and failure we learned to
+reprogram the game so we would win.  When we ran out of
+enough water to grow enough crops to feed everyone, we
+learned to irrigate fields by creating resevoirs to store
+water during dry periods and to divert year round water
+sources such as rivers and ground water supplies to extend
+growing seasons.  We learned to domesticate a narrow number
+of animal and plant species and plant or raise them in large
+numbers in artificial monocultures.  When disease threatened
+keystone domesticated varieties of corn, wheat and rice
+which provide the cornerstone for human diets on the planet,
+we re-engineered the genomes to create varieties that were
+immune to the most dangeous of diseases.  Unlike the e coli
+in the petri dish we learned to reprogram nature and cheat
+the test.
+
+Cheating is inherently a zero-sum strategy which more often
+than not trades a favorable short term outcome that doesn't
+solve the problem so much as pass it on to become a bigger
+problem in the future.  If you cheat at cards, you may win
+in the short term, but later when the people you cheated
+discover your deceit you will loose their trust and possible
+incure no small amount of murderous wrath.  In other words
+cheating gives you a small reward today in exchange for a
+much bigger problem tommorrow.
+
+Mankind can only cheat Mother Nature so many times.  Many
+resources do replenish themselves but over timescales that
+are measured in decades, centuries or, in the case of gas
+and oil, many millions of years to replace.  If those
+resources are exhausted by consuming them at rates that
+exceed the natural cycles that replenish them, we will, to
+mix metaphors, eventually reach the edge of a petri dish
+that can not be reprogrammed.
+
+To continue as we are going now is untenable over the long
+term.  No amount of reprograming will solve these problems
+except for nature's chief method of correcting positive
+feedback loops -- which is to let the positive feedback loop
+run its course, let the feedback loop exhaust the resouces
+feeding it and trigger a massive die-off.  We have cheated
+the system so many times that the die-off would be
+catastrophic for the species and effectively bring
+civilization as we understand it to an end.  The few
+surivors would then return to a more primitive form of
+existence and start the cycle over again.  The problem with
+this is that the resources that we have already exhausted
+were the ones that made it possible to build an industrial
+civilization.  The survivors would no longer have those
+easily accessible resources available to reboot an
+industrial civilization
+
+Second, by pumping vast amounts of carbon into the
+atmosphere we have acidified the oceans and triggered
+climate change which will put an end to the present
+geological glacial interlude that has given Man the clemant
+climate that made the development of an industrial
+civilization possible..
+
+This leaves us with few options.  The option that our
+adopted sedentary natures will find most comfortable, will
+have the least chance of success.  The most comfortable will
+be to try to change our behavior and return resource usage
+and pollution to levels that are not only sustainable but
+are far below present levels to let the climate return to
+something more stable and remain clement without triggering
+a massive die-off that will wipe out most of humanity.
+
+Doing this without the die-off is more than a little
+problematic because the fix to how we got into the mess we
+are in is to spend more resources per capita than we are
+using now, not less.  I'm talking about population.  Human
+population has exploded since the industrial revolution
+became mature.  We have almost doubled the human lifespan,
+we have massively reduced the threat of and occurance of
+war, we have eradicated or soon will eradicate all sorts of
+diseases that have causes massive die-offs in the past.  And
+we have learned to grow more food using less space.
+Increase incomes, educate women and reduce infant mortality
+and birthrates go down this process is well underway.  That
+is a good thing and should give us hope.
+
+The downside is that we are running out of resources and
+polluting the planet faster than our birthrates is
+decreasing.  Present projections are that world population
+will peak at about ten billion souls before it begins to
+first gradually and then rapidly fall some time in he next
+one to two centuries.
+
+The problem is that in order to stabilize the climate we
+will need to reduce our resource use below present levels
+and still find a way to feed, shelter and provide a standard
+of living that will keep population growth projections on
+their present track.
+
+To accomplish this will is likely beyond our ability.  Is a
+massive die-off that results in a very long term collapse of
+civilization that will be extremly difficult to recover from
+inevitable?  No, but every year we continue on the path we
+are on will bring that tipping point closer and make it even
+more difficult to avert.
+
+
+
+
+
+
+The first option is to massively reduce
+
+
+
+
