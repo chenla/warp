@@ -62,8 +62,6 @@ process, they literally will generate something.  In the
 case of made things when a pattern is manifest it is greater
 than the sum of its parts
 
-
-
 #+begin_comment
 What are pattern languages -- how they work, how to make
 them, how to use them.
@@ -84,7 +82,6 @@ Lego Bricks.  When they have been used that way people
 wonder why they don't work.
 
 #+end_comment
-
 
 ** The Timeless Way TOC
 
