@@ -37,13 +37,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Rules
   - Pattern Languages
   - Pattern Entity Model
-    - pattern (concept)
-      - Keystone (expression)
-        - Design (manifestation)
+    - pattern (con)
+      - Keystone (exp)
+        - Design (man)
   - Rule Entity Model
-    - thesis (concept)
-      - declaration (expression)
-        - rule (manifestation)
+    - thesis (con)
+      - declaration (exp)
+        - rule (man)
 
 ------
 
