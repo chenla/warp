@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume XV TOC
+#+TITLE:   Volume XIII. Culture TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,27 +10,43 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../14/index.org][prev]]]
+[[[../index.org][top]]] [[[../12/index.org][prev]]] [[[../14/index.org][next]]]
 
-* Volume XV Table of Contents
+* Volume XIII. Culture Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/06/index.org
-:Created:  2018-04-19T11:52@Prek Leap (11.642600N-104.919210W)
-:ID:       73f9033c-3108-4dac-b215-82140bf066bf
-:VER:      577385613.218657447
+:Name:     /home/deerpig/proj/chenla/warp/13/index.org
+:Created:  2018-04-30T11:33@Prek Leap (11.642600N-104.919210W)
+:ID:       90413333-0105-4d00-9a5f-106c62ffb819
+:VER:      578334852.226372754
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:MQH8-1813
+:BXID:     proj:LAO1-1585
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - 00. Contents Volume XV
- - 00. [[./intro.org][Introduction Volume XV]]
- - 38. [[./ww-scenarios.org][Scenarios]]
- - 39. [[./ww-window-and-roadmap.org][Window]]
- - 40. [[./ww-roadmap.org][Roadmap]]
-
-
+ - Contents
+ - [[./intro.org][Introduction]]
+   - culture ensures that you will recognize tomorrow
+   - offset crazy-ass ROC
+ - slow infrastructure
+ - slow governance
+ - long term investment -> bread cast apon the water
+   - moonshots
+   - builds the impossible
+ - collective memory
+   - don't repeat past mistakes
+   - collect, preserve and curate the present
+ - guardians of the commons -> this must be central part of 
+                               governance articles
+ - continuity
+   - structures of daily life
+   - vernacular architecture & design
+     - the fashion-layer should riff on themes that are
+       layed down by the culture-layer.  Build on what came
+       before, this needs to be a cultural norm.  Those who
+       pretend to throw everything out and start from
+       scratch are not being honest with themselves and are
+       just making a mess of things.

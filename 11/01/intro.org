@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Commons Introduction 
+#+TITLE: Learning Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,16 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-
-* Commons Introduction
+* Learning Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/01/intro.org
-:Created:  2018-05-08T18:18@Prek Leap (11.642600N-104.919210W)
-:ID:       ce57a72e-57df-4cb5-93d9-d09554251dc5
-:VER:      579050367.047296391
+:Name:     /home/deerpig/proj/chenla/warp/09/01/intro.org
+:Created:  2018-05-05T18:50@Prek Leap (11.642600N-104.919210W)
+:ID:       93956f55-64d1-4176-adfb-593f278c836c
+:VER:      578793089.404002186
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:KFK5-5325
+:BXID:     proj:LTX5-8538
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -32,61 +31,297 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
-
-Commons is a general term for shared resources in which each
-stakeholder has an equal interest.  Infrastructure can be
-thought of as a sort of hybid commons.  Infrastructure
-connects things together, provides a control structure for
-flows of material, energy, and information.  At any given
-time, any piece of infrastructure may be owned and
-controlled privately, or collectively.  But because that
-infrastructure is critical to maintaining a functional
-system or society, private infrastructure might be
-nationalised and national infrastructure privatized.  This
-creates a kind of negative feedback loop that ensures that
-that infrastructure remains in place and functional.
-
-In a post-scarcity civilization, the concept of the commons
-will be displace many things that are treated as being
-owned, by a person or corporate body and this will be most
-pronounced in a new concept of infrastructure as more
-of a commons than property that is equally shared.  In fact
-the entire concept of commons as property could be be
-redefined as a common equally shared resource.
-
-
 ** TL;DR
 
-- Private & Public
-     Even when infrastructure is privately owned, if it is
-     essential to maintaining civilization, States have
-     always had the option of either nationalizing or
-     privitizing. This provides a negative feedback loop.
+What I'm trying to get at here is a build very simple toy
+model for learning that we can build a system around.
 
-     New Classes of Infrastructure nearly always begin in
-     the private sector and eventually become public and are
-     increasingly regulated as it becomes a critical part of
-     civilization.
-- Nationalization & Privitization
-     If private infrastructure goes off the rails (so to
-     speak) is may be nationalized, reorganized and run as a
-     public utility.  If State management becomes too
-     inefficient or corrupt, infrastructure may then be
-     privatized. Many examples.
-- Right of Way
-- Self-Owned
-     In United States corporate law, a private incorporated
-     company has nearly all the same rights as an
-     individual.  This brings up the possibility of AI's
-     being self-owned corporations with no human owners.
-   
-     A self-driving car not having an owner, but instead sells
-     it's services to transport people and goods, and the
-     revenue used go to fuel, repairs and saving to replace
-     itself with a new vehicle.
+How do we learn?  For that matter what is learning in the
+first place?  Acquiring new knowledge, behaviors, skills etc
+is just not going to cut it.
 
+What does it mean to aquire new knowledge?  It's not just
+recording information into memory, like adding a file to a
+file system in a storage device.  The device doesn't /know/
+what is stored, it is just a bunch of bits that are
+organized into a hierarchical file system of files and
+directories. Each file has a pointer to somewhere in the tree.
+
+Memory is not learning, but it is part of it.  A memory is a
+variety of different bit sensory data that has been
+processed through a hierarchy of pattern matchers which link
+different things together.
+
+The more time that you are exposed to similar things, the
+more /familiar/ it becomes.  You build up a composite mental
+image of something by repeated exposure -- the more times,
+the more detailed the model and the more links to other
+patterns and memories -- it is then that you can say you
+have learned something, that it has become knowledge.
+
+You can know /about/ something and you can /know/ something
+-- that your model is strong enough to give you confidence
+that you understand the thing.  That doesn't mean you are
+right or that what you know is even real, in fact learning
+is not about truth, or reality or lies and delusions.  It's
+just a mental model that has enough connections to
+constitute knowledge.
+
+If pattern matchers see the same pattern long enough then
+they constitute a an abstract concept 
+
+When you go about learning something, it doesn't matter
+what, from making your bed, to building a pagoda you do it
+by observing through experimentation or a demonstration of
+what is to be learned.
+
+Then you try to duplicate it.  This is very complex and
+requires different parts of the brain, from the limbic
+system telling you to fear beign burnt when dealing with
+fire, to the muscle memory of your placing your fingers on
+the fret board of a ukulele.  This allows your concsious
+mind to hand off different kinds of memories and
+knowledge to different parts of your brain.  This frees up
+cognitive resources to do complex things.
+
+We are not consciously aware of most of the lower level
+pattern matchers but only the 'final' conclusion of the
+hierarchy in giving a confidence that you know what you are
+looking at.
+
+So when we teach people, we provide them with multiple
+exposures, which might only require a few repitition or tens
+of thousands of repititions to master something very
+complex.
+
+The number of repititions required depend on how many
+different connections you can make to what is being learned.
+So if you teach someone something, you should teach the same
+thing from slightly different perspectives and contexts with
+each repitition.  So, multiple exposure, with each exposure
+incrementally different from the last exposure in order to
+establish a wider variety information to connect to
+different memories and pattern recognizers in your brain.
+
+We have a good idea not only how we remember things, but
+also how we forget.  Spaced repitition is a technique for
+reinforcing memory just before we forget it.
+
+So we need multiple repititions, spaced correctly with each
+repetition slightly different from the last.
+
+
+Life-long learning must be woven into the fabric and
+workflow of our day to day lives -- so our externalized
+cognitive infrastructure must keep track of what we know and
+what we don't know and expose us to things we need to
+remember at just the right time. This applies to individuals
+as well as to groups.
+
+** Chalkhall & Saltmine
+
+Thinking back to Engelbart's concept of the integrated
+information for a knowledge worker -- it's no enough.  We
+need to integrate goal seeking both in terms of tasks but
+also short and long term goals in terms of processes broken
+into steps.  We then need to create a system that knows what
+you know, and when you are about to forget it and weave the
+reinforcement into the daily workslow.  You can then set
+learning goals which are then treated as another kind of
+project.  And projects are treated as just another kind of
+learning goal.
+
+Your hoard is made up of:
+
+  - what you intentionally keep
+  - new information coming in
+    - general info -- news
+    - what you intentionally look for and read/watch/listen
+    - messages sent to you -- intentional
+  - reaction to that information
+    - save, delete, label
+    - notes, annotations, links
+    - messages in response -- phone calls, sms, email
+  - conversations - discourse
+    - real time conversations
+    - delayed conversations
+    - long term conversations -> over a lifetime or
+      generations
+  - works -> things that you compose or edit
+    - journals
+    - essays
+    - long form books
+    - drawings
+    - hand written notes and notebooks (non digital formats)
+    - bitmap and vector graphics
+    - video and audio recordings
+  - data -- logs that keep track of what you did, where and
+    when you did it.  So when you save a bookmark there
+    should be a lot of other surrounding context saved along
+    with it.  This is the data that we are scared that
+    facebook and google have on us, and which we as
+    individuals need to leverage for ourselves and obfuscate
+    what outsiders are able to collect.  So we need to learn
+    to spy on ourselves and learn how to leverage the
+    information collected to understand the world around us
+    and to get stuff done.
+
+This all becomes a graph, with each thing in the data store
+linked to other things.  But this is not just a dumb
+filesystem with additional links -- we need subsystems which
+are also trying to make connections as well -- so we have
+the composed, /intentional graph/, and the /augmented graph/
+
+We can then leverage that data to transform our workflow and
+augment and externalize our intelligence.
+
+For example, if we use a typing break app to deal with RSI
+then we can integrate that with a spaced repitition to use
+those breaks to read something, watch a video that our
+primer has scheduled to reinforce something you are learning
+or researching.
+
+The idea of a feed is not necessarily bad -- so long as it
+isn't being set us as slot machine to generate ad revenue
+for another company.
+
+But the feed must be designed not to suck you in, but to
+help you explore --> a news item should then have side links
+to see the same news from a different POV.  If something in
+an article or story allows you to change direction from
+taking in information, to actively seeking it, or tagging it
+or capturing it or taking action.
+
+** Discovery
+  - serendipitous
+    - yak-shaving (random, go-to-shopping, serendipity)
+    - rabbit-hole (hunt, track, increase depth LOD)
+  - look up (find what is known)
+    - incremental completion (helm, autocomplete)
+  - query (search for what is not known)
+    - compose question
+    - keywords
+    - faceted search
+    - experiment -- change:
+      - parameters (inputs)
+      - perspective (POV)
+      - level of detail (LOD)
+      - method
+      - filter -- sort
+    
+** Capture
+
+Capture is a feature in orgmode that let's you create
+templates to capture different kinds of information from
+many different contexts, either inside orgmode, in other
+files and emacs applcations (like rss readers, email
+clients, etc) and outside emacs (eg. using web browers).
+
+The templates can be anything you can think of:
+
+  - bookmark (web page)
+  - contact (create new contact)
+  - quote  (capture a quote from what you are reading)
+  - note (create a note)
+  - journal (write a journal entry)
+  - task (create a task)
+    - phone call
+    - email
+    - todo
+
+** Links
+
+Links are usually thought of as a form of navigation, but
+they can also be used to create relationships between
+different things.  Creating a link to a tag is one example.
+Creating a link to a process is another.
+
+There are a wide range of different kinds of links beyond
+the types used on the web.
+
+  - link to page in a pdf
+  - link to an article in an rss feed
+  - link to an email
+  - link to a bibliographic reference
+
+Org-ref has very powerful links, which pull up a model when
+you click on a citation link with many different things you
+can do, including go to the bibliographic entry, go to a pdf
+file corresponding to the reference, create a formated
+citation etc.
+
+We need a far more flexible link model that allows all of
+this as well as one-to-many, two-way links, links that
+narrow and expand content (we have that now, but it is
+treated as a GUI element).
+
+Clearly there is a lot of potential for links that are not
+being used today.
+
+** Tagging
+
+Tagging is the creation of a link or establish a
+relationship between two or more things.
+
+Tags come in three flavours:
+
+  - Relationship to something BT, NT etc
+  - Term in Controlled Vocabulary 
+  - Folksonomy keyword (free association)
+
+For a while there was a widesread argument on the Web about
+if ontologies were better than folksonomies.  I never
+understood why people were getting so upset.  All types of
+tags are useful in different contexts.  There is no single
+way that things should be tagged.
+
+  - Concept, person, place, event, goal, task, resource,
+    application, project etc.
+    - new
+    - existing
+
+** Reinforcement Foci
+
+Focus provides different types of context for reinforcing
+memory -- you don't just show the same flashcard over and
+over, you show the same information in different contexts
+each time.
+
+  - introduction -> for new information 
+  - mastery      -> deliberate interactive practice
+  - depth        -> learning more about something from
+                    different POVs 
+  - awe          -> reinforce connections and bigger concept 
+  - reference    -> look-up, detailed & comprehensive 
+
+** Notes
+
+Great Hall, Chalk Hall, Study Hall, Karel
+
+Great hall -- one off, collective then disband 
+Chalk Hall -- group lecture and discourse 
+Study hall -- social setting for study, coffee shop, at set times and place
+Karel.        -- otium, private study, practice and contemplation
+
+Threads 
+
+personal rss for spaced repetition one unit has three videos and three different texts
+
+Mediums. Stone, chalk, ink, pixel 
+
+Three succession stages 
+Three cognitive stages
+Three levels of difficulty
+Three video and three text repetitions , with different Foci, LOD and POV
+
+Five foci -- intro, mastery, depth, awe, reference
+
+Pattern, concept, tool, place, person, event, technique, recipe, keystone ( ), parameter, rule, story, quote
+
+Rule is broad, from moore's law, to grammar rule, to algorithm 
 
 
 ** References
+
 
 

@@ -1,35 +1,41 @@
 #   -*- mode: org; fill-column: 60 -*-
-
-#+TITLE: 04. Tools TOC
 #+STARTUP: showall
-#+TOC: headlines 4
-#+PROPERTY: filename
+#+TITLE:   04. Scaffolds TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../../index.org][top]]] [[[../index.org][up]]] [[[./02-entities.org][next]]]
 
-* 04. Tools Table of Contents
+* 04. Scaffolds  Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/04/index.org
-:Created:  2018-04-07T18:12@Prek Leap (11.642600N-104.919210W)
-:ID:       4cc37cda-30b3-430c-b333-d0e813668a74
-:VER:      576371633.617733192
+:Name:     /home/deerpig/proj/chenla/warp/02/04/index.org
+:Created:  2018-04-20T18:54@Prek Leap (11.642600N-104.919210W)
+:ID:       e03a3710-c196-44d1-b2db-189b62917574
+:VER:      577497317.455492393
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:RRU1-5336
+:BXID:     proj:UXY6-8164
 :Class:    primer
-:Type:     work
+:Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
+  - Table of Contents 
   - [[./intro.org][Introduction]]
+  - 01. [[./01-entities.org][Entity Model]]
+  - 02. [[./02-ontologies.org][Ontology Model]]
+  - 03. [[./03-pace-layers.org][Pace-Layer Model]]
+  - 04. [[./04-succession-model.org][Succession Model]]
+  - 05. [[./05-goldilocks.org][Goldilocks-Thresholds]]
+  - 06. [[./06-hard-soft-wet.org][Hard Soft Wet]]
+  - 07. [[./07-world-models.org][World Models]]
+
+
 

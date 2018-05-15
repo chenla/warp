@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume XI. Infrastructure TOC
+#+TITLE:   Volume IX. Curriculum TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,17 +10,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../10/index.org][prev]]] [[[../12/index.org][next]]]
+[[[../index.org][top]]] [[[../08/index.org][prev]]] [[[../10/index.org][next]]]
 
-* Volume XI. Infrastructure Table of Contents
+* Volume IX. Curriculum Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/index.org
-:Created:  2018-04-30T20:42@Prek Leap (11.642600N-104.919210W)
-:ID:       1d9ac937-460e-4ef6-8e02-599bbae8a546
-:VER:      578367813.230912134
+:Name:     /home/deerpig/proj/chenla/warp/09/index.org
+:Created:  2018-04-24T11:01@Prek Leap (11.642600N-104.919210W)
+:ID:       22215434-9304-40e8-9963-9baf785abaf3
+:VER:      577814531.712683427
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:WGD2-3241
+:BXID:     proj:ANY3-6751
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,12 +29,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 01. [[./01/index.org][Commons]]
- - 02. [[./02/index.org][Systems]]
- - 03. [[./03/index.org][Natural]]
- - 04. [[./04/index.org][Material]]
- - 05. [[./05/index.org][Economic]]
- - 06. [[./06/index.org][Social]]
- - 07. [[./07/index.org][Health]]
- - 07. [[./08/index.org][Cultural]]
- - 09. [[./09/index.org][Individual]]
+ - 01. [[./01/index.org][Learning]]
+ - 02. [[./02/index.org][Pedagogy]]
+ - 03. [[./03/index.org][Methods]]
+ - 04. [[./04/index.org][Mastery]]
+ - 05. [[./04/index.org][Curriculum]]
+

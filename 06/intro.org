@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume XI
+#+TITLE: Intrduction Volune IV
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,48 +13,32 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[./index.org][up]]]
+[[[../index.org][top]]] | [[[./index.org][index]]]
 
-
-* Introduction Volume XI
+* Intrduction Volune IV
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/06/intro.org
-:Created:  2018-04-28T17:25@Prek Leap (11.642600N-104.919210W)
-:ID:       99f3a654-4f8a-4d09-8952-61896c62b343
-:VER:      578183193.695220551
+:Name:     /home/deerpig/proj/chenla/warp/ww-intro-vol4.org
+:Created:  2018-04-11T18:14@Prek Leap (11.642600N-104.919210W)
+:ID:       a91bf973-5a82-4da8-947e-e725c751b43b
+:VER:      576717324.908492918
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:SLM8-3631
+:BXID:     proj:PPI5-3405
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
-
-This is the volume where I let the cat out of the bag that I'm not
-only talking about earth, but potentially any place that man can make
-sustainably habitable in our solar system.
-
-We use the terms heliosphere, lithosphere, and biosphere here not
-strictly in the astrophysical sense.  
-
 ** TL;DR
-** References 
 
+*** The Way
+*** Cycles
+*** Rules
+*** Workflow
+*** Replicators
+*** Fabrication
+*** Agency
 
-  - Dole, S. H., & Asimov, I., Planets for man (2007), : RAND
-    Corporation.
-    cite:dole:2007planets-for-man
-  - O’Neill, G. K., The high frontier: human colonies in space
-    (2000), : Apogee Books.
-    cite:oneill:2000high-frontier
-  - Clarke, A. C., Profiles of the future: an inquiry into the limits
-    of the possible (1984), : Henry Holt & Co.
-    cite:clarke:1984profiles 
-  - Heppenheimer, T. A., Colonies in space. (1977), : Stackpole.
-    cite:heppenheimer:1977colonies
-  - Sagan, C. E., Pale blue dot: a vision of the human future in space
-    (1994), : Random House Publishing Group.
-    cite:sagan:1994pale
+** References
+

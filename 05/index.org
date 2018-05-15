@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:  Volume V.  TOC
+#+TITLE:   Volume III. TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,17 +10,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../04/index.org][prev]]] [[[../06/index.org][next]]]
+[[[../index.org][top]]] [[[../02/index.org][prev]]] [[[../04/index.org][next]]]
 
-* Volume V. Table of Contents
+* Volume III. Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/05/index.org
-:Created:  2018-04-18T18:09@Prek Leap (11.642600N-104.919210W)
-:ID:       ecf46f9d-6acf-436f-bee9-248af1863249
-:VER:      577321808.219194410
+:Name:     /home/deerpig/proj/chenla/warp/03/index.org
+:Created:  2018-04-18T10:07@Prek Leap (11.642600N-104.919210W)
+:ID:       b9f20653-7ad7-4e9e-969e-1a9b49293e54
+:VER:      577292917.106278810
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:CWV1-5164
+:BXID:     proj:BUB8-7770
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,8 +29,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 01. [[./33/index.org][APPL]]
- - 02. [[./34/index.org][Hoard]]
- - 03. [[./35/index.org][Primer]]
- - 04. [[./36/index.org][The OS]]
- - 05. [[./37/index.org][Arc]]
+ - 01. [[./01/index.org][Identity]]
+ - 02. [[./02/index.org][Citizens]]
+ - 03. [[./03/index.org][Polis]]
+ - 04. [[./04/index.org][Tools]]
+ - 05. [[./05/index.org][Machines]]
+ - 06. [[./06/index.org][Energy]]
+ - 07. [[./07/index.org][Structures]]
+ - 08. [[./08/index.org][Surpluses]]
+ - 09. [[./09/index.org][Distribution]]
+ - 10. [[./10/index.org][Succession]]
+ - 11. [[./11/index.org][Infrastructure]]

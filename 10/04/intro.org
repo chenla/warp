@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Rights Introduction
+#+TITLE: Interoperability Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Rights Introduction
+* Interoperability Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/04/intro.org
-:Created:  2018-05-06T11:13@Prek Leap (11.642600N-104.919210W)
-:ID:       0e2fe418-4cd2-4e2d-9f62-f7f2e02aa17b
-:VER:      578852088.229804269
+:Name:     /home/deerpig/proj/chenla/warp/08/04/intro.org
+:Created:  2018-05-05T18:22@Prek Leap (11.642600N-104.919210W)
+:ID:       e0c71374-c896-43c7-9b5b-46df3962a28d
+:VER:      578791395.023393714
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:WYN8-4262
+:BXID:     proj:CFX7-0506
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -34,6 +34,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** TL;DR
 ** References
 
- - https://en.wikipedia.org/wiki/Rights
- - https://en.wikipedia.org/wiki/Negative_and_positive_rights
- - https://en.wikipedia.org/wiki/Substantive_rights
+
+
+

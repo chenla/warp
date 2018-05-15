@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   02. Articles TOC
+#+TITLE:   02. Writing Systems TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,15 +12,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 02. Articles Table of Contents
+* 02. Writing Systems Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/02/index.org
-:Created:  2018-05-06T10:50@Prek Leap (11.642600N-104.919210W)
-:ID:       a23d2f83-578e-4ecf-b7ee-d0db89fdc0cb
-:VER:      578850673.597056030
+:Name:     /home/deerpig/proj/chenla/warp/08/02/index.org
+:Created:  2018-05-05T16:13@Prek Leap (11.642600N-104.919210W)
+:ID:       8794c89f-a48d-4571-a8e5-c44d7e21ac64
+:VER:      578783649.795841382
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:LTD6-1824
+:BXID:     proj:QXR0-3665
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,16 +29,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - Foundattions
-    - Humanist
-    - Rational
-    - Secular
-    - Evidence-based Empiricism
-  - Culture  -> shared meta-culture
-  - Human Nature
-    - Scale
-  - Ethics
-  - Politics
-
+    - Types
+      - hieroglyph
+      - ideogram
+      - phonetic
 
 

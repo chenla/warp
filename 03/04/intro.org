@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Tools Introduction
+#+TITLE: 2.10.1 Introduction Scaffolds
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,240 +13,32 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../index.org][top]]] [[[./index.org][up]]] [[[./02-entities.org][next]]]
 
-* Tools Introduction
+* 2.10.1 Introduction | Scaffolds
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/18/intro.org
-:Created:  2018-05-02T20:14@Prek Leap (11.642600N-104.919210W)
-:ID:       b9f334ac-c91a-4c3d-8ad3-55aebc75ef7c
-:VER:      578538950.948622037
+:Name:     /home/deerpig/proj/chenla/warp/ww-scaffolds.org
+:Created:  2018-03-21T18:46@Prek Leap (11.642600N-104.919210W)
+:ID:       67c1e87b-cdd8-412d-af52-1a1f01c43bbd
+:VER:      574904872.593715520
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:FXJ1-5345
+:BXID:     proj:PSO1-5880
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
 ** TL;DR
 
-A tool is anything that has been adapted or fashioned to extend the
-the limitations of mind or body.  That covers an enormous amount of
-ground and as such makes it difficult to create a model for tools and
-tool use.
+Scaffold as a supporting structure for what you are building
+that will be taken away when it is finished and can stand on
+its own.  Our scaffolds is a generative structure that came
+from Steward Brand called the Pace-layer model for
+civilization.
 
-Jane Goodall's famous observation of a chimpanzee adapting a twig to
-become a tool for extracting termites from a termite mound was a
-revelation and made it clear that Man is not the only tool builder on
-the planet.  And this extends beyond primates with Otters using tools
-to open shellfish, and Crows and Ravens being adapt at fashioning a
-number of found items to complete tasks.
-
-But Man is still unique in the sheer number and complexity of the
-tools created and uses.
-
-The Wikipedia page for tools wasn't much help and is surprising both
-how little it has to say on the subject as well as its brevity,
-considering how critical tools are to our day to day survival and
-success as a species.
-
-*** Difference between machines and tools
-
-Difference between a machine and a tool --> some machines are
-considered to be both -- an electric hand drill is both tool and
-machine because it uses an electric motor.  But as a general rule, if
-something is powered by an external power source it is ususally
-considered to be a machine rather than a tool.
-
-In this sense a piano is a tool, but an organ is a machine.
-
-A hand powered millstone is a tool, but when contected to gears which
-are powered by wind spinning blades it becomes a machine.
-
-Is a sail boat a tool or machine?  A bicycle could be seen as a tool,
-and a motorbike a machine.
-
-All of this becomes increasingly important as we build cognitive
-machines which can autonomously or at least semi-autonomously use self
-determination to choose and use a variety of tools to achieve a goal.
-
-*** Tool Cultures and Traditions
-
-Groups of tools belong to cultural traditions with their own
-methodology and philosophy.  The Japanese develped a traditional of
-woodworking and contruction that is distinct from that in the West.
-
-Construction sites in the West divide work and the use of tools very
-differently from how it is done in the East.
-
-Tools are created differently for different skill levels.  Power tools
-for people with little or no skill trade off safety issues at the
-expense of how power and precision.  And since consumer grade tools
-are not expected to be be used often, quality of the tool is purposely
-kept low in order to keep the production costs down.  Single use,
-disposable tools take this to it's logical conclusion.
-
-Tools to create many identical copies of something must be both
-powerful and precise, but not flexible.  This is one reason that an
-automobile assembly line takes so long to "retool". The assembly line
-tools are designed for very specific functions and very specific
-tolerances.
-
-Tools in a fabrication shop that develops prototypes need to be as
-powerful, precise and as flexible as possible since there is no way of
-knowing ahead of time what will be built.  Such tools are designed for
-bottom up iterative design and development, where an assembly line is
-top down and deterministic.
-
-Tools used to repair things are in their own category as well.  Repair
-shops are often dealing with a wide range of different products
-created by assembly lines -- so need the power and precision of the
-assembly line tools, but not the same infinite flexibility as tools in
-a fabrication shop.  Repair shops typically deal with specified ranges
-of specifications that are repeated over and over.  Repair shops are
-diagnostiic in nature, understanding how systems work, determining
-what went wrong and how to return it to a working state as close as
-possible to it's original form.
-
-*** Tool Environments
-
-Tools are often designed to work within specific environments as part
-of an ecosystem made up of multiple tools.  The tools in automobile
-repair shop is designed around the assumption that the vehicle can be
-lifted so that it can accessed from any side or from beneath the
-vehicle.  Many of the tools require compressed air, others
-electricity, all, that anything worked on can be properly illuminated.
-
-The tools in a wood working shop will be different and used
-differently from those by a carpenter working on the construction of a
-building.
-
-So lighting, heating, power sources, work benches, lifts, and boxes,
-racks, bins, drawers and shelves will all be designed around the
-toolchains and workflows required.
-
-*** Tool Patterns
-
-We need a systematic way of organizing tools that we can use in
-developing tool patterns -- the patterns need to take into account the
-goal, the nature and properties of the materials to be used, the
-physics of how the finished product will function, the aesthetics of
-what it will look like, the intended life cycle of what is created --
-is this to be temporary, short term, long term, or permanent?
-
-Can the tool be extended, can it be combined with other tools?  Is it
-single purpose or general purpose?
-
-*** Tool use or operation
-
-It's also important that each tool is understood in how it is to be
-used and the requiments needed to operate it.  Using a maul to split
-wood requires more force than using a hammer to pound a finishing
-nail.  Safety considerations are part of this.
-
-So each tool must include the ergonomics of the tools operation,
-safety parameters and finally the process of how the tool is to be
-used within those parameters.
-
-At the same time, patterns can not be as specific as say an OSHA
-standard.  Those issues are dealt with more specifically in a keystone
-design and then very specifically in a hoard design.
-
-*** How to make a tool
-
-The design of the tool can not be separated from how a tool is made.
-There are patterns that will deal with this -- patterns for making
-handles for screw drivers or axe or hammer handles and how they are
-attached to the heads of the implement.  Tool construction patterns
-are typically not part of a tool pattern, but they must be linked to
-in the pattern.
-
-
-** Table of Contents
-
-
-  - Tools are an extension of the hand -- as a general rule.  But the
-    hand is an extension of mind -- mind directs the hand and any tool
-    that extends it.
-
-  - Simply tools are more powerful and flexible than complex tools,
-    but more difficult to master.
-
-  - A Master is marked as someone who fashions customized tools as
-    part of their methodology and workflow.  Painters used to now only
-    make their own canvases, but their own brushes and paints as well.
-
-  - Standardization of tools is important -- they become parts of
-    larger technological cultures.
-
-  - Specialization of tools let to a sort of Cambrian explosion of
-    different types of specialized tools at the beginning of the
-    Industrial revolution.  This was, in part, because specialized
-    tools were easier to create using industrial processes.  It might
-    also be because it allowed a larger number of less skilled people
-    to be able to do work that was before the sole domain of Master
-    craftsman.
-
-  - Unix philosophy that each tool should do one task very well and
-    then have a standardized system where every tool took standard
-    input in the form of text, and returned standard output which
-    could be used as input to another tool using a concept called
-    Pipes. This created a modular toolchain that could be repurposed
-    in a multitude of different ways.  Scripting languages extended
-    this even further making it relatively easy to both create missing
-    tools in a chain, or to aggreate toolchains into single script
-    that behaved as a tool in it's own right.
-
-  - another important advancement was standardized attatchments, so
-    that a drill could use any number of different "drill" bits of
-    different sizes that cold be swapped out so that one drill could
-    be used to make a wide variety of different sized holes.
-
-    - socket wrenches
-    - screw drivers
-    - saw blades
-    - sandpaper
-    - fishing rods, reels, hooks, lures, sinkers
-
-  - standard connectors and plugs for power sources -- electrical,
-    both socket and battery as well as pneumatic tools.
-
-  - Tool Categories
-    - Woodworking
-    - Metalworking
-    - Agriculuture
-    - Cooking  
-    - Warfare
-
-  - Classes of tools
-    - Cutting -> shearing, sawing
-    - Pounding -> hammers, maul
-    - Clasping, clamping and holding things together
-    - Pincing, squeezing, crimping
-    - Torque -- Twisting things
-    - Chemical -- temperature, ignition
-    - Produce Light
-    - Move air (fans, and suction)
-    - Fastening tools -- welding, riveting, nails, screws)
-    - application of material flow -> pens, glue gun, 
-    - Shaping tools (molds, jigs, trowels)
-    - Moving tools -- shovels, rakes,
-    - Information tools
-    - Weaving tools
-    - Guiding tools -> measures, chalk lines, t-squares, calipers
-    - Opitcs -> telescope, microscope, glasses
-    - Measuring -> pedometer, osciliscope
-    - Sleds -> sliding things
-    - Bearings ->
-    - Wheeled tools -> barrows and most vehicles 
-    - Excavating ->
-    - Compression -> rollers
-    - Pulleys
-    - Gears
-    - Ropes, Belts and Cables
-    - Shields -> welding mask, gloves, safety glasses
-    - Biological -> proteins etc
-    - 
+The APPL will have as it's introduction, the APPL pace-layer
+model -- not here.  Here we will only discuss pace-layers as
+a concept and how we will use the model as a foundational
+scaffold for APPL, Primer and Hoard.

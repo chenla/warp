@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 01. The Way TOC
 #+STARTUP: showall
-#+TITLE:   01. Habitats TOC
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,30 +15,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. Habitats Table of Contents
+* 01. The Way Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/06/01/index.org
-:Created:  2018-05-04T19:15@Prek Leap (11.642600N-104.919210W)
-:ID:       c8ed0243-ff78-4a36-af9e-76936104d95a
-:VER:      578708171.345409789
+:Name:     /home/deerpig/proj/chenla/warp/04/01/intro.org
+:Created:  2018-03-21T18:57@Prek Leap (11.642600N-104.919210W)
+:ID:       1834dee4-c712-4a71-b15e-6e0d305426fb
+:VER:      574905518.857812353
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:PXQ8-3868
+:BXID:     proj:XLU7-5350
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Table of Contents
   - Contents
-  - Introduction
-  - Inevitibility
-  - Propagation
-    - Information
-    - Matter
-  - Types of Habitats
-    - Planets
-    - Planetary Atmospheres
-    - O'Neil Cylinders
-    - Submerged
-
+  - [[./intro.org][Introduction]]

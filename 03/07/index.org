@@ -1,12 +1,12 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 07. Strucutures TOC
+#+TITLE: 07. Standards TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 07. Strucutures Table of Contents
+* 07. Standards Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/07/index.org
-:Created:  2018-03-21T18:34@Prek Leap (11.642600N-104.919210W)
-:ID:       c76b2682-c6c4-4f2b-91b5-d564f2918890
-:VER:      574904163.914123690
+:Name:     /home/deerpig/proj/chenla/warp/02/07/index.org
+:Created:  2018-04-01T21:32@Prek Leap (11.642600N-104.919210W)
+:ID:       8878c7a1-956a-4c42-ab79-7de5c99abfd6
+:VER:      575865222.487965257
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:VON6-5866
+:BXID:     proj:BHE3-5840
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -32,30 +32,39 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - Buildings
-    - Generative Processes -> bottom up, not top down.
-    - The Room as atomic unit
-    - Pattern Languages based on culture and climate)
-    - Shearing Layers
+  - Lingua Franca
+    - cross pace-layer legibility 
+    - Spoken Language
+    - Written Lanuage
+    - Text Encoding
+      - Unicode
+    - Machine Languages
+    - Markup Languages
+    - Incantation Languages
+  - Measurement
+    - Time
+      - the second
+      - seconds from epoch
+      - time measurement and planetary bodies
+        - timeslips & leap years
+      - human diurnal cycles 
+      - calendars
+    - Space
+    - Mass
+    - Energy
+    - Weight & Gravity 
+  - Protocols
+    - Legible Addresses
+    - Token Exchange
+    - HTTP
+    - TCP/IP
+  - APIs
 
-  - Settlements (urban planning)
-    - Zones
-      - not traditional urban zoning
-      - based on how often a zone needs to be visited  
-    - relationships between buildings
-    - flow -> people, goods, services
-
-    - Levels -> not sure about this, but designing
-      settlements in both vertical and horizontal axis not
-      simply buildings as having multiple floors but
-      multi-story settlements in the way that forests are
-      multistory.  Soleri was the pioneer in this, but I
-      want to approach is ideas from a different
-      perspective.  He talked of generative design, but his
-      designs were very much top down.  I don't think he
-      intended it this way -- his arcologies were not meant
-      to be plans, but what mature generative multi-story
-      settlements might look like.
-
-
+  - Data Structures
+    - atoms       -> symbol, string, integer
+    - rhizomes    -> graphs
+    - ????        -> k-v, triple
+    - sets        -> lists: bag, seq, alt
+    - trees       -> branching lists
+    - layers      -> What about arrays?
 

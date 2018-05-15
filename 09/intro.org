@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 8.1 Introduction Volume VIII Curriculum
+#+TITLE: Introduction Volume VII: Origins
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,190 +13,166 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[./index.org][up]]]
+[[[../index.org][top]]] [[[./index.org][up]]] [[[./41/index.org][next]]]
 
-* 8.1 Introduction Volume VIII Curriculum
+* Introduction Volume VII: Origins
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/08/intro.org
-:Created:  2018-04-24T11:06@Prek Leap (11.642600N-104.919210W)
-:ID:       69d19e03-c646-4813-b123-712e3572ab76
-:VER:      577814843.463742983
+:Name:     /home/deerpig/proj/chenla/warp/07/intro.org
+:Created:  2018-04-19T21:11@Prek Leap (11.642600N-104.919210W)
+:ID:       07d2049a-4fad-4213-bf13-e4ea38ba7c17
+:VER:      577419152.453188106
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:YTR3-6048
+:BXID:     proj:GFM5-7733
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
 ** Epigraph
 
 #+begin_quote
-    Vita brevis,
-    ars longa,
-    occasio praeceps,
-    experimentum periculosum,
-    iudicium difficile.
+“Many a long dispute among divines may be thus abridged: It
+is so; it is not so; it is so; it is not so.”
 
-    Life is short,
-    and art long,
-    opportunity fleeting,
-    experimentations perilous,
-    and judgment difficult. 
-
---  Hippocrates 
-
-
-"The lyf so short, the craft so long to lerne" -- Chaucer
-
-    [[https://en.wikipedia.org/wiki/Ars_longa%2C_vita_brevis][Ars longa, vita brevis]] - Wikipedia
+ — Ben Franklin
 #+end_quote
 
-** Scope
+#+begin_quote
+It's all a question of story.  We are in trouble just now
+because we do not have a good story.  We are in between
+stories.  The Old Story -- the account of how the world came
+to be and how we fit into is -- is not functioning properly,
+and we have not learned the New Story.  The Old Story
+sustaied us for a long time.  It shaped our emotional
+attitudes, provided us with life purpose, energized action.
+It consecrated suffering, integrated knowledge, guided
+education.  We awoke in the morning and knew who we were.
+We could identify crime and punish criminals.  Everything
+was taken care of because the story was there.  It did not
+make men good; it did not take away the pains and
+stupidities of life, or make for unfailing warmth in human
+association.  But it did provide a context in which life
+could function in a meaningful manner.
 
-This volume is concerned with how we learn as individuals
-and as societies.  How do we learn.  How do we pass
-knowledge and skills on to others.
+— Thomas Berry, "The New Story" (1973)
+  cite:berry:1978new-story
+#+end_quote
 
-The idea is that because of the exponential ROC, knowledge
-becomes obsolete very quickly.  How to keep up?  While
-disciplines and technologies are born and vanish in a
-fraction of a person's career.  Learning must change from
-being a place, as it became in the industrial revolution,
-where schools became factories for providing basic skills
-that people needed to drive the indusrial engine.  The base
-skill set was not the high, so it really didn't take that
-long to teach it.  That doesn't explain why education became
-such a long process.  That happened because once child labor
-was effectively banned, and parents were at work in
-factories and offices for the majority of the day, children
-really had no supervision or purpose in the home any
-longer.  So schools became day care for children.
+#+begin_quote
+[B]y the late twentieth century, science essentially
+confirmed their assertion of the non-individuated permanence
+of all phenomena.  I don’t think any adjective can
+adequately capture the profundity of such an achievement. We
+have placed ourselves at the heart of the universal
+narrative. Such awareness clearly goes well beyond “just the
+facts.” We find that the universe is not just something “out
+there” that we may know about intellectually... but that it
+is what we are actually part and parcel of.
 
-Children need to be reintegrated into society, not
-sequestered for the better part of two decades in Lord of
-the Flies cultures that were separated from the rest of the
-world.
+— Neal Wolfe, The Case for Awe (2015)
+  cite:behmand:2015teaching p.340
+#+end_quote
 
-Learning needs to become an activity that happens
-everywhere, starts at birth and ends in the grave.
-
-This volume is about building generative learning frameworks
-that prepare people to become useful citizens in society
-(the goal of a liberal education) and then provide the
-cognitive skills, cognitive tools, core knowledge and
-practical skills that are mastered to become part of society
-and provide meaning and purpose to people's lives.
 
 ** TL;DR
 
-This section is broken into four parts:
+All is preface, but in the case of orgin stories it is
+really true -- an origin story is an expanded cultural
+mythos, a shared story that provides a foundation for
+communication, social cooperation, it is a cultural map and
+encylopedia, and the foundation for spoken and written
+languages.
 
-  - Mastery  :: Deals with the larger concepts of mastering a
-                discipline and a basic philosophy of life
-                work, learning and balance.
-  - Practice :: The deliberate regular practice of anything
-                that is one of the two pillars of work and
-                learning.
-  - Otium    :: The flip side of Practice which is
-                deliberate, rest and contemplation.
-  - Negotium :: Dealing with a person's public roles and
-                interactions with people, family, collective
-                projects, business, management roles etc.
 
-Mastery is the process of lifelong learning.  The Trivium
-can be thought of as a means of establishing underlying
-habits of thought and technique that are part of the process
-of mastering any skill or subject.  As such Mastery is a
-unspoken subject of the Trivium that is not formally given a
-name but is taught indirectly.
+*** Start from where you are, now rewind
 
-This doesn't mean that Mastery is an un-spoken process.  The
-process of mastering a subject or skill is well known.  It
-is not an easy process, and there are no short-cuts, but it
-is deeply fulfilling.  In many respects Mastery is the
-foundation that civilization is built on.
+Rather than jumping straight in to our primary goal of
+understanding cultural human origin stories, let's start not
+with mythological origin stories but the more recent idea of
+origin story as a back-story revealing how a character,
+often a superhero or group of people become a protagonist or
+antagonist in a narratives and especially in series of
+stories that might be in comic books, like Spiderman, a
+series of novels such as the Sherlock Holmes series, a
+television series like Star Trek or the Harry Potter book
+and film series.
 
-Mastery comes down to three things:
+*** Pourquoi
 
-   - knowledge
-   - technique
-   - process
-
-** George Leonard's Outline
-
-5 keys to long-term success:
-
-  - Instruction;
-  - Practice;
-  - Surrender;
-  - Intentionality; and,
-  - The Edge - Push the envelop.
-
-Mastery is:
-
-  - The process where what was difficult becomes both easier and
-    more pleasurable;
-  - Long-term dedication to the journey - not the bottom line;
-  - Gaining mental discipline to travel further on your journey;
-  - Being goalless;
-  - Realizing that the pleasure of practice is intensified;
-  - Creating deep roots;
-  - Knowing that you will never reach a final destination;
-  - Being diligent with the process of mastery;
-  - Your commitment to hone your skills;
-  - After you have reached the top of the mountain, climb
-    another one;
-  - Being willing to practice, even when you seem to be getting
-    no where;
-  - Making this a life process;
-  - Being patient, while you apply long-term efforts;
-  - Appreciating and even enjoying the plateau, as much as you do
-    the progress;
-  - Practicing for the sake of practice;
-  - Winning graciously, and losing with equal grace;
-  - Placing practice, discipline, conditioning and character
-    development before winning;
-  - Being courageous;
-  - Being fully in the present moment;
-  - Realizing that the ultimate goal is not the medal, or the
-    ribbon, but the path to mastery its self (The "I am" stage);
-  - Being willing to look foolish;
-  - Maintaining flexibility in your strategy, and in your
-    actions;
-  - A journey; and,
-  - Determination
-
+https://en.wikipedia.org/wiki/Pourquoi_story
 
 ** References
 
-Backward Design
-
-  - Grant Wiggins, J. M., The understanding by design: guide
-    to creating high-quality units (2011), : Association for
-    Supervision & Curriculum Development.
-    cite:grant:2011understanding-design
-  - Wiggins, G., & McTighe, J., What is backward design,
-    Understanding by design, 1(), 7–19 (1998).
-    cite:wiggins:1998backward
-  - Wikipedia, , /Backward design --- Wikipedia, the free
-    encyclopedia/ (2018).  cite:wiki:2018backward-design
-
-Mastery
-
-  - Sennett, R., The Craftsman (2009), : Penguin.
-    cite:sennett:2008craftsman 
-  - Pang, A. S., /Darwin was a slacker and you should be
-    too/ (2017).  cite:pang:2017darwin-slacker
-  - Pang, A. S., Rest: why you get more done when you work
-    less (2016), : Basic Books.  cite:pang:2016rest
-  - Leonard, G., Mastery. the keys to success and long term
-    fulfillment (1992), : Plume.  cite:leonard:1992mastery
-  - Greene, R., Mastery (2012), : Viking Adult.
-    cite:greene:2012mastery 
-  - Davis, J., Two awesome hours: science-based strategies
-    to harness your best time and get your most important
-    work done (2015), : HarperOne.
-    cite:davis:2105two
+  - Behmand, M., Burke, T., & Simon, R. B., Teaching big
+    history (2015), : University of California Press.
+    cite:behmand:2015teaching
+  - Berry, T., The New Story, Teilhard Studies, (1),(1978).
+    cite:berry:1978new-story
+  - Big History Project, /Big History Project Teaching Guide/ (2017).
+    cite:project:2017bhp-teaching 
+  - Big History Project, /Big History Project Reading Guide/ (2017).
+    cite:project:2017bhp-reading 
+  - Big History Project, /Big History Project Writing Guide/ (2017).
+    cite:project:2017bhp-writing 
+  - Big History Project, /Big History Project/ (2017).
+    cite:big:2017big-history-project
+  - Bronowski, J., The ascent of man (2011), : BBC Digital.
+    cite:bronowski:2011ascent
+  - Bryson, B., A short history of nearly everything
+    (2003), : Broadway Books.
+    cite:bryson:2003short
+  - Christian, D., /Big history: why we need to teach the
+    modern origin story/ (2012).  cite:christian:2012big
+  - Christian, D. M., Maps of time : an introduction to big
+    history (2011), : University of California Press.
+    cite:christian:2011maps-of-time
+  - Christian, D., /The history of our world in 18 minutes |
+    david christian/ (2011).
+    cite:ted:2011:history-david-christian
+  - Christian, D., The return of universal history, History
+    and Theory, 49(4), 6–27 (2010).
+    http://dx.doi.org/10.1111/j.1468-2303.2010.00557.x
+    cite:christian:2010return
+  - Crofton, I., & Black, J., The little book of big history
+    (2017), : Pegasus Books.
+    cite:crofton:2017little
+  - Grafton, A., & Rosenberg, D., Cartographies of time: a
+    history of the timeline (2010), : Princeton
+    Architectural Press.
+    cite:graphton:2010cartographies-time
+  - Harari, Y., Sapiens: a brief history of humankind
+    (2011), : Harper.
+    cite:harari:2011sapiens
+  - Hawking, S., A brief history of time (1998), : Bantam Press.
+    cite:hawking:1988brief,hawking:1998brief
+  - Kennard, D. N., Journey of the universe : the epic story
+    of cosmic, earth, and human transformation (2011), :
+    Yale University Press;Northcutt Productions : InCA
+    Productions.
+    cite:kennard:2011journey
+  - Kindersley, D., Big History (2016), : DK Publishing.
+    cite:kindersley:2016big-history 
+  - Langmuir, C. H., & Broecker, W., How to build a habitable
+    planet: the story of earth from the big bang to humankind
+    (2012), : Princeton University Press.
+    cite:broecker:2012how
+  - Sagan, C., Cosmos (1985), : Ballantine Books.
+    cite:sagan:1985cosmos 
+  - Swimme, B., The universe is a green dragon (1984), :
+    Bear and Company.  cite:swimme:1984green-dragon
+  - Swimme, B., & Berry, T., The universe story (1992), :
+    Arkana.
+    cite:swimme:1992universe 
+  - Urban, T., /Putting time in perspective – updated/ (2013).
+    cite:urban:2013putting-time
+  - Wikipedia, , /Big history project --- wikipedia, the free
+    encyclopedia/ (2017).
+    cite:wiki:2017big-history-project
+  - Wikipedia, , /Cosmic calendar --- wikipedia, the free
+    encyclopedia/ (2017). 
+    cite:wiki:2017cosmic-calendar
+  - Wilber, K., A brief history of everything (2001), : Shambhala. 
+    [Revised Edition]
+    cite:wilbur:2001brief,wilbur:1996brief

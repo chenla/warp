@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Preface Volume VI
+#+TITLE: Introduction Volume XII
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,23 +13,84 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../index.org][top]]]  [[[./index.org][up]]]
 
-* Preface Volume VI
+* Introduction Volume XII
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-intro-vol-6.org
-:Created:  2018-04-11T18:21@Prek Leap (11.642600N-104.919210W)
-:ID:       6bcd51ec-2534-4a0b-a15e-ed2cf45485eb
-:VER:      576717781.804728231
+:Name:     /home/deerpig/proj/chenla/warp/13/intro.org
+:Created:  2018-04-30T20:04@Prek Leap (11.642600N-104.919210W)
+:ID:       bf8149f9-89de-4472-a096-80df1a9bca77
+:VER:      578365516.879777662
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:JWL7-1040
+:BXID:     proj:BEG4-1235
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope
+
+This volume outlines the requirements of both the Culture Pace-Layer
+as well as CULTURE, one of the three branches of civilization.
+
+Culture is the slowest layer of civilization.  It works at time scales
+which are measured in generations, not single lifetimes.  Ensuring
+that there is continuity between all generations that are alive at any
+given time is important.  When aspects of culture becomes splintered
+and there are different cultures for different generations things
+don't work well.
+
+For many people this will sound like a call for returning to
+traditional ways of life that are out of sync with the way things are
+at any given present.  When generations began to stratify into
+different subcultures the concept of a "generation gap", "youth
+culture" and other demarcations between people at different stages of
+life became something that was assumed to be a natural part of modern
+life.  This is largely because many aspects of life that were
+traditionally part of culture shifted to the fashion pace-layer.  As
+Stewart Brand said, the young are obsessed with fashion, but it bores
+the hell out of older people because they've already lived through it
+and just seen it as ephemeral and largely pointless.  The
+fashion-layer is where you try out new ideas, experiment, break
+things.  The things that work become absorbed by the slower layers,
+but most of it is the same things that don't work, repackaged again
+and again because each generation has to learn by making the same
+mistakes that everyone does when they are young.
+
+The industrial revolution stratified societies into different ages.
+The young were looked after in schools which only really needed
+students to be functionally literate for industrial job.  The rest of
+the time was little more than baby sitting.  The young were
+sequestered and kept apart from the adult world of work, given little
+responsibility or motivation, and little supervision.  This is the
+plot line for /Lord of the Flies/ and no, it's not pretty and it
+doesn't end well.  The old, who no longer are part of the work force
+are sequestered as well, with no supervision, and little contact with
+anyone including each other.  In the middle you have working adults
+who are sequestered in offices and industrial production, so that they
+don't need to be distracted by the young or the old.
+
+Traditionally, the role of culture in a society is to provide a
+framework for all generations to live and work together.  The old,
+minded the very small children when the adults were working, children
+were expected to learn skills, by helping adults.  Children learned by
+doing and watching and practicing what they saw the adults doing.
+That is all but gone now.  Children are not allowed to work along side
+adults, they have little or no freedom and inside and outside school
+they are isolated and subjected to absurd regimes of structured
+activities with less and less opportunity for interaction with other
+people.
+
+The physical separation of place of work from places for learning
+which are separate from places for living helped to enforce this
+stratification.  Municiple zoning made this stratification physical.
+There were places where children could go but not adults.  Places
+where adults could go but children and the old could not.  And the old
+were sent to subtropical climates away from everyone and gradually
+became more and more institutionalized until death.
+
 ** TL;DR
-** Table of Contents
+** References
 

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   04. Material TOC
+#+TITLE:   04. Mastery TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,15 +12,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 04. Material Table of Contents
+* 04. Mastery Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/04/index.org
-:Created:  2018-05-07T19:12@Prek Leap (11.642600N-104.919210W)
-:ID:       f1180a75-58cd-453e-821f-2c3563277d99
-:VER:      578967196.292222442
+:Name:     /home/deerpig/proj/chenla/warp/09/04/index.org
+:Created:  2018-05-05T18:43@Prek Leap (11.642600N-104.919210W)
+:ID:       1572afbc-9cf7-4d22-8797-2a328d1e4708
+:VER:      578792661.871399411
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:RXG3-1883
+:BXID:     proj:GQX3-4573
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,14 +29,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-   - Information
-   - Energy
-     - Fuel
-     - Electricity
-     - Heat
-   - Transporation
-     - Goods
-     - People
-   - Waste
-   - Water
-   - Environmental (life support)
+  - How We Learn
+    - Spaced Repetition
+    - Knowledge
+    - Technique
+    - Context
+    - Process
+  - Mastery
+  - Practice
+  - Otium
+  - Negotium
+
+

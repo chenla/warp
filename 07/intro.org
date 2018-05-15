@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume VII: Origins
+#+TITLE: Introduction Volume V
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,166 +13,94 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[./index.org][up]]] [[[./41/index.org][next]]]
+[[[../index.org][top]]] | [[[./index.org][index]]]
 
-* Introduction Volume VII: Origins
+* Introduction Volume V
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/intro.org
-:Created:  2018-04-19T21:11@Prek Leap (11.642600N-104.919210W)
-:ID:       07d2049a-4fad-4213-bf13-e4ea38ba7c17
-:VER:      577419152.453188106
+:Name:     /home/deerpig/proj/chenla/warp/ww-intro-vol-5.org
+:Created:  2018-04-11T18:12@Prek Leap (11.642600N-104.919210W)
+:ID:       2e0c6679-005a-4e1e-b1ec-29c5b045c693
+:VER:      576717236.153570038
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:GFM5-7733
+:BXID:     proj:HEV0-7834
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Epigraph
-
-#+begin_quote
-“Many a long dispute among divines may be thus abridged: It
-is so; it is not so; it is so; it is not so.”
-
- — Ben Franklin
-#+end_quote
-
-#+begin_quote
-It's all a question of story.  We are in trouble just now
-because we do not have a good story.  We are in between
-stories.  The Old Story -- the account of how the world came
-to be and how we fit into is -- is not functioning properly,
-and we have not learned the New Story.  The Old Story
-sustaied us for a long time.  It shaped our emotional
-attitudes, provided us with life purpose, energized action.
-It consecrated suffering, integrated knowledge, guided
-education.  We awoke in the morning and knew who we were.
-We could identify crime and punish criminals.  Everything
-was taken care of because the story was there.  It did not
-make men good; it did not take away the pains and
-stupidities of life, or make for unfailing warmth in human
-association.  But it did provide a context in which life
-could function in a meaningful manner.
-
-— Thomas Berry, "The New Story" (1973)
-  cite:berry:1978new-story
-#+end_quote
-
-#+begin_quote
-[B]y the late twentieth century, science essentially
-confirmed their assertion of the non-individuated permanence
-of all phenomena.  I don’t think any adjective can
-adequately capture the profundity of such an achievement. We
-have placed ourselves at the heart of the universal
-narrative. Such awareness clearly goes well beyond “just the
-facts.” We find that the universe is not just something “out
-there” that we may know about intellectually... but that it
-is what we are actually part and parcel of.
-
-— Neal Wolfe, The Case for Awe (2015)
-  cite:behmand:2015teaching p.340
-#+end_quote
-
-
 ** TL;DR
 
-All is preface, but in the case of orgin stories it is
-really true -- an origin story is an expanded cultural
-mythos, a shared story that provides a foundation for
-communication, social cooperation, it is a cultural map and
-encylopedia, and the foundation for spoken and written
-languages.
+Volume V outlines the major components in the process of
+building a civilization and the workflow between each
+component.
 
 
-*** Start from where you are, now rewind
+*** Warp & Woof
+Warp & Woof defines the principles, assumptions and
+concepts that the system is based on.
 
-Rather than jumping straight in to our primary goal of
-understanding cultural human origin stories, let's start not
-with mythological origin stories but the more recent idea of
-origin story as a back-story revealing how a character,
-often a superhero or group of people become a protagonist or
-antagonist in a narratives and especially in series of
-stories that might be in comic books, like Spiderman, a
-series of novels such as the Sherlock Holmes series, a
-television series like Star Trek or the Harry Potter book
-and film series.
+*** A Pace-Layer Pattern Language (APPL)
+A Pace-Layer Pattern Language defines archetypal patterns
+that can be combined and adapted to build a civilization.
 
-*** Pourquoi
+*** Hoard
+Hoard is the source-code, which pulls together all of
+the pieces from APPL adapts them into a system that
+works together.
 
-https://en.wikipedia.org/wiki/Pourquoi_story
+There are three major components required in every hoard
+that will either be inherited (hoards employ a cascading
+model) or there will be at least partial translation and
+variations of Origin, Curriculum and Articles which, must be
+common across all expressions of a human distributed
+civilization.  These are not static but living narratives
+and commonly held tennants for all of humanity that are
+based on humanistic principles of reason, science and
+progress, which come to us from the Englightenment.  These
+are not dogmatic or sacrosanct so long as any changes to
+them follow a ruleset that ensure that they don't drift over
+time into justifications for tyranny, violence and
+injustice.  Our origin story is still being written, and it
+might never be completed so it will undergo the most churn,
+so long as any changes reflect rational scientific
+evidence-based consensus.
 
-** References
 
-  - Behmand, M., Burke, T., & Simon, R. B., Teaching big
-    history (2015), : University of California Press.
-    cite:behmand:2015teaching
-  - Berry, T., The New Story, Teilhard Studies, (1),(1978).
-    cite:berry:1978new-story
-  - Big History Project, /Big History Project Teaching Guide/ (2017).
-    cite:project:2017bhp-teaching 
-  - Big History Project, /Big History Project Reading Guide/ (2017).
-    cite:project:2017bhp-reading 
-  - Big History Project, /Big History Project Writing Guide/ (2017).
-    cite:project:2017bhp-writing 
-  - Big History Project, /Big History Project/ (2017).
-    cite:big:2017big-history-project
-  - Bronowski, J., The ascent of man (2011), : BBC Digital.
-    cite:bronowski:2011ascent
-  - Bryson, B., A short history of nearly everything
-    (2003), : Broadway Books.
-    cite:bryson:2003short
-  - Christian, D., /Big history: why we need to teach the
-    modern origin story/ (2012).  cite:christian:2012big
-  - Christian, D. M., Maps of time : an introduction to big
-    history (2011), : University of California Press.
-    cite:christian:2011maps-of-time
-  - Christian, D., /The history of our world in 18 minutes |
-    david christian/ (2011).
-    cite:ted:2011:history-david-christian
-  - Christian, D., The return of universal history, History
-    and Theory, 49(4), 6–27 (2010).
-    http://dx.doi.org/10.1111/j.1468-2303.2010.00557.x
-    cite:christian:2010return
-  - Crofton, I., & Black, J., The little book of big history
-    (2017), : Pegasus Books.
-    cite:crofton:2017little
-  - Grafton, A., & Rosenberg, D., Cartographies of time: a
-    history of the timeline (2010), : Princeton
-    Architectural Press.
-    cite:graphton:2010cartographies-time
-  - Harari, Y., Sapiens: a brief history of humankind
-    (2011), : Harper.
-    cite:harari:2011sapiens
-  - Hawking, S., A brief history of time (1998), : Bantam Press.
-    cite:hawking:1988brief,hawking:1998brief
-  - Kennard, D. N., Journey of the universe : the epic story
-    of cosmic, earth, and human transformation (2011), :
-    Yale University Press;Northcutt Productions : InCA
-    Productions.
-    cite:kennard:2011journey
-  - Kindersley, D., Big History (2016), : DK Publishing.
-    cite:kindersley:2016big-history 
-  - Langmuir, C. H., & Broecker, W., How to build a habitable
-    planet: the story of earth from the big bang to humankind
-    (2012), : Princeton University Press.
-    cite:broecker:2012how
-  - Sagan, C., Cosmos (1985), : Ballantine Books.
-    cite:sagan:1985cosmos 
-  - Swimme, B., The universe is a green dragon (1984), :
-    Bear and Company.  cite:swimme:1984green-dragon
-  - Swimme, B., & Berry, T., The universe story (1992), :
-    Arkana.
-    cite:swimme:1992universe 
-  - Urban, T., /Putting time in perspective – updated/ (2013).
-    cite:urban:2013putting-time
-  - Wikipedia, , /Big history project --- wikipedia, the free
-    encyclopedia/ (2017).
-    cite:wiki:2017big-history-project
-  - Wikipedia, , /Cosmic calendar --- wikipedia, the free
-    encyclopedia/ (2017). 
-    cite:wiki:2017cosmic-calendar
-  - Wilber, K., A brief history of everything (2001), : Shambhala. 
-    [Revised Edition]
-    cite:wilbur:2001brief,wilbur:1996brief
+
+*** Primer
+Primer is the compiled, running production version of the
+Hoard.  Changes are made to the Hoard and then merged with
+the Primer using a rolling continious release mechanism.
+The primer is a bit like a genome, the RNA that translates
+the DNA into the Hoard into what it describes.
+
+*** Middle
+Middle is the larger physical and informational
+infrastructure that is generated from the Primer. Middle is
+the day to day operation and management.  You can think of
+Middle as being the body that was generated from your DNA.
+In most cases, things that happen in your body don't have
+any effect on your DNA, but in rate instances it might,
+especially when you combine your DNA with someone elses to
+produce offspring.
+
+*** Arc
+Arc is designed to be outside of the entire system, which
+contains the collected recorded memory and experience of a
+civilization.  All the books, news stories, software,
+tweets, emails, transaction logs, pictures, medical records
+etc. are all collected by ARC.  Over time, ARC consolidates,
+summarizes, discarding duplicates and identifying things
+that are important to be remembered indefinately.  But this
+is a very slow process measured in decades, centuries and
+millennia.  Arc is the memory of all civilizations and so is
+an intimate inseparable part of any civilization but it is
+also outside and above it and designed to survive every
+possible threat that can be concieved.  ARC is
+self-replicating, self-supporting, it is both completely
+open and transparent but it is also secret so that it can
+survive everything from natural catastrophes, benign
+neglect, temporary instanity of those who want to destroy or
+rewrite the past.

@@ -1,0 +1,82 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: XIV.Implementation Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] [[[./index.org][up]]]
+
+
+* XIV. Implementation Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/14/intro.org
+:Created:  2018-04-30T21:55@Prek Leap (11.642600N-104.919210W)
+:ID:       7e6907b1-4665-42c6-8e7b-7c34fa1f6e66
+:VER:      578372195.868142072
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:KJV2-1414
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+
+The three branches of civilization providing checks and
+balances on each other.
+
+MIDDLE   runs things on a day to day basis
+CULTURE  is largely in the background, has great power but
+         thinks and acts very slowly - it saves, safeguards 
+         and maintains the hoard.  
+SCOPE    very strong and works in real time, but has a 
+         very short leash -- it is an interface with
+         everything outside
+
+It's important that just because we are suggesting that civilization
+adopt a negative feedback loop mechanism that is typically associated
+with goverance of nation states they are not the same thing.
+
+Since civilization is a system, negative feedback loops are needed to
+maintain a stable system from going too far out of balance.
+
+The idea of separating a civilization into different branches that
+provide negative feedback loops is a natural fit.  But they are not
+the same as a branch of government though they will overlap and
+sometimes appear to be the same thing.
+
+In a distributed nested and federated network governance takes place
+at many different layers.  So long as the system is designed that all
+local governance, from that within a family or shop, up to governance
+of a polis/nomes and regional and even global bodies then governance
+will always take place as close to where it is needed.
+
+So the three branches are not so much defined by articles of
+governance but rather as broad categories of functions within a
+culture that maintain negative feedback loops.  For this to work
+everyone has to agree that each branch has a function and can be told
+what to do by the other branches when things get out of wack.
+
+This would likely not be possible without machine-cogs automating and
+managing things according to rulesets that we create for them to
+follow.  It's difficult to articulate the difference between gov
+branches and civilization branches because they need to function more
+as ecological negative feedback loops than top-down composed
+organizational human negative feedback mechanisms.  Branches are
+simply codified expressions and manifestations of pace-layers, or put
+another way, pace-layers as slow-AIs with a higher degree of agency
+than our paper-based rulesets that constitute governmental systems.
+
+** TL;DR
+** References

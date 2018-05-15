@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume IX. Curriculum TOC
+#+TITLE:   Volume VII. Origins TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,17 +10,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../08/index.org][prev]]] [[[../10/index.org][next]]]
+[[[../index.org][top]]] [[[../06/index.org][prev]]] [[[../08/index.org][next]]]
 
-* Volume IX. Curriculum Table of Contents
+* Volume VII. Origins Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/index.org
-:Created:  2018-04-24T11:01@Prek Leap (11.642600N-104.919210W)
-:ID:       22215434-9304-40e8-9963-9baf785abaf3
-:VER:      577814531.712683427
+:Name:     /home/deerpig/proj/chenla/warp/07/index.org
+:Created:  2018-04-19T20:58@Prek Leap (11.642600N-104.919210W)
+:ID:       706e15aa-0c28-4fca-b5b5-3036880ae885
+:VER:      577418369.800117704
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:ANY3-6751
+:BXID:     proj:BBG5-7018
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,9 +29,40 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 01. [[./01/index.org][Learning]]
- - 02. [[./02/index.org][Pedagogy]]
- - 03. [[./03/index.org][Methods]]
- - 04. [[./04/index.org][Mastery]]
- - 05. [[./04/index.org][Curriculum]]
+ - 01. [[./01/index.org][Preamble]]
+ - 02. [[./02/index.org][Big History]]
+ - 03. [[./03/index.org][Regimes]]
+ - 04. [[./04/index.org][Stack]]
 
+
+ - Origins
+   - Intro & background
+   - Scaffolds (purpose)
+     - context   -> for all knowledge
+     - identity
+     - worldview -> 
+     - agency 
+   - Mechanisms
+     - [[./ww-awe.org][Awe]]         => recognition - coming into contact
+                      objective with subjective identity
+     - ritual      => sync and reinforce mechanism
+     - worship     => internalization mechanism
+     - incantation => (aka prayer) agency mechanism
+   - Narratives
+     - universal   -> eternal blue sky
+     - local       -> mapping you, home, family
+   - History
+     - what was written
+     - chronometrics
+   - Mythos
+   - The Universal Big Here & Long Now
+     - introduction
+     - a humanist ich-Du
+     - complexity thresholds
+     - Regimes
+   - The Local Human Here & Now
+     - mapping ich-Es        -> you to the local & immediate
+     - Narrative Overlays
+       - personification     -> map to abstract concepts
+       - machine animism
+     

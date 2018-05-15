@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 08. Surpluses TOC
+#+TITLE: 08. Legibility
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,45 +13,26 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 08. Surpluses Table of Contents
+* 08. Legibility
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/08/index.org
-:Created:  2018-03-28T09:26@Prek Leap (11.642600N-104.919210W)
-:ID:       b9308444-6373-4863-9048-94908f7497c3
-:VER:      575476039.252820558
+:Name:     /home/deerpig/proj/chenla/warp/02/08/index.org
+:Created:  2018-04-01T21:37@Prek Leap (11.642600N-104.919210W)
+:ID:       b6a4c81a-40c1-46de-ab63-b9a711e70db8
+:VER:      575865523.511239207
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:HJO6-7124
+:BXID:     proj:PGS2-4335
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./intro.org][Introduction]]
-  - Potential & Kinetic Stores
-    - Stockpiled -> subject to entropy, has a shelf life
-    - Potential  -> surplus capacity
-    - kinetic    -> on the hoof, battery charge, in-transit
-  - Types of Supluses:
-    - Production
-      - Sun shines, Wind blows, Water flows, Gravity pulls
-      - Chemical -> Fire burns
-      - Atomic & Nuclear
-      - Animal -> burden, leveraging their natures
-      - Plant  -> leverging their natures
-      - [[./ww-slavery.org][Slavery]]
-      - Machine clockwork
-      - Machine cognition
-      - Time
-        - speed (communication and transporation)
-        - light (extra time from electric light) 
-    - Stores, Reserves & Stockpiles
-      - goods (grain, tinned food)
-      - services (unused capacity)
-    - Caches (network)
-    - Capacity
-
+ - Contents
+ - [[./intro.org][Introduction]]
+ - 01. State Legability
+ - 02. Machine Legibility
+ - 03. Transparency
+ - 04. Accountability

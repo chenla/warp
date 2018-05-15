@@ -1,0 +1,59 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 01. Identity TOC
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 01. Identity Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/03/01/index.org
+:Created:  2018-03-29T09:09@Prek Leap (11.642600N-104.919210W)
+:ID:       bd5b12ce-204d-45b8-a9ab-16e7b257dd11
+:VER:      575561455.777177804
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:SVJ0-3331
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+  - Contents
+  - [[./intro.org][Introduction]]
+  - Legibility
+  - Rights
+    - Property -> ownership of wealth and property
+    - Accountability
+    - Obligations ->
+  - An Identity Model
+    - External Identities
+    - Internal Identities
+    - What the model is not
+      - not a label, lifestyle choice, class, nationality,
+        gender (biological or self-assigned), sexual
+        orientation, generation, occupation, ethnic group
+        (aka race), religious, ideological or political
+        belief or affiliation).
+      - Individuals
+      - Groups
+  - Social Paritioning
+  - Privacy
+  - Access Control
+  - Authentication
+  - Life Stages
+  - Enity Model
+    - Identity
+    - Persona
+    - Roles

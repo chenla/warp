@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Volume IX Articles Introduction
+#+TITLE: Introduction Volume VIII Lingua Franca
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,18 +13,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]]
+[[[../index.org][top]]] [[[./index.org][up]]]
 
-
-* Volume IX Articles Introduction
+* Introduction Volume VIII Lingua Franca
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/09/intro.org
-:Created:  2018-04-24T10:14@Prek Leap (11.642600N-104.919210W)
-:ID:       c2803cbe-e131-42de-a794-0a8c3ef35495
-:VER:      577811710.843989301
+:Name:     /home/deerpig/proj/chenla/warp/08/intro.org
+:Created:  2018-04-27T09:49@Prek Leap (11.642600N-104.919210W)
+:ID:       7fa6dfa4-4ac3-4730-b9ac-2e58851d5103
+:VER:      578069424.218391470
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:HUB3-7112
+:BXID:     proj:JXG0-6014
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -33,120 +32,235 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-Articles outlines the broad requirements for constructing a
-generative grammar for building organizational and legal
-governance frameworks for a distributed, federated human
-civilization.  It must scale, so that it can handle a global
-or pan-solar civilization, and that subsets of the framework
-can then be used to generate a framework for governance of
-any corporate body, public and private large and small.
-
-This is both feasible and desirable as over the past two
-hundred years we're getting better and better at building
-systems of governance.  Mankind has been refining
-democractic, egalitarian state and corporate structures that
-build on their predecessors rather than starting from
-scratch.  The exceptions have always been autocractic,
-ideological extremist, theocratic states that have /all/
-failed which have not just failed but failed spectacularly,
-causing untold misery and suffering.
-
-There are a few caveats -- we need to address how present
-systems fail, and the fact that there is a built-in scaling
-problem that result from hard-coded human cognitive and
-social limitations.  In other words, humans don't scale
-well.  But we are very good at building networks that /can/
-scale which largely are limited by propagation, by physics
--- how fast information, people and goods can propagate
-through a network.
-
-The idea of a network of states under one broad flexible
-system of governance is far from a new idea.  It was not
-only tried, but some argue that it was the most successful
-system of pluralistic governance in history.  I am talking,
-of course, about the Mongol Empire.
-
-So, if we can combine the two, keeping organizations at
-human scale, and network them together, we will only be
-limited, quite literally by the speed of light.  This means
-that such a civilization spanning the entire solar system is
-practical.
-
-Piece of cake, huh?
+Mythos is the foundation for languages -- you can't have one
+without the other. Lingua francas are always based on
+networks and in particular empires which are more or less,
+networks.
 
 ** TL;DR
 
-For a decentralized system to work, it must also have
-negative feedback loops in place that keep it decentralized
-and egalitarian, this has to be voluntary, with the members
-who agree, getting in return a better life and would.  It
-must be affirmed and reinforced every day or it will be
-lost.
+#+begin_quote
+1 And the whole earth was of one language, and of one speech.
 
-That in the heart of the new social contract. No more zero
-sum anything, the only zero sum game is the biggest one of
-all, humanity and civilization we all win together or we all
-fail together.  And anyone who thinks we're not in it
-together is delusional.
+2 And it came to pass, as they journeyed from the east, that
+  they found a plain in the land of Shinar; and they dwelt
+  there.
 
-This why the theses, rule sets and articles are so
-important, we all get rights, but we all equally except that
-we also have a duty to each other and to our future.  You
-will loose your rights if you neglect your duty.
+3 And they said one to another, Go to, let us make brick,
+  and burn them throughly. And they had brick for stone, and
+  slime had they for morter.
 
-Mindless consumerism only has selfish gratification at its
-core, no purpose or meaning, and the lie that gratification
-is the same as happiness
+4 And they said, Go to, let us build us a city and a tower,
+  whose top may reach unto heaven; and let us make us a name,
+  lest we be scattered abroad upon the face of the whole
+  earth.
+
+5 And the Lord came down to see the city and the tower,
+  which the children of men builded.
+
+6 And the Lord said, Behold, the people is one, and they
+  have all one language; and this they begin to do: and now
+  nothing will be restrained from them, which they have
+  imagined to do.
+
+7 Go to, let us go down, and there confound their language,
+  that they may not understand one another's speech.
+
+8 So the Lord scattered them abroad from thence upon the
+  face of all the earth: and they left off to build the city.
+
+9 Therefore is the name of it called Babel; because the Lord
+  did there confound the language of all the earth: and from
+  thence did the Lord scatter them abroad upon the face of all
+  the earth.
+
+— Genesis 11:1–9, King James Version
+  https://en.wikisource.org/wiki/Bible_(King_James)/Genesis#11
+#+end_quote
+
+
+On the face of it, the story of the Tower of Babel is a
+pourquoi, providing a backstory for why there are so many
+different human languages.  The story has always captured
+people's imagination, if for no other reason that in the
+story, God is not so much punishing Man, but making a
+premptive strike against Man, who had eaten from the tree of
+knowledge and was then ejected from the Garden.  In stopping
+construction of the Tower God shows that what he was scared
+of most was what Man would do with that knowledge --
+cooperate.  And by cooperating Man collectively would be
+able to challenge God.  The implication is that the source
+of God's power is knowledge.  
+
+We can only push the analogy so far.  Why would God put the
+tree of knowledge in the Garden in the first place?  Then,
+he gave the serpent access to the tree and to Adam and Eve.
+This runs counter to a monothesitic plotline but rather
+shows the polytheism and animisism that were part of belief
+systems that the Hebrews built on, and the Christians built
+on top of that.  Religions are bottom up systems that are
+built one on top of each other.  This is the only way you
+can gain converts, by adopting things from what people
+already believe.  It works, but it just get's increasingly
+more messy as each layer is built on top of the other.
+
+Science has found a far better method, where the newer
+layers are later understood to be more refined versions of
+what came before.  The triumph of science over traditional
+religious systems is that it maintains backward
+compatibility instead of claiming that each iteration of
+the story is a consistent world model that came directly
+from a god's mouth.
+
+The serpent was later recast as a fallen angel rebelling
+against God.  An odd thing for an angel, who has no free
+will (which was only granted to Man) to be able to do.  And
+if God is the ultimate incarnation of good, power and grace,
+what was he rebelling against in the first place?  But then,
+the marriage of the old and new testements that the
+Christians have tried to do was always a messy affair and
+not thought through.  That messiness has been exploited over
+the past two thousand years to cherry pick what any
+particular person wants to hear and claim their
+interpretation as correct.  And the christian bible is such
+a contradictory mashup that it has had universal appeal to
+the full spectrum of humanity, from the most depraved to
+true heros and saints.  This explains Christianity's success
+-- it's a ink blot test where people can see themselves
+reflected back as a vindication for the good or evil that
+they perpetrate..
+
+By fragmenting a single common language into many, it would
+make the type of cooperation needed to challenge God's
+knowledge and power impossible.
+
+This fits well with the Christian concept of time as
+unwinding since The Fall, because at Babel God showed his
+hand and that he was actively putting barriers in Man's way
+after ejection from the Garden.  So in a sense, Babel
+becomes a pourquoi story that explains entropy as a process
+guided by God's hand. The Enlightenment turned this on it's
+head and introduced the vision of time as progress and Man's
+progression from savagery to
+civilization. cite:thompson:1978darkness
+
+The ability for us to progress is directly proportionate to
+how well we can cooperate with each other, and cooperation
+is founded on communication.  For all the richness, beauty
+and variety of the spectrum of different human languages,
+there is no getting around that mankind's greatest
+achievements throughout history were made when there there
+were lingua francas, often in the form of second languages,
+such as Greek, Arabic, Latin and Mandarin which were used to
+bridge communication between different cultures, speed the
+propagation of information including news, scientific
+discovery and even religious belief systems.  All of the
+major monotheistic religeons were held together for most of
+their history because of the continuity of a common language
+over several millennia.  In this sense, the lingua franca
+minimized the introduction of errors through translation.
+Since each language is build on a cultural mythos,
+translating a sacred text to a different language inevitably
+introduces subtle shifts of meaning, no matter how careful
+the translator attempts to stay true to the original text.
+Once you change the surrounding context of something, you
+change the meaning as well.
+
+
+What all of this boils down to is propagation of
+information, maintaining a common cultural context which
+makes communication without misunderstanding possible.
+
+The functional requirements for a distributed civilization:
+
+  - a common origin story --> big history
+  - a common language     --> lingua franca (typically as a
+                              second language)
+  - the common language must change at different rates in
+    different pace-layers
+  - a machine understanable incantation language
+  - a shamanistic API which allows the creation of different
+    incantation languages which are domain and/or cultural
+    specific.
+  - the API and Incantation languages must be able to
+    gracefully degrade backwards and forwards across
+    succession stages.
+ 
+This takes care of many problems with drift and continuity
+so long as propagation rates of information do not exceed
+whatever the parameter for holding things together.  For the
+type of civilization we are envisioning at the top
+succession layer, this will likely be a day.
+
+American and British English was in the process of becoming
+separate languages, which stopped in the 20th century with
+the introduction of mass communication -- epecially video,
+audio and long distance telephony and later the Internet.
+
+The flip side to this, is that by bringing the world
+together into a single sphere of near instant communication,
+we will see that languages will increasingly borrow words
+into local languges from around the world.  This is already
+happening.  It means that if the global language is English,
+English will become more and more internationalized, rather
+than being based largely on American English.  American
+English will soon be just one more local varient of English.
+
+
+The dark side of most Lingua Francas is that they have
+largely been used as tools of oppression, of empire,
+imperialism and as a tool of cultural genocide.  This is not
+a thing of the past, it's happening today on a grand scale.
+
+Lingua francas and their little siblings, pidgin languages
+are the foundation for cross cultural and economic trade.
+
+Lingua franca's are an important part of any state to make
+it's people legible.cite:scott:1998seeing
+
+
+There has been no small amount of ink spilled on the tragedy
+of the death of a language.
+
+But when all is said and done, the advantages of people
+having a common language for governance, trade, science and
+learning, even if that common language is a second one.
+There are any number of countries where to be considered
+literate one had to have mastered their mother tongue as
+well as a second language spoken regionally or even
+globally.
+
+
 
 ** References
 
-  - American Humanist Association, /Humanism and its aspirations: humanist
-    manifesto iii./ (2003).
-    cite:aha:2003humanism
-  - United Nations, Universal declaration of human rights, UN General
-    Assembly, (), (1948).
-    cite:un:1948udhr
-  - Wikipedia, /Universal declaration of human rights --- Wikipedia,
-    the free encyclopedia/ (2018).
-    cite:wiki:2018universal-declaration
-  - Keen, A., How to fix the future: staying human in the digital age
-    (2018), : Atlantic Monthly Press.
-    cite:keen:2018fix-future 
-
-*** Mondragon System
-
-  - Bradley, K., & Gelb, A., Cooperation at work: the
-    mondragon experience (1983), : Heinemann Educational
-    Books.  cite:bradley:1983cooperation
-  - Cheney, G., Values at work: employee participation meets
-    market pressure at mondragón (1999), : ILR Press.
-    cite:cheney:1999values
-  - Greenwood, D. J., & Santos, J. L. G., Industrial
-    democracy as process: participatory action in the fagor
-    cooperative group of mondragon (1992), : Van Gorcum.
-    cite:greenwood:1992industrial
-  - ICA, , /Co-operative identity, values & principles/
-    (1995).
-    cite:ica:1995co-op-identity
-  - Kasmir, S., The myth of mondragon: cooperatives,
-    politics, and working-class life in a basque town
-    (1996), : State University of New York Press.
-    cite:kasmir:1996myth-mondragon
-  - Roelants, B., & Bajo, C. S., Capital and the debt trap:
-    learning from cooperatives in the global crisis
-    (2011), : Palgrave Macmillan.
-    cite:roelants:2011debt-trap
-  - Thomas, H., & Logan, C., Mondragon: an economic analysis
-    (1982), : G. Allen & Unwin.  cite:thomas:1982mondragon
-  - Whyte, W., Making mondragon: the growth and dynamics of
-    the worker cooperative complex (1991), : ILR Press.
-    cite:whyte:1991making
-  - Wikipedia, , /Autarky --- Wikipedia, the free
-    encyclopedia/ (2018).
-    cite:wiki:2018autarky
-  - Wikipedia, , /Rochdale principles --- Wikipedia, the
-    free encyclopedia/ (2018).
-    cite:wiki:2018rochdale-principles
-  - Wikipedia, , /Mondragon corporation --- Wikipedia, the
-    free encyclopedia/ (2018).
-    cite:wiki:2018mondragon-corp
+  - Gordin, M. D., Scientific babel: how science was done
+    before and after global english (2015), : University Of
+    Chicago Press.
+    cite:gordin:2015scientific-babel
+  - Nye, M. J., /Speaking in tongues: science’s
+    centuries-long hunt for a common language/ (2016).
+    cite:nye:2016speaking-tongues
+  - Jenkins, J., Global englishes: a resource book for
+    students (2014), : Routledge.
+    cite:jenkins:2014global-english
+  - Horobin, S., How english became english: a short history
+    of a global language (2015), : Oxford University Press.
+    cite:horobin:2015how_english
+  - Northrup, D., How english became the global language
+    (2013), : Palgrave Macmillan US.
+    cite:northrup:2013how-english
+  - Crystal, D., English as a global language (2003), :
+    Cambridge University Press.
+    cite:crystal:2003english-global
+  - Mair, C., The politics of english as a world language:
+    new horizons in postcolonial cultural studies (cross
+    cultures 65) (2003), : Rodopi.
+    cite:mair:2003politics-english
+  - Scott, J. C., Seeing like a state: how certain schemes
+    to improve the human condition have failed (1998), :
+    Yale University Press. 
+    cite:scott:1998seeing 
+  - Thompson, W. I., Darkness and scattered light: four
+    talks on the future (1978), : Anchor Books.
+    cite:thompson:1978darkness 

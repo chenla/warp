@@ -1,12 +1,12 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Distributed Governance Introduction
+#+TITLE: Languages Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Distributed Governance Introduction
+* Languages Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/01/intro.org
-:Created:  2018-05-06T11:04@Prek Leap (11.642600N-104.919210W)
-:ID:       68fba307-fc90-40cb-9ecd-dc17bb096e2a
-:VER:      578851511.959082123
+:Name:     /home/deerpig/proj/chenla/warp/08/01/intro.org
+:Created:  2018-05-05T18:15@Prek Leap (11.642600N-104.919210W)
+:ID:       cd722eab-6500-4136-9044-66888a0cf782
+:VER:      578790989.331142622
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:ONU8-2035
+:BXID:     proj:DBE7-7688
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -31,163 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
-
-At the heart of goverance is discourse -- it might be one to
-many discourse, in the case of a monarchy or many to one in
-the case of a democracy.
-
-But it is still a discourse.  Ah, you say, but a dictator,
-by definition, dictates what he (they all seem to be men)
-wants, where is the discourse?  They only can rule if they
-have a group, even if it is a small group, who will do what
-they are told, there is an underlying discourse happening in
-even the most tyrannical regimes because the supreme leader
-can only stay in power through the support of those who
-follow them.  Keep rewarding your minions and you stay in
-power.
-
-In democracies and representive democracies the discourse
-is, in theory transparent where the processes are open for
-everyone to see.
-
-Governance boils down to managing infrastructure for a
-territory.  A territory can be either physical or
-organizational or any combination in between, be anything
-from a postage stamp collecting club, to a super-power
-nation-state controlling a continent.
-
-This is done by finding ways of getting everyone in that
-territory to cooperate to maintain and run infrastructure
-according to how governance prescribes.
-
-Discourse is the process of taking information from
-shareholders in the territory and determining what will or
-will not be done about it.  In small groups, egalitarian
-systems work well because the complexity of group dynamics
-falls within human cognitive limits.  When the size of a
-group exceeds those limits mechanisms need to be put into
-place to allow such un-natural structures to work.  This is
-when small groups of elites emerge to make descions on the
-groups behalf.  More often than not, those descions are
-based on the wants and needs of the elites and everyone else
-get's a lesser share and ability to participate in the
-discourse.
-
-This means that large organizations benifit a few and are
-tolerated or endured by the many.  But this is the only way
-we can manage large organizations -- because we can only
-work together in small groups, most people need to hand over
-that process to the elites which are a proxy that makes a
-large group undertandable within our cognitive limits.  The
-elites are a substitute for that small egalitarian pack.
-
-The takeaway from all of this is that large organizations
-work, but only at the expense of most members of the
-organization. 
-
-Ideally, people should only need to interact with and
-cooperate and control the immediate territory where they
-live, and then your group need only to cooperate with other
-groups to achieve larger goals that can't be carried out by
-a small group.  There are a number of mechanisms that
-achieve that.  There are many examples of small groups which
-would come together for short periods of time to achieve
-something collectively and then disband for the rest of the
-year.  This has worked very well in many very diverse
-cultures around the world over thousands of years.
-
-What screwed this up was agriculture.  As soon as we stopped
-being mobile, those temporary large organizations became
-permanent and fixed.
-
-I believe that in a post-scarcity civilization we can
-leverage cognitive-machines and other technologies to
-replace the work needed to manage and maintain most
-infrastructure, and then we all can belong to small groups
-who deal with the cooperation and coordination of daily
-life.  Then, periodically groups will come together briefly
-to make large scale collective descions, hand it over to the
-slow-AIs managing the plumbing and then disband until the
-next time something needs to be done.
-
-There doesn't need to be any fixed organizational structure
-like we have today in the nation-state system, so long as
-all groups agree to a set of rules, rights and duties that
-apply to everyone.  Since different things happen at
-different rates of change, these temporary governments will
-form at different intervals, some might only happen once a
-century, others once a year.  Smaller groups of groups might
-need to come together once a month.
-
-This would be impossible to achieve without trustless
-semi-autonomous systems that can't be corrupted without
-everyone becoming aware of it.  Think of it as a sort of
-distributed blockchain governance to manage autonomous
-infrastructure.
-
-If this would be a bottom up, generative system governed by
-a complex mesh of self-learning negative feedback loops.
-
-This approach, if we could ever find a way of designing,
-building it and getting it to work, would be far better fit
-with human nature and within our cognitive limits and
-establish an egalitarian system of governance and
-infrastructure that can scale from a couple, or even a girl
-and her dog, up to a global civilization or even a
-civilization that could span the solar system.
-
-There are a lot of challenges that need to be addresses to
-make this happen.  One of the biggest is tribalism -- which
-is at the root of most of mankind's inhumanity to other
-humans who are not part of their group.  There needs to be a
-larger human identity founded on a universal origin story
-and common framework that any local mythos can map onto.
-This functions like the Mongol's /Munkh Khukh Tengri/
-("Eternal Blue Sky") -- and all cultures, gods and people
-are underneath.  That is what Darwin taught us, and few of
-us have yet to grok.  Man is not apart /from/, but is part
-/of/ nature, everything applies to everyone, no exceptions.
-The sedantary life gradually eroded this self-evident fact,
-as we enclosed ourselves in layers and layers of
-infrastructure designed to create bubbles of artificial
-nature that we could control at will with the flip of a
-switch.  But it's an illusion and a lie that we tell
-ourselves.  Sedantary agricultural civilization which is a
-redundant, moved from shamanism, animism and poly-theistic
-pantheons of local spirits, and gods, both big and small,
-local and distant, to a monotheistic narrative that matched
-our new found sendatary bubble lifestyle.  The new
-one-god-only systems moved God outside of Nature completely,
-and his crowning-achievement the creation of Man, was
-special and placed in cities which are outside of Nature.
-God had been put in his bubble and we became the gods of our
-own bubbles.  This estrangement of Man from Nature needs to
-be healed in order to solve our most pressing problems.  And
-this begins with us embracing our place as part of the
-universe and how it works, through observation and
-measurement.  As the tag line went in Steven Spielberg's
-/Taken/, "of course there is nothing beyond the sky.
-The sky just goes on and on, and we all play our games
-beneath it."
-
-In that sense, Big History is a framework for the Eternal
-Blue Sky for all of Mankind.  With that shared framework, a
-distributed, federated ad hoc emergent governance of a
-commons based infrastructure in a post-scarcity civilization
-becomes possible and scalable.
-
-
-  - Overton Window
-
 ** TL;DR
-
-
 ** References
 
-  - Toffler, A., Future shock (1971), : Bantam Books. 
-    cite:toffler:1971future-shock
-  - Waters, T., & Waters, D., Weber’s rationalism and modern
-    society: new translations on politics, bureaucracy, and
-    social stratification (2015), : Palgrave Macmillan US.
-    cite:waters:2015webers-rationalism
 

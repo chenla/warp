@@ -1,9 +1,9 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   01. Distributed Governance TOC
+#+TITLE:   01. Languages TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -12,15 +12,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. Distributed Governance Table of Contents
+* 01. Languages Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/01/index.org
-:Created:  2018-05-06T10:47@Prek Leap (11.642600N-104.919210W)
-:ID:       1158dd44-27ed-4e62-8d0d-b191b2167705
-:VER:      578850514.281045776
+:Name:     /home/deerpig/proj/chenla/warp/08/01/index.org
+:Created:  2018-05-05T16:08@Prek Leap (11.642600N-104.919210W)
+:ID:       cda47bee-bcb7-463b-b8c8-7c2896436234
+:VER:      578783394.966131240
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:YGA3-3618
+:BXID:     proj:QUH8-7028
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,13 +29,22 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - Human Scales
-  - Governance Pace-Layer
-  - Humanist Principles
-  - Egalitarian
-  - Threshold Triggers
-  - [[./ww-adhocracies.org][Adhocracies]]
-  - Meta-Origin Story
-  - Commons Protocol
-  - Structure
+  - Foundational Cultural Mythos 
+  - Languages as Dynamic Systems
+  - Evolution of spoken languages
+  - Living languages -> languages grow organically
+  - Languages Drift  -> in isolation
+  - Languages Steal  -> homogenize when in contact
+  - Meaning changes over time as context changes
+  - Artificial Languages are Doomed
+  - Languages don't care about committees
+  - Lingua Francas
+    - latin, greek, arabic, mandarin, french, spanish
+    - pidgins & creoles
+  - World Languages
+    - World Languages as second languages are good for
+      everybody
+    - Lingua francas follow:
+    - money, power, arts, science, religion
+
 

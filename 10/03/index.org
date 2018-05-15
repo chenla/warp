@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   03. Declaration TOC
+#+TITLE:   03. Incantation TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,15 +12,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 03. Declaration Table of Contents
+* 03. Incantation Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/03/index.org
-:Created:  2018-05-06T10:53@Prek Leap (11.642600N-104.919210W)
-:ID:       1c34a73e-bace-434c-a160-365b0557c2c9
-:VER:      578850847.820677505
+:Name:     /home/deerpig/proj/chenla/warp/08/03/index.org
+:Created:  2018-05-05T18:06@Prek Leap (11.642600N-104.919210W)
+:ID:       66eda24c-c380-4faa-8df8-80564267d5f1
+:VER:      578790439.240003536
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:QBC8-1172
+:BXID:     proj:MOJ3-4807
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,9 +29,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - Assumptions
-    - Principles
-  - Intent
-  - Social Contract
-
-
+  - Invocation & Incantation are functionally the same
+  - Incantation as translators and bridges between worlds
+  - Executible Language
+  - Shamanistic & Magical
+  - Incantations & Spells
+  - Spoken and Written forms
+  - Computer Programing Languages

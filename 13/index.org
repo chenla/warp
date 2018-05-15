@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume XIII. Culture TOC
+#+TITLE:   Volume XI. Infrastructure TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,17 +10,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../12/index.org][prev]]] [[[../14/index.org][next]]]
+[[[../index.org][top]]] [[[../10/index.org][prev]]] [[[../12/index.org][next]]]
 
-* Volume XIII. Culture Table of Contents
+* Volume XI. Infrastructure Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/13/index.org
-:Created:  2018-04-30T11:33@Prek Leap (11.642600N-104.919210W)
-:ID:       90413333-0105-4d00-9a5f-106c62ffb819
-:VER:      578334852.226372754
+:Name:     /home/deerpig/proj/chenla/warp/11/index.org
+:Created:  2018-04-30T20:42@Prek Leap (11.642600N-104.919210W)
+:ID:       1d9ac937-460e-4ef6-8e02-599bbae8a546
+:VER:      578367813.230912134
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:LAO1-1585
+:BXID:     proj:WGD2-3241
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,24 +29,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
-   - culture ensures that you will recognize tomorrow
-   - offset crazy-ass ROC
- - slow infrastructure
- - slow governance
- - long term investment -> bread cast apon the water
-   - moonshots
-   - builds the impossible
- - collective memory
-   - don't repeat past mistakes
-   - collect, preserve and curate the present
- - guardians of the commons -> this must be central part of 
-                               governance articles
- - continuity
-   - structures of daily life
-   - vernacular architecture & design
-     - the fashion-layer should riff on themes that are
-       layed down by the culture-layer.  Build on what came
-       before, this needs to be a cultural norm.  Those who
-       pretend to throw everything out and start from
-       scratch are not being honest with themselves and are
-       just making a mess of things.
+ - 01. [[./01/index.org][Commons]]
+ - 02. [[./02/index.org][Systems]]
+ - 03. [[./03/index.org][Natural]]
+ - 04. [[./04/index.org][Material]]
+ - 05. [[./05/index.org][Economic]]
+ - 06. [[./06/index.org][Social]]
+ - 07. [[./07/index.org][Health]]
+ - 07. [[./08/index.org][Cultural]]
+ - 09. [[./09/index.org][Individual]]

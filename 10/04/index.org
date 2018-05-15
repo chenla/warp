@@ -1,9 +1,9 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   04. Rights TOC
+#+TITLE:   04. Interoperability TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -12,15 +12,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 04. Rights Table of Contents
+* 04. Interoperability Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/04/index.org
-:Created:  2018-05-06T10:56@Prek Leap (11.642600N-104.919210W)
-:ID:       3d8526c3-e459-4749-9a97-422db52d24b1
-:VER:      578851049.337125423
+:Name:     /home/deerpig/proj/chenla/warp/08/48/index.org
+:Created:  2018-05-05T18:09@Prek Leap (11.642600N-104.919210W)
+:ID:       22646fed-b589-4ae7-ad18-d8b0cd90da72
+:VER:      578790621.981060749
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:SOA2-3783
+:BXID:     proj:SBM4-4440
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,41 +29,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
+  - rosetta stone
+  - translation dictionaries & grammars
+  - APIs  
 
-  - Negative Rights
-  - Positive Rights
 
-  - Human Rights
 
-  - Substantive Rights
-    - natural law
-    - substantive law
-    - proceedural law
-
----
-
-*horcrux as fork* of an identity stack, including all roles
--- but each horcrux is not simply a copy but an agent in its
-own right -- that's what makes it a Horcrux.  But the thing
-is, what what was never explained in Harry Potter, was the
-mechanism for how different horcruxes, which each possess
-agency, synced with each other and merged Δ's.  This is a
-distributed system.
-
- - identity    (con)
-   - fork      (exp)
-     - role    (man)
-       - agent (in) 
-
-*horcrux as shard* of a specific role and not the entire
-identity stack.
-
- - identity      (con)
-   - role        (exp)
-     - agent     (man) 
-       - shard   (in)
-
-You fork an identity and shard an agent.
-
-Once you understand identity as a distributed version control
-system, it all makes sense.

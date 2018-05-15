@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   02. Systems TOC
+#+TITLE:   02. Pedagogy TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,15 +12,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 02. Systems Table of Contents
+* 02. Pedagogy Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/02/index.org
-:Created:  2018-05-07T19:02@Prek Leap (11.642600N-104.919210W)
-:ID:       624c9e8b-9cfe-4993-8eab-87104549d28d
-:VER:      578966603.725913122
+:Name:     /home/deerpig/proj/chenla/warp/09/02/index.org
+:Created:  2018-05-05T18:37@Prek Leap (11.642600N-104.919210W)
+:ID:       9f55fe18-2ee3-41d6-9bdc-15aa934c2e3f
+:VER:      578792339.353995093
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:RUO1-7250
+:BXID:     proj:YYM0-2880
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-   - Stores & Flows
-   - Interconnectivity
-     - standards
-     - grids & networks
+  - Evaluation
+  - Backward Design
+
+

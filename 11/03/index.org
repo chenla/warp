@@ -1,9 +1,9 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   03. Natural TOC
+#+TITLE:   03. Methods TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -12,15 +12,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 03. Natural Table of Contents
+* 03. Methods Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/03/index.org
-:Created:  2018-05-07T19:05@Prek Leap (11.642600N-104.919210W)
-:ID:       8f12ca8e-b541-4226-91af-19bbc271f669
-:VER:      578966803.213488875
+:Name:     /home/deerpig/proj/chenla/warp/09/03/index.org
+:Created:  2018-05-05T18:40@Prek Leap (11.642600N-104.919210W)
+:ID:       0bbba335-7b13-4a4f-9c8b-3847226f061e
+:VER:      578792521.273824356
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:JBA4-2326
+:BXID:     proj:CEN4-6081
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,19 +29,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - Resource
-    - Water
-    - Glaciers
-    - Rivers
-    - Oceans, Seas and Inland Bodies of Water
-    - Airspace
-    - Spectrum
-    - Fish & Game
-    - Environmental Protection
-  - Disaster
-    - Tsunami Warning & Defensive
-    - Asteroid or Comet Defense
-    - Tornadeo Warning & Shelters
-    - Hurricane/Typhoon/Cyclon Warning & Evacuation
-    - Drought
+  - Blended Learning
+  - Homework
+  - Portfolios
+  - Self Directed Learning
+  - Mastery Learning
+  - Portfolio Building
+
 

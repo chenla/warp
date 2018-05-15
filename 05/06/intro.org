@@ -1,0 +1,54 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Energy Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Energy Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/03/20/intro.org
+:Created:  2018-05-03T09:06@Prek Leap (11.642600N-104.919210W)
+:ID:       44c5a16c-ddef-4d4a-991d-a2469a809c14
+:VER:      578585225.896101433
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:QDV2-3266
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+
+Talk in terms of energy as a fuel, a descrete substance, and flow, a
+substance that 
+
+
+#+begin_quote
+If we want to better understand how we speculate about
+future energy now, then we need to appreciate the extent to
+which those speculations have a history, and that their
+history (from the early Victorian period on) contains such
+fictions as Heinlein’s story as often as, and frequently
+mixed in with, highly technical debates about the
+characteristics and requirements of different modes of
+energy production and consumption.
+
+— [[https://aeon.co/essays/how-science-fiction-feeds-the-fuel-solutions-of-the-future?utm_medium=feed&utm_source=rss-feed][Fuelling the future]] |  Iwan Rhys Morus, Aeon 2018
+#+end_quote
+
+** References
+

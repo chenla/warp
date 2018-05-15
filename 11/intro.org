@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Volume XI. Infrastructure Introduction
+#+TITLE: 8.1 Introduction Volume VIII Curriculum
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,118 +13,190 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]] | [[[./index.org][index]]]
+[[[../index.org][top]]] [[[./index.org][up]]]
 
-
-* Volume XI. Infrastructure Introduction
+* 8.1 Introduction Volume VIII Curriculum
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/intro.org
-:Created:  2018-04-30T20:47@Prek Leap (11.642600N-104.919210W)
-:ID:       4e8d7fda-ee2a-4a2f-9c3a-929caff6e1ee
-:VER:      578368094.905205042
+:Name:     /home/deerpig/proj/chenla/warp/08/intro.org
+:Created:  2018-04-24T11:06@Prek Leap (11.642600N-104.919210W)
+:ID:       69d19e03-c646-4813-b123-712e3572ab76
+:VER:      577814843.463742983
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:GWA6-3885
+:BXID:     proj:YTR3-6048
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
 
-Almost everything is a kind of infrastructure.  Governance, education,
-production, law, electrical grids, road systems, airports, petrol
-stations, post offices, courts, banks, telephone networks etc.  In
-most cases infrastructure is made up of networks that are systems that
-connect things together.
-
-And because infrastructure's purpose is to connect things together it
-is a pace-layer that is dead in the middle; it can't change to fast or
-too slow.  It must adapt and be maintained fast enough to support the
-faster pace-layers, but slow enough to ensure that it's around long
-enough for the lower layers to provide their functions.
-
-Infrastructure is as much in the public as the private sector.
-Commerce taking the form of private sector corporate bodies might be
-given the task of managing parts of infrastructure, but they are not
-private, they must be accessible to everyone to be infrastructure.
-
-A lot of infrastructure is even slower to change than the cultural
-layer.  This is clearly seen in the layout of roads in cities.  The
-structures in cities may change at wildly different rates of
-change, the roads remain in place for centuries or even millennia.
-
-Infrastructure as a rule has humble beginnings and over time is
-reinforced and expanded using the same paths laid down by the first
-inhabitants.
+** Epigraph
 
 #+begin_quote
-They say the cows laid out Boston.  Well,there are worse surveyors.
+    Vita brevis,
+    ars longa,
+    occasio praeceps,
+    experimentum periculosum,
+    iudicium difficile.
+
+    Life is short,
+    and art long,
+    opportunity fleeting,
+    experimentations perilous,
+    and judgment difficult. 
+
+--  Hippocrates 
+
+
+"The lyf so short, the craft so long to lerne" -- Chaucer
+
+    [[https://en.wikipedia.org/wiki/Ars_longa%2C_vita_brevis][Ars longa, vita brevis]] - Wikipedia
 #+end_quote
 
-To some degree this is true of most cities that grew organically
-rather than were centrally planned.  And most of the centrally planned
-city layouts only happened after major catastrophes such as fire and
-war raised large swaths of a city and needed to be rebuilt quickly.
-Megafauna often do a better job than central planners.  Megafauna will
-find the easiest route from one point to another and will follow the
-same paths as they become beaten down and easier to follow.  Humans
-follow the megafauna when they are hunters, and when man settled down
-and became farmers those paths were formed by domesticated megafauna
-which were easier to walk on that blazing a trail through grass and
-brush.  Those paths eventually were broadend over time to allow more
-traffic and eventually became roads.  And many roads, once laid out
-stay in place for very very long times.
+** Scope
 
-In the same way, when railroad networks were built, they didn't follow
-paths laid out by animals or even  existing roads, but they did
-connect settlements that were originally built along such routes.  The
-railway networks became the physical template for other
-infrastructure.  AT&T built telegraph networks that followed railway
-tracks.  Many of the first telcos such as Sprint originally were
-railroad companies.
+This volume is concerned with how we learn as individuals
+and as societies.  How do we learn.  How do we pass
+knowledge and skills on to others.
 
-Today, the Chinese government is building a rail and road network that
-spans all of China east and west and through the 'stan countries all
-the way to Europe following the same trading networks established in
-the Middle Ages that became known as the Silk Road.
+The idea is that because of the exponential ROC, knowledge
+becomes obsolete very quickly.  How to keep up?  While
+disciplines and technologies are born and vanish in a
+fraction of a person's career.  Learning must change from
+being a place, as it became in the industrial revolution,
+where schools became factories for providing basic skills
+that people needed to drive the indusrial engine.  The base
+skill set was not the high, so it really didn't take that
+long to teach it.  That doesn't explain why education became
+such a long process.  That happened because once child labor
+was effectively banned, and parents were at work in
+factories and offices for the majority of the day, children
+really had no supervision or purpose in the home any
+longer.  So schools became day care for children.
 
-In this sense, all infrastructure is a kind of commons which is
-maintained by a patchwork of governments, individuals and companies.
-But in the larger and long term sense, they are owned by everyone and
-each agent or entity that controls or claims ownership of any one part
-of infrastructure is a custodian of that infrastructure more than an
-owner.  Over time nations and corporations come and go, but so long as
-there is a civilization in place, the infrastructure will remain in
-place, and often the same places for very long periods of time.
+Children need to be reintegrated into society, not
+sequestered for the better part of two decades in Lord of
+the Flies cultures that were separated from the rest of the
+world.
 
-All of this might seen obvious, but to many people it isn't.  It's
-important to maintain and manage commons, and keep access to it as
-open as possible.  This extends to knowledge and creative works that
-encode or embody that knowledge.  Knowledge is a commons that everyone
-builds on top of.  To claim that one entity "owns" something that was
-only possible to build because of the previous work done by those who
-came before us is ludicrous.  And restricting access to knowledge that
-has been recorded and improved over many generations is both theft and
-has the effect of slowing or even stopping innovation and discovery
-that our species needs for surival.  It should literally be considered
-to be a crime against humanity.
+Learning needs to become an activity that happens
+everywhere, starts at birth and ends in the grave.
 
-Creating new works that expand and extend and improve civilization are
-never done in isolation from what came before them, they like cow
-paths that turned into roads.  This is why all copyright law is based
-on the concept that knolwedge is a type of commons and that copyright
-is a /temporary/ monopoly granted to either restrict access to that
-knowledge to gain advantage over others -- power.  Or as an monetary
-incentive to create new works.  Both are weak and ultimately futile in
-the long term, but are effective and destructive in the long term.
-
-Knowledge is not a good or a service, and therefore can not be treated
-as property.  Anything that is not property is part of the commons
-and is owned by everyone.  Conflating insentives to create with
-ownership of something owned by everyone needs to stop.
+This volume is about building generative learning frameworks
+that prepare people to become useful citizens in society
+(the goal of a liberal education) and then provide the
+cognitive skills, cognitive tools, core knowledge and
+practical skills that are mastered to become part of society
+and provide meaning and purpose to people's lives.
 
 ** TL;DR
+
+This section is broken into four parts:
+
+  - Mastery  :: Deals with the larger concepts of mastering a
+                discipline and a basic philosophy of life
+                work, learning and balance.
+  - Practice :: The deliberate regular practice of anything
+                that is one of the two pillars of work and
+                learning.
+  - Otium    :: The flip side of Practice which is
+                deliberate, rest and contemplation.
+  - Negotium :: Dealing with a person's public roles and
+                interactions with people, family, collective
+                projects, business, management roles etc.
+
+Mastery is the process of lifelong learning.  The Trivium
+can be thought of as a means of establishing underlying
+habits of thought and technique that are part of the process
+of mastering any skill or subject.  As such Mastery is a
+unspoken subject of the Trivium that is not formally given a
+name but is taught indirectly.
+
+This doesn't mean that Mastery is an un-spoken process.  The
+process of mastering a subject or skill is well known.  It
+is not an easy process, and there are no short-cuts, but it
+is deeply fulfilling.  In many respects Mastery is the
+foundation that civilization is built on.
+
+Mastery comes down to three things:
+
+   - knowledge
+   - technique
+   - process
+
+** George Leonard's Outline
+
+5 keys to long-term success:
+
+  - Instruction;
+  - Practice;
+  - Surrender;
+  - Intentionality; and,
+  - The Edge - Push the envelop.
+
+Mastery is:
+
+  - The process where what was difficult becomes both easier and
+    more pleasurable;
+  - Long-term dedication to the journey - not the bottom line;
+  - Gaining mental discipline to travel further on your journey;
+  - Being goalless;
+  - Realizing that the pleasure of practice is intensified;
+  - Creating deep roots;
+  - Knowing that you will never reach a final destination;
+  - Being diligent with the process of mastery;
+  - Your commitment to hone your skills;
+  - After you have reached the top of the mountain, climb
+    another one;
+  - Being willing to practice, even when you seem to be getting
+    no where;
+  - Making this a life process;
+  - Being patient, while you apply long-term efforts;
+  - Appreciating and even enjoying the plateau, as much as you do
+    the progress;
+  - Practicing for the sake of practice;
+  - Winning graciously, and losing with equal grace;
+  - Placing practice, discipline, conditioning and character
+    development before winning;
+  - Being courageous;
+  - Being fully in the present moment;
+  - Realizing that the ultimate goal is not the medal, or the
+    ribbon, but the path to mastery its self (The "I am" stage);
+  - Being willing to look foolish;
+  - Maintaining flexibility in your strategy, and in your
+    actions;
+  - A journey; and,
+  - Determination
+
+
 ** References
 
+Backward Design
+
+  - Grant Wiggins, J. M., The understanding by design: guide
+    to creating high-quality units (2011), : Association for
+    Supervision & Curriculum Development.
+    cite:grant:2011understanding-design
+  - Wiggins, G., & McTighe, J., What is backward design,
+    Understanding by design, 1(), 7–19 (1998).
+    cite:wiggins:1998backward
+  - Wikipedia, , /Backward design --- Wikipedia, the free
+    encyclopedia/ (2018).  cite:wiki:2018backward-design
+
+Mastery
+
+  - Sennett, R., The Craftsman (2009), : Penguin.
+    cite:sennett:2008craftsman 
+  - Pang, A. S., /Darwin was a slacker and you should be
+    too/ (2017).  cite:pang:2017darwin-slacker
+  - Pang, A. S., Rest: why you get more done when you work
+    less (2016), : Basic Books.  cite:pang:2016rest
+  - Leonard, G., Mastery. the keys to success and long term
+    fulfillment (1992), : Plume.  cite:leonard:1992mastery
+  - Greene, R., Mastery (2012), : Viking Adult.
+    cite:greene:2012mastery 
+  - Davis, J., Two awesome hours: science-based strategies
+    to harness your best time and get your most important
+    work done (2015), : HarperOne.
+    cite:davis:2105two

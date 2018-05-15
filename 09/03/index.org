@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   03. Methods TOC
+#+TITLE:   03. Regimes TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,30 +10,27 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../../index.org][top]]] [[[../index.org][up]]] [[[../index.org][prev]]] [[[../44/index.org][next]]]
 
-* 03. Methods Table of Contents
+* 03. Regimes Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/03/index.org
-:Created:  2018-05-05T18:40@Prek Leap (11.642600N-104.919210W)
-:ID:       0bbba335-7b13-4a4f-9c8b-3847226f061e
-:VER:      578792521.273824356
+:Name:     /home/deerpig/proj/chenla/warp/07/03/index.org
+:Created:  2018-04-26T18:38@Prek Leap (11.642600N-104.919210W)
+:ID:       74ccba52-f1a9-48a8-a6f9-cfa3df49f9a9
+:VER:      578014748.402633768
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:CEN4-6081
+:BXID:     proj:EME0-3573
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./intro.org][Introduction]]
-  - Blended Learning
-  - Homework
-  - Portfolios
-  - Self Directed Learning
-  - Mastery Learning
-  - Portfolio Building
-
+  - Cosmos
+  - Solar System
+  - Earth
+  - Life
+  - Man
+  - Humanity
 

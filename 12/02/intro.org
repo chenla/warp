@@ -1,0 +1,39 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Articles Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Articles Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/10/02/intro.org
+:Created:  2018-05-06T11:06@Prek Leap (11.642600N-104.919210W)
+:ID:       c1fd4a0a-c44e-440a-ba2e-67b4e779d3df
+:VER:      578851644.681168013
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:DXU6-0600
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+** References
+
+
+
+

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Articles Introduction
+#+TITLE: Writing Systems Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Articles Introduction
+* Writing Systems Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/02/intro.org
-:Created:  2018-05-06T11:06@Prek Leap (11.642600N-104.919210W)
-:ID:       c1fd4a0a-c44e-440a-ba2e-67b4e779d3df
-:VER:      578851644.681168013
+:Name:     /home/deerpig/proj/chenla/warp/08/02/intro.org
+:Created:  2018-05-05T18:17@Prek Leap (11.642600N-104.919210W)
+:ID:       92bc08cb-1dab-48e7-b621-2eddd33dd3e5
+:VER:      578791105.788369801
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:DXU6-0600
+:BXID:     proj:UEU2-4076
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -33,7 +33,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 ** References
-
 
 
 

@@ -1,30 +1,29 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Surpluses Introduction
+#+TITLE: Legibility Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-
-* Surpluses Introduction
+* Legibility Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/22/intro.org
-:Created:  2018-05-03T09:19@Prek Leap (11.642600N-104.919210W)
-:ID:       7f704359-d647-4dee-94ec-8a94fb749cbb
-:VER:      578586064.799883987
+:Name:     /home/deerpig/proj/chenla/warp/02/08/intro.org
+:Created:  2018-05-12T21:30@Prek Leap (11.642600N-104.919210W)
+:ID:       12d15437-5652-4474-9945-802cc67ffec0
+:VER:      579407522.294869752
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:QHJ1-5813
+:BXID:     proj:GJR8-6718
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -34,74 +33,84 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 
-Civilization is based on the assumption that it can produce
-more goods and services than are required for physical
-surival.  Homer would not have been able to write anything
-if he was too busy trying to find food everyday, maintain
-his shelter and help protect this from nature, natural
-predators and other people trying to take those things from
-him.
+In /Seeing Like A State/ cite:scott:1998seeing James Scott
+defines legibility as the need for states to be able to
+reliably identify and keep accounts of their subjects, or
+citizens, who they are and where they are.  What property
+(in terms of land) they may inhabit or own (if freehold land
+ownership it allowed) and how much wealth they produce.
+Land is surveyed to create claudastral maps indicating the
+boundries of parcels of land, what type of land it is, and
+who is liable for that land.  All of this is done for three
+reasons, collecting taxes, conscription (raising armies) and
+stopping attempts of anyone who tries to wrest power from
+those who are in power.
 
-This makes it possible to increase the number of
-specializations in a group to include specialties that are
-indirectly related to survival, or support the complexity of
-a group with a large number of specializations.
+He makes the case that historically it's been in the
+interest of most people to not be legible if possible
+because the less legible you are to the state, the more
+control over you they have, and the more wealth or even life
+they can extract from you.
 
-Surplus explosion since 1800 -- history of surpluses, there
-were almost none before 1800, and what surpluses there were
-supported a very very small elite.  Most surpluses in
-history came from slavery or other class equiviliants --
-serfs, peasants, indentiture, prisoners
+Legibility is a process of standardization and simplication,
+that reduces the complexity of making persons and property
+legible.  This standardization comes in many forms, from
+using standard weights and measures, to forcing people to
+adopt legal names, and family names that are easier to keep
+track of.
 
-Then the industrial revolution came along and changed
-everything -- agriculture got the tractor, which changed
-agriculture forever allowing a small rural population to
-grow food for a largely urban mass population -- the
-assembly line, palletization, containerization -- the fork
-life and shipping container effectively wiped out dock
-workers and workers loading trucks and railroad cars.
-Electric hand tools, loaders, crains and dozers, transformed
-construction -- and vastly reducing the amount of labor
-needed to construct buildings.  The assembly line, and a
-vast number of industrial machines reduced the labor
-required before to a handful of semi-skilled people.  Life
-was still hard -- but it was better.
+In addition to standardization and simplication for the
+state, it was quickly adapted by financial institutions for
+keeping track of parties involved in financial
+transactions.  For businesses it made it easier to keep
+inventories and reduce theft and corruption from employees.
 
-** Capacity
+It could also be used to keep whole States accountable to
+it's citizens.
 
-#+begin_quote
-I recognize that idea is jarring – that “my property” would
-be free for the taking just because I was not using it. But
-do you recognize why the idea is jarring? The assumption
-that fuels the dissonance about property “free for the
-taking” is that the taken property is exhaustible. I may not
-be using my car at the moment, but that doesn’t mean you
-should have the right to take it since your use of my car
-will, to some degree, deplete the property I have. Cars are
-exhaustible resources. Spectrum is not. When I use a bit of
-spectrum at a particular moment in time, that spectrum is
-just as good after I’m finished as it was before. My use in
-no way exhausts the resource. And more important, when
-spectrum is not used, its value as a resource is not
-saved. Unused spectrum, like an empty seat on an airplane,
-is a resource that is lost forever.
+Over time, as more and more different types of metrics were
+maintained about more types of goods, processes and
+transactions, the information that makes something legible
+became increasingly abstract and is now lumped together
+under the term metadata, or data that describes data.  Or in
+traditional terms, data that describes people and things and
+what they do.
 
-— cite:lessig:2001future-of-ideas
-#+end_quote
+When there is enough metadata, it becomes big data, and big
+data is valuable in it's own right as an indicator of the
+behavior and future actions of processes and people.
 
-This is a good argument for potential capacity.  However I
-thought that it was a bit odd to use spectrum as an example
-because it is not an infinite resource, it has a maximum
-carrying capacity -- unlike network bandwidth, which can be
-increased by adding more network cables and improving
-technology to increase carrying capacity.
+The interesting thing is that, up until now, metadata was
+only valuable in aggregate about a group of things.  But the
+amount of metdata that we now produce as individuals has
+gotten to the point where it now is valuable to collect for
+personal reasons as well.  And if we can find ways of
+collecting all of that metadata that we generate as
+individuals and have some measure of control over who can or
+can't see it, it becomes a kind of personal wealth.
 
-It's always more efficient to use something at close to
-maximum carrying capacity -- in many cases, like a computer,
-running a small load on the machine uses the same
-electricity as running it at full capacity, and does not
-shorten it's lifespan.  So the heavier the load, the lower
-the cost of the server over its lifetime.
+Next, we can use metadata to build models of the world -- in
+the same way that our brains collect information from our
+senses and creates an model of the world that we use to move
+through the world and make decsions.
+
+We will soon be able to create personal models of
+externalized metadata that rivals or eventually surpasses
+what our senses can collect -- that we will be able to
+create externalized world models which are an extension of
+our internal mental models.  
+
+This same capability will also become the foundation for
+artificial intelligence.
 
 
+** References
+
+  - Scott, J. C., Seeing like a state: how certain schemes
+    to improve the human condition have failed (1998), :
+    Yale University Press.
+    cite:scott:1998seeing
+
+  - Pomerantz, J., Metadata (2015), : The MIT Press.
+    cite:pomerantz:2015metadata
 

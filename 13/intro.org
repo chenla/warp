@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume XII
+#+TITLE: Volume XI. Infrastructure Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,17 +13,18 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]]  [[[./index.org][up]]]
+[[[../../index.org][top]] | [[[./index.org][index]]]
 
-* Introduction Volume XII
+
+* Volume XI. Infrastructure Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/13/intro.org
-:Created:  2018-04-30T20:04@Prek Leap (11.642600N-104.919210W)
-:ID:       bf8149f9-89de-4472-a096-80df1a9bca77
-:VER:      578365516.879777662
+:Name:     /home/deerpig/proj/chenla/warp/11/intro.org
+:Created:  2018-04-30T20:47@Prek Leap (11.642600N-104.919210W)
+:ID:       4e8d7fda-ee2a-4a2f-9c3a-929caff6e1ee
+:VER:      578368094.905205042
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:BEG4-1235
+:BXID:     proj:GWA6-3885
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -32,64 +33,97 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-This volume outlines the requirements of both the Culture Pace-Layer
-as well as CULTURE, one of the three branches of civilization.
+Almost everything is a kind of infrastructure.  Governance, education,
+production, law, electrical grids, road systems, airports, petrol
+stations, post offices, courts, banks, telephone networks etc.  In
+most cases infrastructure is made up of networks that are systems that
+connect things together.
 
-Culture is the slowest layer of civilization.  It works at time scales
-which are measured in generations, not single lifetimes.  Ensuring
-that there is continuity between all generations that are alive at any
-given time is important.  When aspects of culture becomes splintered
-and there are different cultures for different generations things
-don't work well.
+And because infrastructure's purpose is to connect things together it
+is a pace-layer that is dead in the middle; it can't change to fast or
+too slow.  It must adapt and be maintained fast enough to support the
+faster pace-layers, but slow enough to ensure that it's around long
+enough for the lower layers to provide their functions.
 
-For many people this will sound like a call for returning to
-traditional ways of life that are out of sync with the way things are
-at any given present.  When generations began to stratify into
-different subcultures the concept of a "generation gap", "youth
-culture" and other demarcations between people at different stages of
-life became something that was assumed to be a natural part of modern
-life.  This is largely because many aspects of life that were
-traditionally part of culture shifted to the fashion pace-layer.  As
-Stewart Brand said, the young are obsessed with fashion, but it bores
-the hell out of older people because they've already lived through it
-and just seen it as ephemeral and largely pointless.  The
-fashion-layer is where you try out new ideas, experiment, break
-things.  The things that work become absorbed by the slower layers,
-but most of it is the same things that don't work, repackaged again
-and again because each generation has to learn by making the same
-mistakes that everyone does when they are young.
+Infrastructure is as much in the public as the private sector.
+Commerce taking the form of private sector corporate bodies might be
+given the task of managing parts of infrastructure, but they are not
+private, they must be accessible to everyone to be infrastructure.
 
-The industrial revolution stratified societies into different ages.
-The young were looked after in schools which only really needed
-students to be functionally literate for industrial job.  The rest of
-the time was little more than baby sitting.  The young were
-sequestered and kept apart from the adult world of work, given little
-responsibility or motivation, and little supervision.  This is the
-plot line for /Lord of the Flies/ and no, it's not pretty and it
-doesn't end well.  The old, who no longer are part of the work force
-are sequestered as well, with no supervision, and little contact with
-anyone including each other.  In the middle you have working adults
-who are sequestered in offices and industrial production, so that they
-don't need to be distracted by the young or the old.
+A lot of infrastructure is even slower to change than the cultural
+layer.  This is clearly seen in the layout of roads in cities.  The
+structures in cities may change at wildly different rates of
+change, the roads remain in place for centuries or even millennia.
 
-Traditionally, the role of culture in a society is to provide a
-framework for all generations to live and work together.  The old,
-minded the very small children when the adults were working, children
-were expected to learn skills, by helping adults.  Children learned by
-doing and watching and practicing what they saw the adults doing.
-That is all but gone now.  Children are not allowed to work along side
-adults, they have little or no freedom and inside and outside school
-they are isolated and subjected to absurd regimes of structured
-activities with less and less opportunity for interaction with other
-people.
+Infrastructure as a rule has humble beginnings and over time is
+reinforced and expanded using the same paths laid down by the first
+inhabitants.
 
-The physical separation of place of work from places for learning
-which are separate from places for living helped to enforce this
-stratification.  Municiple zoning made this stratification physical.
-There were places where children could go but not adults.  Places
-where adults could go but children and the old could not.  And the old
-were sent to subtropical climates away from everyone and gradually
-became more and more institutionalized until death.
+#+begin_quote
+They say the cows laid out Boston.  Well,there are worse surveyors.
+#+end_quote
+
+To some degree this is true of most cities that grew organically
+rather than were centrally planned.  And most of the centrally planned
+city layouts only happened after major catastrophes such as fire and
+war raised large swaths of a city and needed to be rebuilt quickly.
+Megafauna often do a better job than central planners.  Megafauna will
+find the easiest route from one point to another and will follow the
+same paths as they become beaten down and easier to follow.  Humans
+follow the megafauna when they are hunters, and when man settled down
+and became farmers those paths were formed by domesticated megafauna
+which were easier to walk on that blazing a trail through grass and
+brush.  Those paths eventually were broadend over time to allow more
+traffic and eventually became roads.  And many roads, once laid out
+stay in place for very very long times.
+
+In the same way, when railroad networks were built, they didn't follow
+paths laid out by animals or even  existing roads, but they did
+connect settlements that were originally built along such routes.  The
+railway networks became the physical template for other
+infrastructure.  AT&T built telegraph networks that followed railway
+tracks.  Many of the first telcos such as Sprint originally were
+railroad companies.
+
+Today, the Chinese government is building a rail and road network that
+spans all of China east and west and through the 'stan countries all
+the way to Europe following the same trading networks established in
+the Middle Ages that became known as the Silk Road.
+
+In this sense, all infrastructure is a kind of commons which is
+maintained by a patchwork of governments, individuals and companies.
+But in the larger and long term sense, they are owned by everyone and
+each agent or entity that controls or claims ownership of any one part
+of infrastructure is a custodian of that infrastructure more than an
+owner.  Over time nations and corporations come and go, but so long as
+there is a civilization in place, the infrastructure will remain in
+place, and often the same places for very long periods of time.
+
+All of this might seen obvious, but to many people it isn't.  It's
+important to maintain and manage commons, and keep access to it as
+open as possible.  This extends to knowledge and creative works that
+encode or embody that knowledge.  Knowledge is a commons that everyone
+builds on top of.  To claim that one entity "owns" something that was
+only possible to build because of the previous work done by those who
+came before us is ludicrous.  And restricting access to knowledge that
+has been recorded and improved over many generations is both theft and
+has the effect of slowing or even stopping innovation and discovery
+that our species needs for surival.  It should literally be considered
+to be a crime against humanity.
+
+Creating new works that expand and extend and improve civilization are
+never done in isolation from what came before them, they like cow
+paths that turned into roads.  This is why all copyright law is based
+on the concept that knolwedge is a type of commons and that copyright
+is a /temporary/ monopoly granted to either restrict access to that
+knowledge to gain advantage over others -- power.  Or as an monetary
+incentive to create new works.  Both are weak and ultimately futile in
+the long term, but are effective and destructive in the long term.
+
+Knowledge is not a good or a service, and therefore can not be treated
+as property.  Anything that is not property is part of the commons
+and is owned by everyone.  Conflating insentives to create with
+ownership of something owned by everyone needs to stop.
 
 ** TL;DR
 ** References

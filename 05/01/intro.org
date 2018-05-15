@@ -1,0 +1,54 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Identity Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+
+* Identity Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/03/15/intro.org
+:Created:  2018-05-02T19:46@Prek Leap (11.642600N-104.919210W)
+:ID:       5820f0b9-5575-45a5-9bc2-d42545298fb1
+:VER:      578537235.441931968
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:OGR5-1388
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+
+
+
+      what is the origin of the military rule that junior officers speak first to
+      avoid intimidation by senior officers
+
+** References
+
+*** Dunbar Number
+
+- Dunbar, R. I., Neocortex size as a constraint on group
+  size in primates, Journal of human evolution, 22(6),
+  469–493 (1992).
+  http://dx.doi.org/10.1016/0047-2484(92)90081-J
+  cite:dunbar:1992neocortex
+- Wikipedia, , /Dunbar's number --- wikipedia, the free
+  encyclopedia/ (2017).
+  cite:wiki:2017dunbars-number
+

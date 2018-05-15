@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:  Volume XII. Economy  TOC
+#+TITLE:   Volume X. Governance  TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,74 +10,29 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../11/index.org][prev]]] [[[../13/index.org][next]]]
+[[[../index.org][top]]] [[[../09/index.org][prev]]] [[[../11/index.org][next]]]
 
-* Volume XII. Economy Table of Contents
+* Volume X. Governance Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/12/index.org
-:Created:  2018-04-29T17:11@Prek Leap (11.642600N-104.919210W)
-:ID:       9557e9bf-5685-455f-a104-b0cb02f18b5b
-:VER:      578268765.708788137
+:Name:     /home/deerpig/proj/chenla/warp/10/index.org
+:Created:  2018-04-24T10:11@Prek Leap (11.642600N-104.919210W)
+:ID:       8febaae7-fc6b-419c-ba8d-ad9c98560779
+:VER:      577811533.208022407
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:HCQ2-6562
+:BXID:     proj:ANX3-6584
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - Contents
- - [[./intro.org][Introduction]]
- - 00. Systems & Concepts
-   - Capitalism
-     - capitalization is bottom up, so it beat command and
-     control systems.
-     - cons. 
-     - ecological niche based -- fill the niche and let
-       competition regulate by killing off oversupply.
-     - positive feedback loops
-     - monopolies & centralization
-     - produces gluts
-     - encourages overconsumption
-     - wealth and power inequalities (hoarding)
-     - rent seeking (middlemen & corruption)
-   - Mixed Economies
-   - Socialism
-   - Guild Socialism : https://en.wikipedia.org/wiki/Guild_socialism
-   - Autogestion     : https://en.wikipedia.org/wiki/Economic_system#List_of_economic_systems
-   - Anarchism       : https://en.wikipedia.org/wiki/Anarchism
-   - Propietism      : https://en.wikipedia.org/wiki/Proprietism
-   - Syndicalism     : https://en.wikipedia.org/wiki/Syndicalism
-   - Collectivism    : https://en.wikipedia.org/wiki/Collectivism
- - 00 Requirements
-   - Stage I, II, II, IV
- - 00. Property
- - 00. Markets
-   - meant to address the weaknesses of capitalist systems
-     and reinforce and reward the parts that work.
- - 00. Chains 
-   - Generated Production Pipes (GPP)
-   - holarchies of steps each step represents people,
-     companies etc.
-   - dynamically assembled processes
-   - move away from companies as a physical unit
- - 00. Value
-   - Succession stage valuation models
-   - Energy Based Valuation
- - 00. Currencies
-   - physical weatlh backed by force
-   - symbolic wealth backed by physical weatlh
-   - symbolic wealth backed by belief
-   - ad hoc -- dynamically create and destroy
- - 00. Supply
- - 00. Production
- - 00. Logistics
-   - Modal Palletization
-   - Dabba Wallah Routing
-   - Quality Control Chains
-   - Transaction Flows
-   - Distributed Caches
- - 00. Commerce
- - 00. Consumption
- - 00. Recycling
+  - Contents
+  - [[./intro.org][Introduction]]
+  - 01. [[./01/index.org][Distributed Governance]]
+  - 02. [[./02/index.org][Articles]]
+  - 03. [[./03/index.org][Declaration]]
+  - 04. [[./04/index.org][Rights]]
+  - 05. [[./05/index.org][Duties]]
+  - 06. [[./06/index.org][Constitution]]
+  - 07. [[./07/index.org][Statutes]]

@@ -1,0 +1,209 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Citizens Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] | [[[./index.org][index]]]
+
+
+* Citizens Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/03/16/intro.org
+:Created:  2018-05-02T19:54@Prek Leap (11.642600N-104.919210W)
+:ID:       c675c8e7-f646-4813-8bf8-a0ce9b699d6a
+:VER:      578537710.047989230
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:AGP2-6022
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+
+Citizen Polis & Citizen Domus
+
+Polis as center of a nomes -- bioregion
+
+Domus is legal and physical, member/citizen of a domus has
+equity in that domus, and if they leave a domus, they can
+transfer that equity (buy in) to another domus.  Each domus
+belongs to at least one polis and the polis provides
+infrastruture for the nomes.
+
+Citizenship includes a social contract with any polis or
+domus they belong to.
+
+Children are wards of a domus until they come of age at 11,
+after which they are citizens, but not yet participating
+citizens, and at a later age 16-18 they become fully vetted
+voting citizens.
+
+----
+
+In societies where familes as base units have undergone a
+relentless fragmentation -- from band, to extended family,
+to nuclear family, to individual, to a splintered collection
+of roles that each individual is made up.  All humans, from
+the beginnings of our species began at least when Sapiens
+split off as a distinct subspecies.  It's quite plausible
+tht other subspecies such as Cro-Magnon and Neandrathal
+shared this with us. That transactional man that is divided
+into different specializations within a band (or pack)
+created different roles and individuals might hold multiple
+roles at the same time and at different times in their
+lives.
+
+But our identity was centered on the unit of organization
+that determined survival.  Membership of a band was the
+defining concept of self because you could not survive
+outside of the band.  Modern Man now has fractured as far as
+we can fracture, with our roles becoming increasingly
+distributed.
+
+Our concept of citizenship needs to adapt to this reality,
+and the idea of citizenship being based soley on membership
+in the nation-state which in most cases in which you were
+born is no longer flexible enough for the complex social
+fabrics that we belong to.
+
+I suggest that the concept of citizenship needs to change to
+reflect this.
+
+There is a distinction between citizen and member.  A member
+belongs to a group, and shares the privileges and
+obligations of that group.  But a citizen has equity, and
+shares in the liabilities of the group as well.  In this
+way, citizenship is a legal concept of membership, whereas
+membership is a far more loose and less enforced concept.
+
+Citizenship requires that members not only be liable but
+accountable to the group and this is done through legibility.
+
+We propose to move the concept of citizen to being a citizen
+of a polis, and a citizen of a domus.
+
+This does not preclude citizenship in traditional
+nation-states, and for the forseeable future this will be
+unavoidable for practically everyone.
+
+
+   - ancient greek sense of citizen of a polis which was
+     defined as a means of distinguishing citizens from
+     slaves.
+
+#+begin_quote
+It can be argued that this growth of slavery was what made
+Greeks particularly conscious of the value of freedom. After
+all, any Greek farmer might fall into debt and therefore
+might become a slave, at almost any time ... When the Greeks
+fought together, they fought in order to avoid being
+enslaved by warfare, to avoid being defeated by those who
+might take them into slavery. And they also arranged their
+political institutions so as to remain free men.
+
+— Geoffrey Hosking, 2005 
+#+end_quote
+
+#+begin_quote
+From Lat. civix ‘citizen’, civilis ‘civil, pertaining to
+city’, civitas ‘civil community, city’. The Early Antiquity
+is an epoch which distinguished between ‘citizens’ and
+‘non-citizens’ or, according to Aristotle, ‘freemen’ and
+‘slaves by nature’.
+
+— cite:diakonoff:1999paths-history
+#+end_quote
+
+
+   - define more as obligation to the group, than rights
+     bestowed on members of that group.
+   - citizenship and self-identity as member of a nation
+   - enity model?  cascade?
+   - overlaping ?
+
+   - private and public
+   - citizens are not simply members of a group
+
+
+   - define citizen -> broadly, anything with self agency
+     that is part of the system that is entitled to rights,
+     benifits and obligations.  This is broader than humans,
+     we need to include a wide range of the cognitive specturm.
+   - what you get & what you give
+
+   - the family unit
+   - inheritance
+ 
+   - rights
+     - basic income a little below happiness threshold
+   - obligations
+   -
+
+** rules of cooperation
+
+*privacy* is a reasonible expection that that different
+roles in a person or organization are compartmentalized so
+that they are not visible to other people and organizations
+unless that access is granted.  However, if a person or
+organization violates established norms as set by a
+relationship between two parties then that privacy may be
+violated.
+
+*transparency* is a reasonable expectation that when two
+parties iteract for a particular purpose, that both parties
+are able to see what the other party is doing or has done to
+ensure that both parties are within the bounds set by the
+activity they are taking part in.  I guess each party can be
+thought of as a stakeholder.
+
+*accountability* that if one or more parties cooperating for
+a particular purpose breaks the agreement, that there is a
+mechanism to ensure that the stakeholder that violates the
+conditions they agreed to makes good on that agreement and
+that this can be enforced.
+
+
+At the two ends of the spectrum is the conflict between
+anonymity and legiblity:
+
+
+*anonymity* is limited to an audience and or a role.  There
+is no reason why a society can't allow anonymity so long as
+the role that uses it doesn't cross over into actions that
+are not socially acceptable.  The problem with this is how
+states and other's in power define "what is acceptable".  In
+repressive regimes the answer is usually, 'not fucking
+much'.  Anonymity is needed as part of a mechanism for
+accountibility.
+
+*legibility* is the ability for someone (usually a state) to
+treat a person and whatever assets and wealth they have
+transparent (visible).  Traditionally this is for collecting
+taxes, conscription, and to thwart attempts to challenge the
+state.  So legibility is simply a kind of imposed
+transparency by a State.
+
+The State is concerned mostly with speech and property. 
+
+
+Without an identity model that sets the parameters for
+behavior and boundries for individuals and groups, we get a
+panopticon and ultimately a disfunctional society.  All
+individuals, stakeholders and organizations are held to the
+same expectation of privacy, transparency and negative
+feedback loops that ensure accountability.  All three have
+to be in balance.

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Declaration Introduction
+#+TITLE: Incantation Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Declaration Introduction
+* Incantation Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/03/intro.org
-:Created:  2018-05-06T11:08@Prek Leap (11.642600N-104.919210W)
-:ID:       a53c53bc-b8aa-4dbd-9dbb-628a20eac289
-:VER:      578851748.279276131
+:Name:     /home/deerpig/proj/chenla/warp/08/03/intro.org
+:Created:  2018-05-05T18:20@Prek Leap (11.642600N-104.919210W)
+:ID:       3990f876-10b9-425c-ae4a-dc6e78e531eb
+:VER:      578791280.240490291
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:MGE2-3413
+:BXID:     proj:UYN1-4524
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -33,7 +33,4 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 ** References
-
-
-
 

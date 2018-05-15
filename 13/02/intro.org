@@ -1,0 +1,56 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Intrastructure Systems Introduction 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Intrastructure Systems Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/11/02/intro.org
+:Created:  2018-05-08T18:45@Prek Leap (11.642600N-104.919210W)
+:ID:       dad0c0e0-a90d-4cce-a7c0-7f0f7a7bdc24
+:VER:      579051981.535199988
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:FSO5-8330
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+Much of infrastructure can be understood as types of systems made up
+of stores and flows and regulated by negative feedback loops.
+Infrastructure dynamically changes to meet the needs it is built for.
+Over time infrastructure is abandoned, or dismantled, expanded,
+upgraded or downsized. In many industrialized states, many railway
+lines were abandoned, and at the beginning of this century, the global
+network of "pay telephones" have largely been dismantled, and in
+developing economies never built in the first place.  While whole new
+classes of infrastructure have undergone enormous change.  State
+regulation of spectrum, which is a sort of natural resource for
+wireless communications was very crudely regulated and allocated.
+Technological advances has made large amounts of spectrum, both wide
+and narrow useful.  In the 20th century only a narrow part of
+bandwidth was regulated and even then, used for radio communications,
+and broadcast of television signals.  In some countries some of the
+spectrum for television broadcasts have been repurposed for
+communications as video transmission was first digitized and moved to
+high speed optical fiber networks.
+
+** TL;DR
+** References
+
+

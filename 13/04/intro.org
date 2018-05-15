@@ -1,0 +1,50 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Material Infrastructure Introduction 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Material Infrastructure Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/11/04/intro.org
+:Created:  2018-05-08T19:13@Prek Leap (11.642600N-104.919210W)
+:ID:       aa81dca1-77ec-403a-ad2b-7d543c617cff
+:VER:      579053700.728804802
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:LOK4-3262
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+Most of the time, when people talk of infrastructure they mean
+Material Infrastructure which includes roads, bridges, electrical
+grids, phone networks, water and waste utilities, garbage pickup etc.
+Material infrastructure includes flows and stores of Matter, Energy
+and Information.
+
+While we are here on earth we think of the atmosphere, which is a
+mixture of gases within a range of atmopheric pressure to be a natural
+resource.  However, as man begin to moves into space and throughout
+the solar system, the atmosphere will be perhaps the single most
+critical type of infrastructure.
+
+
+** TL;DR
+** References
+
+

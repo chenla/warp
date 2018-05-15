@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Identity Introduction
+#+TITLE: 2.7.1 Points of View
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,42 +13,80 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-what-is-pov.org][next]]]
 
-
-* Identity Introduction
+* 2.7.1 Points of View | Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/15/intro.org
-:Created:  2018-05-02T19:46@Prek Leap (11.642600N-104.919210W)
-:ID:       5820f0b9-5575-45a5-9bc2-d42545298fb1
-:VER:      578537235.441931968
+:Name:     /home/deerpig/proj/chenla/warp/intro.org
+:Created:  2018-03-19T19:09@Prek Leap (11.642600N-104.919210W)
+:ID:       cceb8184-21ef-4fb0-9b5f-933e484f7e9f
+:VER:      574733452.681672429
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:OGR5-1388
+:BXID:     proj:FVG7-8542
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
 ** TL;DR
 
+#+begin_comment
+This obviously has to be rewritten so that it is a summary
+rather than given as an specific example used as summary. 
+#+end_comment
 
+The premise is that it is helpful to always understand the
+Point of View (POV) -- or perspective that you are looking
+at something because when you change your POV you change the
+context of what you are seeing and will often see things you
+didn't see before, or even see things in a completely
+different way than you saw before.
 
-      what is the origin of the military rule that junior officers speak first to
-      avoid intimidation by senior officers
+We define three different perspectives:
 
-** References
+  - LOD : Level of Detail
+  - ROC : Rate of Change
+  - POC : Process of Change
 
-*** Dunbar Number
+These three POVs form the foundation for how everything else
+*everything* in APPL, Primer & Hoard are understood.
 
-- Dunbar, R. I., Neocortex size as a constraint on group
-  size in primates, Journal of human evolution, 22(6),
-  469–493 (1992).
-  http://dx.doi.org/10.1016/0047-2484(92)90081-J
-  cite:dunbar:1992neocortex
-- Wikipedia, , /Dunbar's number --- wikipedia, the free
-  encyclopedia/ (2017).
-  cite:wiki:2017dunbars-number
+Each POV becomes increasingly more complex and abstract, but
+each builds on the one before and let's you see the same
+thing from a different perspective.  It does not negate the
+other POVs so much as enriches them and provides a more
+powerful toolbox for modeling and understanding.
+
+For example, let's look at the Origin Story that will start
+the Primer.
+
+The Origin LOD is basically Big History -- a linear timeline
+with a beginning (big bang) middle (from BB to now) and the
+end (projected heat death of the universe).  The narrative
+is organized around tipping points where complexity reaches
+a critical mass that changes the nature of the universe, and
+then later life on earth and eventually us.  This is a
+fantastic narrative and is a perfect way of easing people
+into the origin story which can be understood like any other
+origin story.
+
+The Origin ROC is basically a finer grained version of Big
+History that uses the concept of causal propagation (think
+Light Cones) to understand that different things change at
+different speeds and that all of these things are mixed
+together.  It's the embodiment of Gibson's the future is
+already here isn't just not evenly distributed.  Brand's
+Pace-Layers is a good way of understanding this, as well as
+Light Cones and causal propagation of change happening at
+the speed of light but making the point that the speed of
+light is the maximum speed that things can propagate, most
+things are propagating far slower.
+
+--------
+
+Taken together these three models will give us a set of
+powerful tools for understanding, planning, building, and
+maintaining civilizations.
 

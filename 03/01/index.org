@@ -1,13 +1,10 @@
 #   -*- mode: org; fill-column: 60 -*-
-
-#+TITLE: 01. Identity TOC
 #+STARTUP: showall
-#+TOC: headlines 4
-#+PROPERTY: filename
+#+TITLE:  Points of View TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -15,45 +12,32 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. Identity Table of Contents
+* Points of View Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/01/index.org
-:Created:  2018-03-29T09:09@Prek Leap (11.642600N-104.919210W)
-:ID:       bd5b12ce-204d-45b8-a9ab-16e7b257dd11
-:VER:      575561455.777177804
+:Name:     /home/deerpig/proj/chenla/warp/02/01/index.org
+:Created:  2018-04-20T17:20@Prek Leap (11.642600N-104.919210W)
+:ID:       5b67c7d7-3a29-4443-9bf2-e9cf57bba9d5
+:VER:      577491703.085507570
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:SVJ0-3331
+:BXID:     proj:EPR5-5420
 :Class:    primer
-:Type:     work
+:Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./intro.org][Introduction]]
-  - Legibility
-  - Rights
-    - Property -> ownership of wealth and property
-    - Accountability
-    - Obligations ->
-  - An Identity Model
-    - External Identities
-    - Internal Identities
-    - What the model is not
-      - not a label, lifestyle choice, class, nationality,
-        gender (biological or self-assigned), sexual
-        orientation, generation, occupation, ethnic group
-        (aka race), religious, ideological or political
-        belief or affiliation).
-      - Individuals
-      - Groups
-  - Social Paritioning
-  - Privacy
-  - Access Control
-  - Authentication
-  - Life Stages
-  - Enity Model
-    - Identity
-    - Persona
-    - Roles
+  - Table of Contents
+  -[[./intro.org][ Introduction]]
+  - 01. [[./01-what-is-pov.org][What is a Point of View?]] (POV)
+  - 02. [[./02-cognitive-pov.org][POV as a Cognitive Tool]]
+  - 03. [[./03-objective-pov.org][Defining Objective POVs]]
+  - 04. [[./04-lod.org][Level of Detail]] (LOD)
+  - 05. [[./05-roc.org][Rate of Change]] (ROC)
+  - 06. [[./06-poc.org][Process of Change]] (POC)
+  - 07. [[./07-as-povs.org][LOD, ROC and POC as Points of Views]]
+  - 08. [[./08-scale.org][Scale]]
+  - 09. [[./09-narrative.org][Narrative]]
+  - 10. [[./10-propagation.org][Propagation]]
+  - 11. [[./11-process.org][Process]]
+

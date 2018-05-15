@@ -1,0 +1,92 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Commons Introduction 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+
+* Commons Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/11/01/intro.org
+:Created:  2018-05-08T18:18@Prek Leap (11.642600N-104.919210W)
+:ID:       ce57a72e-57df-4cb5-93d9-d09554251dc5
+:VER:      579050367.047296391
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:KFK5-5325
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+
+Commons is a general term for shared resources in which each
+stakeholder has an equal interest.  Infrastructure can be
+thought of as a sort of hybid commons.  Infrastructure
+connects things together, provides a control structure for
+flows of material, energy, and information.  At any given
+time, any piece of infrastructure may be owned and
+controlled privately, or collectively.  But because that
+infrastructure is critical to maintaining a functional
+system or society, private infrastructure might be
+nationalised and national infrastructure privatized.  This
+creates a kind of negative feedback loop that ensures that
+that infrastructure remains in place and functional.
+
+In a post-scarcity civilization, the concept of the commons
+will be displace many things that are treated as being
+owned, by a person or corporate body and this will be most
+pronounced in a new concept of infrastructure as more
+of a commons than property that is equally shared.  In fact
+the entire concept of commons as property could be be
+redefined as a common equally shared resource.
+
+
+** TL;DR
+
+- Private & Public
+     Even when infrastructure is privately owned, if it is
+     essential to maintaining civilization, States have
+     always had the option of either nationalizing or
+     privitizing. This provides a negative feedback loop.
+
+     New Classes of Infrastructure nearly always begin in
+     the private sector and eventually become public and are
+     increasingly regulated as it becomes a critical part of
+     civilization.
+- Nationalization & Privitization
+     If private infrastructure goes off the rails (so to
+     speak) is may be nationalized, reorganized and run as a
+     public utility.  If State management becomes too
+     inefficient or corrupt, infrastructure may then be
+     privatized. Many examples.
+- Right of Way
+- Self-Owned
+     In United States corporate law, a private incorporated
+     company has nearly all the same rights as an
+     individual.  This brings up the possibility of AI's
+     being self-owned corporations with no human owners.
+   
+     A self-driving car not having an owner, but instead sells
+     it's services to transport people and goods, and the
+     revenue used go to fuel, repairs and saving to replace
+     itself with a new vehicle.
+
+
+
+** References
+
+

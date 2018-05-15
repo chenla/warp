@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume VI. Heliosphere TOC
+#+TITLE:   Volume IV. Methodologis TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -10,17 +10,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../05/index.org][prev]]] [[[../07/index.org][next]]]
+[[[../index.org][top]]] [[[../03/index.org][prev]]] [[[../05/index.org][next]]]
 
-* Volume VI. Heliosphere Table of Contents
+* Volume IV. Methodologies Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/06/index.org
-:Created:  2018-04-28T17:23@Prek Leap (11.642600N-104.919210W)
-:ID:       c64c4a15-b18b-4c66-b80d-3cc0b3a08b67
-:VER:      578183048.067515195
+:Name:     /home/deerpig/proj/chenla/warp/04/index.org
+:Created:  2018-04-19T17:39@Prek Leap (11.642600N-104.919210W)
+:ID:       7aaebda4-0ce0-458d-ae16-8bb3ce499e09
+:VER:      577406418.376323447
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:JHM2-6853
+:BXID:     proj:BCF6-0554
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -29,6 +29,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
- - 01. [[./01/index.org][Habitats]]
- - 02. [[./02/index.org][Heliosphere]]
- - 03. [[./03/index.org][Biospheres]]
+ - 01. [[./01/index.org][The Way]]
+ - 02. [[./02/index.org][Cycles]]
+ - 03. [[./03/index.org][Rules]]
+ - 04. [[./04/index.org][Workflow]]
+ - 05. [[./05/index.org][Replicators]]
+ - 06. [[./06/index.org][Fabrication]]
+ - 07. [[./07/index.org][Agency]]
+
+

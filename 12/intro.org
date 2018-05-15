@@ -1,29 +1,30 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Volume XII. Economy Introduction
+#+TITLE: Volume IX Articles Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[./index.org][up]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Volume XII. Economy Introduction
+
+* Volume IX Articles Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/12/intro.org
-:Created:  2018-04-29T17:21@Prek Leap (11.642600N-104.919210W)
-:ID:       f79d80a5-4060-4e2a-b60a-fcc7e90a55e7
-:VER:      578269330.325224032
+:Name:     /home/deerpig/proj/chenla/warp/09/09/intro.org
+:Created:  2018-04-24T10:14@Prek Leap (11.642600N-104.919210W)
+:ID:       c2803cbe-e131-42de-a794-0a8c3ef35495
+:VER:      577811710.843989301
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:BVD2-8622
+:BXID:     proj:HUB3-7112
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -32,257 +33,120 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+Articles outlines the broad requirements for constructing a
+generative grammar for building organizational and legal
+governance frameworks for a distributed, federated human
+civilization.  It must scale, so that it can handle a global
+or pan-solar civilization, and that subsets of the framework
+can then be used to generate a framework for governance of
+any corporate body, public and private large and small.
+
+This is both feasible and desirable as over the past two
+hundred years we're getting better and better at building
+systems of governance.  Mankind has been refining
+democractic, egalitarian state and corporate structures that
+build on their predecessors rather than starting from
+scratch.  The exceptions have always been autocractic,
+ideological extremist, theocratic states that have /all/
+failed which have not just failed but failed spectacularly,
+causing untold misery and suffering.
+
+There are a few caveats -- we need to address how present
+systems fail, and the fact that there is a built-in scaling
+problem that result from hard-coded human cognitive and
+social limitations.  In other words, humans don't scale
+well.  But we are very good at building networks that /can/
+scale which largely are limited by propagation, by physics
+-- how fast information, people and goods can propagate
+through a network.
+
+The idea of a network of states under one broad flexible
+system of governance is far from a new idea.  It was not
+only tried, but some argue that it was the most successful
+system of pluralistic governance in history.  I am talking,
+of course, about the Mongol Empire.
+
+So, if we can combine the two, keeping organizations at
+human scale, and network them together, we will only be
+limited, quite literally by the speed of light.  This means
+that such a civilization spanning the entire solar system is
+practical.
+
+Piece of cake, huh?
+
 ** TL;DR
 
-#+begin_comment
-I'm hesitating to commit to this outline because the model
-that is emerging is bluring the line between private and
-public sectors -- private is becoming more public and public
-more private.  If the private sector falls under the same
-rules and the public, and the governance mechanisms are
-distributed so that power naturally propagates to the edge
-rather than collect into pools at the center.
+For a decentralized system to work, it must also have
+negative feedback loops in place that keep it decentralized
+and egalitarian, this has to be voluntary, with the members
+who agree, getting in return a better life and would.  It
+must be affirmed and reinforced every day or it will be
+lost.
 
-If so, an economy that is close to what we have today will
-not be the same over time.
+That in the heart of the new social contract. No more zero
+sum anything, the only zero sum game is the biggest one of
+all, humanity and civilization we all win together or we all
+fail together.  And anyone who thinks we're not in it
+together is delusional.
 
-Part of the reason in a free-market based economy that
-government is so big is that there are so many things that a
-free-market doesn't do well.  Without a profit motive
-free-markets won't do anything.  And if you try to turn
-public sector functions you get mixed results because many
-things have to be done without trying to make a profit.
-This then becomes a distribution problem as much as anything
-else.
+This why the theses, rule sets and articles are so
+important, we all get rights, but we all equally except that
+we also have a duty to each other and to our future.  You
+will loose your rights if you neglect your duty.
 
----
+Mindless consumerism only has selfish gratification at its
+core, no purpose or meaning, and the lie that gratification
+is the same as happiness
 
-Was just scanning through all of the different economic
-models that have been tried or proposed, and I find it
-striking that they are almost all completely top town, and
-based on clear and simple rules that don't leave much room
-when things go wrong, or, like anarchism and
-market-captialism are completely free of rules and are based
-on the belief that economic systems are self-organizing and
-regulating.  There isn't a lot of creative thinking going on
-here.  Their models of human nature, limitations and
-cognitive bias are equally simplistic.  I suspect that they
-mostly assume that these models can scale to any size, and
-that different models might work at specific scales and
-their corresponding level of complexity but not at smaller
-or greater scales.
-
-Regulated Capitalism is sort of the best of the worst
-because it is based on a flexible bottom-up model that can
-adapt to chaotic unpredictible systems.  But it is also
-requires large bureaucratic infrastructure and state-owned
-services which can fill in the gaps that markets are not
-good at filling. 
-
-There are bits and pieces in most of the systems that are
-worth adapting and incorporating.
-
-So let's start by coming up with a basic list of things that
-people seem to require because of the ecolological niche we
-were designed to fill.
-
-We can only keep a limited number of things in our heads at
-one time, two is fine, three is pushing it, more than that
-is impossible without using some kind of system like writing
-to store more items so we can load and unload different
-parts of the problem and work towards a solution that would
-otherwise be impossible.  This places a limit on how many
-relationships we can maintain with other people.  Above
-these limits such as Dunbar's number, things break down.
-We're not good at scaling, except for brief periods for an
-event, festival, or to accomplish a group activity like
-seasonal Mastadon or caribou hunts.  During such events,
-resources are plentiful and there is less competitive
-pressure between people.  But it doesn't last long, and if
-we don't disband and move away from each other things fall
-apart.  Our inability to keep more than a few things in our
-working memory at a time also limits how much we can
-cooperate and how abstract trading resources can become
-without externalizing them.
-
-We are pack animals which naturally create hierarchies
-within groups -- leaders, followers etc.  We leverage our
-large cerebral cortex so that we use a transactional system
-so that different members maintain different specialized
-knowledge.
-
-We are territorial, we establish territories as individuals
-and as groups.  This leads to conflict when more than one
-group is competing for the same resources.  This problem was
-compounded by the agracultural revolution because our
-territories became fixed an inflexible.
-
-We instinctively collect more than we need as a buffer for
-when resources are scarce.  Like squirels saving nuts for
-the winter.  That instinct leads to hoarding and greed at
-the expense of others in the group or other groups.
-
-We are not good at planning for time scales larger than
-human life times.  We have sometimes managed to create
-systems that can be passed down to many generations which
-are stable, but the actions and decsions are still short
-term and within living memory.  We feel strong connection to
-our grand parents and on the other side, our grandchildren,
-but not much farther in the past or into the future.
-
-So some forms of property seem to be unavoidable, but
-property can be owned indivudally or collectively.  So long
-as people feel in control of the property that they interact
-with, even if it is for short periods of time, we seem to do
-okay.
-
-Currencies seem to be unavoidable, but because they are
-universal tokens that can be used to obtain any kind of
-resource they are naturally hoarded.  Is it possible to
-build currency systems that, when combined with group
-ownership and other feedback systems that ensure that
-hoarding is not needed because there is no danger of
-scarcity?
-
-Nomadic cultures keep posessions to a minimum, and feel more
-secure in some respects because they know that if resources
-are scarce in one place they can go somewhere else to find
-them.  Sedantary pastorial agricultural cultures that later
-concentrate into cities are stuck where they are, and can't
-move when resources are scarce so stocks are the only way to
-compensate for that.  Nomadic cultures are based around
-flows.
-
-Man seems to be designed to be a little of both, no one or
-the other.  We like to stay put when things are comfortable
-and plentiful, but get bored if we stay for too long and end
-up fighting with each other.  Routines which are too regular
-and are continued too long are not healthy.  One good thing
-about pastorial agrictulture and nomads is that seasons
-bring variety of diet and activities.  Industrial
-civilization has made everything available everywhere year
-round -- this is not healthy.
-
-#+end_comment
-
-
-An economy cuts a pretty broad swath of a civilization:
-
-#+begin_quote
-An economy is an area of the production, distribution, or trade, and
-consumption of goods and services by different agents. Understood in
-its broadest sense, 'The economy is defined as a social domain that
-emphasizes the practices, discourses, and material expressions
-associated with the production, use, and management of resources.
-
-....
-
-A given economy is the result of a set of processes that involves its
-culture, values, education, technological evolution, history, social
-organization, political structure and legal systems, as well as its
-geography, natural resource endowment, and ecology, as main
-factors. These factors give context, content, and set the conditions
-and parameters in which an economy functions. In other words, the
-economic domain is a social domain of human practices and
-transactions. It does not stand alone.
-
--- Economy | Wikipedia
-   https://en.wikipedia.org/wiki/Economy
-#+end_quote
-
-Different kinds of economies achieve this in different ways.  Market
-economies use barter or a medium of exchange (money) to achieve this
-according to supply and demand.  The assumption is, that if there is a
-need for something, someone will find a way of filling that need
-through production of goods and services.  All in all this system is
-messy and leaves a great deal of room for abuse, but is better than
-the alternatives because it is at base, a bottom up approach where the
-purpose of production is to meet needs.  In a command-based an
-authority (usually political) controls how things are produced and
-distributed.  Because of the complexity of even fairly small
-economies, it is for all all intents and purposes impossible to
-anticipate needs, plan production and coordinate distribution anywhere
-close to as well as market-based economies can do.  This doesn't mean
-that market-economies are perfect, far from it, but to date it's
-better than the alternatives that have been tried.  Market-eonomies
-which are regulated to ensure that the markets are both free and fair
-minimize the worst in market-economies which quickly go off the rails
-if there is not substantive regulation.  Unregulated market-economies
-are called free-markets, and they are as bad and in some ways worse
-than command-economies.  This has not stopped many people believing
-that free-economies supply and demand is a self-regulating system, and
-that if all regulation was removed it would result in a capitalist
-self-regulating utopia.  What they forget is that at the beginning of
-the industrial revolution mass production created just this kind of
-self-regulated system and it resulted in truly horrible behavior.
-
-Unfortunately, economies today assume that anything bartered or traded
-must be either goods or services.  All goods are a form of property
-which has an owner.  The word property also means land, which under
-the present system also has an owner, even if that owner is a diety.
-
-Services, on the other hand, treat work-done on behalf of someone else
-as a kind of property as well.  Work is energy expended to do
-something.  Services are usually measured in increments of time, and
-the value of a service is determined by how easy or difficult the work
-done is.
-
-The problem with this system is that it doesn't account for
-information, which until a few decades ago could only be used as
-physical goods that stored information, such as a book, musical
-recording or video tape.  Information could also be treated as a
-service in the form of transmission information, or in the form of a
-performance such as a concert.
-
-The digital revolution made it possible for the cost of storing and
-transmitting information so cheap that for all practical purposes it
-became free.  Treating information as either goods or services was
-not a very good fit.  So, the concept of copyright and design patents
-were invented to treate specific arrangements of information as
-property in their own right.  This worked well when physical
-recordings the norm because you weren't selling information, just an
-object whose value came from the information recorded on the object.
-
-When all of these objects were replaced by digitized information
-transmitted essentially for free over the Internet there was no way to
-monetize information beause transmission of information makes no
-distinction of what is being transmitted.  Transission works fine as a
-service, but without physical objects to sell, the producers of
-information no longer had means of earning a living from it.
-
-Copyright literally means the right to copy, but that was when what
-was copied was a physical object which is property with an owner.  If
-you take away my copy of physical object then I no longer have that
-object, that object as wealth has been taken or transfered to a
-different owner.  But digital copies that are not permanent physical
-objects can be copied and transmitted for free without depriving the
-person the copy was made from of their copy.  Ownership is a zero-sum
-process that tranfers one thing from one owner to another.  If
-something is not a zero-sum transfer, then it no longer functions as
-property.  So the concept of copyright changed to mean that the person
-who owned the original copy also effectively owned all copies made of
-it, whether they were physical or not.  This has not worked out very
-well.
-
-As more and more wealth becomes information that is not tied to a
-physical object, the base assumption of market-economies based on
-zero-sum transfer of work and goods becomes increasingly unstable.
-
-This is set to become even more complicated as AI systems become smart
-enough to autonomously control machines.  Does a self-driving car need
-an owner?  The entire assumption that all agents are human beings
-because only human beings are capable of being autonomous and
-self-directing becomes as unstable as treating information as
-property.
-
-Newspapers are an interesting case, because they are both goods and
-services.  The physical printed paper are goods.  Advertisements 
-are an announcement service that broadcasts messages to large numbers
-of people, a one-to-many service.  Newspapers as businesses are just
-announcement services where money is made by those who want to
-broadcast announcements.  The news iself is also a broadcast service
-without a monitizaton model.  With little to no money, one small
-company, called Craig's List wiped out the majority of tranditional
-newspaper's revenue, classified ads.
 ** References
 
+  - American Humanist Association, /Humanism and its aspirations: humanist
+    manifesto iii./ (2003).
+    cite:aha:2003humanism
+  - United Nations, Universal declaration of human rights, UN General
+    Assembly, (), (1948).
+    cite:un:1948udhr
+  - Wikipedia, /Universal declaration of human rights --- Wikipedia,
+    the free encyclopedia/ (2018).
+    cite:wiki:2018universal-declaration
+  - Keen, A., How to fix the future: staying human in the digital age
+    (2018), : Atlantic Monthly Press.
+    cite:keen:2018fix-future 
+
+*** Mondragon System
+
+  - Bradley, K., & Gelb, A., Cooperation at work: the
+    mondragon experience (1983), : Heinemann Educational
+    Books.  cite:bradley:1983cooperation
+  - Cheney, G., Values at work: employee participation meets
+    market pressure at mondragón (1999), : ILR Press.
+    cite:cheney:1999values
+  - Greenwood, D. J., & Santos, J. L. G., Industrial
+    democracy as process: participatory action in the fagor
+    cooperative group of mondragon (1992), : Van Gorcum.
+    cite:greenwood:1992industrial
+  - ICA, , /Co-operative identity, values & principles/
+    (1995).
+    cite:ica:1995co-op-identity
+  - Kasmir, S., The myth of mondragon: cooperatives,
+    politics, and working-class life in a basque town
+    (1996), : State University of New York Press.
+    cite:kasmir:1996myth-mondragon
+  - Roelants, B., & Bajo, C. S., Capital and the debt trap:
+    learning from cooperatives in the global crisis
+    (2011), : Palgrave Macmillan.
+    cite:roelants:2011debt-trap
+  - Thomas, H., & Logan, C., Mondragon: an economic analysis
+    (1982), : G. Allen & Unwin.  cite:thomas:1982mondragon
+  - Whyte, W., Making mondragon: the growth and dynamics of
+    the worker cooperative complex (1991), : ILR Press.
+    cite:whyte:1991making
+  - Wikipedia, , /Autarky --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018autarky
+  - Wikipedia, , /Rochdale principles --- Wikipedia, the
+    free encyclopedia/ (2018).
+    cite:wiki:2018rochdale-principles
+  - Wikipedia, , /Mondragon corporation --- Wikipedia, the
+    free encyclopedia/ (2018).
+    cite:wiki:2018mondragon-corp
