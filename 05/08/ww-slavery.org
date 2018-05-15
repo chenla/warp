@@ -16,7 +16,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Slavery
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-slavery.org
+:Name:     /home/deerpig/proj/chenla/warp/05/08/ww-slavery.org
 :Created:  2018-03-28T09:28@Prek Leap (11.642600N-104.919210W)
 :ID:       afbba1aa-d17d-493e-bb03-5ca3a55a7c93
 :VER:      575476165.124590766

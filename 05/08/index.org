@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 08. Surpluses Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/08/index.org
+:Name:     /home/deerpig/proj/chenla/warp/05/08/index.org
 :Created:  2018-03-28T09:26@Prek Leap (11.642600N-104.919210W)
 :ID:       b9308444-6373-4863-9048-94908f7497c3
 :VER:      575476039.252820558

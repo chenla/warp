@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Energy Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/20/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/05/06/intro.org
 :Created:  2018-05-03T09:06@Prek Leap (11.642600N-104.919210W)
 :ID:       44c5a16c-ddef-4d4a-991d-a2469a809c14
 :VER:      578585225.896101433

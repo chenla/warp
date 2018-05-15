@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Polis Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/17/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/05/03/intro.org
 :Created:  2018-05-02T20:04@Prek Leap (11.642600N-104.919210W)
 :ID:       cb959c16-3d49-4f34-add2-8dc9c26a1232
 :VER:      578538341.306288763

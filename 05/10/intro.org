@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Succecssion Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/24/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/05/10/intro.org
 :Created:  2018-05-03T09:38@Prek Leap (11.642600N-104.919210W)
 :ID:       d0bcd51e-826f-44e0-bc74-3a13e011fb02
 :VER:      578587164.589052977

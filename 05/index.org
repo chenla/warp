@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume III. TOC
+#+TITLE:   III. Components TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../02/index.org][prev]]] [[[../04/index.org][next]]]
 
-* Volume III. Table of Contents
+* III. Components Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/index.org
+:Name:     /home/deerpig/proj/chenla/warp/05/index.org
 :Created:  2018-04-18T10:07@Prek Leap (11.642600N-104.919210W)
 :ID:       b9f20653-7ad7-4e9e-969e-1a9b49293e54
 :VER:      577292917.106278810
