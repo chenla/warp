@@ -31,7 +31,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 
-#+begin_center
 A [SYNOPSIS|PROLEGOMENON|DRAFT] OF 
 
 CANTOS I-XV
@@ -40,13 +39,24 @@ THE WARP & WOOF
 
 ---
 
-I-XV      principles & parameters
+I-XV  principles & parameters
+
+  - synopsis             2018 
+  - proleg               2019
+  - Cantos I-V     draft 2020
+  - Cantos VI-VIII draft 2021
+  - Cantos XiV-XV  draft 2022
+
 XVI-XXV   patterns & definitions
+  - synopsis 2018
+  - proleg   2020
 XXVI-XXX  scources & schemas
+  - synopsis 2018
+  - proleg   2020
 
 
 PHNOM PENH
 CHENLA SCOPIC PRESS
 [2018|2020]
-#+end_center
+
 
