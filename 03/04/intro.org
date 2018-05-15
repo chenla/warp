@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Patterns Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/12/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/03/04/intro.org
 :Created:  2018-05-06T16:05@Prek Leap (11.642600N-104.919210W)
 :ID:       8d09659e-5243-4b15-8aa3-479c54dc08ae
 :VER:      578869602.231478370

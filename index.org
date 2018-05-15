@@ -54,16 +54,15 @@ bibliography:../hoard/bib.bib
 
  [[./02/01/index.org][Points of View]]
 
-** III.  (II) Frameworks
- - [[./03/index.org][Contents]
- - [[./03/intro.org][Introduction]
- - 01. [[./03/01/index.org][Dualities]
- - 02. [[./02/02/index.org][Generators]
- - 03. [[./02/03/index.org][Systems]
- - 04. [[./02/04/index.org][Patterns]
- - 05. [[./02/05/index.org][Standards]
- - 06. [[./02/06/index.org][Legibility]
-
+** III. Frameworks
+ - [[./03/index.org][Contents]]
+ - [[./03/intro.org][Introduction]]
+ - 01. [[./03/01/index.org][Dualities]]
+ - 02. [[./03/02/index.org][Generators]]
+ - 03. [[./03/03/index.org][Systems]]
+ - 04. [[./03/04/index.org][Patterns]]
+ - 05. [[./03/05/index.org][Standards]]
+ - 06. [[./03/06/index.org][Legibility]]
 ** IV. Scaffolds
  [[./02/04/index.org][Scaffolds]]
 

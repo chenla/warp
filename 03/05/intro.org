@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Standards Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/13/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/03/05/intro.org
 :Created:  2018-05-06T16:13@Prek Leap (11.642600N-104.919210W)
 :ID:       f773c71e-fe61-469f-9abb-511987c3eba5
 :VER:      578870053.051189268

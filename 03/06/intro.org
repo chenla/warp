@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Legibility Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/08/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/03/06/intro.org
 :Created:  2018-05-12T21:30@Prek Leap (11.642600N-104.919210W)
 :ID:       12d15437-5652-4474-9945-802cc67ffec0
 :VER:      579407522.294869752

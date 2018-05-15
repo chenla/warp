@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume III. Frameworks TOC
+#+TITLE:   III. Frameworks TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../01/index.org][prev]]] [[[../04/index.org][next]]]
 
-* Volume III. Frameworks Table of Contents
+* III. Frameworks Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/03/index.org
@@ -28,11 +28,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - [[./intro.org][Introduction]
-  - 01. [[./01/index.org][Dualities]
-  - 02. [[./02/index.org][Generators]
-  - 03. [[./03/index.org][Systems]
-  - 04. [[./04/index.org][Patterns]
-  - 05. [[./05/index.org][Standards]
-  - 06. [[./06/index.org][Legibility]
+  - [[./intro.org][Introduction]]
+  - 01. [[./01/index.org][Dualities]]
+  - 02. [[./02/index.org][Generators]]
+  - 03. [[./03/index.org][Systems]]
+  - 04. [[./04/index.org][Patterns]]
+  - 05. [[./05/index.org][Standards]]
+  - 06. [[./06/index.org][Legibility]]
 
