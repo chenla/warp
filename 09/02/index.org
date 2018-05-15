@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 02. Big History Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/02/index.org
+:Name:     /home/deerpig/proj/chenla/warp/09/02/index.org
 :Created:  2018-04-24T11:52@Prek Leap (11.642600N-104.919210W)
 :ID:       84b7e21f-8060-49fa-a8ea-502c86555924
 :VER:      577817614.658258601
@@ -27,8 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-   - Table of Contents
-   - 7.42.1 [[./intro.org][Introduction]] 
+   - Contents
+   - [[./intro.org][Introduction]] 
    - 00. The Human Story -> a human origin story
    - 00. [[./ww-history.org][History]]         -> interdisciplinary science-based history
    - 00. Representing Time
