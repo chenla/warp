@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * The OS Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/05/36/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/07/04/intro.org
 :Created:  2018-05-04T18:48@Prek Leap (11.642600N-104.919210W)
 :ID:       b1c6c89a-3ccf-450a-a2a0-34dd8303c75f
 :VER:      578706554.233788737
