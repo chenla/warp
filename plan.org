@@ -31,14 +31,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
-
 - [[id:0ed7184f-ba2a-45f5-9460-efde6ff00081][Introduction]]
-- [[id:62eb03eb-fa14-42be-be07-a97dd195396f][Warp & Woof]]
-  - [[id:911ca1c6-3c31-45ea-80b8-cf582c940f65][principles]]
-  - [[id:72728741-9f9c-4b4f-9dff-6eba95bf77b3][patterns]]
-  - [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][source]]
-  - [[id:18e41791-cb01-4114-943d-a26bc95c1099][kernal]]
-  - [[id:401aaec4-899d-4972-b500-ea222cef7c2c][storage]] 
+- [[id:911ca1c6-3c31-45ea-80b8-cf582c940f65][principles]]
+- [[id:72728741-9f9c-4b4f-9dff-6eba95bf77b3][patterns]]
+- [[id:6fbd41ac-9947-4358-875e-5d2b798a8f93][source]]
+- [[id:18e41791-cb01-4114-943d-a26bc95c1099][kernal]]
+- [[id:401aaec4-899d-4972-b500-ea222cef7c2c][storage]] 
 ** Introduction
 :PROPERTIES:
 :ID:       0ed7184f-ba2a-45f5-9460-efde6ff00081
@@ -106,12 +104,7 @@ The history of
     ----------------------------
 
 #+end_ascii
-
-** Warp & Woof
-:PROPERTIES:
-:ID:       62eb03eb-fa14-42be-be07-a97dd195396f
-:END:
-*** Principles
+** Principles
 :PROPERTIES:
 :ID:       911ca1c6-3c31-45ea-80b8-cf582c940f65
 :END:
@@ -119,7 +112,7 @@ The history of
 An introduction to the concepts used in *A Pace-Layer Pattern
 Language* and *A Primer*
 
-*** Patterns
+** Patterns
 :PROPERTIES:
 :ID:       72728741-9f9c-4b4f-9dff-6eba95bf77b3
 :END:
@@ -156,7 +149,7 @@ APPL will establish the broad patterns that can be used to construct
 generative grammars that will be adapted to account for local context
 (conditions) in the /Hoard/.
 
-*** source
+** source
 :PROPERTIES:
 :ID:       6fbd41ac-9947-4358-875e-5d2b798a8f93
 :END:
@@ -183,7 +176,7 @@ A Hoard includes plans, designs, standards, specifications based on
 adapted for a range specific needs of a ecological, economic,
 technological, and cultural niches of any given civilization.
 
-*** kernal
+** kernal
 :PROPERTIES:
 :ID:       18e41791-cb01-4114-943d-a26bc95c1099
 :END:
@@ -200,7 +193,7 @@ work backwards.  The Primer will include all of this specific design
 and development work that was done to develop patterns and keystone
 designs.
 
-*** storage
+** storage
 :PROPERTIES:
 :ID:       401aaec4-899d-4972-b500-ea222cef7c2c
 :END:
