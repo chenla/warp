@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 06. Social Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/06/index.org
+:Name:     /home/deerpig/proj/chenla/warp/13/06/index.org
 :Created:  2018-05-07T19:22@Prek Leap (11.642600N-104.919210W)
 :ID:       f8d6431b-ae8b-4573-af6b-0ec5c1a8ae59
 :VER:      578967799.907735324

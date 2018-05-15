@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Individual Infrastructure Introduction 
+#+TITLE: 09. Individual Infrastructure Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Individual Infrastructure Introduction
+* 09. Individual Infrastructure Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/11/09/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/13/09/intro.org
 :Created:  2018-05-08T20:26@Prek Leap (11.642600N-104.919210W)
 :ID:       3bac0409-c0d7-4d52-b008-54dd67def056
 :VER:      579058057.967528680
