@@ -51,7 +51,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./01/05/index.org][Boundries]]
  - 06. [[./01/06/index.org][Principles]]
 ** II. Points of View
- - Table of Contents
+ - [[./02/index.org][Table of Contents]]
  -[[./intro.org][ Introduction]]
  - 01. [[./02/01-what-is-pov.org][What is a Point of View?]] (POV)
  - 02. [[./02/02-cognitive-pov.org][POV as a Cognitive Tool]]
@@ -74,8 +74,15 @@ bibliography:../hoard/bib.bib
  - 05. [[./03/05/index.org][Standards]]
  - 06. [[./03/06/index.org][Legibility]]
 ** IV. Scaffolds
- [[./02/04/index.org][Scaffolds]]
-
+ - [[./04/index.org][Table of Contents]] 
+ - [[./04/intro.org][Introduction]]
+ - 01. [[./04/01-entities.org][Entity Model]]
+ - 02. [[./04/02-ontologies.org][Ontology Model]]
+ - 03. [[./04/03-pace-layers.org][Pace-Layer Model]]
+ - 04. [[./04/04-succession-model.org][Succession Model]]
+ - 05. [[./04/05-goldilocks.org][Goldilocks-Thresholds]]
+ - 06. [[./04/06-hard-soft-wet.org][Hard Soft Wet]]
+ - 07. [[./04/07-world-models.org][World Models]]
 ** V.    (III). Components
  - [[./03/index.org][Contents]]
  - [[./03/intro.org][Introduction]]
