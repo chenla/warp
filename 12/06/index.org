@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 06. Constitution Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/06/index.org
+:Name:     /home/deerpig/proj/chenla/warp/12/06/index.org
 :Created:  2018-05-06T10:59@Prek Leap (11.642600N-104.919210W)
 :ID:       faebd436-1dfa-406d-b498-40373d5f9b75
 :VER:      578851230.757038749

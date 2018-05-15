@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Statutes Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/07/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/12/07/intro.org
 :Created:  2018-05-06T11:20@Prek Leap (11.642600N-104.919210W)
 :ID:       2f2d7def-6c2a-4d85-a3db-16300caf29c8
 :VER:      578852497.271938651

@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 02. Articles Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/10/02/index.org
+:Name:     /home/deerpig/proj/chenla/warp/12/02/index.org
 :Created:  2018-05-06T10:50@Prek Leap (11.642600N-104.919210W)
 :ID:       a23d2f83-578e-4ecf-b7ee-d0db89fdc0cb
 :VER:      578850673.597056030
