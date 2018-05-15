@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume XIII. Culture TOC
+#+TITLE:   XV. Culture TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../12/index.org][prev]]] [[[../14/index.org][next]]]
 
-* Volume XIII. Culture Table of Contents
+* XV. Culture Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/13/index.org
+:Name:     /home/deerpig/proj/chenla/warp/15/index.org
 :Created:  2018-04-30T11:33@Prek Leap (11.642600N-104.919210W)
 :ID:       90413333-0105-4d00-9a5f-106c62ffb819
 :VER:      578334852.226372754

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume XII
+#+TITLE: XV. Culture Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]]  [[[./index.org][up]]]
 
-* Introduction Volume XII
+* XV. Culture Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/13/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/15/intro.org
 :Created:  2018-04-30T20:04@Prek Leap (11.642600N-104.919210W)
 :ID:       bf8149f9-89de-4472-a096-80df1a9bca77
 :VER:      578365516.879777662

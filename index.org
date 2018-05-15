@@ -181,9 +181,9 @@ bibliography:../hoard/bib.bib
  - 00. Commerce
  - 00. Consumption
  - 00. Recycling
-** XV.   (XIII). Culture
- - [[./13/index.org][Contents]]
- - [[./13/intro.org][Introduction]]
+** XV. Culture
+ - [[./15/index.org][Contents]]
+ - [[./15/intro.org][Introduction]]
  - 00. Slow infrastructure
  - 00. Slow governance
  - 00. Long term investment
