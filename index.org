@@ -50,18 +50,26 @@ bibliography:../hoard/bib.bib
  - 04. [[./01/04/index.org][Estrangement]]
  - 05. [[./01/05/index.org][Boundries]]
  - 06. [[./01/06/index.org][Principles]]
-** II. Frameworks
+** II. Points of View
+
+ [[./02/01/index.org][Points of View]]
+
+** III.  (II) Frameworks
  - [[./02/index.org][Contents]]
  - [[./02/intro.org][Introduction]]
- - 01. [[./02/01/index.org][Points of View]]
+ - 01.
  - 02. [[./02/02/index.org][Dualities]]
  - 03. [[./02/03/index.org][Generators]]
- - 04. [[./02/04/index.org][Scaffolds]]
+ - 04.
  - 05. [[./02/05/index.org][Systems]]
  - 06. [[./02/06/index.org][Patterns]]
  - 07. [[./02/07/index.org][Standards]]
  - 08. [[./02/08/index.org][Legibility]]
-** III. Components
+
+** IV. Scaffolds
+ [[./02/04/index.org][Scaffolds]]
+
+** V.    (III). Components
  - [[./03/index.org][Contents]]
  - [[./03/intro.org][Introduction]]
  - 01. [[./03/01/index.org][Identity]]
@@ -75,7 +83,7 @@ bibliography:../hoard/bib.bib
  - 09. [[./03/09/index.org][Distribution]]
  - 10. [[./03/10/index.org][Succession]]
  - 11. [[./03/11/index.org][Infrastructure]]
-** IV. Methodologies
+** VI.   (IV). Methodologies
  - [[./04/index.org][Contents Volume IV]]
  - [[./04/ww-intro-vol-4.org][Introduction Volume IV]]
  - 01. [[./04/ww-the-way.org][The Way]]
@@ -85,7 +93,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./04/ww-replicators.org][Replicators]]
  - 06. [[./04/ww-fabrication.org][Fabrication]]
  - 07. [[./04/ww-agency.org][Agency]]
-** V. Workflow
+** VII.  (V). Workflow
  - [[./05/index.org][Contents]]
  - [[./05/intro.org][Introduction]]
  - 01. [[./05/01/index.org][APPL]]
@@ -94,20 +102,20 @@ bibliography:../hoard/bib.bib
  - 04. [[./05/04/index.org][The OS]]
  - 05. [[./05/05/index.org][Arc]]
 * Cantos VI-VIII Components
-** VI. Heliosphere
+** VIII. (VI). Heliosphere
  - [[./06/index.org][Contents]]
  - [[./06/intro.org][Introduction]]
  - 01. [[./01/index.org][Habitats]]
  - 02. [[./02/index.org][Heliosphere]]
  - 03. [[./03/index.org][Biospheres]]
-** VII. Origins
+** IX.   (VII). Origins
  - [[./07/index.org][Contents]]
  - [[./07/intro.org][Introduction]]
  - 01. [[./07/01/index.org][Preamble]]
  - 02. [[./07/02/index.org][Big History]]
  - 03. [[./07/03/index.org][Regimes]]
  - 04. [[./07/04/index.org][Stack]]
-** VIII. Lingua Franca
+** X.    (VIII). Lingua Franca
  - [[./08/index.org][Contents]]
  - [[./08/index.org][Introduction]]
  - 01. [[./08/01/index.org][Languages]]
@@ -115,7 +123,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./08/04/index.org][Incantation]]
  - 04. [[./08/04/index.org][Interoperability]]
  - 05. [[./08/05/index.org][A Common Language]]
-** IX. Curriculum
+** XI.   (IX). Curriculum
  - [[./09/index.org][Contents]]
  - [[./09/intro.org][Introduction]]
  - 01. [[./09/01/index.org][Learning]]
@@ -123,7 +131,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./09/03/index.org][Methods]]
  - 04. [[./09/04/index.org][Mastery]]
  - 05. [[./09/05/index.org][Curriculum]]
-** X. Governance
+** XII.  (X). Governance
  -[[./10/index.org][ Contents]]
  - [[./10/intro.org][Introduction]]
  - 01. [[./10/01/index.org][Distributed Governance]]
@@ -133,7 +141,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./10/05/index.org][Duties]]
  - 06. [[./10/06/index.org][Constitution]]
  - 07. [[./10/07/index.org][Statutes]]
-** XI. Infrastructure
+** XIII. (XI). Infrastructure
  - [[./11/index.org][Contents]]
  - [[./11/intro.org][Introduction]]
  - 01. [[./11/01/index.org][Commons]]
@@ -145,7 +153,7 @@ bibliography:../hoard/bib.bib
  - 07. [[./11/07/index.org][Health]]
  - 08. [[./11/08/index.org][Cultural]]
  - 09. [[./11/09/index.org][Individual]]
-** XII. Economy
+** XIV.  (XII). Economy
  - [[./12/index.org][Contents]]
  - [[./12/intro.org][Introduction]]
  - 00. Systems & Concepts
@@ -159,7 +167,7 @@ bibliography:../hoard/bib.bib
  - 00. Commerce
  - 00. Consumption
  - 00. Recycling
-** XIII. Culture
+** XV.   (XIII). Culture
  - [[./13/index.org][Contents]]
  - [[./13/intro.org][Introduction]]
  - 00. Slow infrastructure
@@ -169,13 +177,13 @@ bibliography:../hoard/bib.bib
  - 00. Commons
  - 00. Continuity
 * Cantos XIV-XV Assembly
-** XIV. Implementation
+** XVI.  (XIV). Implementation
  - 00. [[./14/index.org][Contents]]
  - 00. [[./14/intro.org][Introduction]]
  - 00. Middle
  - 00. Culture
  - 00. Scope
-** XV. Scenarios
+** XVII. (XV). Scenarios
  - [[./15/index.org][Contents]]
  - [[./15/intro.org][Introduction]]
  - 00. [[./15/ww-scenarios.org][Scenarios]]
