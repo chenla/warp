@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Generators Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/09/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/03/02/intro.org
 :Created:  2018-05-06T15:57@Prek Leap (11.642600N-104.919210W)
 :ID:       3905f59e-d78e-42a1-b7f7-242495b8f622
 :VER:      578869124.163984570

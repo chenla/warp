@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 02. Dualities
+#+TITLE: 01. Dualities
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 02. Dualities
+* 01. Dualities
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/02/index.org
+:Name:     /home/deerpig/proj/chenla/warp/03/01/index.org
 :Created:  2018-03-21T18:29@Prek Leap (11.642600N-104.919210W)
 :ID:       e896fbca-99d6-461e-a6d9-bc189290dc60
 :VER:      574903855.243785982
