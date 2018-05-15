@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Incantation Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/08/03/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/10/03/intro.org
 :Created:  2018-05-05T18:20@Prek Leap (11.642600N-104.919210W)
 :ID:       3990f876-10b9-425c-ae4a-dc6e78e531eb
 :VER:      578791280.240490291

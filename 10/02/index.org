@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 02. Writing Systems Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/08/02/index.org
+:Name:     /home/deerpig/proj/chenla/warp/10/02/index.org
 :Created:  2018-05-05T16:13@Prek Leap (11.642600N-104.919210W)
 :ID:       8794c89f-a48d-4571-a8e5-c44d7e21ac64
 :VER:      578783649.795841382

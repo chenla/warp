@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 04. Interoperability Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/08/48/index.org
+:Name:     /home/deerpig/proj/chenla/warp/10/04/index.org
 :Created:  2018-05-05T18:09@Prek Leap (11.642600N-104.919210W)
 :ID:       22646fed-b589-4ae7-ad18-d8b0cd90da72
 :VER:      578790621.981060749
