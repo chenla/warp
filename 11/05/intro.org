@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Curriculum Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/05/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/11/05/intro.org
 :Created:  2018-05-05T18:58@Prek Leap (11.642600N-104.919210W)
 :ID:       6f188d11-04d5-4bc2-a1ce-b1d8a09ec510
 :VER:      578793570.435383665

@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 02. Pedagogy Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/02/index.org
+:Name:     /home/deerpig/proj/chenla/warp/11/02/index.org
 :Created:  2018-05-05T18:37@Prek Leap (11.642600N-104.919210W)
 :ID:       9f55fe18-2ee3-41d6-9bdc-15aa934c2e3f
 :VER:      578792339.353995093
