@@ -167,9 +167,9 @@ bibliography:../hoard/bib.bib
  - 07. [[./13/07/index.org][Health]]
  - 08. [[./13/08/index.org][Cultural]]
  - 09. [[./13/09/index.org][Individual]]
-** XIV.  (XII). Economy
- - [[./12/index.org][Contents]]
- - [[./12/intro.org][Introduction]]
+** XIV. Economy
+ - [[./14/index.org][Contents]]
+ - [[./14/intro.org][Introduction]]
  - 00. Systems & Concepts
  - 00. Markets
  - 00. Chains

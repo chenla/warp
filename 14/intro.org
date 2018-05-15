@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Volume XII. Economy Introduction
+#+TITLE: XIV. Economy Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[./index.org][up]]]
 
-* Volume XII. Economy Introduction
+* XIV. Economy Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/12/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/14/intro.org
 :Created:  2018-04-29T17:21@Prek Leap (11.642600N-104.919210W)
 :ID:       f79d80a5-4060-4e2a-b60a-fcc7e90a55e7
 :VER:      578269330.325224032
