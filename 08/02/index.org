@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 02 Heliosphere Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/39/index.org
+:Name:     /home/deerpig/proj/chenla/warp/08/02/index.org
 :Created:  2018-05-04T19:19@Prek Leap (11.642600N-104.919210W)
 :ID:       5729148c-0d71-428e-ab5e-ca9b5dedc39d
 :VER:      578708419.176398910
