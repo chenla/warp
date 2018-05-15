@@ -1,24 +1,24 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Intrduction Volune IV
+#+TITLE: VI. Methodologies Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Intrduction Volune IV
+* VI. Methodologies Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-intro-vol4.org
+:Name:     /home/deerpig/proj/chenla/warp/06/intro.org
 :Created:  2018-04-11T18:14@Prek Leap (11.642600N-104.919210W)
 :ID:       a91bf973-5a82-4da8-947e-e725c751b43b
 :VER:      576717324.908492918

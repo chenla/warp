@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Workflow Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/29/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/06/29/intro.org
 :Created:  2018-05-03T10:23@Prek Leap (11.642600N-104.919210W)
 :ID:       c7fe9f89-d1ca-4a0f-ad41-20c3e1a2d951
 :VER:      578589850.816192388

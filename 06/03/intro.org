@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Rules Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/28/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/06/28/intro.org
 :Created:  2018-05-03T10:17@Prek Leap (11.642600N-104.919210W)
 :ID:       99564074-26e1-4077-8a61-40a2d0548398
 :VER:      578589538.807207097

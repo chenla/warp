@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Cycles Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/27/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/06/27/intro.org
 :Created:  2018-05-03T10:12@Prek Leap (11.642600N-104.919210W)
 :ID:       35b83508-d03e-45ca-9bbd-4165fbb46c6f
 :VER:      578589226.669983075

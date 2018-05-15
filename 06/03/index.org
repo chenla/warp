@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 03. Rules Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/03/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/06/03/intro.org
 :Created:  2018-04-16T16:30@Prek Leap (11.642600N-104.919210W)
 :ID:       f60b7e34-48fd-498e-9cf9-2c93ae933aa6
 :VER:      577143071.029732494

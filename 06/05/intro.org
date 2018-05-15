@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Replicators Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/30/intro.org
+:Na me:     /home/deerpig/proj/chenla/warp/06/30/intro.org
 :Created:  2018-05-03T10:28@Prek Leap (11.642600N-104.919210W)
 :ID:       b86eab15-a2b3-4483-a827-52b088d1f8a8
 :VER:      578590195.788813819

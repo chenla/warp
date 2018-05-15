@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * The Way Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/26/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/06/26/intro.org
 :Created:  2018-05-03T10:05@Prek Leap (11.642600N-104.919210W)
 :ID:       0e582b40-a5c7-4810-b60c-f0304c5ec6aa
 :VER:      578588800.584477263
