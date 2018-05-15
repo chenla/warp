@@ -122,13 +122,13 @@ bibliography:../hoard/bib.bib
  - 01. [[./08/01/index.org][Habitats]]
  - 02. [[./08/02/index.org][Heliosphere]]
  - 03. [[./08/03/index.org][Biospheres]]
-** IX.   (VII). Origins
- - [[./07/index.org][Contents]]
- - [[./07/intro.org][Introduction]]
- - 01. [[./07/01/index.org][Preamble]]
- - 02. [[./07/02/index.org][Big History]]
- - 03. [[./07/03/index.org][Regimes]]
- - 04. [[./07/04/index.org][Stack]]
+** IX.  Origins
+ - [[./09/index.org][Contents]]
+ - [[./09/intro.org][Introduction]]
+ - 01. [[./09/01/index.org][Preamble]]
+ - 02. [[./09/02/index.org][Big History]]
+ - 03. [[./09/03/index.org][Regimes]]
+ - 04. [[./09/04/index.org][Stack]]
 ** X.    (VIII). Lingua Franca
  - [[./08/index.org][Contents]]
  - [[./08/index.org][Introduction]]
