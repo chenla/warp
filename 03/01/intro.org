@@ -1,0 +1,90 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Dualities
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]]
+
+* Dualities
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/03/08/intro.org
+:Created:  2018-05-01T15:56@Prek Leap (11.642600N-104.919210W)
+:ID:       fb56fe80-2e81-46a5-b176-fdec4019a3a3
+:VER:      578437049.086571905
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:IFB0-6585
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+
+#+begin_comment
+Barely touched this here -- but actually this section has
+been thought out more than most of the work which goes back
+to the Sticky Stuff paper in 2006..  Next will be to go
+through and pull in all my other notes and references
+#+end_comment
+
+ - part     <->  whole (holon)
+ - map      <->  territory
+ - metadata <->  data
+
+*** Part-Whole
+
+map-territory and metdata-data are types of part-whole relationships
+
+*** Map-Territory 
+
+  - is an more of an LOD than part-whole relationship
+  - a map is not a part, and a territory is not always a whole
+  - a map contains the structure of what it maps at a lower LOD
+
+*** Metadata-Data 
+
+metadata describes threads or patterns in a whole but does
+not attempt to map the whole
+
+metadata can describe a data set, but can also be used as data
+depending on the POV
+
+** References
+
+ - Bland, W. L., & Bell, M. M., A holon approach to agroecology,
+   International Journal of agricultural sustainability, 5(4), 280–294
+   (2007).
+   cite:bland:2007holon
+ - Koestler, A., The ghost in the machine (1989), : Arkama Books.
+   cite:koestler:1989ghost
+ - Koestler, A., Some general properties of self-regulating open
+   hierarchic order, In A. Koestler, & J. R. Smythies, Beyond
+   Reductionism, New Perspectives in the Life Sciences [Proceedings
+   of] the Alpbach Symposium [1969] (pp. ) (1969). : .
+   cite:koestler:1969some
+ - Mella, P., The holonic revolution: holons, holarchies and holonic
+   networks:the ghost in the production machine (2009), : Pavia
+   University Press.
+   cite:mella:2009holon-revolution
+ - I Prigogine, I. S., Order out of chaos: man's new dialogue with
+   nature (1984), : Bantam New Age Books.
+   cite:prigogine:1984order
+ - Wikipedia, , /The ghost in the machine --- wikipedia, the free
+   encyclopedia/ (2017).  cite:wiki:2017ghost-machine-book
+ - Wikipedia, , /Holon (philosophy) --- wikipedia, the free
+   encyclopedia/ (2017).  cite:wiki:2017holon
+ - Wilber, K., A brief history of everything (1996), : Newleaf.
+   cite:wilbur:1996brief

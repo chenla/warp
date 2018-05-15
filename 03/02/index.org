@@ -1,12 +1,12 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 02. Dualities
+#+TITLE: 03. Generators TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -15,24 +15,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 02. Dualities
+* 03. Generators
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/02/index.org
-:Created:  2018-03-21T18:29@Prek Leap (11.642600N-104.919210W)
-:ID:       e896fbca-99d6-461e-a6d9-bc189290dc60
-:VER:      574903855.243785982
+:Name:     /home/deerpig/proj/chenla/warp/03/03/index.org
+:Created:  2018-03-21T18:39@Prek Leap (11.642600N-104.919210W)
+:ID:       83fc3e98-307f-4f2d-8307-33a539de2467
+:VER:      574904423.054583107
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:GIO7-8627
+:BXID:     proj:PRH1-3380
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
- - Contents
- - [[./intro.org][Introduction]]
- - 01. The Nature of Dualities
- - 02. Dualities in Nature
- - 03. Part-Whole
- - 04. [[./ww-map-territory.org][Map-Territory]]
- - 05. Meta-Data
+
+  - Contents
+  - [[./intro.org][Introduction]]
+  - 01. emergent complexity
+  - 02. generative grammars
+  - 03. phase changes

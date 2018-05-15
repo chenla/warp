@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 08. Legibility
+#+TITLE: 02. Dualities
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,24 +15,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 08. Legibility
+* 02. Dualities
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/08/index.org
-:Created:  2018-04-01T21:37@Prek Leap (11.642600N-104.919210W)
-:ID:       b6a4c81a-40c1-46de-ab63-b9a711e70db8
-:VER:      575865523.511239207
+:Name:     /home/deerpig/proj/chenla/warp/03/02/index.org
+:Created:  2018-03-21T18:29@Prek Leap (11.642600N-104.919210W)
+:ID:       e896fbca-99d6-461e-a6d9-bc189290dc60
+:VER:      574903855.243785982
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:PGS2-4335
+:BXID:     proj:GIO7-8627
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
-
  - Contents
  - [[./intro.org][Introduction]]
- - 01. State Legability
- - 02. Machine Legibility
- - 03. Transparency
- - 04. Accountability
+ - 01. The Nature of Dualities
+ - 02. Dualities in Nature
+ - 03. Part-Whole
+ - 04. [[./ww-map-territory.org][Map-Territory]]
+ - 05. Meta-Data
