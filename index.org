@@ -122,21 +122,21 @@ bibliography:../hoard/bib.bib
  - 01. [[./08/01/index.org][Habitats]]
  - 02. [[./08/02/index.org][Heliosphere]]
  - 03. [[./08/03/index.org][Biospheres]]
-** IX.  Origins
+** IX. Origins
  - [[./09/index.org][Contents]]
  - [[./09/intro.org][Introduction]]
  - 01. [[./09/01/index.org][Preamble]]
  - 02. [[./09/02/index.org][Big History]]
  - 03. [[./09/03/index.org][Regimes]]
  - 04. [[./09/04/index.org][Stack]]
-** X.    (VIII). Lingua Franca
- - [[./08/index.org][Contents]]
- - [[./08/index.org][Introduction]]
- - 01. [[./08/01/index.org][Languages]]
- - 02. [[./08/02/index.org][Writing Systems]]
- - 03. [[./08/04/index.org][Incantation]]
- - 04. [[./08/04/index.org][Interoperability]]
- - 05. [[./08/05/index.org][A Common Language]]
+** X. Lingua Franca
+ - [[./10/index.org][Contents]]
+ - [[./10/index.org][Introduction]]
+ - 01. [[./10/01/index.org][Languages]]
+ - 02. [[./10/02/index.org][Writing Systems]]
+ - 03. [[./10/04/index.org][Incantation]]
+ - 04. [[./10/04/index.org][Interoperability]]
+ - 05. [[./10/05/index.org][A Common Language]]
 ** XI.   (IX). Curriculum
  - [[./09/index.org][Contents]]
  - [[./09/intro.org][Introduction]]

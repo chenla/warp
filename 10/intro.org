@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume VIII Lingua Franca
+#+TITLE: X. Lingua Franca Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[./index.org][up]]]
 
-* Introduction Volume VIII Lingua Franca
+* X. Lingua Franca Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/08/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/10/intro.org
 :Created:  2018-04-27T09:49@Prek Leap (11.642600N-104.919210W)
 :ID:       7fa6dfa4-4ac3-4730-b9ac-2e58851d5103
 :VER:      578069424.218391470
