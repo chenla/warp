@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 08. Scale
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/01/08-scale.org
+:Name:     /home/deerpig/proj/chenla/warp/02/08-scale.org
 :Created:  2018-04-20T18:16@Prek Leap (11.642600N-104.919210W)
 :ID:       c05a43db-57c3-4b8c-929e-b940582b248e
 :VER:      577495046.304270980

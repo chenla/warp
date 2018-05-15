@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 09. Narrative
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/01/09-narrative.org
+:Name:     /home/deerpig/proj/chenla/warp/02/09-narrative.org
 :Created:  2018-04-20T18:18@Prek Leap (11.642600N-104.919210W)
 :ID:       7e70a4f4-79ac-4d39-81da-6627b1a6d1f7
 :VER:      577495162.180232703

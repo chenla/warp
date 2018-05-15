@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 03. Defining Objective Point of Views
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/03/01/03-objective-pov.org
+:Name:     /home/deerpig/proj/chenla/warp/02/03-objective-pov.org
 :Created:  2018-04-20T18:02@Prek Leap (11.642600N-104.919210W)
 :ID:       dfee203e-a433-4eaf-a098-86df09b8d3d2
 :VER:      577494197.144944568

@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 07. LOD, ROC & POV as Points of View
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/01/07-as-povs.org
+:Name:     /home/deerpig/proj/chenla/warp/02/07-as-povs.org
 :Created:  2018-04-20T18:13@Prek Leap (11.642600N-104.919210W)
 :ID:       ab000e97-4df8-4240-b1a4-6c5024b30f62
 :VER:      577494858.608612189
