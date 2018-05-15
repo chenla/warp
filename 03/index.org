@@ -28,13 +28,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - [[./intro.org][Introduction]]
-  - 01. [[./01/index.org][Points of View]]
-  - 02. [[./02/index.org][Dualities]]
-  - 03. [[./03/index.org][Generators]]
-  - 04. [[./04/index.org][Scaffolds]]
-  - 05. [[./05/index.org][Systems]]
-  - 06. [[./06/index.org][Patterns]]
-  - 07. [[./07/index.org][Standards]]
-  - 08. [[./08/index.org][Legibility]]
+  - [[./intro.org][Introduction]
+  - 01. [[./01/index.org][Dualities]
+  - 02. [[./02/index.org][Generators]
+  - 03. [[./03/index.org][Systems]
+  - 04. [[./04/index.org][Patterns]
+  - 05. [[./05/index.org][Standards]
+  - 06. [[./06/index.org][Legibility]
 

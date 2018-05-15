@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 05. Systems TOC
+#+TITLE: 06. Patterns TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 05. Systems Table of Contents
+* 06. Patterns Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/05/index.org
-:Created:  2018-04-11T23:17@Prek Leap (11.642600N-104.919210W)
-:ID:       20ea1ca3-d723-431d-9c8e-7b1b83b01430
-:VER:      576735489.296135798
+:Name:     /home/deerpig/proj/chenla/warp/02/06/index.org
+:Created:  2018-03-21T18:53@Prek Leap (11.642600N-104.919210W)
+:ID:       b4e16117-5a4a-42ce-92ec-46c3c2c7be7a
+:VER:      574905297.409361047
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:UCV1-1046
+:BXID:     proj:QOP0-4520
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -32,19 +32,35 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - Systems Primer
-    - Observing Systems
-    - Systems Thinking
-    - Positive vs Negative Space
-  - Emergent Complexity
-  - Structures
-    - Top Down
-    - Bottom Up
-    - Centralized
-    - Distributed
-  - Stability
-    - Robust (redundancy)
-    - Sustainabile
-    - Resilient
-    - Antifragile
-  - Specialization & niches
+  - Patterns and Processes
+    - Patterns
+    - Rules
+  - Pattern Languages
+  - Pattern Entity Model
+    - pattern (con)
+      - Keystone (exp)
+        - Design (man)
+  - Rule Entity Model
+    - thesis (con)
+      - declaration (exp)
+        - rule (man)
+
+------
+
+ - Patterns
+   - civilization
+   - buildings and towns
+   - shearing layers -> for made things
+   - biological life
+
+
+
+   - not all life is biological
+   - patterns & anti-patterns
+   - patterns as relationships clusters
+   - anti-patterns -> destroy life, beauty and connectedness
+   - patterns are concepts not designs
+   - patterns as generative processes
+
+   - shearing layers
+     - 

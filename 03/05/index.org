@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 06. Patterns TOC
+#+TITLE: 07. Standards TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 06. Patterns Table of Contents
+* 07. Standards Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/06/index.org
-:Created:  2018-03-21T18:53@Prek Leap (11.642600N-104.919210W)
-:ID:       b4e16117-5a4a-42ce-92ec-46c3c2c7be7a
-:VER:      574905297.409361047
+:Name:     /home/deerpig/proj/chenla/warp/02/07/index.org
+:Created:  2018-04-01T21:32@Prek Leap (11.642600N-104.919210W)
+:ID:       8878c7a1-956a-4c42-ab79-7de5c99abfd6
+:VER:      575865222.487965257
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:QOP0-4520
+:BXID:     proj:BHE3-5840
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -32,35 +32,39 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./intro.org][Introduction]]
-  - Patterns and Processes
-    - Patterns
-    - Rules
-  - Pattern Languages
-  - Pattern Entity Model
-    - pattern (con)
-      - Keystone (exp)
-        - Design (man)
-  - Rule Entity Model
-    - thesis (con)
-      - declaration (exp)
-        - rule (man)
+  - Lingua Franca
+    - cross pace-layer legibility 
+    - Spoken Language
+    - Written Lanuage
+    - Text Encoding
+      - Unicode
+    - Machine Languages
+    - Markup Languages
+    - Incantation Languages
+  - Measurement
+    - Time
+      - the second
+      - seconds from epoch
+      - time measurement and planetary bodies
+        - timeslips & leap years
+      - human diurnal cycles 
+      - calendars
+    - Space
+    - Mass
+    - Energy
+    - Weight & Gravity 
+  - Protocols
+    - Legible Addresses
+    - Token Exchange
+    - HTTP
+    - TCP/IP
+  - APIs
 
-------
+  - Data Structures
+    - atoms       -> symbol, string, integer
+    - rhizomes    -> graphs
+    - ????        -> k-v, triple
+    - sets        -> lists: bag, seq, alt
+    - trees       -> branching lists
+    - layers      -> What about arrays?
 
- - Patterns
-   - civilization
-   - buildings and towns
-   - shearing layers -> for made things
-   - biological life
-
-
-
-   - not all life is biological
-   - patterns & anti-patterns
-   - patterns as relationships clusters
-   - anti-patterns -> destroy life, beauty and connectedness
-   - patterns are concepts not designs
-   - patterns as generative processes
-
-   - shearing layers
-     - 
