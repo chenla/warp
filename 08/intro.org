@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Introduction Volume XI
+#+TITLE: VIII. Heliosphere Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,11 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[./index.org][up]]]
 
-
-* Introduction Volume XI
+* VIII. Heliosphere Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/06/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/08/intro.org
 :Created:  2018-04-28T17:25@Prek Leap (11.642600N-104.919210W)
 :ID:       99f3a654-4f8a-4d09-8952-61896c62b343
 :VER:      578183193.695220551
