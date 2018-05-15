@@ -141,6 +141,9 @@ is the same as happiness
   - Whyte, W., Making mondragon: the growth and dynamics of
     the worker cooperative complex (1991), : ILR Press.
     cite:whyte:1991making
+  - Wikipedia, , /Autarky --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018autarky
   - Wikipedia, , /Rochdale principles --- Wikipedia, the
     free encyclopedia/ (2018).
     cite:wiki:2018rochdale-principles
