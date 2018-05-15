@@ -15,11 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-
-* Volume IX Articles Introduction
+* XII. Governance Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/09/09/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/12/intro.org
 :Created:  2018-04-24T10:14@Prek Leap (11.642600N-104.919210W)
 :ID:       c2803cbe-e131-42de-a794-0a8c3ef35495
 :VER:      577811710.843989301
@@ -31,9 +30,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+
 ** Scope
 
-Articles outlines the broad requirements for constructing a
+Governance outlines the broad requirements for constructing a
 generative grammar for building organizational and legal
 governance frameworks for a distributed, federated human
 civilization.  It must scale, so that it can handle a global
