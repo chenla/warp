@@ -197,12 +197,12 @@ bibliography:../hoard/bib.bib
  - 00. Middle
  - 00. Culture
  - 00. Scope
-** XVII. (XV). Scenarios
- - [[./15/index.org][Contents]]
- - [[./15/intro.org][Introduction]]
- - 00. [[./15/ww-scenarios.org][Scenarios]]
- - 00. [[./15/ww-window.org][Window]]
- - 00. [[./15/ww-roadmap.org][Roadmap]]
+** XVII. Scenarios
+ - [[./17/index.org][Contents]]
+ - [[./17/intro.org][Introduction]]
+ - 00. [[./17/ww-scenarios.org][Scenarios]]
+ - 00. [[./17/ww-window.org][Window]]
+ - 00. [[./17/ww-roadmap.org][Roadmap]]
 * The Rest
 
 ** Back Matter 
