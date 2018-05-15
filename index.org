@@ -40,7 +40,7 @@ bibliography:../hoard/bib.bib
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
-* Cantos I-V Building Blocks
+* Cantos I-VII Building Blocks
 ** I. Foundations
  - [[./01/index.org][Contents]]
  - [[./01/intro.org][Introduction]]
@@ -115,7 +115,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./07/03/index.org][Primer]]
  - 04. [[./07/04/index.org][The OS]]
  - 05. [[./07/05/index.org][Arc]]
-* Cantos VI-VIII Components
+* Cantos VIII-XV Components
 ** VIII. Heliosphere
  - [[./08/index.org][Contents]]
  - [[./08/intro.org][Introduction]]
@@ -190,10 +190,10 @@ bibliography:../hoard/bib.bib
  - 00. Memory
  - 00. Commons
  - 00. Continuity
-* Cantos XIV-XV Assembly
-** XVI.  (XIV). Implementation
- - 00. [[./14/index.org][Contents]]
- - 00. [[./14/intro.org][Introduction]]
+* Cantos XVI-XVII Assembly
+** XVI. Implementation
+ - 00. [[./16/index.org][Contents]]
+ - 00. [[./16/intro.org][Introduction]]
  - 00. Middle
  - 00. Culture
  - 00. Scope
