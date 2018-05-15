@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Volume II. Frameworks TOC
+#+TITLE:   Volume III. Frameworks TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -10,12 +10,12 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] [[[../01/index.org][prev]]] [[[../03/index.org][next]]]
+[[[../index.org][top]]] [[[../01/index.org][prev]]] [[[../04/index.org][next]]]
 
-* Volume II. Frameworks Table of Contents
+* Volume III. Frameworks Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/index.org
+:Name:     /home/deerpig/proj/chenla/warp/03/index.org
 :Created:  2018-04-18T10:04@Prek Leap (11.642600N-104.919210W)
 :ID:       52ec4330-52a5-4365-8774-a7ddd154d942
 :VER:      577292762.888098657
@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - [[./ww-intro-vol-2.org][Introduction]]
+  - [[./intro.org][Introduction]]
   - 01. [[./01/index.org][Points of View]]
   - 02. [[./02/index.org][Dualities]]
   - 03. [[./03/index.org][Generators]]

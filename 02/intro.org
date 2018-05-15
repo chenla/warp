@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 2.7.1 Points of View | Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/03/01/intro.org
 :Created:  2018-03-19T19:09@Prek Leap (11.642600N-104.919210W)
 :ID:       cceb8184-21ef-4fb0-9b5f-933e484f7e9f
 :VER:      574733452.681672429
