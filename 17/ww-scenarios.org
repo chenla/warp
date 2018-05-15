@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Scenarios
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-scenarios.org
+:Name:     /home/deerpig/proj/chenla/warp/17/ww-scenarios.org
 :Created:  2018-04-10T11:17@Prek Leap (11.642600N-104.919210W)
 :ID:       fb62d65e-a9cc-4091-8ced-da9999196f27
 :VER:      576605944.525345437
