@@ -53,8 +53,8 @@ bibliography:../hoard/bib.bib
 ** II. Points of View
  - [[./02/index.org][Contents]]
  -[[./intro.org][ Introduction]]
- - 01. [[./02/01-what-is-pov.org][What is a Point of View?]] (POV)
- - 02. [[./02/03-objective-pov.org][Defining Objective POVs]]
+ - 01. [[./02/01-what-is-pov.org][Point of View]] (POV)
+ - 02. [[./02/03-perspectives.org][Cardinal Perspectives]]
  - 03. [[./02/04-lod.org][Level of Detail]] (LOD)
  - 04. [[./02/05-roc.org][Rate of Change]] (ROC)
  - 05. [[./02/06-poc.org][Process of Change]] (POC)
