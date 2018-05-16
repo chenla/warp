@@ -33,9 +33,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - 03. [[./03-perspectives.org][Cadinal Perspectives]]
   - 04. [[./04-lod.org][Level of Detail]] (LOD)
   - 05. [[./05-roc.org][Rate of Change]] (ROC)
-  -     Level of Abstraction (LOA)
-  -     Level of Complexity (LOC)
-  - 06. [[./06-poc.org][Process of Change]] (POC)
+  - 05. [[./06-abstraction.org][Level of Abstraction]] (LOA)
+  - 07. [[./07-complexity.org][Level of Complexity]] (LOC)
+  - 08. [[./06-poc.org][Process of Change]] (POC)
 
 
 

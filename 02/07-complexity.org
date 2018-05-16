@@ -1,0 +1,37 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Level of Complexity (LOC) 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Level of Complexity (LOC)
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/07-complexity.org
+:Created:  2018-05-16T17:52@Prek Leap (11.642600N-104.919210W)
+:ID:       7ba7e9fd-3f76-4e9c-b850-ca3d28f27c80
+:VER:      579740006.726317945
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:WPY6-0010
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+** References
+
+

@@ -52,7 +52,7 @@ bibliography:../hoard/bib.bib
  - 06. [[./01/06/index.org][Principles]]
 ** II. Points of View
  - [[./02/index.org][Contents]]
- -[[./02/intro.org][Introduction]]
+ -[[./02/intro.org][ Introduction]]
  - 01. [[./02/01-what-is-pov.org][Point of View]] (POV)
  - 02. [[./02/03-perspectives.org][Cardinal Perspectives]]
  - 03. [[./02/04-lod.org][Level of Detail]] (LOD)
