@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Table of Contents
   -[[./intro.org][ Introduction]]
-  - 01. [[./01-what-is-pov.org][What is a Point of View?]] (POV)
+  - 01. [[./01-what-is-pov.org][Point of View]] (POV)
   - 03. [[./03-cardinal-povs.org][Vantage Points]]
   - 04. [[./04-lod.org][Level of Detail]] (LOD)
   - 05. [[./05-roc.org][Rate of Change]] (ROC)
