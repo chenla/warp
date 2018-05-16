@@ -433,32 +433,3 @@ principles.
 
 
 ** References
-
-  - Colomina-Almiñana, J. J., Formal approach to the
-    metaphysics of perspectives: points of view as access
-    (2018), : Springer International Publishing.
-    cite:colomina-alminana:2018approach
-  - Goodwin, C., Rethinking context: an
-    introduction.--alessandro duranti \& charles goodwin
-    (toim.), rethinking context: language as an interactive
-    phenomenon s. 1--42, Studies in the social and cultural
-    foundations of language, 11(), (1992).
-    cite:goodwin:1992rethinking
-  - Kelly, K., The inevitable: understanding the 12
-    technological forces that will shape our future
-    (2016), : Viking.
-    cite:kelly:2016inevitable
-  - Liz, M., & Vázquez, M., /Two approaches to the notion of
-    point of view/ (2011).
-    cite:liz2011two-points-of-view
-  - Moore, A. W., Points of view (2000), : Oxford University Press.
-    cite:moore:2000points-view 
-  - Peacocke, C., Sense and content: experience, thought,
-    and their relations (1984), : Oxford University Press.
-    cite:peacocke:1984sense-content
-  - Searle, J. R., The construction of social reality
-    (1997), : Free Press.
-    cite:searle:1997construction
-  - V\'azquez, Margarita, & Liz, M., Models as points of
-    view: the case of system dynamics, Foundations of
-    Science, 16(4), 383–391 (2011).  cite:vazquez:2011models
