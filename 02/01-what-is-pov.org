@@ -32,7 +32,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 In philosophy a point of view (POV) is a "stated matter of
-consideration", taken from an individual's perspective. In
+consideration", taken from an individual's vantage point. In
 this sense a POV is entirely subjective.  But a POV can also
 be seen as something that at least theoretically is
 objective.
@@ -135,6 +135,24 @@ perfect sense if you want to cook for many people who may
 eat at different times of the day.  You need cooked food
 that won't go bad in severe heat in a couple of hours or
 overnight.
+
+** POVs as filters
+
+A point of view is a kind of filter.  From a vantage point
+on top of a hill looking down at a village below, the
+observer's point of view is not only their position in time
+and space, but the limitations of what they can observe
+given what they use to observe and conditions under which
+the observation is made.  So if the observer is a human,
+then what they can observe visually is limited to a specific
+spectrum of light.  If they are near sighted, their
+observation will be different if they are wearing corrective
+lenses or not.  Is the observation made using a pair of
+binoculars, or using a camera with a zoom lense?  Is it
+night or day, sunny or cloudy.  Is the observer a local who
+has grown up in the area and is familiar with everything in
+the village or is the observer a traveler who has never been
+to the village before?
 
 ** POVs as a Cognitive Tool
 
