@@ -37,7 +37,7 @@ who and what we are and how to build a civilization from first
 principles.
 
 Originally I planned on jumping straight in and describing each of
-these as a POV, but the concept of LOD is nt the same as an LOD POV.
+these as a POV, but the concept of LOD is not the same as an LOD POV.
 You can't understand LOD as a POV without understanding ROC and POC.
 Each of these things as a POC only can be understood in relation to
 the other two.
