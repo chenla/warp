@@ -30,7 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
 Unlike process, a narrative POV views things as continuum of snapshots
 of different states of the present.  Each snapshot becomes a point in
 time where the state is frozen.  When you move forward or backward in
