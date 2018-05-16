@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 2.7.1 Points of View
+#+TITLE: II. Points of View
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-what-is-pov.org][next]]]
 
-* 2.7.1 Points of View | Introduction
+* II. Points of View  Introduction
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/intro.org
@@ -95,16 +95,19 @@ context of what you are seeing and will often see things you
 didn't see before, or even see things in a completely
 different way than you saw before.
 
-We define three different perspectives:
+We define five Cardinal Perspectives (CP):
 
-  - LOD : Level of Detail
-  - ROC : Rate of Change
-  - POC : Process of Change
+  - LOD : Level of Detail      - near <--> far
+  - ROC : Rate of Change       - slow <--> fast
+  - LOA : Level of Abstraction - specific <--> abstract
+  - LOC : Level of Complexity  - simple <--> complex 
+  - POC : Process of Change    - start <--> finish
 
-These three POVs form the foundation for how everything else
-*everything* in APPL, Primer & Hoard are understood.
+These five Perspectives form the foundation for how
+everything else *everything* in APPL, Primer & Hoard are
+understood.
 
-Each POV becomes increasingly more complex and abstract, but
+Each CP becomes increasingly more complex and abstract, but
 each builds on the one before and let's you see the same
 thing from a different perspective.  It does not negate the
 other POVs so much as enriches them and provides a more
