@@ -35,3 +35,38 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+  - Lineweaver, C. H., Davies, P. C. W., & Ruse, M.,
+    Complexity and the arrow of time (2013), : Cambridge
+    University Press.
+    cite:lineweaver:2013complexity-arrow
+  - Chaisson, E. J., Using complexity science to search for
+    unity in the natural sciences, Complexity and the Arrow
+    of Time, (), 68–79 (2013).
+    cite:chaisson:2013using-complexity
+  - Chaisson, E. J., Cosmic evolution: the rise of
+    complexity in nature (2000)(en)(288s) (2001), : Harvard
+    University Press.
+    cite:chaisson:2001cosmic-evolution
+  - Chaisson, E. J., Complexity: an energetics agenda,
+    Complexity, 9(3), 14–21 (2004).
+    cite:chaisson:2004complexity
+  - Gell-Mann, M., What is complexity?, In (Eds.),
+    Complexity and industrial clusters (pp. 13–24) (2002). :
+    Springer.
+    cite:gell-mann:2002what-is-complexity
+  - Gell-MannMurray, M., Complexity and complex adaptive
+    systems, In , Santa Fe Institute Studies In The Sciences
+    Of Complexity-Proceedings (pp. 177–177) (1992). : .
+    cite:gell-mann1992complexity-adaptive
+  - Prigogine, I., From being to becoming: time and
+    complexity in the physical sciences (1981), : W H
+    Freeman & Co.  cite:prigogine:1981being-becoming
+  - Johnson, N. F., Simply complexity : a clear guide to
+    complexity theory (2009), : Oneworld.
+    cite:johnson:2009simply
+  - Stewart, I., & Cohen, J., The collapse of chaos:
+    discovering simplicity in a complex world (2000), :
+    Penguin UK.  cite:stewart:2000collapse-chaos
+  - Bak, P., How nature works: the science of self-organized
+    criticality (1996), : Copernicus.
+    cite:bak:1996how-nature-works
