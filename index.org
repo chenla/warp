@@ -54,11 +54,10 @@ bibliography:../hoard/bib.bib
  - [[./02/index.org][Contents]]
  -[[./intro.org][ Introduction]]
  - 01. [[./02/01-what-is-pov.org][What is a Point of View?]] (POV)
- - 02. [[./02/02-cognitive-pov.org][POV as a Cognitive Tool]]
- - 03. [[./02/03-objective-pov.org][Defining Objective POVs]]
- - 04. [[./02/04-lod.org][Level of Detail]] (LOD)
- - 05. [[./02/05-roc.org][Rate of Change]] (ROC)
- - 06. [[./02/06-poc.org][Process of Change]] (POC)
+ - 02. [[./02/03-objective-pov.org][Defining Objective POVs]]
+ - 03. [[./02/04-lod.org][Level of Detail]] (LOD)
+ - 04. [[./02/05-roc.org][Rate of Change]] (ROC)
+ - 05. [[./02/06-poc.org][Process of Change]] (POC)
  - 07. [[./02/07-as-povs.org][LOD, ROC and POC as Points of Views]]
  - 08. [[./02/08-scale.org][Scale]]
  - 09. [[./02/09-narrative.org][Narrative]]
