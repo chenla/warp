@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:  Points of View TOC
+#+TITLE:  II. Points of View TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Points of View Table of Contents
+* II. Points of View Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/index.org
@@ -30,10 +30,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Table of Contents
   -[[./intro.org][ Introduction]]
   - 01. [[./01-what-is-pov.org][What is a Point of View?]] (POV)
-  - 02. [[./02-cognitive-pov.org][POV as a Cognitive Tool]]
-  - 03. [[./03-objective-pov.org][Defining Objective POVs]]
+  - 03. [[./03-cardinal-povs.org][5 Cardinal POVs]]
   - 04. [[./04-lod.org][Level of Detail]] (LOD)
   - 05. [[./05-roc.org][Rate of Change]] (ROC)
+  -     Level of Abstraction (LOA)
+  -     Level of Complexity (LOC)
   - 06. [[./06-poc.org][Process of Change]] (POC)
   - 07. [[./07-as-povs.org][LOD, ROC and POC as Points of Views]]
   - 08. [[./08-scale.org][Scale]]
