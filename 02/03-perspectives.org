@@ -30,6 +30,31 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+#+begin_quote
+This... these... the art historians and the critics talking
+about every object and... everything having its own form and
+density and... its own character in Flemish paintings, but
+is that all there is to it? Do you know why everything does?
+Because they found God everywhere. There was nothing God did
+not watch over, nothing, and so this... and so in the
+painting every detail reflects... God’s concern with the
+most insignificant objects in life, with everything, because
+God did not relax for an instant then, and neither could the
+painter then. Do you get the perspective in this? he
+demanded, thrusting the rumpled reproduction before them. —
+There isn’t any. There isn’t any single perspective, like
+the camera eye, the one we all look through now and call it
+realism, there ... I take five or six or ten... the Flemish
+painter took twenty perspectives if he wished, and even in a
+small painting you can’t include it all in your single
+vision, your one miserable pair of eyes, like you can a
+photograph, like you can painting when it... when it
+degenerates, and becomes conscious of being looked at.
+
+— William Gaddis, The Recogitions (1955)
+  cite:gaddis:2012recognitions
+#+end_quote
+
 The term perspective is often used as a synonom for POV.
 A perspective is different from a point of view in fictional
 narrative, and both perspective and point of view are used
