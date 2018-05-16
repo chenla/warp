@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 03. Defining Objective Point of Views
+#+TITLE: 03. The Five Cardinal Points of View
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-cognitive-pov.org][prev]]] [[[./04-lod.org][next]]]
 
-* 03. Defining Objective Point of Views
+* 03. The Five Cardinal Points of View
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/03-objective-pov.org
