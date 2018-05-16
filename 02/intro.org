@@ -30,6 +30,57 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope
+
+ - POV
+ - Perspective
+ - Observer
+ - Context
+
+We construct POVs by combining one or more of the /five
+cardinal vantage points/ which establishes where an observer
+is relative to what is being observed 
+
+Each vantage point is a range used to manipulate the
+perspective like a slider on a sound mixing board that
+changes the level of the vantage point.
+
+This provides us with a cognitive tool box to help us
+/think outside the box/, as well as to capture or model the
+surrounding context of something as seen from different POVs.
+
+This also helps to be aware of when we are mapping one POV
+onto something in the past, for example, that existed in a
+context quite different from today
+
+ROC for example is useful to understand how buildings can be
+thought of as made up of shearing layers -- and that
+different parts of buildings change at different rates, or
+as a different way of of looking at Big History other than
+from a linear timeline divided into complexity thresholds.
+The Big Bang is not something that happened in the past, it
+is a process that is still going on today, or how change
+propagates at different speeds in different places --
+Gibon's famous "the future is already here, it's just not
+evenly distributed".
+
+These are not abstract, academic distinctions, they apply to
+every part of our lives, the societies we live in.  They can
+be used in education, in design, in production, commerce and
+governanace.  These are tools that law enforcement officer
+can use when evaluating a domestic dispute as well as to
+piece together what had happened at a crime scene.
+
+Ideally we want to encode our toolbox into machine
+understandable and executible code.
+
+----
+
+It's important that we explain these concepts as tools for
+building civilization -- so we need to show not only how
+these tools work, but how to use them.
+
+
 ** TL;DR
 
 #+begin_comment
