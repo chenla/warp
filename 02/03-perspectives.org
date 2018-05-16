@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-cognitive-pov.org][prev]]] [[[./04-lod.org][next]]]
 
-* 03. Vantage Points
+* 03. Perspectives
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/03-objective-pov.org
@@ -30,11 +30,44 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-For lack of a better term we call these /vantage points/ a
-POV from a specific perspective.
+The term perspective is often used as a synonom for POV.
+A perspective is different from a point of view in fictional
+narrative, and both perspective and point of view are used
+differently depending on if you are an artist, a scientist
+or philospher.  The more you research the two terms the more
+it becomes clear that there is no clear consensus about the
+meaing of either term outside of narrow applications such as
+the geometrical perspective in a painting.
 
+We will use /point of view/ (POV) as a general purpose
+concept that indicates what an observer see's from the
+vantage point of where they are observing.  This includes
+where and when something is observered but also includes all
+other factors that determine what is being observed,
+including cognitive bias, the limitations on what is used to
+made the observation, and the larger contextual worldview
+that includes all of the memory and experience of the
+observer.
 
-** The Five Cardinal Points of View
+  "Take a look out there at those mountains one last time.
+  All you can see is the beauty.  After you become a fire
+  fighter all you'll be able to see is fuel."
+
+Our knowledge and skillsets determine what we see as much as
+the sensory information coming in from our eyes.
+
+We will use /perspective/ to mean a specific, defined POV
+POV that can be used as a cognitive tool.  We define what we
+call the Five Cardinal Perspectives which can be combined in
+different ways for different puposes.
+
+Context is when a given mental model of the world (in
+effect, a mind) is used to make an observation using a
+specific method (camera, telescope, eyes) from a given point
+of view which is made up of a combination of different
+Perspectives.
+
+** The Five Cardinal Perspectives
 
 It would be helpful if generic POVs could be objectively
 defined in a way that they could be used to understand and
