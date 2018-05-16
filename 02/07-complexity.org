@@ -31,6 +31,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+The complexity perspective differs from other of the five
+perspectives because of state or phase-change.  LOD simply
+moves closer or father away in whatever increments you
+like.  But as complexity increases you reach a threshold
+that reaches a tipping point where a change of state
+occurs.  The most familiar example is water, below 0C water
+turns a solid, above 100C and water turns into a gas and
+in between it is a liquid.  In ecological succession, the
+entire ecosystem transforms at each stage.  In human
+organizations, small simple groups tend to be more
+egalitarian and adapt quickly, as organizations reach
+specific sizes their character changes and they neeed to
+reorganize and become less nimble the larger they get.  This
+is the reason that the Governance Pace-Layer is slower than
+the Infrastructure-Layer.  Governance on a smaller scale it
+far more adaptive and can change faster than infrastructure.
+
 ** TL;DR
 ** References
 
