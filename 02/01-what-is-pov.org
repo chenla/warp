@@ -30,7 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
 In philosophy a point of view (POV) is a "stated matter of
 consideration", taken from an individual's vantage point. In
 this sense a POV is entirely subjective.  But a POV can also
@@ -193,14 +192,16 @@ powerful than the sum of their parts.
 
 ---
 
+#+begin_comment
 I believe that the Big History approach is a good start --
 but it needs to be expanded to become the foundation for 
 liberal arts education -- and that Information Literacy,
 which, in a way echo's the indent of the Medieval Trivium,
 which taught student how to reason and communicate -- which
 is to say, teaching students how to learn is the single most
-important thing that people will need in the next century
-and beyond.
+important skill for life in world that is changing too fast
+to assimilate.
+#+end_comment
 
 ** POVs as a Cognitive Tool
 
