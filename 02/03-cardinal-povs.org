@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-cognitive-pov.org][prev]]] [[[./04-lod.org][next]]]
 
-* 03. The Five Cardinal Points of View
+* 03. Vantage Points
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/03-objective-pov.org
@@ -29,6 +29,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+For lack of a better term we call these /vantage points/ a
+POV from a specific perspective.
+
+
+** The Five Cardinal Points of View
 
 It would be helpful if generic POVs could be objectively
 defined in a way that they could be used to understand and

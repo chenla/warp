@@ -30,13 +30,18 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Table of Contents
   -[[./intro.org][ Introduction]]
   - 01. [[./01-what-is-pov.org][What is a Point of View?]] (POV)
-  - 03. [[./03-cardinal-povs.org][5 Cardinal POVs]]
+  - 03. [[./03-cardinal-povs.org][Vantage Points]]
   - 04. [[./04-lod.org][Level of Detail]] (LOD)
   - 05. [[./05-roc.org][Rate of Change]] (ROC)
   -     Level of Abstraction (LOA)
   -     Level of Complexity (LOC)
   - 06. [[./06-poc.org][Process of Change]] (POC)
+
+
+
   - 07. [[./07-as-povs.org][LOD, ROC and POC as Points of Views]]
+
+
   - 08. [[./08-scale.org][Scale]]
   - 09. [[./09-narrative.org][Narrative]]
   - 10. [[./10-propagation.org][Propagation]]
