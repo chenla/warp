@@ -31,7 +31,116 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+ - POV
+ - Perspective
+ - Observer
+ - Context
+
+We construct POVs by combining one or more of the /five
+cardinal vantage points/ which establishes where an observer
+is relative to what is being observed 
+
+Each vantage point is a range used to manipulate the
+perspective like a slider on a sound mixing board that
+changes the level of the vantage point.
+
+This provides us with a cognitive tool box to help us
+/think outside the box/, as well as to capture or model the
+surrounding context of something as seen from different POVs.
+
+This also helps to be aware of when we are mapping one POV
+onto something in the past, for example, that existed in a
+context quite different from today
+
+ROC for example is useful to understand how buildings can be
+thought of as made up of shearing layers -- and that
+different parts of buildings change at different rates, or
+as a different way of of looking at Big History other than
+from a linear timeline divided into complexity thresholds.
+The Big Bang is not something that happened in the past, it
+is a process that is still going on today, or how change
+propagates at different speeds in different places --
+Gibon's famous "the future is already here, it's just not
+evenly distributed".
+
+These are not abstract, academic distinctions, they apply to
+every part of our lives, the societies we live in.  They can
+be used in education, in design, in production, commerce and
+governanace.  These are tools that law enforcement officer
+can use when evaluating a domestic dispute as well as to
+piece together what had happened at a crime scene.
+
+Ideally we want to encode our toolbox into machine
+understandable and executible code.
+
+----
+
+It's important that we explain these concepts as tools for
+building civilization -- so we need to show not only how
+these tools work, but how to use them.
+
+
 ** TL;DR
-** References
+
+#+begin_comment
+This obviously has to be rewritten so that it is a summary
+rather than given as an specific example used as summary. 
+#+end_comment
+
+The premise is that it is helpful to always understand the
+Point of View (POV) -- or perspective that you are looking
+at something because when you change your POV you change the
+context of what you are seeing and will often see things you
+didn't see before, or even see things in a completely
+different way than you saw before.
+
+We define five Cardinal Perspectives (CP):
+
+  - LOD : Level of Detail      - near <--> far
+  - ROC : Rate of Change       - slow <--> fast
+  - LOA : Level of Abstraction - specific <--> abstract
+  - LOC : Level of Complexity  - simple <--> complex 
+  - POC : Process of Change    - start <--> finish
+
+These five Perspectives form the foundation for how
+everything else *everything* in APPL, Primer & Hoard are
+understood.
+
+Each CP becomes increasingly more complex and abstract, but
+each builds on the one before and let's you see the same
+thing from a different perspective.  It does not negate the
+other POVs so much as enriches them and provides a more
+powerful toolbox for modeling and understanding.
+
+For example, let's look at the Origin Story that will start
+the Primer.
+
+The Origin LOD is basically Big History -- a linear timeline
+with a beginning (big bang) middle (from BB to now) and the
+end (projected heat death of the universe).  The narrative
+is organized around tipping points where complexity reaches
+a critical mass that changes the nature of the universe, and
+then later life on earth and eventually us.  This is a
+fantastic narrative and is a perfect way of easing people
+into the origin story which can be understood like any other
+origin story.
+
+The Origin ROC is basically a finer grained version of Big
+History that uses the concept of causal propagation (think
+Light Cones) to understand that different things change at
+different speeds and that all of these things are mixed
+together.  It's the embodiment of Gibson's the future is
+already here isn't just not evenly distributed.  Brand's
+Pace-Layers is a good way of understanding this, as well as
+Light Cones and causal propagation of change happening at
+the speed of light but making the point that the speed of
+light is the maximum speed that things can propagate, most
+things are propagating far slower.
+
+--------
+
+Taken together these three models will give us a set of
+powerful tools for understanding, planning, building, and
+maintaining civilizations.
 
 
