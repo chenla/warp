@@ -31,6 +31,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+How did the ecosystem, environment and climate that Sapiens evolved in
+make us what we are today?  What advantages do we have?  What
+limitations do we have that need to be compensated for?
+
+This establishes a biological baseline for designing civilization that
+meets the needs of our species.
+
+
 ** TL;DR
 ** References
 
