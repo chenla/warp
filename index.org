@@ -70,6 +70,7 @@ bibliography:../hoard/bib.bib
  - 12. [[./02/12-process.org][Process]]
 ** III. Frameworks
  - [[./03/index.org][Contents]]
+ - [[./03/abstract.org][Abstract]]
  - [[./03/intro.org][Introduction]]
  - 01. [[./03/01/index.org][Dualities]]
  - 02. [[./03/02/index.org][Generators]]
