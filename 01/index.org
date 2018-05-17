@@ -30,11 +30,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Table of Contents
  - Contents
  - [[./intro.org][Introduction]]
- - 01. [[./01/index.org][Civilization]]
- - 02. [[./02/index.org][First Principles]]
- - 03. [[./03/index.org][Nature of Order]]
- - 04. [[./04/index.org][Estrangement]]
- - 05. [[./05/index.org][Boundries]]
- - 06. [[./06/index.org][Principles]]
+ - 01. [[./01/index.org][Sapiens]]
+ - 02. [[./02/index.org][Civilization]]
+ - 03. [[./03/index.org][First Principles]]
+ - 04. [[./04/index.org][Nature of Order]]
+ - 05. [[./05/index.org][Estrangement]]
+ - 06. [[./06/index.org][Boundries]]
+ - 07. [[./07/index.org][Principles]]
 
 
