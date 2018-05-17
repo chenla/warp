@@ -1,0 +1,60 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 1.6.1 Principles Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]]
+
+* 1.6.1 Principles Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/06/intro.org
+:Created:  2018-04-21T17:46@Prek Leap (11.642600N-104.919210W)
+:ID:       20950867-a475-4edc-9be1-ceb13de4df1d
+:VER:      577579625.781787685
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:EBA6-5101
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope 
+
+This brings us to the final part of the first volume which
+explores the principles on which we can build societies and
+a civilization for mankind that has a solid foundation that
+gives us a place within a world that is both beautiful,
+natural and fulfills that spiritual dimension of our ability
+to see and understand patterns of living-order in the world
+around us, that takes into account our strengths and
+weaknesses and allows us to make progress and a better world
+for ourselves and our children.
+
+** TL;DR
+
+** References
+
+- Association, A. H., /Humanism and its aspirations:
+  humanist manifesto iii./ (2003).
+  cite:aha:2003humanism
+- Einstein, A., Essays in humanism (2011), : Philosophical
+  Library/Open Road.
+  cite:einstein:2011humanism 
+- Pinker, S., Enlightenment now: the case for reason,
+  science, humanism, and progress (2018), : Viking.
+  cite:pinker:2018enlightenment 
+
+
+- TEDTalk on golden rule
