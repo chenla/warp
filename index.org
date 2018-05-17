@@ -79,7 +79,8 @@ bibliography:../hoard/bib.bib
  - 05. [[./03/05/index.org][Standards]]
  - 06. [[./03/06/index.org][Legibility]]
 ** IV. Scaffolds
- - [[./04/index.org][Contents]] 
+ - [[./04/index.org][Contents]]
+ - [[./04/abstract.org][Abstract]]
  - [[./04/intro.org][Introduction]]
  - 01. [[./04/01-entities.org][Entity Model]]
  - 02. [[./04/02-ontologies.org][Ontology Model]]
