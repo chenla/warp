@@ -42,10 +42,79 @@ ensure that we don't repeat those mistakes?
 This lays the groundwork for understanding different ways
 that civilization might work in a technologically advanced
 post-scarcity future that we are starting to see the
-beginnings of today which we will get into in detail in
-Volume III.
+beginnings of today.
 
 ** TL;DR
+
+Where to begin?
+
+Civilization starts about xxx years before written systems
+were first invented.  This sounds like it should be clear
+cut, but our understanding of the transition from
+hunter-gathers to sedantary agriculture surrounding citites
+is changing rapidly.  Paleontologists have made some
+remarkable discoverys in the past two decades that is
+changing the narrative of how civlization started that has
+been with us for centuries. cite:scott:2017against
+
+
+*** Proto-Civilizations
+
+
+*** Small and Scattered
+
+Until the widespread use of chronometrics by paleontologists
+and historians began actually listening to what the
+paleontologists were discovering our understanding of our
+past was limited to what has been written.  Since writing
+was concentrated in cities, and because urban people are by
+definition, sedantary and don't move around much, they wrote
+about what they knew, which is what was happening in
+agricultural societies.  Anyone outside, was lumped together
+under the generic term savages and no one really spent much
+thought about them at all until the late 19th century.
+Chronometrics is now making it possible to begin building at
+least the outline of who these people were, and where and
+how they lived.  There is little else we can know because
+they left no record of their language, their cultures and
+beliefs or their deeds.  From similar societies that
+survived until the 19th century when a few scientists began
+to take notice of them, we can make educated guesses about
+how their societies might have been structured and the types
+of belief systems they held.  But unless time travel become
+possible, most of what is unknown about these peoples will
+remain unknown.
+
+It's important to remember that even when sedantary
+agricultural societies emerged, it was not so much a
+revolution as much as small scale experiments.
+
+As Scott points out, the vast majority of Humanity has lived
+outside of cities or state influence, or at most lived on
+the periphery up until the industrial revolution.  And even
+then, it was only in xxxx that more than 50% of humanity
+were urban.  In otherwords, Man as a whole has had no
+practice or experience at building and maintaining
+civilization as the primary mode of existence for Mankind.
+Scaling civlization up to include all of humanity only
+really began laying the groundwork at the very end of the
+19th century with the beginning of the Steam Revolution and
+even then it's only been the couple of generations since the
+end of World War II that have been the first to live in a
+global civilization.
+
+This is all new folks, we are all pioneers trying this stuff
+out for the first time.
+
+
+*** Cherry Picking:
+
+  - nomadic civilization -- which is a balance between our
+    hunter-gather heritage and 
+
+
+
+** Introduction
 
 We all have to learn some things the hard way, both as
 individuals and as societies.  You learn to avoid direct
