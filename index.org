@@ -42,10 +42,8 @@ bibliography:../hoard/bib.bib
  - Prolegomenon
 * Cantos I-VII Building Blocks
 ** I. Foundations
-:PROPERTIES:
-:ID:       5439f4b6-9416-4459-8e2c-dc4c1526ca68
-:END:
  - [[./01/index.org][Contents]]
+ - [[./01/abstract.org][Abstract]]
  - [[./01/intro.org][Introduction]]
  - 01. [[./01/01/index.org][Sapiens]]
  - 02. [[./01/02/index.org][Civilization]]
