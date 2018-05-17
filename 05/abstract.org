@@ -32,6 +32,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+*** Identity
+*** Citizens
+*** Polis
+*** Tools
+*** Machines
+*** Energy
+*** Structures
+*** Surpluses
+*** Distribution
+*** Succession
+*** Infrastructure
+
+
 ** References
 
 
