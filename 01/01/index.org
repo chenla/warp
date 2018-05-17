@@ -30,3 +30,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./intro.org][Introduction]]
 
+  - Savannah Heritage
+    - savannah ecosystem
+    - stability
+    - evolutionary pressure to adapt
+    - flexibily -> makes it easier to adapt to other climates/ecosystems
+  - Accidental Apex
+
+  - Ocean Ancestry
