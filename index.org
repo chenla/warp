@@ -117,7 +117,7 @@ bibliography:../hoard/bib.bib
  - 07. [[./06/06/index.org][Agency]]
 ** VII. Workflow
  - [[./07/index.org][Contents]]
- - [[./Abstract
+ - [[./07/abstract.org][Abstract]]
  - [[./07/intro.org][Introduction]]
  - 01. [[./07/01/index.org][APPL]]
  - 02. [[./07/02/index.org][Hoard]]
