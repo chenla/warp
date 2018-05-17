@@ -41,12 +41,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
       climates/ecosystems
   - Primate Heritage
     - what advantages do primates have over other species
+    - primate senses, compared to other animals
+    - primate physical design
+      - opposable thumbs --> Opposition and apposition
+        - only old world monkeys and great apes 
     - omnivores have larger range of diet
     - omnivores share traits of both carnivores and herbivores
     - offspring are born before development is complete
       - this increases early mortality rates? does it?
       - means that we are exposed to environment earlier and can begin
         learning earlier.
+      - core primate behaviors and instincts -- what is hardwired
   - The Accidental Apex
     - how we become an apex predator
     - we are designed to be in the middle of the food chain
