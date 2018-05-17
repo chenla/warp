@@ -32,6 +32,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+*** The Way
+*** Cycles
+*** Rules
+*** Workflow
+*** Replicators
+*** Fabrication
+*** Agency
+
 ** References
 
 
