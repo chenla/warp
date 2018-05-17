@@ -29,6 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
  - Contents
+ - [[./abstract.org][Abstract]]
  - [[./intro.org][Introduction]]
  - 01. [[./01/index.org][Sapiens]]
  - 02. [[./02/index.org][Civilization]]
