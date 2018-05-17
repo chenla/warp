@@ -30,15 +30,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
 
-Scaffold as a supporting structure for what you are building
-that will be taken away when it is finished and can stand on
-its own.  Our scaffolds is a generative structure that came
-from Steward Brand called the Pace-layer model for
-civilization.
 
-The APPL will have as it's introduction, the APPL pace-layer
-model -- not here.  Here we will only discuss pace-layers as
-a concept and how we will use the model as a foundational
-scaffold for APPL, Primer and Hoard.
