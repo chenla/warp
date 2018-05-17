@@ -32,6 +32,56 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+*** positive and negative liberty
+
+SEE: cite:carter:2018:pos-neg-liberty
+
+The most common approach to drafting rules is to allow
+everything that is not disallowed by articles; no law shall
+be made that does a,b,c
+
+Affirmitive rights are granted, but as something that can't
+be taken away; no bill shall descriminate on the basis of
+gender or ethnic etc.  Nothing wrong with that.
+
+*** be up-front when doing something bad
+
+It's impossible to always stop people intent on doing bad
+things.  But if you make it more difficult for them to hide
+what they are doing, if a system is fair in the aggregate it
+will not allow bad things to be done in the light.
+
+So let's ensure that any law, or change of rule be up front
+about what they are doing.
+
+I would like to explore the idea of ensuring that whatever
+rules/laws are created must meet the following criteria:
+
+  - include statement of intent in plain language
+  - language & logic of rule separate from intent
+  - void if counter to scientific consensus or substantive
+    reproducible evidence.
+  - side-effects: counter to intent are void
+    known bugs that void rule - idea is to close loopholes.
+
+parts of a rule
+
+  - name & id
+  - intent
+  - scope
+  - body & logic
+  - evidence supporting
+  - side-effects
+
+different parts of rules are written by different branches
+to keep people honest.
+
+
+loop-holes that are identified after a rule has been enacted
+can be added by oversight mechanisms.
+
+
 ** References
 
 
