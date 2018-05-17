@@ -27,7 +27,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Table of Contents
+  - Contents
+  - [[./abstract.org][Abstract]]
   -[[./intro.org][ Introduction]]
   - 01. [[./01-pov.org][Point of View]] (POV)
   - 02. [[./02-perspectives.org][Cadinal Perspectives]]
