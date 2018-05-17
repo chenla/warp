@@ -32,9 +32,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Savannah Heritage
     - savannah ecosystem
+    - high generalized biodiversity
+    - clemant
     - stability
     - evolutionary pressure to adapt
     - flexibily -> makes it easier to adapt to other climates/ecosystems
-  - Accidental Apex
+  - The Accidental Apex
 
   - Ocean Ancestry
+    - we have inherieted many things from living in water
+    - possibly will mitigate potential problems living in lower
+      gravity
