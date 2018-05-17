@@ -106,7 +106,8 @@ bibliography:../hoard/bib.bib
  - 11. [[./05/11/index.org][Infrastructure]]
 ** VI. Methodologies
  - [[./06/index.org][Contents]]
- - [[./06/ww-intro-vol-4.org][Introduction]]
+ - [[./06/intro.org][Introduction]]
+ - [[./06/abstract.org][Abstract]]
  - 01. [[./06/01/index.org][The Way]]
  - 02. [[./06/02/index.org][Cycles]]
  - 03. [[./06/03/index.org][Rules]]
@@ -116,6 +117,7 @@ bibliography:../hoard/bib.bib
  - 07. [[./06/06/index.org][Agency]]
 ** VII. Workflow
  - [[./07/index.org][Contents]]
+ - [[./Abstract
  - [[./07/intro.org][Introduction]]
  - 01. [[./07/01/index.org][APPL]]
  - 02. [[./07/02/index.org][Hoard]]
