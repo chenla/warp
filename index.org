@@ -44,6 +44,7 @@ bibliography:../hoard/bib.bib
 ** I. Foundations
  - [[./01/index.org][Contents]]
  - [[./01/intro.org][Introduction]]
+ -     Sapiens
  - 01. [[./01/01/index.org][Civilization]]
  - 02. [[./01/02/index.org][First Principles]]
  - 03. [[./01/03/index.org][Nature of Order]]
@@ -53,16 +54,18 @@ bibliography:../hoard/bib.bib
 ** II. Points of View
  - [[./02/index.org][Contents]]
  -[[./02/intro.org][ Introduction]]
- - 01. [[./02/01-what-is-pov.org][Point of View]] (POV)
- - 02. [[./02/03-perspectives.org][Cardinal Perspectives]]
- - 03. [[./02/04-lod.org][Level of Detail]] (LOD)
- - 04. [[./02/05-roc.org][Rate of Change]] (ROC)
- - 05. [[./02/06-poc.org][Process of Change]] (POC)
- - 07. [[./02/07-as-povs.org][LOD, ROC and POC as Points of Views]]
- - 08. [[./02/08-scale.org][Scale]]
- - 09. [[./02/09-narrative.org][Narrative]]
- - 10. [[./02/10-propagation.org][Propagation]]
- - 11. [[./02/11-process.org][Process]]
+ - 01. [[./02/01-pov.org][Point of View]] (POV)
+ - 02. [[./02/02-perspectives.org][Cardinal Perspectives]]
+ - 03. [[./02/03-lod.org][Level of Detail]] (LOD)
+ - 04. [[./02/04-roc.org][Rate of Change]] (ROC)
+ - 05. [[./02/05-loa.org][Level of Abstraction]] (LOA)
+ - 06. [[./02/06-loc.org][Level of Complexity]] (LOC)
+ - 07. [[./02/07-poc.org][Process of Change]] (POC)
+ - 08. [[./02/08-as-povs.org][LOD, ROC and POC as Points of Views]]
+ - 09. [[./02/09-scale.org][Scale]]
+ - 10. [[./02/10-narrative.org][Narrative]]
+ - 11. [[./02/11-propagation.org][Propagation]]
+ - 12. [[./02/12-process.org][Process]]
 ** III. Frameworks
  - [[./03/index.org][Contents]]
  - [[./03/intro.org][Introduction]]
