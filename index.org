@@ -54,6 +54,7 @@ bibliography:../hoard/bib.bib
  - 07. [[./01/07/index.org][Principles]]
 ** II. Points of View
  - [[./02/index.org][Contents]]
+ - [[./02/abstract.org][Abstract]]
  -[[./02/intro.org][ Introduction]]
  - 01. [[./02/01-pov.org][Point of View]] (POV)
  - 02. [[./02/02-perspectives.org][Cardinal Perspectives]]
