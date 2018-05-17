@@ -31,6 +31,44 @@ bibliography:~/proj/chenla/hoard/bib.bib
 [[[./index.org][top]]] prev [[[./plan.org][next]]]
 
 ** Scope
+
+#+begin_comment
+Didn't know where else to put this....
+
+Today, thinking about the end game for.... all of this I
+started to ask the question "what the fuck are we really
+building here?"  Fair question.
+
+Is it an AI?  No, an AI will have it's own organization,
+internal memories, abstractions and world view -- just as we
+do.  But, I realized, an AI will still need to extend and
+externalize in the same way that we do.  AIs will need to
+cooperate with people and with other AIs -- this has nothing
+to do with the great AI freakout or consciousness or super
+intelligence -- that all could be fantasy or grim reality --
+that remains to be seen -- but what is clear is that AIs
+will have to solve many of the problems humans are trying to
+solve which how is to communicate and cooperate to achieve
+goals as a group which are larger than the sum of their
+parts.
+
+What we're building here is a means for pulling all
+extension and externalization into a single distributed,
+federated interoperable system so we work together, not
+against each other, while still allowing individual agency
+and self-determination (a whole other kettle of fish).
+
+Perhaps, just maybe, warp & woof holds the potential of
+staving off the existential AI threat that has a lot of very
+smart people today very worried.  Because if we all learn
+how to play together according to the same humanist
+principles, not just people, but machines too, and evolve
+together as partners so that those principles become an
+integral part of who we are, then perhaps we will have
+passed the Great Filter that has been suggested as an answer
+to Fermi's Paradox.
+#+end_comment
+
 ** TL;DR
 
 No shit, a tl;dr for an introduction
