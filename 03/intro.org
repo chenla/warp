@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: III. Introduction
+#+TITLE: III. Frameworks Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -29,8 +29,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
-
-** TL;DR
 
 There are few absolutes.  And even when there are, even
 those are subject to any number of ways of looking and
