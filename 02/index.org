@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../index.org][top]]] [[[../index.org][up]]]
 
 * II. Points of View Table of Contents
 :PROPERTIES:
@@ -29,21 +29,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Table of Contents
   -[[./intro.org][ Introduction]]
-  - 01. [[./01-what-is-pov.org][Point of View]] (POV)
-  - 03. [[./03-perspectives.org][Cadinal Perspectives]]
-  - 04. [[./04-lod.org][Level of Detail]] (LOD)
-  - 05. [[./05-roc.org][Rate of Change]] (ROC)
-  - 05. [[./06-abstraction.org][Level of Abstraction]] (LOA)
-  - 07. [[./07-complexity.org][Level of Complexity]] (LOC)
-  - 08. [[./06-poc.org][Process of Change]] (POC)
-
-
-
-  - 07. [[./07-as-povs.org][LOD, ROC and POC as Points of Views]]
-
-
-  - 08. [[./08-scale.org][Scale]]
-  - 09. [[./09-narrative.org][Narrative]]
-  - 10. [[./10-propagation.org][Propagation]]
-  - 11. [[./11-process.org][Process]]
+  - 01. [[./01-pov.org][Point of View]] (POV)
+  - 02. [[./02-perspectives.org][Cadinal Perspectives]]
+  - 03. [[./03-lod.org][Level of Detail]] (LOD)
+  - 04. [[./04-roc.org][Rate of Change]] (ROC)
+  - 05. [[./05-loa.org][Level of Abstraction]] (LOA)
+  - 06. [[./06-loc.org][Level of Complexity]] (LOC)
+  - 07. [[./07-poc.org][Process of Change]] (POC)
+  - 08. [[./08-as-povs.org][LOD, ROC and POC as Points of Views]]
+  - 09. [[./09-scale.org][Scale]]
+  - 10. [[./10-narrative.org][Narrative]]
+  - 11. [[./11-propagation.org][Propagation]]
+  - 12. [[./12-process.org][Process]]
 
