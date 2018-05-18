@@ -55,15 +55,13 @@ Civilization.
 
 Civilization is iterative and bottom up, building on the
 civilizations that came before them.  With each iteration we
-learn a little more, and do a little better.  It is hoped
-that these works will be of use in making that process a
-little less random, a little more focused, and a lot less
-disruptive and destructive as it has all too often been in
+learn a little more, do a little better.  It is hoped that
+these works will be of use in making that process a little
+less random, a little more focused, and a lot less
+disruptive and destructive as it all too often has been in
 the past.
 
-
-
-
+#+begin_comment
 Even the term history has been extended and externalized.
 History literally means /what was written/.  We add to human
 writing systems, what was written in the radio isotopes in
@@ -71,9 +69,7 @@ rock and the chemical signitures in ice and the
 electromagneic spectrum from objects so far away that they
 have takes thousands, millions and billions of years to
 reach us.
-
-
-
+#+end_comment
 
 Chenla is not proposing the design of any specific
 civilization, rather, the goal is to provide a generative
