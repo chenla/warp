@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 05. Goldilocks Thresholds Contents
+#+TITLE: 5. Goldilocks Thresholds Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./04-succession-model.org][prev]]] [[[./06-hard-soft-wet.org][next]]]
 
-* 05. Goldilocks Thresholds Contents
+* 5. Goldilocks & Thresholds Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/04/05/index.org
