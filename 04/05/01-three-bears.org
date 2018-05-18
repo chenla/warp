@@ -39,8 +39,7 @@ versified by George Nicol
 
 
 #+begin_verse 
-[.ill #1]
-
+[three-bears-01-full.jpeg]
 
 Three Bears, once on a time, did dwell
    Snug in a house together.
@@ -82,7 +81,7 @@ The wee Bear on a small, wee bed
 As these Bears proved, in taking care 
    Their porridge not to touch. 
 
-[.ill #2]
+[three-bears-02-full.jpeg]
 
 For they most cautious had become 
    From having once before 
@@ -104,7 +103,7 @@ And then she lifted up the latch
 For hold of all she could to snatch 
    No doubt was her intent. 
 
-[.ill #3]
+[three-bears-03-full.jpeg]
 
 The Bears had left the door undone 
    Whilst strolling in the wood, 
@@ -146,7 +145,7 @@ But now to where the small, wee Bear
 She came, and soon the porridge there 
    By her was eaten up. 
 
-[.ill #4]
+[three-bears-04-full.jpeg]
 
 A wicked word she spoke again 
    As wicked as before, 
@@ -168,7 +167,7 @@ Now here for sometime sat the Dame
 When out this wee chair’s bottom came 
    And her’s came on the floor 
 
-[.ill #5]
+[three-bears-05-full.jpeg]
 
 A wicked word about this too 
    She spoke—then went up-stairs, 
@@ -190,7 +189,7 @@ Now down upon the small wee bed
 The thing, both at the foot and head, 
    And fitted her just right.
 
-[.ill #6]
+[three-bears-06-full.jpeg]
 
 Thus finding that it suited well
    Within the clothes she crept; 
@@ -212,7 +211,7 @@ Thinking their porridge long enough
 For there the spoon was sticking in, 
    Which he left at the side. 
 
-[.ill #7
+[three-bears-07-full.jpeg]
 
 *“Somebody has at my porridge been!”* 
    Then said the middle Bear, 
@@ -234,7 +233,7 @@ On this the three Bears finding that
 Some one the door had entered at, 
    Began to look about. 
 
-[.ill #8]
+[three-bears-08-full.jpeg]
 
 *"Somebody in my chair has sat!"* 
   With voice so gruff and great 
@@ -256,7 +255,7 @@ Now having search'd the house below
 Thought it just as well to go 
    And do the same up-stairs. 
 
-[.ill #9]
+[three-bears-09-full.jpeg]
 
 *"Some one’s been lying in my bed!* 
    Cried out the great huge Bear, 
@@ -298,7 +297,7 @@ But when the small, wee Bear did speak,
 His voice it was so shrill, the squeak 
    Shot through her ugly head. 
 
-[.ill #10]
+[three-bears-10-full.jpeg]
 
 She rubb’d her eyes, and when she saw 
    The three Bears at her side, 
@@ -320,7 +319,7 @@ Or whether to the wood she fled
 Or found a path which straightway led 
    To where the highways cross’d. 
 
-[.ill #11]
+[three-bears-11-full.jpeg]
 
 And there was by the Beadle caught
    And taken into jail— 
@@ -338,6 +337,12 @@ port Robert Southey.
 
 First published anonymously as "The Story of the Three Bears" in 1837
 in a collection of his writings called /The Doctor/.
+
+The Goldilocks image from:
+
+  Arthur Mee and Holland Thompson, eds. The Book of Knowledge (New
+  York, NY: The Grolier Society, 1912)
+  https://commons.wikimedia.org/wiki/File:Goldilocks_1912.jpg
 
 ** Appendix
 
