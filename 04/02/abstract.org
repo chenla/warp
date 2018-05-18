@@ -15,7 +15,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-
 * 02. Ontologies Abstract
 :PROPERTIES:
 :CUSTOM_ID:
@@ -85,7 +84,5 @@ where the structure is mature enough to start making these
 tools.  Before the structure was too fluid and changing too
 often to justify making the tools. 
 
-
-** References
 
 
