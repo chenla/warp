@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 03. Pace-Layers
+#+TITLE: 03. Pace-Layers TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-ontologies.org][prev]]] [[[./04-succession-model.org][next]]]
 
-* 03. Pace-Layers
+* 03. Pace-Layers Table of Contente
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/03-pace-layers.org
+:Name:     /home/deerpig/proj/chenla/warp/04/03/index.org
 :Created:  2018-03-22T16:57@Prek Leap (11.642600N-104.919210W)
 :ID:       8541b0ba-95c5-462c-bc26-63ea275cbb3a
 :VER:      574984730.876076307
@@ -30,10 +30,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** TL;DR
-** Table of Contents
-
-- Pace-Layers
+  - Contents
+  - Abstract
+  - Introduction
+  - Pace-Layers
   - Complex Societies
   - Biospheres
   - Geological
