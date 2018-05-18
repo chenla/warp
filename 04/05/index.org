@@ -33,6 +33,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
+  - [[./01-three-bears.org][The Three Bears]]
+
 
  -> range of desirable parameters
    SEE cite:christian:2011history,wiki:2018goldilocks-principle,wiki:2018goldilocks-three-bears,wiki2018:circumstellar-habitable-zone  
