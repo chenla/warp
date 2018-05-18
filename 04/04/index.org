@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./03-pace-layers.org][prev]]] [[[./05-goldilocks.org][next]]]
 
-* 04. Succession Table of Contents
+* 04. Succession Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/04/04/index.org
