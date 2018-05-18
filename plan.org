@@ -79,20 +79,20 @@ number of civilizations.
 The history of 
 
 #+begin_ascii
-            Warp & Woof   <---------\
+             Principles   <---------\
                  \/                 |
-                APPL      <---------| 
+              Patterns    <---------| 
                  \/                 |
-               Hoard      <---------|      ------ A R C --------- 
+               Source     <---------|      ------ A R C ---------- 
                  \/                 |          Dark Archives 
-    ---------- Primer ----------    |      .......................
-            M I D D L E             |       Nearline Repositories
+    ---------- Kernal ----------    |      .......................
+            M I D D L E             |       Near-line Repositories
     ............................    |      .......................
-      Pattern Recognition Layer <---|<--->    Online Libaries
+      Pattern Recognition Layer <---|--->    On-line Libaries
     ............................    |      =======================
-          Discovery Layer       <---|         Map-Index Layer
+          Discovery Layer       <---|          Map-Index Layer
     ............................    |      .......................
-          Rule Set Layer        <---|        Collection Layer
+          Rule Set Layer        <---|         Collection Layer
     ............................    |      -----------------------
          Process Chain Layer    <---|              / \
     ............................    |               |
