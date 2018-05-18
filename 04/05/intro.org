@@ -36,22 +36,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-  - Planets For Man ??
-
   - Chaisson, E. J., Complexity: an energetics agenda,
     Complexity, 9(3), 14–21 (2004).
     cite:chaisson:2004complexity 
   - Christian, D., The history of our world in 18 minutes,
     TED Talk. March, (), (2011).
     cite:christian:2011history
-  - contributors, W., /Goldilocks principle --- wikipedia,
+  - Dole, S. H., & Asimov, I., Planets for man (2007), : RAND Corporation.
+    cite:dole:2007planets-for-man
+  - Southey, R., Nicol, G., & (.ill), B. H., The story of the three
+    bears (1839), : Wright.
+    cite:southey:1839three-bears
+  - Wikipedia, /Goldilocks principle --- wikipedia,
     the free encyclopedia/ (2018).
     cite:wiki:2018goldilocks-principle 
-  - contributors, W., /Goldilocks and the three bears --- wikipedia,
+  - Wikipedia, /Goldilocks and the three bears --- wikipedia,
     the free encyclopedia/ (2018).
     cite:wiki:2018goldilocks-three-bears
-  - contributors, W., /Circumstellar habitable zone --- wikipedia, the
+  - Wikipedia, /Circumstellar habitable zone --- wikipedia, the
     free encyclopedia/ (2018).
     cite:wiki2018:circumstellar-habitable-zone
-    
-
