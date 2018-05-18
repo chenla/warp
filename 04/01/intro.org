@@ -1,40 +1,32 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 01. Entity Model
+#+TITLE: 01. Entity Model Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./02-ontologies.org][next]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. Entity Model
+* 01. Entity Model Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/01/index.org
-:Created:  2018-03-27T19:33@Prek Leap (11.642600N-104.919210W)
-:ID:       674a5f75-68c9-4362-9092-684ef90d4b8f
-:VER:      575426074.504527788
+:Name:     /home/deerpig/proj/chenla/warp/04/01/intro.org
+:Created:  2018-05-18T08:47@Prek Leap (11.642600N-104.919210W)
+:ID:       1a6ee72c-30ed-46ef-bc8f-f3048c5a208b
+:VER:      579880126.681135502
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:HLM3-7344
+:BXID:     proj:SPU3-7511
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
-
- - Contents
- - [[./abstract.org][Abstract]]
- - [[./intro.org][Introduction]]
- - What is an Entity Model
- - FRBR
- - FRAD
