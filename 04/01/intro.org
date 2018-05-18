@@ -274,3 +274,4 @@ implemented in the near or distant future.
     cite:ifla:2008frad
 
   SEE: [[https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=frbr&btnG=][Google Scholar Search for FRBR]]
+  ADD: [[http://gen.lib.rus.ec/book/index.php?md5=540D4298D5B4DB08232253B3A2B47A5][FRBR: A Guide for the Perplexed]] 
