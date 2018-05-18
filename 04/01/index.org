@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 01. Entity Model
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/01-entities.org
+:Name:     /home/deerpig/proj/chenla/warp/04/01/index.org
 :Created:  2018-03-27T19:33@Prek Leap (11.642600N-104.919210W)
 :ID:       674a5f75-68c9-4362-9092-684ef90d4b8f
 :VER:      575426074.504527788
@@ -31,6 +31,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
+
+ - Contents
+ - [[./abstract.org][Abstract]]
+ - Introduction
  - What is an Entity Model
  - FRBR
  - FRAD
