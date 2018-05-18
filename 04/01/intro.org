@@ -262,3 +262,15 @@ However they provide a good starting point that will
 increase the usefulness of machine and human understandable
 metadata by orders of magnitude no matter how they are
 implemented in the near or distant future.
+
+
+** References
+
+  - IFLA, , Functional requirements for bibliographic records: final
+    report, , (), (1997).
+    cite:ifla:1997frbr
+  - IFLA, , Functional requirements of authority data: a conceptual
+    model, , (), (2008).
+    cite:ifla:2008frad
+
+  SEE: [[https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=frbr&btnG=][Google Scholar Search for FRBR]]
