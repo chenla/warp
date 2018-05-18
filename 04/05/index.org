@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 05. Goldilocks Thresholds
+#+TITLE: 05. Goldilocks Thresholds Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./04-succession-model.org][prev]]] [[[./06-hard-soft-wet.org][next]]]
 
-* 05. Goldilocks Thresholds
+* 05. Goldilocks Thresholds Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/05-goldilocks.org
+:Name:     /home/deerpig/proj/chenla/warp/04/05/index.org
 :Created:  2018-03-29T16:18@Prek Leap (11.642600N-104.919210W)
 :ID:       63e10324-ba8a-46c6-b579-28449f0c7f9d
 :VER:      575587154.803624081
@@ -30,9 +30,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
-** TL;DR
-** Table of Contents
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
 
  -> range of desirable parameters
    SEE cite:christian:2011history,wiki:2018goldilocks-principle,wiki:2018goldilocks-three-bears,wiki2018:circumstellar-habitable-zone  
