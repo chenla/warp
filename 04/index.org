@@ -30,7 +30,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents 
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-  - 01. [[./01/index.org][Entity Model]
+  - 01. [[./01/index.org][Entity Model]]
   - 02. [[./02/index.org][Ontology Model]
   - 03. [[./03/index.org][Pace-Layer Model]
   - 04. [[./04/index.org][Succession Model]

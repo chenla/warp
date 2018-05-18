@@ -82,7 +82,7 @@ bibliography:../hoard/bib.bib
  - [[./04/index.org][Contents]]
  - [[./04/abstract.org][Abstract]]
  - [[./04/intro.org][Introduction]]
- - 01. [[./04/01/index.org][Entity Model]
+ - 01. [[./04/01/index.org][Entity Model]]
  - 02. [[./04/02/index.org][Ontology Model]
  - 03. [[./04/03/index.org][Pace-Layer Model]
  - 04. [[./04/04/index.org][Succession Model]
