@@ -31,8 +31,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Abstract
-  - Introduction
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
   - Pace-Layers
   - Complex Societies
   - Biospheres
