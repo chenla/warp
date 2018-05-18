@@ -30,8 +30,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+#+begin_center
+The Story of the Three Bears 
+versified by George Nicol 
+       2nd ed. 
+        1839
+#+end_center
 
-** The Story of the Three Bears, versified by George Nicol, 2nd ed. 1839
 
 #+begin_verse 
 [.ill #1]
@@ -263,9 +268,64 @@ Who left his pillow at the head
 For it was tumbled at the head 
    And at the foot and side. 
 
+And now the little wee Bear said 
+   With voice both small and shrill, 
+“Some one’s been lying in my bed — 
+  And here she’s lying still!”   <-- small font
 
+The other Bears look’d at the bed. 
+   And on the pillow-case 
+They saw her little dirty head 
+   And little ugly face. 
 
+The little old woman had the deep 
+   Voice of the huge Bear heard. 
+But she was in so sound a sleep 
+   She neither woke nor stirr’d: 
 
+For it appear’d to her no more 
+   Than thunder rumbling by, 
+Or than the angry winds, which roar, 
+   And sweep along the sky. 
+
+And she had heard the middle Bear, 
+   Whose middle voice did seem 
+To her asleep, as though it were 
+   The voice but of a dream. 
+
+But when the small, wee Bear did speak, 
+   She started up in bed, 
+His voice it was so shrill, the squeak 
+   Shot through her ugly head. 
+
+[.ill #10]
+
+She rubb’d her eyes, and when she saw 
+   The three Bears at her side, 
+She sprang full quick upon the floor— 
+   And then with hop and stride 
+
+She to the open window flew, 
+   Which these good tidy Bears 
+Wide open every morning threw, 
+   When shaved they went down stairs. 
+
+She leapt out with a sudden bound, 
+   And whether in her fall 
+She broke her neck upon the ground, 
+   Or was not hurt at all. 
+
+Or whether to the wood she fled 
+   And ’mongst the trees was lost,
+Or found a path which straightway led 
+   To where the highways cross’d. 
+
+[.ill #11]
+
+And there was by the Beadle caught
+   And taken into jail— 
+This sad old woman good foi; naught!— 
+   Remains an untold tale.
 
 cite:southey:1839three-bears
 #+end_verse 
