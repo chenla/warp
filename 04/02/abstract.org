@@ -33,6 +33,59 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+From way back in the beginning, the idea was to combine
+thesaurus relationships with frbr attributes.  Seemed pretty
+straight forward at the time.  It wasn't.
+
+I mean, yes, it worked -- early BMF had records broken into
+sections and there was meta, which largely held frbr
+attributes and then there was a section named /heirarchy/ and
+later /tree/.
+
+I've played with using property boxes in org called tree
+that was separate from the bog standard PROPERTIES box, but
+it never clicked.
+
+A couple of things I learned to cut this down and make
+things easier.
+
+  - leveral inheritance where possible
+  - never include broader concepts because they should be
+    defined as narrower concepts in items higher in the
+    heirarchy (which assumes that you always go to that file
+    and add it there) it would be better if you add it here,
+    then it should be automatically added higher up the tree
+    which is not that difficult a trick to pull off in
+    elisp.
+  - we *REALLY* need a helm interface for searching for and
+    adding items.  It will never work by hand.  So that
+    means I need to index everything and create a helm
+    interface to be able to do that.  It will be a bit of
+    work, but I think we're about to the point where this
+    has to happen.
+  - need a solution to markup inline keywords with broader
+    and narrower relationships.  And to do this we need a
+    link format that treats links like org-ref citation
+    links, so that when you click on it you get a menu of
+    what you need to get done.
+  - creating templates from the record in the buffer could
+    also automate things -- so if you have made a work
+    entity record, click and get a menu and it will ask you
+    if you want to make another work, or an expression of
+    that work.
+  - pull informtion from bibtex records to create a burr
+    from each one.
+  - create person records from author fields in bibtex
+    records.
+  - tangle bibtex files from burs.
+
+That's a lot of elisp, but again, we're getting to the point
+where the structure is mature enough to start making these
+tools.  Before the structure was too fluid and changing too
+often to justify making the tools. 
+
+
 ** References
 
 
