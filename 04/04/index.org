@@ -73,36 +73,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
    for beginners, and then move down to progressively more
    detailed and more advanced material.
 
-** TL;DR
-
-This chapter describes what succession models are and how
-they work.
-
----
-
-The principle is that if the conditions are right,
-self-organizing systems tend to go from lesser to greater
-complexity.
-
-There are limits to complexity imposed by the size of the
-carrying capacity.
-
-Increasing complexity can extend carrying capacity.
-
-When complexity can no longer increase carrying capacity,
-systems collapse and revert to lower levels of complexity,
-which creates opportunities for increasing complexity again.
-This is often cyclical and has been seen repeatedly from
-major extinction events on earth, to the collapse of complex
-societies.  The tendency is, that after a collapse, the new
-system that emerges from the ashes has "learned" from it's
-previous mistakes and is replaced by a more robust and even
-more complex system -- so that the system is cyclical in
-nature, but is also iterative and increases in complexity
-with each new cycle.
-
-The most dramatic of these cycles in in major extinction
-events.
 
 ** Succession Models
 
