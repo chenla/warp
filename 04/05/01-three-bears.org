@@ -1,0 +1,216 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 1. The Three Bears 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 1. The Three Bears
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/04/05/01-three-bears.org
+:Created:  2018-05-18T09:39@Prek Leap (11.642600N-104.919210W)
+:ID:       197ad23c-37d3-4ac9-bb93-f8de3e9316e2
+:VER:      579883229.180180426
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:XKL7-8840
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+** The Story of the Three Bears, versified by George Nicol, 2nd ed. 1839
+
+#+begin_verse 
+[.ill #1]
+
+
+Three Bears, once on a time, did dwell
+   Snug in a house together.
+Which was their own, and suited well
+   By keeping out the weather.
+
+’Twas seated in a shady wood. 
+   In which they daily walk’d. 
+And afterwards, as in the mood. 
+   They smok’d and read, or talk’d. 
+
+One of them was a great huge Bear, 
+   And one of a middle size. 
+The other a little, small, wee Bear, 
+   With small red twinkling eyes. 
+
+A chair there was for every Bear, 
+   When they might choose to sit; 
+The huge Bear had a great huge chair. 
+   And filled it every bit. 
+
+The middle Bear a chair had he 
+   Of a middle-size and neat; 
+The Bear so little,, small, and wee 
+   A little, small, wee seat 
+
+They, also, each one had a bed 
+   To sleep upon at night; 
+The huge Bear’s was a great, huge bed. 
+   In length, and width, and height. 
+
+The middle Bear laid down his head 
+   On a bed of middle-size; 
+The wee Bear on a small, wee bed 
+   Did nightly close his eyes. 
+
+“A burnt child dreads the fire”—A Bear 
+   Doth dread it just as much. 
+As these Bears proved, in taking care 
+   Their porridge not to touch. 
+
+[.ill #2]
+
+For they most cautious had become 
+   From having once before 
+Their mouths severely burnt with some, 
+   Which made them dance and roar! 
+
+They, therefore, let their breakfast be 
+   Till it should cooler grow— 
+And meantime for a walk the three 
+   Into the wood did go. 
+
+And now a little old woman there 
+   Came, whilst the Bears were out; 
+Through window, keyhole, wverywhere. 
+   She peep’d and peer’d about: 
+
+And then she lifted up the latch 
+   And through the door she went, 
+For hold of all she could to snatch 
+   No doubt was her intent. 
+
+[.ill #3]
+
+
+
+
+cite:southey:1839three-bears
+#+end_verse 
+
+
+** Notes
+
+This text is the first record in narrative form by British writer and
+port Robert Southey.
+
+First published anonymously as "The Story of the Three Bears" in 1837
+in a collection of his writings called /The Doctor/.
+
+** Appendix
+
+*NOTE*: Include the full original narrative version in the appendix for
+three reasons:
+
+  1. Partly because if the antagonist is a little girl, it changes the
+     moral of the story that children should not be little brats.
+  2. When used to teach the Goldilock Principle, have students read
+     the first verse version at the beginning of the section.  And
+     then have them read the original narrative version the next time
+     that the golilocks story is invoked as a way of reinforcing the
+     story.
+  3. It's charming and I am rather fond of both versions.
+
+*** The Three Bears By Robert Southby
+
+In a far-off country there was once a little girl who was called
+Silver-hair, because her curly hair shone brightly. She was a sad
+romp, and so restless that she could not be kept quiet at home, but
+must needs run out and away, without leave.
+
+One day she started off into a wood to gather wild flowers, and into
+the fields to chase butterflies. She ran here and she ran there, and
+went so far, at last, that she found herself in a lonely place, where
+she saw a snug little house, in which three bears lived; but they were
+not then at home.
+
+The door was ajar, and Silver-hair pushed it open and found the place
+to be quite empty, so she made up her mind to go in boldly, and look
+all about the place, little thinking what sort of people lived there.
+
+Now the three bears had gone out to walk a little before this. They
+were the Big Bear, and the Middle-sized Bear, and the Little Bear; but
+they had left their porridge on the table to cool. So when Silver-hair
+came into the kitchen, she saw the three bowls of porridge. She tasted
+the largest bowl, which belonged to the Big Bear, and found it too
+cold; then she tasted the middle-sized bowl, which belonged to the
+Middle-sized Bear, and found it too hot; then she tasted the smallest
+bowl, which belonged to the Little Bear, and it was just right, and
+she ate it all.
+
+She went into the parlour, and there were three chairs. She tried the
+biggest chair, which belonged to the Big Bear, and found it too high;
+then she tried the middle-sized chair, which belonged to the
+Middle-sized Bear, and she found it too broad; then she tried the
+little chair, which belonged to the Little Bear, and found it just
+right, but she sat in it so hard that she broke it.
+
+Now Silver-hair was by this time very tired, and she went upstairs to
+the chamber, and there she found three beds. She tried the largest
+bed, which belonged to the Big Bear, and found it too soft; then she
+tried the middle-sized bed, which belonged to the Middle-sized Bear,
+and she found it too hard; then she tried the smallest bed, which
+belonged to the Little Bear, and found it just right, so she lay down
+upon it, and fell fast asleep.
+
+While Silver-hair was lying fast asleep, the three bears came home
+from their walk. They came into the kitchen, to get their porridge,
+but when the Big Bear went to his, he growled out:
+
+“SOMEBODY HAS BEEN TASTING MY PORRIDGE!”
+
+and the Middle-sized Bear looked into his bowl, and said:
+
+“Somebody Has Been Tasting My Porridge!”
+
+and the Little Bear piped:
+
+“Somebody has tasted my porridge and eaten it all up!”
+
+Then they went into the parlour, and the Big Bear growled:
+
+“SOMEBODY HAS BEEN SITTING IN MY CHAIR!”
+
+and the Middle-sized Bear said:
+
+“Somebody Has Been Sitting In My Chair!”
+
+and the Little Bear piped:
+
+“Somebody has been sitting in my chair, and has broken it all to pieces!”
+
+So they went upstairs into the chamber, and the Big Bear growled:
+
+“SOMEBODY HAS BEEN TUMBLING MY BED!”
+
+and the Middle-sized Bear said:
+
+“Somebody Has Been Tumbling My Bed!”
+
+and the little Bear piped:
+
+“Somebody has been tumbling my bed, and here she is!”
+
+At that, Silver-hair woke in a fright, and jumped out of the window
+and ran away as fast as her legs could carry her, and never went near
+the Three Bears’ snug little house again.
+
