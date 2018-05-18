@@ -32,21 +32,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Table of Contents
 
-- What is an ontology?
-- Thesaurus
-- Relationships
-  - Partitive
-  - Instantive
-  - Hierarchical
-    - Broader Term
-    - Narrower
-    - Equivalent (used for)
-    - Related
-    - Primary Term
-  - Linear
-    - Previous
-    - Next
-- Relationships and Graphs
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - Introduction
+  - What is an ontology?
+  - Thesaurus
+  - Relationships
+    - Partitive
+    - Instantive
+    - Hierarchical
+      - Broader Term
+      - Narrower
+      - Equivalent (used for)
+      - Related
+      - Primary Term
+    - Linear
+      - Previous
+      - Next
+  - Relationships and Graphs
 
 ** TL;DR
   
