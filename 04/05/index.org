@@ -35,7 +35,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./intro.org][Introduction]]
   - [[./01-three-bears.org][The Three Bears]]
 
-
- -> range of desirable parameters
-   SEE cite:christian:2011history,wiki:2018goldilocks-principle,wiki:2018goldilocks-three-bears,wiki2018:circumstellar-habitable-zone  
-   Also SEE cite:chaisson:2004complexity
+  - astrobiology: habitable zone
+  - goldilock economy: sustains moderate economic growth and low inflation
+  - communication : amount, type and detail needed to
+    maximize effectiveness & minimize redundancy
+  - big history : a threshold of conditions in which a new
+    order of complexity emerges.
