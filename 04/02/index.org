@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 02. Ontologies Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/02-ontologies.org
+:Name:     /home/deerpig/proj/chenla/warp/04/02/index.org
 :Created:  2018-03-27T19:43@Prek Leap (11.642600N-104.919210W)
 :ID:       b20309ce-541f-48ea-8ac8-1506d3bdd2b3
 :VER:      575426696.052189112
