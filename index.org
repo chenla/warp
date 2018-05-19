@@ -208,7 +208,7 @@ bibliography:../hoard/bib.bib
  - 00. Culture
  - 00. Scope
 ** XVII. Stages
- - Contents
+ - [[./17/index.org][Contents]]
  - Abstract
  - Introduction
 
