@@ -31,3 +31,75 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Abstract
   - [[./intro.org][Introduction]]
 
+  - Precursors -> model on how the internet started and grew
+    - store and forward
+    - small and sparse
+    - early identity <- from gibson, that cyberspace is not
+      the same as meatspace.  This pulled all members of the
+      net, to matter how far and wide they were physically
+      separated from each other into a new kind of proximity
+      that gave them a new kind of freedom.
+
+    - color kills monochrome -- move from curses based
+      applications to GUI interfaces
+
+    - transitional metaphors
+      apple's gui modeled after SRI's (not Xerox) Windows
+      GUI and later MS Office used metaphors for people to
+      make the transition from using tools for manipulating
+      information on paper, to manipulating information
+      digitally.
+
+    - the death of native digital interfaces -- man-machine
+      interfaces had evolved into powerful and sophisticated
+      tools.  But the learning curve was initially steep,
+      and people outside of the field found it difficult to
+      get their heads around.  The GUI threw away all of
+      that work and started from scratch.  Now that the
+      metaphors have little or no meaning to new
+      generations, some of the innovations from early
+      software are being rediscovered -- eventually a
+      graphical native digital interface will emerge that
+      will merge the two worlds.  We are still far from that
+      today.
+
+
+    - eternal september
+
+    - designers revenge -- the browser wars sowed the seeds
+      that eventually broke the Web.  The web was originally
+      designed to be a network of information, the idea that
+      different browsers displayed information differently
+      was a feature, not a bug.  But non-technical people
+      coming to computers, and graphics designers working
+      for companies who were sold on the web by using
+      metaphors in the same way that the desktop metaphor
+      helped ease people into using computers.  A web page
+      is a digital magazine, or shopfront.  Sadly, people
+      took this literally and designers who had previously
+      been trained to do graphic design for print were put
+      in charge of creating web sites.  They demanded that
+      everything looked exactly how they wanted it to look
+      and that it look exactly the same on all browsers.
+      Netscape and Microsoft did a really insanely stupid
+      thing and instead of teaching people the way the
+      system worked and the advantages of that over print,
+      they started adding features to make the designers
+      happy.  This turned into a browser war with Microsoft
+      intent on taking over the entire internet in the same
+      way that Windows dominated PC operating systems.  A
+      lot of the problems we face today on the Web today are
+      because of that assholery.
+
+
+
+
+  - Stages
+    - Dog Stage
+      on the internet no one knows you're a dog
+
+
+    - Eternal September
+      https://en.wikipedia.org/wiki/Eternal_September 
+
+    - 
