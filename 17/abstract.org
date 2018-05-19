@@ -32,7 +32,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
-** TL;DR
 
 In Canto XVI we saw the overall structure of a civilization
-level compiled primer.  
+level compiled primer with three branches that provide
+negative feedback on each other.  But it's not just a matter
+of adding money and people to build a civilization.  This is
+not a template, it is a generate grammar.  This canto will
+show how you get from an individual, or a group of indivuals
+who which to found a community to scale up to a full blown
+civilization.  W&W provides a number of initial default
+parameters that can be used as placeholders until
+circumstances and experience determines what those
+parameters will need to be to work in a given context. We
+will structure this using a succession stage model.
+
+** TL;DR
+
