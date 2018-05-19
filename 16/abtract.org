@@ -31,6 +31,61 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scope
+
+The primer acts like a kernal does in an operating system,
+it translates what code that is human understandable into
+machine code that machines can execute in binary.  But in
+our case the kernal spawns institutions and running
+applications.
+
+** TL;DR
+
+The three branches of civilization providing checks and
+balances on each other.
+
+MIDDLE   runs things on a day to day basis
+CULTURE  is largely in the background, has great power but
+         thinks and acts very slowly - it saves, safeguards 
+         and maintains the hoard.  
+SCOPE    very strong and works in real time, but has a 
+         very short leash -- it is an interface with
+         everything outside
+
+It's important that just because we are suggesting that civilization
+adopt a negative feedback loop mechanism that is typically associated
+with goverance of nation states they are not the same thing.
+
+Since civilization is a system, negative feedback loops are needed to
+maintain a stable system from going too far out of balance.
+
+The idea of separating a civilization into different branches that
+provide negative feedback loops is a natural fit.  But they are not
+the same as a branch of government though they will overlap and
+sometimes appear to be the same thing.
+
+In a distributed nested and federated network governance takes place
+at many different layers.  So long as the system is designed that all
+local governance, from that within a family or shop, up to governance
+of a polis/nomes and regional and even global bodies then governance
+will always take place as close to where it is needed.
+
+So the three branches are not so much defined by articles of
+governance but rather as broad categories of functions within a
+culture that maintain negative feedback loops.  For this to work
+everyone has to agree that each branch has a function and can be told
+what to do by the other branches when things get out of wack.
+
+This would likely not be possible without machine-cogs automating and
+managing things according to rulesets that we create for them to
+follow.  It's difficult to articulate the difference between gov
+branches and civilization branches because they need to function more
+as ecological negative feedback loops than top-down composed
+organizational human negative feedback mechanisms.  Branches are
+simply codified expressions and manifestations of pace-layers, or put
+another way, pace-layers as slow-AIs with a higher degree of agency
+than our paper-based rulesets that constitute governmental
+systems.
 
 
 
