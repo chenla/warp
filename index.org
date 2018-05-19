@@ -211,9 +211,17 @@ bibliography:../hoard/bib.bib
  - [[./17/index.org][Contents]]
  - [[./17/abstract.org][Abstract]]
  - [[./17/intro.org][Introduction]]
-
+** XVIII.
+ - Contents
+ - Abstract
+ - Introduction
+** IXX.
+ - Contents
+ - Abstract
+ - Introduction
 ** XX. Scenarios
  - [[./17/index.org][Contents]]
+ - Abstract
  - [[./17/intro.org][Introduction]]
  - 00. [[./17/ww-scenarios.org][Scenarios]]
  - 00. [[./17/ww-window.org][Window]]
