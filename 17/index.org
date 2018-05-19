@@ -32,7 +32,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./intro.org][Introduction]]
 
   - Precursors -> model on how the internet started and grew
-
     - Dog Stage
       on the internet no one knows you're a dog
     - store and forward
@@ -104,9 +103,34 @@ bibliography:~/proj/chenla/hoard/bib.bib
       The result is 90% of the applications and websites
       that people see today.
     - centralization and innovation grinds to a halt
-
-
-
-
-
+  - Development Roadmap
+    - give people the big picture
+    - start with engelbart's knowledge workshop for people
+      with advanced skills -- powerful, with steep learning
+      curve, so early adoption, like the internet, will at
+      first be small and sparse.
+    - make each person's knowledge workshop to be
+      interoperable with everyone elses -- so workgroups can
+      effectively work together using an aggregate share
+      workshop.
+    - start integrating with IOT but with far more powerful
+      ways of integrating things, and a solid security model
+    - establish guilds -- meta organizations that provide
+      oversight and ensure transparancy and adherence to
+      standards.  Take care that system is designed to
+      encourage innovation and experimentation and not
+      stiffle it.
+    - begin creating different levels to applications, so
+      that when you are a noob you get a "user-friendly"
+      interface with a shallow learning curve.  This limits
+      what you can do but it's easy to use.  Then if you
+      want to do more, you learn more, complete the level
+      which unlocks the next level which has a higher
+      learning curve but is more powerful (this is where
+      most professionals will stop), this acts as a way of
+      easying people into the orginal application which is
+      powerful with a steep learning curvee -- the masters
+      interface.
+    - introduce ERP-like applications so that the system can
+      be used to manage whole brick and mortor companies.
     - 
