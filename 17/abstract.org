@@ -34,5 +34,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 
-
-
+In Canto XVI we saw the overall structure of a civilization
+level compiled primer.  
