@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: XVII. Scenarios Introduction
+#+TITLE: IXX. Window Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] 
 
-* XVII. Scenarios Introduction
+* XVII. Window Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/17/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/20/intro.org
 :Created:  2018-04-11T18:21@Prek Leap (11.642600N-104.919210W)
 :ID:       6bcd51ec-2534-4a0b-a15e-ed2cf45485eb
 :VER:      576717781.804728231

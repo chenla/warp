@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   XVII. Scenarios TOC
+#+TITLE:   IXX. Window Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../14/index.org][prev]]]
 
-* XVII. ScenariosTable of Contents
+* IXX. Window Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/07/index.org
@@ -27,10 +27,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
- - 00. Contents Volume XV
- - 00. [[./intro.org][Introduction Volume XV]]
- - 38. [[./ww-scenarios.org][Scenarios]]
- - 39. [[./ww-window-and-roadmap.org][Window]]
- - 40. [[./ww-roadmap.org][Roadmap]]
+ - Contents
+ - Abstract
+ - [[./intro.org][Introduction]]
+ - 00. [[./ww-window-and-roadmap.org][Window]]
+ - 00. [[./ww-roadmap.org][Roadmap]]
 
 
