@@ -33,11 +33,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-The primer acts like a kernal does in an operating system,
-it translates what code that is human understandable into
-machine code that machines can execute in binary.  But in
-our case the kernal spawns institutions and running
-applications.
+The primer acts like a kernal does in an operating system, it
+translates what code that is human understandable into machine code
+that machines can execute in binary.  But in our case the kernal
+spawns institutions and running applications.  Add money and people
+and you have a working system.
 
 ** TL;DR
 
