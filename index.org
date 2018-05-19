@@ -200,12 +200,18 @@ bibliography:../hoard/bib.bib
  - 00. Commons
  - 00. Continuity
 * Cantos XVI-XVII Assembly
-** XVI. Branches -- Implementation
- - 00. [[./16/index.org][Contents]]
- - 00. [[./16/intro.org][Introduction]]
+** XVI. Branches
+ - [[./16/index.org][Contents]]
+ - Abstract
+ - [[./16/intro.org][Introduction]]
  - 00. Middle
  - 00. Culture
  - 00. Scope
+** XVII. Stages
+ - Contents
+ - Abstract
+ - Introduction
+
 
 XVI gives us an outline of how to run a kernal and organize
 a self-correcting disributed civilization -- but it doesn't
@@ -306,7 +312,7 @@ dark and complex and... adult.
 
 
 
-** XVII. Scenarios
+** XX. Scenarios
  - [[./17/index.org][Contents]]
  - [[./17/intro.org][Introduction]]
  - 00. [[./17/ww-scenarios.org][Scenarios]]
