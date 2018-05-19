@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:  II. Points of View TOC
+#+TITLE:  II. Points of View Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,7 +12,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../index.org][up]]]
 
-* II. Points of View Table of Contents
+* II. Points of View Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/index.org
