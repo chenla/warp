@@ -210,7 +210,7 @@ bibliography:../hoard/bib.bib
 ** XVII. Stages
  - [[./17/index.org][Contents]]
  - [[./17/abstract.org][Abstract]]
- - Introduction
+ - [[./17/intro.org][Introduction]]
 
 
 XVI gives us an outline of how to run a kernal and organize
