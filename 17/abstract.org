@@ -44,7 +44,11 @@ civilization.  W&W provides a number of initial default
 parameters that can be used as placeholders until
 circumstances and experience determines what those
 parameters will need to be to work in a given context. We
-will structure this using a succession stage model.
+will structure this using a succession stage model that
+assumes that the civilization initially begin as a small,
+sparse and widely scattered group of individuals and grow
+and connect with each other until it becomes a distributed
+global or solar civilization.
 
 ** TL;DR
 
