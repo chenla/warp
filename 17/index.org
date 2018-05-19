@@ -32,6 +32,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./intro.org][Introduction]]
 
   - Precursors -> model on how the internet started and grew
+
+    - Dog Stage
+      on the internet no one knows you're a dog
     - store and forward
     - small and sparse
     - early identity <- from gibson, that cyberspace is not
@@ -39,17 +42,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
       net, to matter how far and wide they were physically
       separated from each other into a new kind of proximity
       that gave them a new kind of freedom.
-
     - color kills monochrome -- move from curses based
       applications to GUI interfaces
-
     - transitional metaphors
       apple's gui modeled after SRI's (not Xerox) Windows
       GUI and later MS Office used metaphors for people to
       make the transition from using tools for manipulating
       information on paper, to manipulating information
       digitally.
-
     - the death of native digital interfaces -- man-machine
       interfaces had evolved into powerful and sophisticated
       tools.  But the learning curve was initially steep,
@@ -62,23 +62,20 @@ bibliography:~/proj/chenla/hoard/bib.bib
       graphical native digital interface will emerge that
       will merge the two worlds.  We are still far from that
       today.
-
-
-    - eternal september
-
-    - designers revenge -- the browser wars sowed the seeds
-      that eventually broke the Web.  The web was originally
-      designed to be a network of information, the idea that
-      different browsers displayed information differently
-      was a feature, not a bug.  But non-technical people
-      coming to computers, and graphics designers working
-      for companies who were sold on the web by using
-      metaphors in the same way that the desktop metaphor
-      helped ease people into using computers.  A web page
-      is a digital magazine, or shopfront.  Sadly, people
-      took this literally and designers who had previously
-      been trained to do graphic design for print were put
-      in charge of creating web sites.  They demanded that
+    - revenge of the designers
+      the browser wars sowed the seeds that eventually broke
+      the Web.  The web was originally designed to be a
+      network of information, the idea that different
+      browsers displayed information differently was a
+      feature, not a bug.  But non-technical people coming
+      to computers, and graphics designers working for
+      companies who were sold on the web by using metaphors
+      in the same way that the desktop metaphor helped ease
+      people into using computers.  A web page is a digital
+      magazine, or shopfront.  Sadly, people took this
+      literally and designers who had previously been
+      trained to do graphic design for print were put in
+      charge of creating web sites.  They demanded that
       everything looked exactly how they wanted it to look
       and that it look exactly the same on all browsers.
       Netscape and Microsoft did a really insanely stupid
@@ -90,16 +87,26 @@ bibliography:~/proj/chenla/hoard/bib.bib
       way that Windows dominated PC operating systems.  A
       lot of the problems we face today on the Web today are
       because of that assholery.
-
-
-
-
-  - Stages
-    - Dog Stage
-      on the internet no one knows you're a dog
-
-
     - Eternal September
       https://en.wikipedia.org/wiki/Eternal_September 
+      The web shows up on mainstream radar. 
+    - the rise of the directories
+    - the rise of the search engines 
+    - iphone and the great dumbing down
+      The true horror is that it's not just the end users
+      who are demanding everything be user-friendly, now the
+      majority of developers do too.
+
+      Most development is now little more than designing a
+      graphical front end using one of a growing zoo of
+      frameworks and back end code becoming little more than
+      glueing together functions from existing libraries.
+      The result is 90% of the applications and websites
+      that people see today.
+    - centralization and innovation grinds to a halt
+
+
+
+
 
     - 
