@@ -32,6 +32,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+The primer acts like a kernal does in an operating system,
+it translates what code that is human understandable into
+machine code that machines can execute in binary.  But in
+our case the kernal spawns institutions and running
+applications.
+
+** TL;DR
+
 The three branches of civilization providing checks and
 balances on each other.
 
@@ -75,7 +83,7 @@ as ecological negative feedback loops than top-down composed
 organizational human negative feedback mechanisms.  Branches are
 simply codified expressions and manifestations of pace-layers, or put
 another way, pace-layers as slow-AIs with a higher degree of agency
-than our paper-based rulesets that constitute governmental systems.
+than our paper-based rulesets that constitute governmental
+systems.
 
-** TL;DR
 ** References
