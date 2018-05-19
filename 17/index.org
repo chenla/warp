@@ -103,8 +103,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
       The result is 90% of the applications and websites
       that people see today.
     - centralization and innovation grinds to a halt
-  - Development Roadmap
-    - give people the big picture
+
+  - Network Roadmap
+    - give people the big picture, by pulling an Al Gore,
+      travel far and wide with your slide-deck, and then
+      don't leave until you've set up a local chapter for
+      those to sign up which will eventually become a node
+      in the network.  Then move on to the next place.  Get
+      people, organizations and governments to sign up.
     - start with engelbart's knowledge workshop for people
       with advanced skills -- powerful, with steep learning
       curve, so early adoption, like the internet, will at
@@ -120,17 +126,43 @@ bibliography:~/proj/chenla/hoard/bib.bib
       standards.  Take care that system is designed to
       encourage innovation and experimentation and not
       stiffle it.
-    - begin creating different levels to applications, so
-      that when you are a noob you get a "user-friendly"
-      interface with a shallow learning curve.  This limits
-      what you can do but it's easy to use.  Then if you
-      want to do more, you learn more, complete the level
-      which unlocks the next level which has a higher
-      learning curve but is more powerful (this is where
-      most professionals will stop), this acts as a way of
-      easying people into the orginal application which is
-      powerful with a steep learning curvee -- the masters
-      interface.
     - introduce ERP-like applications so that the system can
       be used to manage whole brick and mortor companies.
-    - 
+    - do the same thing for the factory floor -- ERP is
+      primarily used in the office.
+    - do the same thing for education
+    - do the same thing for governments
+    - now we introduce ad-hoc self-detroying value chains
+      that allow people to assemble processes that span not
+      just departments but companies.  This is the biggest
+      step because it requires us to introduce logistics,
+      and transactions betwee different people and
+      organizations in different steps of each process.
+    - as all of this grows, the network is no longer sparse,
+      and it is working at all levels from personal up to
+      and connection large organizations together in a way
+      that hasn't been possible before.
+
+
+   - Interface Roadmap
+      - begin creating different levels to applications, so
+        that when you are a noob you get a "user-friendly"
+        interface with a shallow learning curve.  This
+        limits what you can do but it's easy to use.
+      - Then if you want to do more, you learn more,
+        complete the level which unlocks the next level
+        which has a higher learning curve but is more
+        powerful (this is where most professionals will
+        stop), this acts as a way of easying people into the
+        orginal application.  It should include most of the
+        features of the master-level interface but will have
+        a slower interface to make it easier to learn.
+      - the masters interface -- which is that the more
+        limited interfaces are built on top of.  This level
+        allows you to customize and rewrite anything
+        natively, like in emacs, so that customizations
+        become part of the running code, not just a
+        scripting language that is tacked on to the side
+        that uses a lackluster API to talk to the
+        application.
+
