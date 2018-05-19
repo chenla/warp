@@ -209,7 +209,7 @@ bibliography:../hoard/bib.bib
  - 00. Scope
 ** XVII. Stages
  - [[./17/index.org][Contents]]
- - Abstract
+ - [[./17/abstract.org][Abstract]]
  - Introduction
 
 
