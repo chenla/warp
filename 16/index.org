@@ -29,15 +29,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  - Contents
  - [[./intro.org][Introduction]]
-
- - State Structures for Civilization
-
-
- - Branches of Civilization
+ - 00. Stance
+   - Meta 
+   - Intentional Civilization
+   - Structures
+ - 00. Branches
    - Negative Feedback Loops
-   
-
-
  - 00. Middle
  - 00. Culture
  - 00. Scope
