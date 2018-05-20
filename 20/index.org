@@ -30,7 +30,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - Contents
  - Abstract
  - [[./intro.org][Introduction]]
- - 00. [[./ww-window-and-roadmap.org][Window]]
- - 00. [[./ww-roadmap.org][Roadmap]]
+ - 00. Inevitibility
+ - 00. Milestones
+ - 00. Threats
+ - 00. Canaries
+ - 00. Setbacks
+ - 00. Boundries
+ - 00. Metrics
+ - 00. Models
+ - 00. [[./ww-window.org][Window]]
+ - 00. [[./ww-roadmap.org][Roadmaps]]
 
 
