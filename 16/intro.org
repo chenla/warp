@@ -332,7 +332,7 @@ ensure that the system doesn't drift and change into
 something that does not adhere to the core humanist
 principles that ensures that we are living in a positive-sum
 civilization of all humanity, and not revert back into an
-atomized mob personal kingdoms.
+atomized mob of personal kingdoms.
 
 To provide this, I propose establishing, for want of a
 better term, branches of civilization that provide these
@@ -384,7 +384,14 @@ Second, each branch is independent of the others, and have
 some authority to force the other branches to make
 corrections when necessary.
 
-
+Third, branches propagate, at different speeds and adapt
+locally.  Fuck ACID, that's not how things work, different
+things change at different speeds, and only when they are
+ready.  We must reject the  tyranny of the instant, the
+immediate and return the expectation that the world is
+neither uniform nor retrograde.  We need to remember how to
+live in a spectrum of different presents, each with its own
+character and state.
 
 
 
