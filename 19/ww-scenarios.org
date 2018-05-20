@@ -42,11 +42,35 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Lower Mekong Subregion
    - Mars (how effected by support from earth by climate change)
    - Control 
+
+** Scope
+
+[2018-05-19 Sat 20:37] I've been thinking about this the
+wrong way -- we need scenarios that are structured around
+two axis, succession stages and pace-layers.
+
+The whole idea of scenarios should be to provide narratives
+that pull all the of the ideas in w&w and show how they play
+out in different situations.
+
+My original idea was the idea of a fictional Plan of St Gall
+that projects into the future -- but we should be thinking
+about how to offer scenarios for how different societies at
+different stages of economic development in different
+climates and with different cultural ethos and mythos can
+get from where they are, to where they want to go.
+
+Then, we provide a couple of catastrophic scenarios to show
+how we can leverage the w&w to weather the disaster and then
+rebuild as quickly as possible.  A lot of succession stage
+planning is, in effect, a way of preparing for disasters.
+We could use to rebuild Puerto Rico so that they don't have
+to go through the nightmare they are going through again,
+with or without help from the mainland.
  
 ** TL;DR
-This may well be split into a separate volume.  My fear is
-that the scenarios are misunderstood in the way that
-Soleri's fantastic 30 designs for arcologies were
+My fear is that the scenarios are misunderstood in the way
+that Soleri's fantastic 30 designs for arcologies were
 misunderstood -- my myself most of all.
 
 Because his theory and argument for Argology was so short,
@@ -56,7 +80,7 @@ structures that were intended to be built and look to be
 exactly what he drew.  This is not surprising because this
 is how modern architecture does things.  The architect
 designs something on paper and then hands it over to
-engineers to build it. That isn't what Soleri indended at
+engineers to build it. That isn't what Soleri intended at
 all.
 
 #+begin_quote
@@ -107,7 +131,6 @@ vision, and leader through the wilderness.
 
 I do not want to make that same mistake here.
 
-** Table of Contents
 
 ** The Plan of Arc Indradevi
 
