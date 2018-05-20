@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Roadmap
+#+TITLE: Roadmaps
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -36,12 +36,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - backsteps
   - canaries
   - boundries
-  - data sources
-  - stockpiles, caches and reserves
-  - climate
-  - population
-  - well-being metrics: lifespan, health, crime etc.
-  - roadmap codebase
+  - data sources:
+    - stockpiles, caches and reserves
+    - climate
+    - population
+    - well-being metrics: lifespan, health, crime etc.
+    - roadmap codebase
 
 ** TL;DR
 
