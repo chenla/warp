@@ -287,11 +287,18 @@ control machines to produce material goods and services.
 
 But we're still missing a few important pieces of the larger
 puzzle.  Civilization requires a significant amount of
-things that can not be done at human-scales.
+things that can not be done at human-scales.  These are
+critical functions that the present system provides
+that the system I have so far outlined can't provide.  
 
+We need a common meta-origin story which any local culture
+can map their cultural mythos onto.  That meta-origin story
+then becomes the foundation for a universal set of humanist
+principles which ensure that everyone is treated fairly.
+This only works if everyone places by the same rules and
+those rules are apply to and are applied fairly to everyone
+in the same manner.
 
-There are still critical functions that the present
-system provides that the system I am outlining can provide.
 We still need means of coordinating propagation of
 information and the coordination of large numbers of small
 public-private corporate bodies to be able to come together
