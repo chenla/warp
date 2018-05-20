@@ -34,10 +34,12 @@ A Civilization is not a state, though at several times in
 history the distinction has gotten blurry.
 
 Civilization is a system that emerges when a complexity
-threshold that is a mixture of population, culture,
-commerce, and technology has been reached.  Civilizations
-have no governance, no monuments, no leaders, they have
-gods, and heroes and narratives.
+threshold is crossed that is a mixture of population,
+culture, commerce, and technology has been reached.
+Civilizations have no governance, no monuments, no leaders.
+They have their gods, heroes and narratives that provide
+context, locality and meaning.  Everyone has their own
+gods.
 
 Culture is at bottom, holding the narrative threads like
 reins on a team of horses, pulling back here and letting out
@@ -403,3 +405,6 @@ different in different places.
 
 
 ** References
+
+  - Toffler, A., The third wave (1981), : Bantam Books.
+    cite:toffler:1981third
