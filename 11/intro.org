@@ -200,3 +200,45 @@ Mastery
     to harness your best time and get your most important
     work done (2015), : HarperOne.
     cite:davis:2105two
+  - Korn, P., Why we make things and why it matters: the
+    education of a craftsman (2015), : Random House;Vintage.
+    cite:korn:2015why
+
+Colleges
+
+  - Bok, D., Universities in the marketplace: the
+    commercialization of higher education (2003), :
+    Princeton University Press.
+    cite:bok:2003universities
+  - Bok, D. C., Higher education in america (2013), :
+    Princeton University Press.
+    cite:bok:2013higher
+  - Bok, D., Our underachieving colleges : a candid look at
+    how much students learn and why they should be learning
+    more (2007), : Princeton University Press.
+    cite:bok:2007underachieving
+  - Caplan, B., The case against education: why the
+    education system is a waste of time and money (2018), :
+    Princeton University Press.
+    cite:caplan:2018case
+
+
+
+  - Nettleship, R. L., & Leeson, S., The theory of education
+    in plato's republic (1906), : University of Chicago
+    Press.
+    cite:nettleship:1906theory-of-education
+  - Wellman, R. R., Nettleship, R. L., Havelock, E. A.,
+    Eckstein, J., & Randall, J. H., Plato on education:
+    philosopher and dramatist?, History of Education
+    Quarterly, 10(3), 351 (1970).
+    http://dx.doi.org/10.2307/367529
+    cite:wellman:1970plato-on-education
+  - Willingham, D. T., Why don't students like school: a
+    cognitive scientist answers questions about how the mind
+    works and what it means for the classroom (2010), :
+    Jossey-Bass.
+    cite:willingham:2010why,parker:1890seven
+
+
+    
