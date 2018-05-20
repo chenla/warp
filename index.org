@@ -56,13 +56,13 @@ bibliography:../hoard/bib.bib
  - [[./02/index.org][Contents]]
  - [[./02/abstract.org][Abstract]]
  -[[./02/intro.org][ Introduction]]
- - 01. [[./02/01-pov.org][Point of View]] (POV)
+ - 01. [[./02/01-pov.org][Point of View]]
  - 02. [[./02/02-perspectives.org][Cardinal Perspectives]]
- - 03. [[./02/03-lod.org][Level of Detail]] (LOD)
- - 04. [[./02/04-roc.org][Rate of Change]] (ROC)
- - 05. [[./02/05-loa.org][Level of Abstraction]] (LOA)
- - 06. [[./02/06-loc.org][Level of Complexity]] (LOC)
- - 07. [[./02/07-poc.org][Process of Change]] (POC)
+ - 03. [[./02/03-lod.org][Level of Detail]]
+ - 04. [[./02/04-roc.org][Rate of Change]]
+ - 05. [[./02/05-loa.org][Level of Abstraction]]
+ - 06. [[./02/06-loc.org][Level of Complexity]]
+ - 07. [[./02/07-poc.org][Process of Change]]
  - 08. [[./02/08-as-povs.org][LOD, ROC and POC as Points of Views]]
  - 09. [[./02/09-scale.org][Scale]]
  - 10. [[./02/10-narrative.org][Narrative]]
@@ -207,7 +207,7 @@ bibliography:../hoard/bib.bib
  - 00. Memory
  - 00. Commons
  - 00. Continuity
-* Cantos XVI-XVII Assembly
+* Cantos XVI-XX Assembly
 ** XVI. Branches
  - [[./16/index.org][Contents]]
  - [[./16/abtract.org][Abstract]]
@@ -229,9 +229,17 @@ bibliography:../hoard/bib.bib
  - Introduction
  - 00. [[./19/ww-scenarios.org][Scenarios]]
 ** XX. Window
- - [[./17/index.org][Contents]]
+ - [[./20/index.org][Contents]]
  - Abstract
  - [[./17/intro.org][Introduction]]
+ - 00. Inevitibility
+ - 00. Milestones
+ - 00. Threats
+ - 00. Setbacks
+ - 00. Canaries
+ - 00. Boundries
+ - 00. Metrics
+ - 00. Models
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 * The Rest
