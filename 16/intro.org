@@ -285,6 +285,28 @@ that is largely an extension of mind, but incresingly
 externalized cognitive processes that can autonomously
 control machines to produce material goods and services.
 
+Second, in many respects, things will go on as they do
+today, people will continue to live much as they always have
+when they have a relatively high standard of living, freedom
+and safety.  People are largely okay with the structure of
+daily life, so long as they have the resources to have a
+good life.  There will still be markets, schools, companies,
+jobs (for those who want them) and money, but underneath the
+surface things will be substantially different.
+
+Third, this is no Utopia that we are envisioning.  Life
+always has been and always will be a messy affair and
+nothing a bunch of clever hairless apes do are going to
+change that.  The system is designed to make allowances for
+human nature, our cognitive limitations and biases.  What
+makes us human also ensures that we will always screw things
+up, no matter how good things are, and there will always be
+a restless few who can't or won't be able to accept living
+in the system staying in or leaving is an option which the
+system must not only allow but respect and aide in any way
+we can, so long as what they want does not violate the
+welfare, freedom and safety of others.
+
 But we're still missing a few important pieces of the larger
 puzzle.  Civilization requires a significant amount of
 things that can not be done at human-scales.  These are
@@ -299,11 +321,68 @@ This only works if everyone places by the same rules and
 those rules are apply to and are applied fairly to everyone
 in the same manner.
 
-We still need means of coordinating propagation of
+We still need a means of coordinating propagation of
 information and the coordination of large numbers of small
 public-private corporate bodies to be able to come together
 in an adhocracy to achieve goals that can only be done today
 at scale using large centralized infrastructure.
+
+And we need a means of creating negative feedback loops that
+ensure that the system doesn't drift and change into
+something that does not adhere to the core humanist
+principles that ensures that we are living in a positive-sum
+civilization of all humanity, and not revert back into an
+atomized mob personal kingdoms.
+
+To provide this, I propose establishing, for want of a
+better term, branches of civilization that provide these
+functions for all of Mankind.
+
+These are somewhat similar to the different branches of a
+government which are meant to a) gain consensus, b) provide
+direction, and c) maintain the system and make corrections
+to keep it on course.
+
+Today those three branches are typically, executive,
+legislative and judical.  Each branch is designed to be
+independent of the other branches and whose job is to
+provide negative feedback mechanisms that keep the other
+branches in check.
+
+Our system will use these same concepts but in a different
+configuration that reflects the system that they are
+managing that is made up of human-scale public-private
+corporate bodies built on a concept of a Commons with
+personal possessions.
+
+Before we introduce the three branches it needs to be clear
+that these are no branches in same sense as today's
+government branches, this is no bureaucracy or president or
+legislative bodies.  These branches are distributed, and are
+part of the public nature side of every corporate body,
+which in aggreagte functions as if they were government
+branches, but only manifest these functions physically as
+ad-hoc processes that self-destruct, or rather, disband
+themselves when a process has been completed.
+
+These branches are not owned or controlled by anyone, but
+are directed and mantained by everyone as part of day to day
+life.  The branches emerge from the running kernal that has
+been compiles from source code built on patterns which are
+based on universally agreed apon first principles.
+
+We call these branches (with a tip of the hat to Ian Banks),
+Middle, Scope and Culture.
+
+First, the three branches operate at different rates of
+change, with Middle being the largest and fastest changing
+and Culture being the slowest but most powerful.  The slower
+layers act as guidance and provide limits on the faster
+layers.
+
+Second, each branch is independent of the others, and have
+some authority to force the other branches to make
+corrections when necessary.
 
 
 
