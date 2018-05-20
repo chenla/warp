@@ -30,4 +30,39 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+A Civilization is not a state, though at several times in
+history the distinction has gotten blurry.
+
+Civilization is a system that emerges when a complexity
+threshold that is a mixture of population, culture,
+commerce, and technology has been reached.  Civilizations
+have no governance, no monuments, no leaders, they have
+gods, and heroes and narratives.
+
+Culture is at bottom, holding the narrative threads like
+reins on a team of horses, pulling back here and letting out
+there to keep everyone pulling as one.
+
+After the two World Wars cleared the last vestiages of
+pre-industrial power stuctures, the basic building block has
+been the nation state, fusing national cultural identity
+with state institutions and power structures backed up by
+guns.  The territories each nation-state controls have
+become sacrosanct, the sovereignty claimed in the name of
+the nation (not the state) is coached in secularized terms
+that echo the claims of earlier monarchs who claimed that
+their power was sanctioned by God.
+
+It's all a social construct, a story we tell to each other
+so we as a species can cooperate with each other.  No where
+is this more clear than in the image made of the Earth on
+the 7th of December 1972 by the crew of Apollo 17.  For the
+first time in Mankind's history, the whole of the planet was
+taken into one frame of reference, a beautiful blue marble,
+basking in the sunlight.  In that image there are no state
+borders, no nations, no racial demarcations or ideologies.
+There is only water, clouds, ice, the brown of deserts and
+the green of forests.
+
+
 ** References
