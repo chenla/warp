@@ -391,18 +391,17 @@ corrections when necessary.
 Third, branches propagate, at different speeds and adapt
 locally.  Fuck ACID, that's not how things work, different
 things change at different speeds, and only when they are
-ready, their own good time.  We must reject the tyranny of
-the instant, the immediate and return to the expectation
+ready in their own good time.  We must reject the tyranny of
+the instant, the immediate, and return to the expectation
 that the world is neither uniform nor retrograde.  We need
 to remember how to live in a spectrum of different presents,
 each with its own character and state.  This gives us a
 stability that we have nearly lost.  We need to remember
-that that the world is not uniform, and the present is a
-spectrum rather than an abolute.  This provides space for
-people to adapt and much needed continuity especially
-between generations.  But just as important, it slows us
-down and reminds us that we all live in a present which is
-different in different places.
+that that the the present is a spectrum rather than an
+abolute.  This provides space for people to adapt and much
+needed continuity especially between generations.  But just
+as important, it slows us down and reminds us that we all
+live in a present which is different in different places.
 
 
 
