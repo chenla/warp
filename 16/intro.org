@@ -388,7 +388,7 @@ Second, each branch is independent of the others, and have
 some authority to force the other branches to make
 corrections when necessary.
 
-Third, branches propagate, at different speeds and adapt
+Third, branches propagate at different speeds and adapt
 locally.  Fuck ACID, that's not how things work, different
 things change at different speeds, and only when they are
 ready in their own good time.  We must reject the tyranny of
@@ -398,11 +398,47 @@ to remember how to live in a spectrum of different presents,
 each with its own character and state.  This gives us a
 stability that we have nearly lost.  We need to remember
 that that the the present is a spectrum rather than an
-abolute.  This provides space for people to adapt and much
+absolute.  This provides space for people to adapt and much
 needed continuity especially between generations.  But just
 as important, it slows us down and reminds us that we all
 live in a present which is different in different places.
 
+
+MIDDLE includes the governance, infrastructure and
+commerce pace-layers.
+
+CULTURE operates at the slowest pace-layer, and maintains
+continuity, long term thinking and planning and things that
+are too slow for human scales.  CULTURE is civilization's
+long term memory.  This is where the dark-Arcs will be
+managed, quietly and out of sight.  
+
+Culture doesn't only store the past, it serves the
+institutional function of /remembering/ the past and
+ensuring that the present is aware of it.  In this sense
+Culture will do something similar to the Lorites in Neal
+Stephenson's /Anathem/:
+
+#+begin_quote
+*Lorite:* A member of an Order founded by Saunt Lora, who
+believed that all of the ideas that the human mind was
+capable of coming up with had already been come up
+with. Lorites are, therefore, historians of thought who
+assist other avout in their work by making them aware of
+others who have thought similar things in the past, and
+thereby preventing them from re-inventing the wheel.
+#+end_quote
+
+
+
+SCOPE.  Scope is outside the pace-layers.  Where CULTURE and
+MIDDLE are highly distributed, SCOPE is global.  SCOPE has
+great power, but is kept on a short leash.  SCOPE ensures
+that the distributed system stays connected and doesn't
+fracture and fork.  SCOPE is the interface with anything
+outside of The Culture, both in terms of diplomacy, trade
+and security.  SCOPE is divided into a number of subsections
+which we won't get into here.
 
 
 ** References
