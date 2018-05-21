@@ -887,8 +887,8 @@ TRIBES and NATIONS
     determine success in the new global economy (1993), :
     Random House.
     cite:kotkin:1993tribes
-  - 
-    
+  - Stephenson, N., The Diamond Age (2000), : Spectra.
+    cite:stephenson:2000diamond
 
  BIOREGIONALISM
 
