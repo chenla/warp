@@ -784,15 +784,41 @@ which we won't get into here.
 
 ** References
 
-  - Toffler, A., The third wave (1981), : Bantam Books.
-    cite:toffler:1981third
+  - Aberley, D., Interpreting bioregionalism,
+    Bioregionalism, (), 13–42 (1999).
+    cite:aberley:1999interpreting
+  - Anderson, W. T., /There's no going back to nature/
+    (1996).
+    cite:anderson:1996theres
+  - Berg, P., What is bioregionalism?, Trumpeter, 8(1),
+    (1991).
+    cite:berg:1991bioregionalism
+  - Glotfelty, C., & Quesnel, E., The biosphere and the
+    bioregion: essential writings of peter berg (2014), :
+    Routledge.
+    cite:glotfelty:2014bioregion 
+  - Joshua Lockyer, J. R. V., Environmental anthropology
+    engaging ecotopia: bioregionalism, permaculture, and
+    ecovillages (2013), : Berghahn Books.
+    cite:lockyer:2013ecotopia
+  - Lipschutz, R. D., Bioregionalism, civil society and
+    global environmental governance, In (Eds.),
+    Bioregionalism (pp. 115–134) (2005). : Routledge.
+    cite:lipschutz:2005bioregionalism
+  - Lockyer, R. L. T., Lifeplace: bioregional thought and
+    practice (2003), : University of California Press.
+    cite:theyer:2003lifeplace
   - Mollison, B., Permaculture: a designers' manual
     (1988), : Tagari.
     cite:mollison:1988designers
   - Mcginnis, M., Bioregionalism (1998), : Routledge.
     cite:mcginnis:1998bioregionalism 
-  - Glotfelty, C., & Quesnel, E., The biosphere and the
-    bioregion: essential writings of peter berg (2014), :
+  - McGinnis, M. V., A rehearsal to bioregionalism, In
+    (Eds.), Bioregionalism (pp. 15–24) (2005). : Routledge.
+    cite:mcginnis:2005rehearsal
+  - Thomashow, M., Toward a cosmopolitan bioregionalism, In
+    (Eds.), Bioregionalism (pp. 135–146) (2005). :
     Routledge.
-    cite:glotfelty:2014bioregion 
-
+    cite:thomashow2005toward
+  - Toffler, A., The third wave (1981), : Bantam Books.
+    cite:toffler:1981third
