@@ -662,8 +662,6 @@ certainly possible but not desirable and takes away some of
 the autonomy of the polis.  This is important if we are to
 keep things at human scales.
 
-A bioregion might be a watershed, flood-plain, river-valley
-
 #+begin_quote
 A bioregional association is an association of the residents
 of a natural and identifiable region.  This region is
@@ -720,8 +718,18 @@ recognized as such by its inhabitants.
 cite:mollison:1988designers, [[pdfview:~/proj/chenla/hoard/lib/mollison:1988designers.pdf::546][p.510]]
 #+end_quote
 
-
 *** Nation
+
+In my earlier outline I had no included nations, as they are
+just another type of corporate body.  But they aren't /just/
+another corporate body, they represent something very deeply
+ingrained in humans and are an important cultural unit.
+
+There is nothing wrong with nations as being cultural units,
+but something goes a bit wonky when you also make them a
+state.  Look at the Hebrews, which is not only a religion but
+nation.  As a global
+
 
 *** Middle 
 Middle can be thought of as an autonmous distributed
@@ -783,6 +791,21 @@ which we won't get into here.
 
 
 ** References
+
+ CITY
+
+  - Kotkin, J., The city: a global history (2007), : Modern
+    Library.
+    cite:kotkin:2007city
+  - Kotkin, J., The human city: urbanism for the rest of us
+    (2016), : Agate Publishing.  cite:kotkin:2016human-city
+  - Kotkin, J., Tribes: how race, religion, and identity
+    determine success in the new global economy (1993), :
+    Random House.
+    cite:kotkin:1993tribes
+
+
+ BIOREGIONALISM
 
   - Aberley, D., Interpreting bioregionalism,
     Bioregionalism, (), 13–42 (1999).
