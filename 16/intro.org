@@ -644,6 +644,21 @@ number of different domus.
 
 *** Nomes
 
+As mentioned, a nomes is the territory surrounding a polis,
+which we define as a bioregion.  This is a natural way of
+dividing things as lifestyle, culture, language, dress and
+our relationship to natural environment is shaped by
+climate, and the flora and fauna in the ecosystem that we
+live in.  Since a bio-region shares the same climate and
+ecosystem is can be taken as a unit that we have to live
+within and take actions to protect and manage.  If a
+polis-nomis is a smaller unit than a bioregion, then more
+than one polis will be responsible for resources that are
+shared between different political entities, so decisions
+made by one polis that effect another polis must be made by
+consent of both polis-nomes
+
+
 *** Nation
 
 *** Middle 
