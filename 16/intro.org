@@ -154,6 +154,10 @@ alternative to the present system.  For this to work we need
 to rethink the underlying system where nearly everything is
 treated as Property, and an ever shrinking Commons.
 
+We will call these dual-nature corporate entities /Shops/,
+as in a workshop, or a shop where things are placed on
+display for sale.
+
 I would argue that private property can not exist unless
 there is a functional Commons acting as a counter weight.
 
@@ -404,8 +408,14 @@ as important, it slows us down and reminds us that we all
 live in a present which is different in different places.
 
 
-MIDDLE includes the governance, infrastructure and
+*Middle* can be thought of as an autonmous distributed
+adhocracy that includes the governance, infrastructure and
 commerce pace-layers.
+
+Middle will take over a large part of what government,
+utilities, logistics, and the financial sector do today.
+
+
 
 CULTURE operates at the slowest pace-layer, and maintains
 continuity, long term thinking and planning and things that
