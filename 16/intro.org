@@ -718,17 +718,43 @@ recognized as such by its inhabitants.
 cite:mollison:1988designers, [[pdfview:~/proj/chenla/hoard/lib/mollison:1988designers.pdf::546][p.510]]
 #+end_quote
 
-*** Nation
+*** Tribes
 
-In my earlier outline I had no included nations, as they are
-just another type of corporate body.  But they aren't /just/
-another corporate body, they represent something very deeply
-ingrained in humans and are an important cultural unit.
+In my earlier outline I had not included tribes, as in this
+system they are just another type of corporate body.  But
+they aren't /just/ another corporate body, they represent
+something very deeply ingrained in humans and are an
+important cultural unit.
 
-There is nothing wrong with nations as being cultural units,
+There is nothing wrong with tribes as being cultural units,
 but something goes a bit wonky when you also make them a
-state.  Look at the Hebrews, which is not only a religion but
-nation.  As a global
+state.  Look at the Jews, a highly successful cosmopolitan
+diaspora that has survived intact around the world, but once
+they established a nation state it didn't work out very
+well.  In 1993 Joel Kotkin wrote:
+
+#+begin_quote
+More disturbing, with the recovery of the historic homeland
+in Palestine, some Jews have reverted to a racially tinged
+kind of tribalism.  At times the advocates of such measures
+as the "removal" of Arabs from the West Bank, or even
+pre-1967 Isreal reintroduce the most brutish aspects of the
+biblical conquest of Palestine under Joshua.  Religious
+fundementalism, hostility to outsiders and racism within
+contemporary Israel represent the dark obverse of the
+cosmopolitanism characteristic of the diaspora; unchecked,
+they could lead not only to the continued cycle of endless
+war, but will impair the Jewish experence as a cosmopolitan
+global Tribe.
+
+—  Joel Kotkin, Tribes
+   cite:kotkin:1993tribes
+#+end_quote
+
+It is 2018 as I write this, and Kotkin's prediction is still
+as true now was it was in 1993.
+
+
 
 
 *** Middle 
