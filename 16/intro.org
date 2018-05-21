@@ -568,7 +568,45 @@ make it easier for people to join and work in shops that fit
 their stage of life.  Some people may prefer to only work in
 part-time shops when their children are still small.  Others
 may spread their time across several part-time shops.  Or as
-part-time members of full-time shops.
+part-time members of full-time shops.  It is desirable to
+mix domus and shops as much as possible to make it easier
+for children to participate in adult activities.  Children
+need to be integrated into daily life, not sequestered
+during working hours as a kind of day-care.  Day-care is
+needed for the care of young children while parents work
+nearby, but as soon as children reach a certain age they
+should be able to particiapte in the workplace.  This is
+not child labor, it is part of their education, helping in
+shops is a way for them to apply what they learn in their
+studies and prepare them for their transition into
+adulthood.  This is a far better and more constructive use
+of their time than to fill all their time outside of studies
+with largely pointless invented scheduled activities. If a
+child wishes to learn to play a musical instrument or join a
+sports team or some other activity that needs to be
+encouraged.  But participating in their parents workplace is
+equally important.  The primary purpose of traditional
+classrooms is not education but conditioning children to
+learn self-discipline, stay in one place and do what your
+are told, especially if what you are told to do is the same
+thing over and over and over.  These are stills for factory
+assembly lines.  Those skills will not be needed in a
+post-scarcity civilization where most industrial processes
+have been automated.  The skills that will be needed are
+literacy in written languages, numeracy and the ability to
+work with numbers and symbol systems, programcy (is that a
+word?  it is now) and the ability to write code that
+automates tasks and can be executed by machines.  This makes
+it possible for people to control and customize the
+computational environment they live in, not just learn how
+to use point-and-grunt interfaces.  Everything around you
+should be customizable at the deepest level unless there is
+a very good reason not to.  And finally students need
+information literacy, the skills to find and evaluate
+information logically and rationally.  Children need places
+where practice is not an abstract exercise in a lesson, but
+contributes something to their family and the shops they
+work in and to society at large.
 
 Middle will help shops connect to customers and to join
 ad-hoc processes and manage the processes chains and
@@ -577,8 +615,32 @@ most of their time doing what they were established to do,
 rather than have lage numbers of members in executive,
 administrative, marketing or sale roles.
 
-
 *** Polis
+
+We can divide settlements roughly into the rural
+village/hamlets surrounding towns and the urban which are
+large metropolitan cities.
+
+Large metropolitan areas don't have to be monolithic
+top-down systems.  They can be divided into adjoining
+semi-autonomous neighborhoods each with their own culture,
+character and a large degree of self-determination. A group
+of such neighborhoods constitute a burrough-polis, which is
+an autonomous polis that has no surrounding nomes.
+
+A special type of neighborhood will be controlled by Culture
+and managemed by Middle that is set aside as a downtown
+which contains public facilities for events, and instutional
+structures such as libraries, museums, hotels, concert halls
+and structural infrastructure for ad-hoc governments to be
+assembled that can accomidate a large number of people to
+come together for short periods of time to accomplish
+something before disbanding.
+
+A nomes-polis is a bioregion with a large town or small city
+at it's center with the areas outside the city made up of a
+patchwork of villages or hamlets that in turn are made up of a
+number of different domus.
 
 *** Nomes
 
