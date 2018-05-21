@@ -426,11 +426,71 @@ live in a present which is different in different places.
 
 *Middle* can be thought of as an autonmous distributed
 adhocracy that includes the governance, infrastructure and
-commerce pace-layers.
+commerce pace-layers.  Middle takes over a large part of
+what government, utilities, logistics, and the financial
+sector do today.
 
-Middle will take over a large part of what government,
-utilities, logistics, and the financial sector do today.
+The atomic unit of Middle is the /shop/ and /domus/ which
+belong to a /polis/ and or /nomes/ that ideally encpmpasses
+a bioregion.  Each shop and domus is a corporate entity that
+has a dual public/private nature.  Middle links shops and
+domus' to form adhoc processes that are sometimes public in
+nature and other times private in nature.  The majority of
+an individual's wealth is held as equity in shops and domus'
+that they belong to.  In the same way each shop and domus
+has an equity stake in the /polis/ and or /nomes/ that they
+are members of.  A nomes is basically the bioregion that a
+polis is located in and provides the same services and
+protection of rights, equity and possessions for the their
+citizens.  Many polis will predominately belong to a larger
+cultural and ethnic nation.  Nations may or may not be
+organized and have networks of their own, but they will not
+be States in the same way that Nation-States are today.
+Ideally, no Nation would be a state or control a territory.
+Separation of nation and governance ensures that no one
+nation can impose itself on another and place a check on
+less desireable aspects and manifestion of human tribal
+instincts.  The modern concept of politics will be replaced
+with distributed semi-automated governance where most
+bureaucracy will be handled using a trustless consensus
+mechanism by Middle.  Leadership will become another form of
+ad hoc process that will be assembled for a specific purpose
+and then disbanded when finished.  Leadership will no longer
+be a full time job and a means of consolidating social power
+and wealth in a small elite.  There will be many shops who
+will specialize in providing public services that today are
+provided by governments.  But even those shops will also
+have a private nature as well, and might take on public jobs
+one week, and consulting work the next.  The system is
+designed to be democratic but in most cases, people will not
+be formally voting for leaders or laws or inititatives but
+instead patterns of people's wants and needs that are
+captured in what Google recently called the selfish-Ledger
+which are expressed in their daily lives will be used to
+establish overall consensus and to guide public services to
+meet those needs and express consensus views.
 
+Is such a system actually feasible or even possible?  Not
+yet, but soon.  It's important to understand that this is
+not something that is built in garage by a couple of people
+living on instant Raman and then launched as a complete
+solution.  Rather it will evolve over time, first as a
+overlap over existing political and economic systems.  As
+more and more pieces of the system come on line they can
+displace and retire existing systems.  This will take a long
+time, generations, in fact.  There will be small pockets
+emerging that will use use the system to run their own
+company, or a village co-op or perhaps a housing
+development.  At first ad hoc processes will be simply one
+more revenue stream for a company, or a way of managing a
+government agency or department.  Students will join the
+network as part of a life-long learning program and use the
+personal information framework to form ad hoc social media
+groups, organize events and eventually after graduation to
+use their own personal knowledge workshop as Engelbart
+called it, as both their resume and portfolio but also as an
+extension and externalization of their own knowledge and
+skills in the workplace.
 
 
 CULTURE operates at the slowest pace-layer, and maintains
