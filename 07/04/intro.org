@@ -70,8 +70,8 @@ metaphor.
 We will go into all the gory details in a later volume, but
 we need to understand from the perspective of workflow a
 hoard is compiled to become a primer and then the running
-primer is providing feedback back up to the hoard via the
-ARC or archive which we will introduce in the next Part.
+primer provides feedback to the hoard via the ARC or archive
+which we will introduce in the next Part.
 
 The civilization we are imagining is not a monolithic random
 thing that we have today -- it is structured a bit like a
