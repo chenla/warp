@@ -786,3 +786,6 @@ which we won't get into here.
 
   - Toffler, A., The third wave (1981), : Bantam Books.
     cite:toffler:1981third
+  - Mollison, B., Permaculture: a designers' manual
+    (1988), : Tagari.
+    cite:mollison:1988designers
