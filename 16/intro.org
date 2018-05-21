@@ -702,8 +702,22 @@ to minorities.  In particular, reciprocal education calues
 /both/ sets of knowledge and world concepts, and respects
 other's lifestyles.
 
-pdfview:~/proj/chenla/hoard/lib/mollison:1988designers.pdf::546
+Tribal maps often defined bioregions very well; totems and
+"skins" (clan groups) of tribes might take, as their totemic
+mothers, a particular tree or animal, which itself was
+limited in distribution by the sum of topographic and
+climatic factors.  Other groups occupoed ecologies of
+grasslands, stony deserts, swamps, or mountain ridges.
+Today, minority language groups (Saamen, Basque,
+Pitjatjantjara) claim territories that are ancient, and
+specific to their life mode.  Obviously, cites break up into
+different, often occupational or income, districts, each
+with it's own dialect and ecology, consumption spectrum, and
+morality.  The acid test of a bioregion is that it is
+recognized as such by its inhabitants.
 
+— Bill Mollison, Permaculture Designers Manual (1988)
+cite:mollison:1988designers, [[pdfview:~/proj/chenla/hoard/lib/mollison:1988designers.pdf::546][p.510]]
 #+end_quote
 
 
