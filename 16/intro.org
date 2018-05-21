@@ -566,7 +566,11 @@ important so long as it provides a safe and secure place
 where we can live and keep possessions that we have invested
 in emotionally.  Marie Kondo tells us that if when you pick
 up a possession and it does not "spark joy" then you should
-discard it.cite:kondo:2014tidying-up
+discard it.cite:kondo:2014tidying-up  Back in 2009 Bruce
+Sterling gave the same advice, with out the charm or
+elegance or a Marie Kondo, but I will quote Sterling rather
+than Kondo because I believe he better explain what Kondo
+means by "spark joy".
 
 
 #+begin_quote
