@@ -86,7 +86,7 @@ things that are too slow for Sapians to think about much.
 It is CULTURE which will be in control of the Arc.  Finally
 we have SCOPE.  Scope is outside the pace-layers.  Where
 CULTURE and MIDDLE are highly distributed, SCOPE is global.
-SCOPE has greate power, but is kept on a short leash.  SCOPE
+SCOPE has great power, but is kept on a short leash.  SCOPE
 ensures that the distributed system stays connected and
 doesn't fracture and fork.  SCOPE is the interface with
 anything outside of The Culture, both in terms of diplomacy,
