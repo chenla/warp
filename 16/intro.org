@@ -564,7 +564,12 @@ identity and feeling of security and family to our shelters
 is fundemental to all humans.  Any given shelter is not as
 important so long as it provides a safe and secure place
 where we can live and keep possessions that we have invested
-in emotionally.  
+in emotionally.  Marie Kondo tells us that if when you pick
+up a possession and it does not "spark joy" then you should
+discard it.cite:kondo:2014tidying-up
+
+
+
 
 
 *** Shop
@@ -906,9 +911,9 @@ which we won't get into here.
   - Marie Kondō, 近., 人生がときめく片づけの魔法 /jinsei ga
     tokimeku katazuke no mahō (2011), : Sanmāku Shuppan.
     cite:marie:2011tidy-jp
-
-  - 
-
+  - Sterling, B., /Transcript of reboot 11 speech by bruce
+    sterling, 25-6-2009/ (2009).
+    cite:sterling:2009reboot-11
 
 
  TRIBES and NATIONS
