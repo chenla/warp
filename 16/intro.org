@@ -429,15 +429,28 @@ others who have thought similar things in the past, and
 thereby preventing them from re-inventing the wheel.
 #+end_quote
 
+Culture maintains and operates long term plans, it is always
+trying to think twenty chess moves ahead of each move based
+on the Law of Conservation of Energy.  Every action we take
+has consequences.  If you build an house in one location,
+how will that impact the local water tables over the next
+thirty years?  How will the wood used to build the house be
+replaced?  How many children will be born in this house and
+how will that effect the local school and daycare system?
+Every birth should trigger all kinds of long term processes
+that start making preparations for later stages of that
+person's life, including health and education and ensure
+that preparation for providing them basic-income when they
+come of age.
 
 
-SCOPE.  Scope is outside the pace-layers.  Where CULTURE and
-MIDDLE are highly distributed, SCOPE is global.  SCOPE has
-great power, but is kept on a short leash.  SCOPE ensures
+SCOPE.  Scope is outside the pace-layers.  Where Culture and
+Middle are highly distributed, SCOPE is global.  Scope has
+great power, but is kept on a short leash.  Scope ensures
 that the distributed system stays connected and doesn't
-fracture and fork.  SCOPE is the interface with anything
+fracture and fork.  Scope is the interface with anything
 outside of The Culture, both in terms of diplomacy, trade
-and security.  SCOPE is divided into a number of subsections
+and security.  Scope is divided into a number of subsections
 which we won't get into here.
 
 
