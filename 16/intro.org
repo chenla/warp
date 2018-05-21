@@ -649,7 +649,7 @@ which we define as a bioregion.  This is a natural way of
 dividing things as lifestyle, culture, language, dress and
 our relationship to natural environment is shaped by
 climate, and the flora and fauna in the ecosystem that we
-live in.  Since a bio-region shares the same climate and
+live in.  Since a bioregion shares the same climate and
 ecosystem is can be taken as a unit that we have to live
 within and take actions to protect and manage.  The
 bio-region we live in forms an important part of our
@@ -789,3 +789,10 @@ which we won't get into here.
   - Mollison, B., Permaculture: a designers' manual
     (1988), : Tagari.
     cite:mollison:1988designers
+  - Mcginnis, M., Bioregionalism (1998), : Routledge.
+    cite:mcginnis:1998bioregionalism 
+  - Glotfelty, C., & Quesnel, E., The biosphere and the
+    bioregion: essential writings of peter berg (2014), :
+    Routledge.
+    cite:glotfelty:2014bioregion 
+
