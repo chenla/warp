@@ -651,12 +651,40 @@ our relationship to natural environment is shaped by
 climate, and the flora and fauna in the ecosystem that we
 live in.  Since a bio-region shares the same climate and
 ecosystem is can be taken as a unit that we have to live
-within and take actions to protect and manage.  If a
-polis-nomis is a smaller unit than a bioregion, then more
-than one polis will be responsible for resources that are
-shared between different political entities, so decisions
-made by one polis that effect another polis must be made by
-consent of both polis-nomes
+within and take actions to protect and manage.  The
+bio-region we live in forms an important part of our
+personal identity.  If a polis-nomis is a smaller unit than
+a bioregion, then more than one polis will be responsible
+for resources that are shared between different political
+entities, so decisions made by one polis that effect another
+polis must be made by consent of both polis-nomes this is
+certainly possible but not desirable and takes away some of
+the autonomy of the polis.  This is important if we are to
+keep things at human scales.
+
+A bioregion might be a watershed, flood-plain, river-valley
+
+#+begin_quote
+A bioregional association is an association of the residents
+of a natural and identifiable region.  This region is
+sometimes defined as a watershed, sometimes by remnant or
+existing tribal language boundries, at time by town
+boundries, suburban streets, or districts and at times by
+some combination of the above factors.  Many people identify
+with their local region or neighbourhood and know its
+boundries.
+
+There is no obvious conflict between the need to live in a
+region in a responsible ay (beoregional centrality) and the
+need to integrate with other people in other places (global
+outreach).  We need not only to "think globally and act
+locally", but to act and things globally and locally".
+
+
+
+pdfview:~/proj/chenla/hoard/lib/mollison:1988designers.pdf::546
+
+#+end_quote
 
 
 *** Nation
