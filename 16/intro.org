@@ -791,6 +791,22 @@ is safe, and everyone is safe and free to live according to
 their cultural traditions, people get along, or at least are
 better at getting along.
 
+Neal Stephenson's novel /The Diamond Age/
+cite:stephenson:2000diamond is set in a stateless future
+where there are no nation-states and all nations, which are
+called /phyles/ are scattered around the planet and urban
+areas are divided into areas for different phyles.  Each of
+these areas have a sort of diplomatic immunity within the
+walls of their area and govern themselves.  This vision is a
+Stateless system where the diaspora have created enclaves
+which reinforce the same bad behavior as the nation-state
+system encouraged and there is little to no cosmopolitanism
+in these metropolitan areas, and people who do not belong to
+a phyle are left with no protection or community.  This is
+what happens when everyone follows their own rules.  It's
+only when everyone has to live together under the same rules
+that a comopolitan egalitarianism is possible.
+
 
 *** Middle 
 Middle can be thought of as an autonmous distributed
@@ -861,6 +877,9 @@ which we won't get into here.
   - Kotkin, J., The human city: urbanism for the rest of us
     (2016), : Agate Publishing.
     cite:kotkin:2016human-city
+  - Brand, S., Whole Earth Discipline (2010), : Penguin Books.
+    cite:brand:2010whole-earth-discipline
+
 
 TRIBES and NATIONS
 
@@ -868,7 +887,8 @@ TRIBES and NATIONS
     determine success in the new global economy (1993), :
     Random House.
     cite:kotkin:1993tribes
-
+  - 
+    
 
  BIOREGIONALISM
 
