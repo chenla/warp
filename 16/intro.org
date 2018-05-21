@@ -423,12 +423,7 @@ needed continuity especially between generations.  But just
 as important, it slows us down and reminds us that we all
 live in a present which is different in different places.
 
-
-*Middle* can be thought of as an autonmous distributed
-adhocracy that includes the governance, infrastructure and
-commerce pace-layers.  Middle takes over a large part of
-what government, utilities, logistics, and the financial
-sector do today.
+*** Sketching out the system
 
 The atomic unit of Middle is the /shop/ and /domus/ which
 belong to a /polis/ and or /nomes/ that ideally encpmpasses
@@ -472,26 +467,133 @@ meet those needs and express consensus views.
 
 Is such a system actually feasible or even possible?  Not
 yet, but soon.  It's important to understand that this is
-not something that is built in garage by a couple of people
-living on instant Raman and then launched as a complete
-solution.  Rather it will evolve over time, first as a
-overlap over existing political and economic systems.  As
-more and more pieces of the system come on line they can
-displace and retire existing systems.  This will take a long
-time, generations, in fact.  There will be small pockets
-emerging that will use use the system to run their own
-company, or a village co-op or perhaps a housing
-development.  At first ad hoc processes will be simply one
-more revenue stream for a company, or a way of managing a
-government agency or department.  Students will join the
-network as part of a life-long learning program and use the
-personal information framework to form ad hoc social media
-groups, organize events and eventually after graduation to
-use their own personal knowledge workshop as Engelbart
-called it, as both their resume and portfolio but also as an
-extension and externalization of their own knowledge and
-skills in the workplace.
+not a kitchen table startup that will be launched as a
+complete soup-to-nuts solution on day one.  
 
+Rather it is an initial vision of what such a system could
+look like but will radically evolve over time as we find
+what works and what doesn't.  This is not not a race, or
+even a marathon, but a life-long journey towards an unknown
+destination.
+
+At first different components of the system will be launched
+as network services that overlap and overlay existing
+political and economic systems.  As more and more pieces of
+the system come on line they may displace and retire
+existing systems when the time is right and it makes sense
+to all those effected.  This will take a long time,
+generations, in fact.  Small pockets will emerge that make
+full use of the system to run their own company, or a
+village co-op or perhaps a housing development.  But for
+most people ad hoc processes will simply be one more revenue
+stream for a company, or a management system for a
+government agency or department.  
+
+Students will join the network as part of a life-long
+learning program and use the personal information framework
+to form ad hoc social media groups, organize events and
+eventually after graduation to use their own personal
+knowledge workshop as Engelbart called it, as both their
+resume and portfolio but also as an extension and
+externalization of their own knowledge and skills in the
+workplace.
+
+So, keeping in mind that this is not so much a design, or
+even a proposal, but a thought experiment and vision of how
+such a system might work in practice.
+
+*** Citizen
+
+We start with the concept of person as citizen.  This
+concept of citizen differs somewhat from the most common
+concept of nation-state citizenship.  First, citizenship is
+choice, not a birth right.  People have birth-rights and an
+equity position in the domus and polis they are born into
+which is held in trust until they come of age and choose to
+become a citizen, or to trade their equity with another
+domus and polis to become a citizen there.  This makes it
+easier for people to live and work where they are most
+comfortable, which may or may not be where they were born,
+and which will likely change several times at different
+stages of their lives.
+
+Citizens have rights and duties to the shops, domus and
+polis they belong to.  The most important duty is to master
+information literacy and the cognitive tools they will need
+to take part in a community.  There is no one-size fits all
+here, everyone takes part in different ways at different
+times in their lives.  At some stages a citizen might take a
+very active part in the community and at other times to
+largely disengage and seek solitude.  So long as they have
+mastered information literacy and can make rational
+descisions based on creditble evidence they are free to lead
+the life they choose.
+
+*** Domus
+
+A domus is a group of households that share facilities,
+ownership of the property where it is located, which is an
+independent coporate semi-autonomous entity in which members
+have an equity holding.  There will be any number of
+different ways to /buy-in/ and join a domus, but in all
+cases there must be a majority consensus of other members to
+join.  Sometimes joining will be through marriage, birth,
+adoption or by moving into a new polis/nomes.  When you
+leave a domus to join another, equity is swapped between the
+two domus which will be managed by Middle.  This will be a
+difficult thing to develop because there will be some domus
+which are richer and others poorer, and different people
+will have built up different equity stakes over their
+lives.
+
+*** Shop
+
+Many if not most shops will be owned by the domus it is
+located in.  Citizens will hold equity stakes in the shops
+they work in.  Shops are not allowed to have members that
+exceed Dunbar's number.  But it's expected that when the
+majority of work is automated, that an ad-hoc process
+economy will give more advantage to smaller shops than
+large.
+
+It is hoped that when-ever possible that shops are
+integrated with domus at many different levels.
+
+Shops are very flexible in their structure.  And we envision
+that there will be part-time shops which only operate at
+specific times of the day, or even only during certain
+seasons and then shut down the rest of the time.  Other
+shops will be full time, permanent operations.  This will
+make it easier for people to join and work in shops that fit
+their stage of life.  Some people may prefer to only work in
+part-time shops when their children are still small.  Others
+may spread their time across several part-time shops.  Or as
+part-time members of full-time shops.
+
+Middle will help shops connect to customers and to join
+ad-hoc processes and manage the processes chains and
+transations so that each shop can concentrate on spending
+most of their time doing what they were established to do,
+rather than have lage numbers of members in executive,
+administrative, marketing or sale roles.
+
+
+*** Polis
+
+*** Nomes
+
+*** Nation
+
+*** Middle 
+Middle can be thought of as an autonmous distributed
+adhocracy that includes the governance, infrastructure and
+commerce pace-layers.  Middle takes over a large part of
+what government, utilities, logistics, and the financial
+sector do today.
+
+
+
+*** Culture
 
 CULTURE operates at the slowest pace-layer, and maintains
 continuity, long term thinking and planning and things that
@@ -529,6 +631,7 @@ person's life, including health and education and ensure
 that preparation for providing them basic-income when they
 come of age.
 
+*** Scope
 
 SCOPE.  Scope is outside the pace-layers.  Where Culture and
 Middle are highly distributed, SCOPE is global.  Scope has
