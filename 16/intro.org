@@ -936,7 +936,7 @@ in these metropolitan areas, and people who do not belong to
 a phyle are left with no protection or community.  This is
 what happens when everyone follows their own rules.  It's
 only when everyone has to live together under the same rules
-that a comopolitan egalitarianism is possible.
+that a cosmopolitan egalitarianism is possible.
 
 
 *** Middle 
@@ -1013,12 +1013,26 @@ which we won't get into here.
 
  DOMUS
 
+  - Alexander, C., Ishikawa, S., & Silverstein, M., A
+    pattern language: towns, buildings, construction
+    (1977), : Oxford University Press.
+    cite:alexander:1977pattern
+  - Alexander, C., The timeless way of building (1979), :
+    Oxford University Press.
+    cite:alexander:1979timeless
+
+
   - Marie Kondō, 近., 人生がときめく片づけの魔法 /jinsei ga
     tokimeku katazuke no mahō (2011), : Sanmāku Shuppan.
     cite:marie:2011tidy-jp
   - Sterling, B., /Transcript of reboot 11 speech by bruce
     sterling, 25-6-2009/ (2009).
     cite:sterling:2009reboot-11
+
+
+  - Brand, S., How buildings learn: what happens after
+    they’re built (1995), : Penguin Books.
+    cite:brand:1995how-buildings
 
 
  TRIBES and NATIONS
