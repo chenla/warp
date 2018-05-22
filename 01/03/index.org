@@ -1,58 +1,84 @@
 #   -*- mode: org; fill-column: 60 -*-
-
-#+TITLE: 3. First Principles
 #+STARTUP: showall
-#+TOC: headlines 4
-#+PROPERTY: filename
+#+TITLE:   2. Civilization TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-bibliography:~/proj/chenla/hoard/bib.bib
-
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 3. First Principles
+* 2. Civilization Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-ab-initio.org
-:Created:  2018-03-17T19:54@Prek Leap (11.642600N-104.919210W)
-:ID:       94edf4df-382e-4c3c-a00a-25657e29f59c
-:VER:      574563355.127079250
+:Name:     /home/deerpig/proj/chenla/warp/01/01/index.org
+:Created:  2018-04-18T11:44@Prek Leap (11.642600N-104.919210W)
+:ID:       e5b8710a-5ace-4954-9e1a-a748c773a6cd
+:VER:      577298735.075024392
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:IBB5-3783
+:BXID:     proj:NEO0-1757
 :Class:    primer
-:Type:     work
+:Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+
 ** Table of Contents
-  - Table of Contents
-  - [[./intro.org][Introduction]]
-  - 00. Getting rid of the onion
-    - Discard romanticism and her sister mysticism
-    - Discard dogmatism, but don't throw away good ideas
-      that happen to be part of discarded ideologies
-    - as complicated as it needs to be -- not reductionism,
-      which was the mistake that modernists made
-  
-  - 00. Mutually exclusive and 
-  - 00. Irreducible
-  - 00. String Free
-  - 00. No Assumptions
-  - at best laws, but at least facts.
-
-  - 00. No Zero Day -- ab initio, not tabla rasa -- we build
-        on what works and what has worked -- if it doesn't
-        work then discard it, change the system to fit human
-        nature, not human nature to fit a system.
-  - 00. Don't be hasty -- things take as long to change as
-        they take.
-  - 00. Be relentless as well as patient.
-  - 00. The last to escape -- hope, don't give in to despair
-
+  - 00. [[./01/index.org][Table of Contents Civilis]]
+  - 01. Definitions I. One or many?
+  - 02. Definitions II. Historical
+    - Ba Ba Ba: Us vs. the Other
+    - A Clash of cultures, states, religions, or ideologies
+    - A Parade of Great Men
+    - Human Nature as Social Drivers
+  - 03. Definitions III. Complex System
+    - DNA's Grand Experiment 
+    - Cerebral Cortex: Extended and Externalized 
+    - Holarchy
+      - Self-Organizing Holarchic Open System (SOHO)
+      - Civilization is a sub-holon of the bios-layer 
+    - A Fabric of Process
+    - A Very Slow AI
+  - 04. [[./ww-narrative-synopsis.org][A Narrative Synopsis]]
+  - 05. Specialization
+  - 06. Polis as Building Block
+    - Of Nations and States
+  - 07. Carrying Capacity
+  - 08. Holding it together
+    - propagation, linguistic, cultural
+  - 09. Complex Societies as Systems
+  - 10. Pace-Layer Model
+    - *Bios Layer* :Civilizations have seldom been
+      understood as being a layer that we inhabit in a
+      larger biosphere -- that the ecosystem we belong to is
+      as much a part of civilization as anything else.
+      Pretty much everything written about civilization only
+      talks about ecosystems in terms of resources -- as if
+      resources were external to the system.  A civilization
+      in the middle of an Ice Age will be very different
+      from a civilization during an era with a clement
+      climate.  It is not enough to only talk in terms of
+      carrying capacity, but also climate patterns,
+      biodiversity, how difficult or easy is it to extract
+      raw materials from the lithosphere.
+    - *Anthros Layer*
+    - *Culture Layer*
+    - *Governance Layer*
+    - *Infrastructure Layer*
+    - *Commerce Layer* 
+    - *Fashion Layer* 
+  - 11. Civilization As Generative Genome
+  - 12. Cherry Picking Principles
+    - All Things Apply To Everyone
+    - Only Human Scales
+    - Adjusting for Human Nature
+    - More Eggs in More Baskets
+    - Never Evenly Distributed
+    - Rejoicing in Diversity
+    - Embracing Uncertainty
+    - Generative Plans, Designs, and Management 
+    - One Step Forward, Two Steps Back
 

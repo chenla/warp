@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Boundries Introduction
+#+TITLE: 1.4.1 Estrangement Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,51 +15,536 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-
-* Boundries Introduction
+* 1.4.1 Estrangement Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/05/intro.org
-:Created:  2018-05-01T17:27@Prek Leap (11.642600N-104.919210W)
-:ID:       993594f2-9332-4da3-b9d6-84fcb5800c8b
-:VER:      578442504.546867026
+:Name:     /home/deerpig/proj/chenla/warp/01/04/intro.org
+:Created:  2018-03-21T18:52@Prek Leap (11.642600N-104.919210W)
+:ID:       20b34386-119b-40ba-b668-8a885192ca53
+:VER:      574905186.480630274
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:YRA3-4585
+:BXID:     proj:BWB2-1148
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
+** Epigraph
 
-From here we can then begin to discuss the limitations of Sapiens and
-of the greater Mankind.  There are no shortage of planned utopian
-visions for the future of Mankind.  Most are build on little more than
-cardboard foundations, or are little more than flights of fancy.  As
-thought experiments such uttopian visions are both useful and
-illustrative tools.  But every so often some of these Utopian visions
-have been taken quite literally to be built verbatim, dogmatically
-constructing them according the letter of whatever visionary scripture
-they were based on.  Most have been religious, but some secular
-utopias which are one -ism or another are often even worse.  In each
-case, the utopian vision was not built on a solid foundation that made
-allowances for and respected man's nature.  We are clever apes, who in
-evolutionary terms have barely left the savvanah from where we evolved
-and the ecological niche we are designed to inhabit through blind
-evolutionary forces.  We are capable of being rational, but all too
-often are not.  We have the capacity for great empathy, love and
-compassion but easily give in to primal instincts based on fear and
-threat through fight or flight.  We still are in the very early stages
-of beginning to discover what we are, our weaknesses and strengths,
-our bias's and cognitive and phyisical limitations.  In short, we are
-very much a work in process and are not capable of living in any
-Paradise or Utopia no matter how pleasant -- we'll manage to screw it
-up.  So we must constantly strive to understand ourselves better, and
-to design social structures which take these hard facts about
-ourselves into account and protect ourselves from our less than noble
-natures.
+#+begin_quote
+"Man is estranged from that with which he is most familiar."
+
+— Heraclitus
+  as quoted in epigraph in Charles Olson's Special View of
+  History (1956)
+#+end_quote
 
 ** TL;DR
+
+I once heard a pourquoi attributed to some Natve-American
+tribe which I can't track down that described the origin
+story of Dog.  That originally man was one with all the
+animals.  And then one day, the earth cracked and began to
+break in two, with man on one side and all the other animals
+on the other.  And as the rift grew between the two, at the
+very last moment, Dog jumped over and stood beside man.
+
+That splt was framed as SPACE in all of it's manifestations.
+As physical distance, as time, and the difference between
+worldviews held by different people and cultures.  But most
+of all, space is nature, what the Mongolians speak of as the
+great blue sky, which encompassed the complete enormity of
+the cosmos, under which all of us lived.  Even the different
+religions were all considered on their own merits and
+embrased as individuals saw fit.  There was no conflict in
+this, because all religions too, were subsets of the Eternal 
+Blue Sky,
+
+#+begin_quote
+[Genghis Kahn] created an international law and recognized
+the ultimate supreme law of the Eternal Blue Sky over all
+people.
+
+For the Mongols, the one God was the Eternal Blue Sky that
+stretched from horizon to horizon in all four
+directions. God presided over the whole earth; he could not
+be cooped up in a house of stone like a prisoner or a caged
+animal, nor, as the city people claimed, could his words be
+captured and confined inside the covers of a book.
+
+They worshiped the Eternal Blue Sky, the Golden Light of the
+Sun, and the myriad spiritual forces of nature. The Mongols
+divided the natural world into two parts, the earth and the
+sky. Just as the human soul was contained not in the
+stationary parts of the body but in the moving essences of
+blood, breath, and aroma, so, too, the soul of the earth was
+contained in its moving water. The rivers flowed through the
+earth like the blood through the body...
+
+The Mongols continued, by a different means, to pursue their
+compulsive goal of uniting all people under the Eternal Blue
+Sky.
+
+— cite:weatherford:2005genghis-khan
+#+end_quote
+
+
+
+Olson wrote of Ahab in Moby-Dick:
+
+#+begin_quote
+This Ahab had gone wild.  The object of his attention was
+something unconscionably big and white.  He had become a
+specialist: he had all spae concentrated into the form of a
+white whale called Moby-Dick.  And he asailed it as Comumbus
+an Ocean, LaSalle a continent, the Donner Party their winter
+pass.
+
+— Call me Ishmael p12 (1949)
+  cite:olson:1997collected-prose
+#+end_quote
+
+and on the same page, just before:
+
+#+begin_quote
+Some men ride on such space, others have to fasten
+themselves to it like a tent stake to survive.  As I see it
+Poe dug in and Meville Mounted. They are the alternatives.
+
+Americans still fancy themselves such democrates.  But their
+triumphs are of the machine.  It is the only master of space
+the average person ever knows, oxwheel to piston, muscle to
+jet.  It gives trajectory.
+
+To Melville it was not the will to be free but the will to
+overwhelm nature that lies at the bottom of us as
+individuals and a people.  Ahab is no democrat.  Moby-Dick,
+antagonist, is only king of natural force, resource.
+#+end_quote
+
+For Olson, America was all about SPACE, writ large and still
+so alien to a people and culture having been packed together
+like sardines for centuries in the old countries.  European
+space had been crammed inside each person, where there was
+no where to escape.  At the time Melville was writing
+Moby-Dick the foundations for the industrial revolution were
+being cemented in place, brick by baked-red brick, switching
+from casks of hunted whale-oil to pipelines of natural gas,
+from capricious winds pushing sails to a head of steam that
+remained steady so long as there was coal to stoak the
+boilers.  Capricious sputtering nature wasn't dominated so
+much as replaced by controlled flows turned on or off at
+will.
+
+Space was no longer anything that could be anchored to, it
+was now outside and could be ignored.  Space was roofed over
+or enclosed in rail and motor cars, vibrations and noise
+absorbed, the winter winds canceled out by flows of heat,
+the hammering summer sun by air conditioning.  The enormity
+of space and the uncertainty of nature hammered flat, by
+systems that were out of sight and mind, leaving us all
+alone together with little to battle but each other.
+
+Grant Morrison summed it up describing his black comedy Happy!
+
+#+begin_quote
+It’s a really simple story, but it condenses every other
+story I’ve done… it’s All-Star Superman, it’s got all of
+those things, because it ultimately says “Okay, we
+acknowledge the world is a nihilistic hellhole plunging
+toward screaming entropy, BUT... we have hope.” And right
+now, when people are getting really freaked out and things
+are seeming quite dystopian and out of control, and spinning
+even further out of control, hope is reduced to this tiny
+little unicorn. In some of my other stories, it’s been
+Superman and it’s been the Justice League or it’s been
+something, but right now it’s so down to nothing, it’s the
+tiniest last little candle flame.
+
+— Grant Morrison on, Happy! (2017)
+#+end_quote
+
+Man had always experienced space as all encompassing
+vastness which took every ounce of our ingenuity and
+strength to survive. But we had managed to lock it out of
+the cocoons we built around us.  We had always felt somehow
+lost in all that space bearing down on us -- and for a time
+we had convinced ourselves that we had conquered it with our
+flows and believed that the resources they came from
+bottomless.
+
+Deep inside we always knew it was a lie.  It never felt
+right, though we could never quite put our finger on what it
+was that was wrong.  We had forgotten.  We had lost our
+connection to the wind, rain, heat, cold and hunger.  Sheets
+of glass, reinforced concrete and buttressed girders had
+created an industrial pocket universe; our universe of
+flows.  The outside, nature and everything we had strove to
+conquer was still there but we no longer believed we were
+part of.  All agency had been reduced to the inside of of
+the material bubbles in which we had enclosed outselves.
+
+There is no returning to Ahab's world, and we wouldn't like
+it if we did.  Life was brutal, short, uncertain and filled
+with monotony, ignorance, pain and death.  The past held no
+golden age, neither as paleolithic hunter-gatherers
+wandering the earth, nor were there pastoral agrarian
+utopias.  Giving birth was to risk your life, surgery was
+conducted at breakneck speed as patients screamed, strapped
+to tables.  Surviving childhood was little better than a
+game of russian roulette.  The black death and smallpox
+wiped out 80% of human civilization on two continents in the
+blink of an eye.
+
+There was never a heroic age, only entropy, wearing away the
+lives of mortal men and women, eating away the detail, and
+polishing them into protagonists and antagonists of stories
+told around the camp fire, keeping our mind's off the things
+that would do us harm, lurking in the darkness just beyond
+the flickering compass of the fire's light and warmth.  We
+want those stories to be true, both the happy and the
+horrible because it's the details that makes us miserable.
+The mosquito's buzz and bites that won't let you sleep.  The
+hang-over and infected slash you got in a drunken brawl that
+you don't want to admit to yourself was your fault.  The
+whispered exagerations of minor sleights, and lost face.
+It's easier to think that none of that happened in the
+stories of old.
+
+And with each retelling, we convince ourselves that they
+reflect nobility and selfless bravery and heroic deeds that
+have been lost in our time, when the only thing that was
+lost was daily toil and discomfort dominating the hours and
+days and years as they pass.
+
+But for those of us alive today, the reverse is true, we are
+living in an age of unriviled safety, comfort and wealth
+that our heroic ancestors would have thought to be
+impossible.
+
+Subjectively it doesn't feel that way, but since 1800 the
+human condition has dramatically improved in every category
+that can be documented.  Lifespan has doubled, war, poverty,
+sickness, murder have all declined by orders of magnitude
+and will likely continue to decline at the same rate.  You
+can argue until blue in the face of a long list of
+atrocities, mistreatment, racism and greed, but every year
+they are becoming the exception that proves the rule.
+
+So what gives?  How can things be so good, and still feel
+like they are coming apart at the seams?  Again, Olson got
+it when he said "logic and classification has led
+civilization towards man and away from space."  Space and
+time collapse the faster that change propagates.  A murder
+in Sioux City, might as well have happened down the block
+from where you are eating dinner in Phnom Penh.  It's old
+world europe all over again, but this time it's the entire
+planet, and there are now over seven billion of us all
+packed close enough together to feel their breath on the
+back of your neck.  We've managed to escape space, and then
+demolish it, squeezing out all of nature and all of space
+and leaving nothing but ourselves.
+
+The thing is that both narratives are true, both our wealth
+and misery.  And all the material progress since 1800 has
+come at a terrible price that we have yet to pay.  The
+resources we use, and waste recklessly discarded, the horror
+of the reality of industrial agricultural production that is
+destroying the soil, the water and the air, not to mention
+the horrors visited on the animals we eat.
+
+All flows come from somewhere and go somewhere else, but all
+we see is our place in the middle.  We can't see where the
+flows begin, or where the waste flows to.  They are all lost
+in space that we can no longer see and no longer believe we
+are part of.  That is modern man's great folly.
+
+In the 1950's Olson believed that man had become estranged
+from his true nature.  But he also believed that there was a
+way forward, a way for us as individuals and societies to
+regain the space that we no longer see.  Seventy years later
+there is no evidence that this is happening, but I believe
+that the opportunity for us to be able to do do is fast
+approaching if only we are strong enough to take it.
+
+
+But the window is short, fifty years at best before the
+flows start to dry up at their origin and back up from where
+they are flowing to.
+
+xxxxx framed the situation as two opposing worldviews, that
+of prophets on one side, and wizards on the other.  The
+wizards have ferreted out the secrets of nature and how to
+leverage it to create the flows and the bubbles we live in
+and that whatever runs dry can be replaced, what ever is
+broken fixed as if the resources they are using are
+bottomless.  The prophets only see the fact that the flows
+are finite and that we must stop inflicting the damage we
+are causing.
+
+
+
+
+
+
+----------
+
+velocity and volume of change was increasing now, the corner
+shop and the morning market morphed into supermarkets whole
+aisles of shelves dedicated to a single thing, 15 meters of
+salty snacks, with 30 types of potato chips, three meters
+dedicated to 25 types of ranch salad dressing alone -- all
+coordinated and scientifically colored to scream at you,
+blues and purples and reds and yellows all tugging at
+different parts of your limbic system.
+
+In 197x Toffler put a name to it, /future shock/, a few
+pages in the financial pages of a daily newspaper increased
+to narrow ticker tape a flow of cryptic codes for companies
+and numbers going up and down at a steady rate throughout
+the trading day.  Incoming news overwhelmed the dailies and
+was consolidated by centralized agencies with names like
+Reuters, Associated Press and xxxxx who increased flows
+through endless scrolls of paper flowing from teletypes in
+news rooms, an endless chatter of dot matrix text from each
+agency that required teams to cut up and sort into
+categories to be sent to specialized teams to be filter and
+figure out not only as the NYT said, all the news that's fit
+to print, but all the news that they could fit into any
+given print run.
+
+By 19xx the shock had worn off, leaving people with a
+feeling of dread, Wurman put a name to it, /information
+anxiety/ the fear that we were missing things that were
+important that we couldn't keep up, couldn't cope with the
+bombardment of paper and growing channels of radio and
+television, and whole new categories of superstores
+dedicated to selling musical recordings, and yet others
+dedicated to renting video cassettes, and this was still a
+few years before the Internet, came into people's lives in
+the form of the world wide web, invented to bring under
+control the explosion of scientific and technical journal
+preprints which was making it impossible for scientists to
+keep up on what was developing and who was working on which
+problem.  The web was quickly adopted by the general public
+who also initially greeted it with relief.  Surely the
+computer would allow us to consolidate and filter and bring
+some kind of order to the madness.  But it was only
+amplified, turning the torrents of information being
+generated by professionals into a Cambrian explosion as
+everyone connected changed from being prey to predator, from
+consuming, to producing.
+
+The flows had far outstripped the ability of any human
+cognitive capacity to cope with, and anyone who attempted it
+was said to be drinking from the fire hose.  The shock which
+had turned into anxiety was now leaving us numb and
+helpless.  The steady flows that had collapsed space were
+now compressing it until it was becoming nothing more than
+white noise flowing right through us.  Welcome to the
+information age, where everyone is so busy producing that
+there is no more time to listen, let alone contemplate or
+comprehend -- it's all now just /the feed/ an endless stream
+that is engineered to be addictive rather than informative,
+impelling you to interact and react, but it's all now just
+garbage in, and all of us are the result of Pavlovian
+conditioning to keep pulling the leaver and hypnotically
+dropping coins into the slot and occasionally being rewarded
+with a box delivered to your door from amazon.  We are now
+all part of an ecosystem of maximized flows that follow your
+around beeping, and vibrating, demanding attention demanding
+you keep pulling the lever so much that it never leaves your
+hand -- it becomes the windows that you see the world
+through -- and you can never look up from.  There is no time
+to even talk to the people you work with, or eating with --
+only occasionally lifting the thing long enough to take a
+picture and send it before you've had a chance to process
+what you've seen, and only experience what you've seen from
+the replies from others of your experience.  We have been
+reduced to zombie processes, mechanically feeding and
+consuming from flows and occasionally being jolted into
+outrage and palitable acts of cruelty only possible in the
+heat of the certainty of the moment, a mob nation of zombies
+brandishing tiki-torches.
+
+This was the price paid when as the machine moved us away
+from forgotten space and then to man who has transformed
+into part and parcel of mindless flows that had originally
+been the instrument that had lifted man up from the messy
+and dangerous uncertainty of nature and replaced it with the
+illusion of constant movement, constant change through
+homogeneous flow of information and matter and energy which
+has lost all context -- because all space has collapsed on
+into ourselves and left us alone, afraid and yearning for
+something that we no longer have the agency to experience
+even though all that would take would be to look up from the
+device and see that it's still all there, all around us --
+all that space had never been conquered or vanquished.  The
+labyrinth in all it's splendor and beautiful and complexity
+spreads out around us in all directions with no center, no
+direction or even purpose.  The universe it just there, to
+ride wild and free or to nail down and confront, if we can
+only let go of the flowing threads that have been leading us
+towards something we can never reach.
+
+
+
+** Notes
+
+#+begin_comment
+
+I'm going to take a different tack here and frame
+estrangement as Olson did in Call Me Ishmael:
+
+   "logic and classification has led civilization towards
+    man and away from space."
+
+for olson that's what it all boiled down to moving towards
+man and away from space -- which is the universe, this is
+where the breach began as a crack with the invention of
+written language and widened into a canyon by the industrial
+revolution with us on one side and the nature/space on the
+other and then somehow in the last 15-20 years poof! man has
+split himself into a pocket universe that pulls from the
+real universe and then shits back whatever it can't use back
+into it -- but then hey, that's not us, it's another
+universe. right?
+
+
+ - quality -- beauty    -- connectedness
+ - caring  -- integrity -- control
+
+
+Alexander's QWAN and Pirsig's Quality are framed by Olson at
+that is that which we are estranged estranged from which is
+most familar.
+
+In different ways they seem to dump the estrangement at the
+feet of Aristotle  ---
+
+They all seem to agree that if we can get back what we lost,
+that everything else will come together.  Of course this is
+a old meme.  If we can just restore ourselves to what we
+were in the Garden before Eve bit the apple, if we can
+return to an agrarian utopian past that never existed etc.
+
+But that's not what Alexander and Pirsig and Olson are
+talking about here -- it's not returning to a romanticized
+fictional past which never existed, it's finding the part of
+ourselves that we left behind when man developed spoken
+languages and then written languages and so on and so forth
+-- at each stage we added layers of mediation between us and
+the world to the point where we are disfunctional and deeply
+unhappy.
+
+I think they have the right idea -- it's not returning to
+anything but reconnecting to what the world is, that we
+can't see any longer.
+
+There is a whole raft of different books that are focused on
+the different aspects of what is missing, mastery, rest --
+hell, epicurus was the first to get at the roots of the
+problem so very long ago -- fear.  The stoics said to face
+your fear and then it had no power -- epicurus wanted to
+eliminate it so that you didn't have to face it.
+
+I'm still not sure, but perhaps process philosophy is a good
+fit here -- if everything is the present -- time is not a
+line and there is no past or future, then there can be no
+retribution or reward in an afterlife.  Though, actually PP
+doesn't preclude heaven and hell, it would just be part of
+the present, hmm... stick with epicurus on that.
+
+I hope we can include the TEDTalk from the brain scientist
+who had a stroke -- which presents the concept from a
+biological AND personal perspective.
+
+Her experience explains a lot -- that self-consciousness is
+a brain function, and a very useful one.  If a living
+organism can not differentiate itself from the rest of the
+universe it can not function -- it becomes an
+undifferentiated part of the continuum of the universe.  The
+problem is that we have let it go to our heads (bad pun) and
+have not kept a healthy balance between self and world, our
+map is trapped in the delusion that it is the territory and
+forgotten that we are also part of a territory far bigger
+than ourselves...
+
+Even worse, we have built up concentric layers of collective
+maps around us to the point where we don't know what is
+real and what isn't.
+
+We need to reconnect to the world and find a balance between
+being a part or being a part of a whole.
+#+end_comment
+
+
+#+begin_comment
+[2018-03-10 Sat] Tried to explain some of this to Mike
+tonight when I was in Phnom Penh today, but I think he
+didn't understand what I was trying to say.  I called it
+mediation rather than explain map-territory.
+
+Am I on the right track here?  I still think so.  But that's
+the problem of working on this stuff for so long on my own,
+I need more feedback to make sure I'm on track.
+#+end_comment
+
+
+
 ** References
+
+Mongols
+
+   - Weatherford, J., Genghis khan and the making of the
+     modern world (2005), : Broadway Books.
+     cite:weatherford:2005genghis-khan
+
+
+Enlightenment
+
+  - Pinker, S., The blank slate: the modern denial of human
+    nature (2003), : Penguin Books.
+    cite:pinker:2003blank
+  - Pinker, S., The better angels of our nature: why
+    violence has declined (2012), : Penguin Books.
+    cite:pinker:2012better-angels
+  - Pinker, S., The cognitive niche: coevolution of
+    intelligence, sociality, and language, Proceedings of
+    the National Academy of Sciences, 107(Supplement 2),
+    8993–8999 (2010).
+    http://dx.doi.org/10.1073/pnas.0914630107
+    cite:pinker:2010cognitive
+
+  - Havelock, E. A., Preface to plato (history of the greek
+    mind) (1963), : Harvard University Press.
+    cite:havelock:1963preface
+
+
+
+Alienation? 
+  - [[https://aeon.co/essays/in-the-1950s-everybody-cool-was-a-little-alienated-what-changed][A History of Alienation]] | Aeon cite:jay:2018alienation
+  - Marcuse, H., & Kellner, D., One-dimensional man :
+    studies in the ideology of advanced industrial society
+    (2002), : Routledge.
+    cite:marcuse:2002one-dimensional
+  - Pirsig, R. M., Zen and the art of motorcycle
+    maintenance: an inquiry into values (2008), : Harper
+    Perennial Modern Classics.
+    cite:pirsig:2008zen
+  - Mills, C. W., White collar: the american middle classes
+    (1951), : Oxford University Press.
+    cite:mills:1951white
+  - Wikipedia, , /White collar: the american middle classes
+    --- wikipedia, the free encyclopedia/ (2017).
+    cite:wiki:2017white-collar-book
+  - Wikipedia, , /Social alienation --- wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018social-alienation
+
+
+
+  - https://en.wikipedia.org/wiki/Self-estrangement
+  - https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation 
 

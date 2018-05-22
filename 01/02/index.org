@@ -1,84 +1,64 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   2. Civilization TOC
+#+TITLE:   1 Sapiens TOC
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:~/proj/chenla/hoard/bib.bib
+
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 2. Civilization Table of Contents
+* 1. Sapiens Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/01/01/index.org
-:Created:  2018-04-18T11:44@Prek Leap (11.642600N-104.919210W)
-:ID:       e5b8710a-5ace-4954-9e1a-a748c773a6cd
-:VER:      577298735.075024392
+:Created:  2018-05-17T11:33@Prek Leap (11.642600N-104.919210W)
+:ID:       13feede2-c4a2-4cb4-a0a3-0dd24094fefc
+:VER:      579803657.138078142
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:NEO0-1757
+:BXID:     proj:NOK8-3763
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+  - Contents
+  - [[./intro.org][Introduction]]
 
-** Table of Contents
-  - 00. [[./01/index.org][Table of Contents Civilis]]
-  - 01. Definitions I. One or many?
-  - 02. Definitions II. Historical
-    - Ba Ba Ba: Us vs. the Other
-    - A Clash of cultures, states, religions, or ideologies
-    - A Parade of Great Men
-    - Human Nature as Social Drivers
-  - 03. Definitions III. Complex System
-    - DNA's Grand Experiment 
-    - Cerebral Cortex: Extended and Externalized 
-    - Holarchy
-      - Self-Organizing Holarchic Open System (SOHO)
-      - Civilization is a sub-holon of the bios-layer 
-    - A Fabric of Process
-    - A Very Slow AI
-  - 04. [[./ww-narrative-synopsis.org][A Narrative Synopsis]]
-  - 05. Specialization
-  - 06. Polis as Building Block
-    - Of Nations and States
-  - 07. Carrying Capacity
-  - 08. Holding it together
-    - propagation, linguistic, cultural
-  - 09. Complex Societies as Systems
-  - 10. Pace-Layer Model
-    - *Bios Layer* :Civilizations have seldom been
-      understood as being a layer that we inhabit in a
-      larger biosphere -- that the ecosystem we belong to is
-      as much a part of civilization as anything else.
-      Pretty much everything written about civilization only
-      talks about ecosystems in terms of resources -- as if
-      resources were external to the system.  A civilization
-      in the middle of an Ice Age will be very different
-      from a civilization during an era with a clement
-      climate.  It is not enough to only talk in terms of
-      carrying capacity, but also climate patterns,
-      biodiversity, how difficult or easy is it to extract
-      raw materials from the lithosphere.
-    - *Anthros Layer*
-    - *Culture Layer*
-    - *Governance Layer*
-    - *Infrastructure Layer*
-    - *Commerce Layer* 
-    - *Fashion Layer* 
-  - 11. Civilization As Generative Genome
-  - 12. Cherry Picking Principles
-    - All Things Apply To Everyone
-    - Only Human Scales
-    - Adjusting for Human Nature
-    - More Eggs in More Baskets
-    - Never Evenly Distributed
-    - Rejoicing in Diversity
-    - Embracing Uncertainty
-    - Generative Plans, Designs, and Management 
-    - One Step Forward, Two Steps Back
-
+  - Savannah Heritage
+    - savannah ecosystem
+    - high generalized biodiversity
+    - clemant
+    - stability
+    - evolutionary pressure to adapt -> we had to become bad
+      motherfuckers to adapt and survive.
+    - flexibily -> makes it easier to adapt to other
+      climates/ecosystems
+  - Primate Heritage
+    - what advantages do primates have over other species
+    - primate senses, compared to other animals
+    - primate physical design
+      - opposable thumbs --> Opposition and apposition
+        - only old world monkeys and great apes 
+    - omnivores have larger range of diet
+    - omnivores share traits of both carnivores and herbivores
+    - offspring are born before development is complete
+      - this increases early mortality rates? does it?
+      - means that we are exposed to environment earlier and can begin
+        learning earlier.
+      - core primate behaviors and instincts -- what is hardwired
+  - The Accidental Apex
+    - how we become an apex predator
+    - we are designed to be in the middle of the food chain
+    - brain evolved faster than other animals in ecosystem
+    - we escaped natural checks and balances that other predators deal
+      with.
+  - Ocean Ancestry
+    - we have inherieted many things from living in water
+    - possibly will mitigate potential problems living in lower
+      gravity
