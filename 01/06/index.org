@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   5. Estrangement  TOC
+#+TITLE:   6. Estrangement Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-* 5. Estrangement  Table of Contents
+* 6. Estrangement Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/04/index.org
+:Name:     /home/deerpig/proj/chenla/warp/01/06/index.org
 :Created:  2018-04-21T17:18@Prek Leap (11.642600N-104.919210W)
 :ID:       a78bedca-9802-46cf-a2f0-97dee8f6c30c
 :VER:      577577955.325136604
