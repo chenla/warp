@@ -92,31 +92,54 @@ Warp & Woof will take a rather unique approach to
 publication.  First, everything, and I mean everything from
 the first horrid clueless notes to the finished work will be
 online as public Git repositories.  It's all been there,
-warts and all since 2016, hiding in plain sight.
+warts and all since 2016, hiding in plain sight.  Second, it
+will be released not serially with one volume coming out
+after another, but in different levels of detail.  The
+Synopis of the first 30 Cantos is little more than an
+annotated outline.  The Synopsis will be followed by a
+Prologmenon, a discursive outline of the work, followed by
+the full scale work.
 
+Warp & Woof, as most things described in it, will have a
+dual nature as a /literate program/ which is both descrptive
+narrative as well as executible code.  This will not be
+clear until we begin publishing the Prologemenon and mostly
+in the Cantos starting with Canto XXX1 which will be
+described in the next installment of the Synopsis in 2019.
 
+You might be wondering what could require the forty years
+work and take up so much shelf space?  What could justify
+all this mishegoss?
 
+The answer is that what we are making an argument for a new
+paradigm for civilization.  As we will explore in the first
+part of Canto I, as Kuhn taught us, a paradigm is not made
+up of a list of rules but rather a critical mass of patterns
+and examples that could never fit into even a few volumes.
 
+Paradigms might start as a vision of a single person or
+team, but they are backed up by all the work of those who
+came before them, and doesn't become a paradigm until it has
+been fleshed out by a community who comes to adopt and
+accepted it by consensus.  There are two reasons that Darwin
+took so long to publish his Theory of Natural Selection.
+The first was the knowledge of the shitstorm that his theory
+would be engulfed it and he was terrified of the backlash.
+So he spend decades collecting data, running eperiments and
+exhaustively backing up his theory with a mody of evidence
+that couldn't be easily dismissed, as it likely would have
+been if he had released the theory early in his career as a
+monograph or short book.  He knew the only way for his
+theory to emerge from the flames intact was to create a wall
+of evidence to protect it from the flames.  Darwin's theory
+could not be easily dismissed.  The Warp & Woof is long for
+the same reason, to give a non-incremental vision the space
+and the asbestos padding it would need to not be ignored or
+dismissed out of hand, as was most of the work of people
+like Douglas Engelbart and Christopher Alexander.  In many
+respects this work is a continuation and expansion of their
+life's work.  These are the shoulders I stand on.
 
-#+begin_ascii
-
-#+end_ascii
-
-almost
-twenty years to the day 
-
-
-
-
-architecture and planning.  The books are intended to
-provide a complete working alternative to our present ideas
-about architecture, building, and planning—an alternative
-which will, we hope, gradually replace current ideas and
-practices.
-
-
-Why we need all this mishegoss? The work you are holding in
-your hand, or reading from a screen 
 
 
  replaces the
