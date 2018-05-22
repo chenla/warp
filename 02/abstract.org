@@ -190,6 +190,31 @@ go back to reclaim what they have lost before being allowed
 to go forward. The difference is visible even to the
 untrained observer.
 
+We've been quite hard on the epistemic and synoptic so far
+but that doesn't mean they should or even can be abandoned.
+Most human progress in the past two hundred years has come
+from developing epistemic and synoptic forms of knowledge
+and seeing.  
+
+
+
+
+
+
+
+The stupidity comes in when it's thought that this needs to
+be a zero-sum choice, that everything has to be either metic
+or epistimic, thinking that they can't exist at the same
+time and reinforce each other rather than forcing us to be
+smart locally and dumb and lost globally, or smart globally
+but any familiarity that as Olson said, quoting Heraclitus,
+leaves us estranged from what we are most familar.  If
+anything this work is an attempt to reconcile those two
+extremes in a way that we can embrace the advantages of
+both.
+
+
+
 One of the big advantages of a role-based identity model is
 that it perserves the contextual contextual three letter
 soup that we will be introducing in Cantos II, III and IV,
@@ -202,7 +227,11 @@ that uses a different contexual mix of perspectives that
 constitutes a Point of View which constitutes a
 context-based WorldView.
 
-
+Once we have added these tools and become familiar with them
+and how to use them within a variety of different frameworks
+like a role-based identity model, we can then begin to find
+ways of restoring a balance between the Metic and the
+Epistemic.
 
 #+begin_comment
 This obviously has to be rewritten so that it is a summary
