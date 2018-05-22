@@ -34,4 +34,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-
+- Scott, J. C., Seeing like a state: how certain schemes to
+  improve the human condition have failed (1998), : Yale
+  University Press.
+  cite:scott:1998seeing
+- Kuhn, T. S., The structure of scientific revolutions: 50th
+  anniversary edition (2012), : The University of Chicago
+  Press.
+  cite:kuhn:2012sci-revolutions
+- Alexander, S., /Book review: seeing like a state/ (2017).
+  cite:alexander:2017seeing-state-review 
+- Rao, V., /A Big Little Idea Called Legibility/ (2010).
+  cite:rao:2010big-little-idea 
+- Scott, J. C., /The trouble with the view from above/ (2010).
+  cite:scott:2010trouble 
+- Keep, L., /Man as a rationalist animal/ (2017).
+  cite:keep:2017rationional-animal 
+- Keep, L., /Science Under High Modernism/ (2018).
+  cite:keep:2018science-high-modernism 
