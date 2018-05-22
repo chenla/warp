@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   2. Civilization TOC
+#+TITLE:   3. Civilization Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,10 +10,10 @@
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 2. Civilization Table of Contents
+* 3. Civilization Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/01/index.org
+:Name:     /home/deerpig/proj/chenla/warp/01/03/index.org
 :Created:  2018-04-18T11:44@Prek Leap (11.642600N-104.919210W)
 :ID:       e5b8710a-5ace-4954-9e1a-a748c773a6cd
 :VER:      577298735.075024392
@@ -25,9 +25,7 @@
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-
-** Table of Contents
-  - 00. [[./01/index.org][Table of Contents Civilis]]
+  - Contents
   - 01. Definitions I. One or many?
   - 02. Definitions II. Historical
     - Ba Ba Ba: Us vs. the Other
