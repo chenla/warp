@@ -30,7 +30,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
+
+** Intro Second Draft
+[2018-05-22 Tue 17:14]
+
+
+
+
+** Intro First Draft
+*** Table of Contents
 
   - A Generative Genome for Mankind
   - From First Principles
@@ -39,7 +47,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Enlightenment Rebooted
   - Fifty Year Window
 
-** Introduction
+*** Introduction
 
 At present. civilization is still at the whim of
 evolutionary natural selection, random mutations happening,
@@ -197,7 +205,7 @@ optimist's voice is whispering in my other ear is saying,
 "hey, that loudmouth might be right, but what have you got
 to loose.  It's worth a shot, isn't it?"
 
-** Extension & Externalization
+*** Extension & Externalization
 
 If pressed to sum up Mankind in a few sentences I would say
 that Sapiens (the sub species of Man that we belong to)
@@ -288,7 +296,7 @@ and a handful of others whose job it was to think.  That
 system is called slavery.
 
 
-** Enlightenment Rebooted
+*** Enlightenment Rebooted
 
 
 #+begin_quote
