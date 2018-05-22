@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:  4. Nature of Order  TOC
+#+TITLE:  5. Nature of Order Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./intro.org][next]]]
 
-* 4. Nature of Order  Table of Contents
+* 5. Nature of Order Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/03/index.org
+:Name:     /home/deerpig/proj/chenla/warp/01/05/index.org
 :Created:  2018-04-21T17:13@Prek Leap (11.642600N-104.919210W)
 :ID:       658fc4df-c768-4ee5-8c5b-2f9bdf9619ad
 :VER:      577577667.028986070
