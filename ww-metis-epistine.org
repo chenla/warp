@@ -32,6 +32,88 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+ - rules>paradigm  cite:keep:2018science-high-modernism
+   cite:keep:2017rationional-animal
+   concrete>abtract
+
+   start with list of observations
+   then list of rules
+   a perfect rule system is never created
+   then a theory that everyone get's behind which becomes a
+   paradigm
+
+   when anomolies in the paradigm become too much and people
+   are reduced to frantic rule-based theorizing
+
+   if what we are trying in w&w is to describe a paradigm,
+   with no rules, then we must do so by laboriously
+   exhaustively go through examples that eventually explain
+   the paradigm
+
+   this creates models and results that can be tested
+   against, not theory
+
+   then go into case-law
+
+   and finally the problem of making our new paradigm
+   machine understandable  --- fuck me....
+   -- I think that it boils down to algorthms for matching
+   patterns rather than logical step-wise rules.
+
+   Alexander uses patterns as a way of describing a
+   paradigm, but few people really /got it/ because his
+   paradigm hadn't been accepted by the community he was
+   trying to convince -- mostly because they didn't engage
+   with him.  
+
+   This is an imporant lession -- if you can't people to
+   engage in your paradigm you are fucked and will be
+   forgotten.
+
+   Nature of Order was an attempt to correct this, but came
+   off as a list of rules that should have been the
+   precursor to APL -- it didn't work either, but laid the
+   groundwork for a much deeper and substantial paradigm
+   which he could only partially articulate.
+
+   Mollison's back-of-book outline for a new civilization is
+   given as a list of rules -- he had already done an
+   excellent job teaching the permaculture paradigm as
+   patterns and examples, the end of the book was just a
+   starting point for what I'm doing and what will have to
+   be done by others who come after me.
+
+   Perhaps if APL was vastly expanded so that each pattern
+   had an exhaustive list of examples showing what almost
+   works and what works and how others fail when trying to
+   use the pattern would have made it more useful than
+   Nature of Order --  Nature of Order moved is almost an
+   entirely different paradigm from APL -- is APL metis?
+
+   Soleri gave us a paradigm with little to no map to
+   understand it, let alone test against it.
+
+   I think this is where Engelbart fell down as well -- he
+   was too far ahead of everyone that they couldn't
+   understand how to engage, let alone test against --
+   Engelbart took the Bush essay and built a framework to
+   build it in the 20th century using networked computers --
+   it just completely went over people's heads and still
+   does today....
+
+
+#+begin_quote
+Though history is unlikely to record their names, some men
+have undoubtedly been driven to desert science because of
+their inability to tolerate crisis. Like artists, creative
+scientists must occasionally be able to live in a world out
+of joint—elsewhere I have described that necessity as “the
+essential tension” implicit in scientific research.
+
+— kuhn
+#+end_quote
+
+
 
 
 
