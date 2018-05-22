@@ -31,21 +31,101 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 
-** Intro Second Draft
+** Synopsis Intro, Second Draft
 [2018-05-22 Tue 17:14]
 
-Why we need all this mishegoss?  Most of us reading this
-will have grown up in a middle class background with a
-standard liberal education that makes many assumptions about
-how we see the world as being universal or even desirable.
+/The Warp & Woof/ is the first in a series of works which
+describe an entirely new attitude to how Mankind can
+transition from a the industrialized civilization of
+nation-states that emerged after the second world war, to a
+new relationship and modes of living in the distributed
+post-scarcity civilization that has started to take shape in
+the last twenty years.  This is neither too early nor too
+late a time to be thinking about this.  We still don't
+understand the new civilization that is all to rapidly
+emerging around us, but we have enough information to begin
+the process.  Alan Kay said, "the best way to predict the
+future is to invent it."
 
-I hope to establish a new paradigm that replaces the
+By the time it is complete, Warp & Woof will be a very long
+work that will have taken a very long time to write.  It
+started at the point the first time that I felt, deep in my
+bones that we were at the beginning of a transformation of
+civilization that would be greater than both the
+Agricultural and Indusrial Revolutions combined.  The
+Synopis of Cantos I-XXX is the result of that moment in
+October 1998 when reading an article in Wired Magazine about
+a clock that was being built that would run for 10,000
+years.  In the late 1990's the world was changing at
+breakneck speed, but for those of us working in IT it still
+seemed managable.  We had been at the center of the first
+generation of the Internet revolution in Hong Kong, moving
+to Japan just before the British handover of the territory
+to China.  The future still seemed far away and we knew that
+as amazing as the tehnology was at the time, it was still
+very primitive, too primitive to build what we wanted.  But
+the time for the DotCom boom was clearly running out, and I
+reasoned that if I started right now, I would be ready when
+the networks had become fast enough, the cpus powerful
+enough, the memory large enough, the screens bright and
+large enough. A year later we had closed up shop in Osaka
+and moved to Thailand, to hunker down and get to work.  It
+is now October 2018, I figure I am about half way there.
+
+The Synopsis you are holding in your hand is a snapshot of
+the larger work over the past 20 years.  It has certainly
+been an interesting but very difficult journey and it's only
+been in the last eighteen months that everything began to
+come together and we could start to see the rough shape of
+what we were trying to do and build and that it had been
+worth the effort, the vision was good, perhaps, I dare hope,
+very good.  The Synopsis is the first step in sharing this
+work with the world, the beginning what will be the world's
+longest RFC.  Publication of the written work, and the code
+base is expected to become more and more regular as
+different parts are completed.  But as I said, we are only
+about half way finished.  The complete work will take at
+least another ten to fifteen years to complete and perhaps
+as long as twenty.
+
+Warp & Woof will take a rather unique approach to
+publication.  First, everything, and I mean everything from
+the first horrid clueless notes to the finished work will be
+online as public Git repositories.  It's all been there,
+warts and all since 2016, hiding in plain sight.
+
+
+
+
+
+#+begin_ascii
+
+#+end_ascii
+
+almost
+twenty years to the day 
+
+
+
+
+architecture and planning.  The books are intended to
+provide a complete working alternative to our present ideas
+about architecture, building, and planning—an alternative
+which will, we hope, gradually replace current ideas and
+practices.
+
+
+Why we need all this mishegoss? The work you are holding in
+your hand, or reading from a screen 
+
+
+ replaces the
 assumptions that have been imposed on us by the evololution
 of state legibility and high modernism which in practice
 simplifies complexity down to a map showing a handful of
 parameters, axis and scale.  We forget that there is a very
 real distinction between local and synoptic knowledge.  The
-laster is by definition has less detail, less knowledge in
+later, by definition has less detail, less knowledge in
 it because it needs to take something that can't load into
 our heads because they exceed human cognitive and memory
 limits.  The bigger the territory you try to fit in your
