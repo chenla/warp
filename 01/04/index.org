@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 3. First Principles
+#+TITLE: 4. First Principles Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 3. First Principles
+* 4. First Principles Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-ab-initio.org
+:Name:     /home/deerpig/proj/chenla/warp/01/-4/index.org
 :Created:  2018-03-17T19:54@Prek Leap (11.642600N-104.919210W)
 :ID:       94edf4df-382e-4c3c-a00a-25657e29f59c
 :VER:      574563355.127079250
