@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 7. Principles TOC
+#+TITLE: 8. Principles Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] | [[[./index.org][index]]]
 
-* 7. Principles Table of Contents
+* 8. Principles Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/06/index.org
+:Name:     /home/deerpig/proj/chenla/warp/01/08/index.org
 :Created:  2018-03-21T15:54@Prek Leap (11.642600N-104.919210W)
 :ID:       89567717-54f9-4114-93b4-5079795d2170
 :VER:      574894558.545678422
@@ -30,15 +30,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
-:PROPERTIES:
-:ID:       65417f83-203e-44af-a117-2e6e6e9f81f9
-:END:
-   
-  - Table of Contents
-  - 01 [[./intro.org][Introduction: Slouching Towards Optimism]]
-  - 02 Enlightenment
-  - 03 Humanism
+  - Contents
+  - [[./intro.org][Introduction]]
+  - 01. Enlightenment
+  - 02. Humanism
      - Humanist Principles
        - HM3.1 :: Knowledge of the world is derived by
                   observation, experimentation, and rational
@@ -55,7 +50,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
        - HM3.6 :: Working to benefit society maximises
                   individual happiness.
      - Humanist Manifesto's  
-  - 04 Not Enlightenment
+  - 03. Not Enlightenment
      - High Modernism
      - Romanticism
      - Dishonorable Mentions
@@ -63,7 +58,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
        - Malthusianism
        - Libertarianism
        - Lamarkism
-  - 05 Rationality
+  - 04. Rationality
      - appealing to empirical based reasoning
      - intuition (hunch) as a first guess that must be tested. 
      - deduction (a priori/a postereriori)
@@ -75,13 +70,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - secular
      - Enlightened Self-Interest
      - Empathic Reciprocity
-  - 06 Democratic Process
+  - 05. Democratic Process
      - As goldilock zone between violence of anarchy and
        violence of popularism/totalitarianism/oligarchies
      - Egalitarian
-  - 07 Human Nature
+  - 06. Human Nature
      - Human Scales: Self, Domus/Band, Polis
-  - 08 Scientific Process
+  - 07. Scientific Process
      https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
      - Observation
      - Empirical 
@@ -102,7 +97,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Analysis
      - External Review
      - Consensus
-  - 09 Progress
+  - 08. Progress
      - not same as growth
      - The unveness of progress
        progress is not evenly distributed
