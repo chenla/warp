@@ -34,6 +34,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Synopsis Intro, Second Draft
 [2018-05-22 Tue 17:14]
 
+                            I.
+
 /The Warp & Woof/ is the first in a series of works which
 describe an entirely new attitude to how Mankind can
 transition from a the industrialized civilization of
@@ -134,12 +136,66 @@ theory to emerge from the flames intact was to create a wall
 of evidence to protect it from the flames.  Darwin's theory
 could not be easily dismissed.  The Warp & Woof is long for
 the same reason, to give a non-incremental vision the space
-and the asbestos padding it would need to not be ignored or
+and the asbestos padding it will need to not be ignored or
 dismissed out of hand, as was most of the work of people
 like Douglas Engelbart and Christopher Alexander.  In many
 respects this work is a continuation and expansion of their
-life's work.  These are the shoulders I stand on.
+life's work.  These are the shoulders of the Giants I stand
+on.
 
+Before we move on to the structure and plan of the work, I
+should note that never in my wildest dreams do I imagine
+that this work will become a foundation for the emerging
+civilization over the rest of this century.  But I do hope
+that some of the ideas in it will help inspire the work of
+those who come after us as a starting place for whatever
+shape that it does take.  This is a vision for a kind of
+generative grammar for compiling the code that would work
+as a running kernal for an operating system for such a
+distributed civilization built from first principles.
+
+                          II.
+
+The work is divided into Cantos.  They were orginally called
+volumes, but since w&w is both narrative and code, print and
+native digital, a volume seemed to correspond too closely to
+a physical artifact, so we chose Canto as the name for major
+divisions of the work.
+
+Cantos I-VII describe the principles, core concepts and
+processed that the work is based on.  Most works which work
+within an existing accepted paradigm can assume that readers
+are already familiar with the concepts and tools it is based
+on.  We can't make that assumption.  The goal of the work
+is, in large part, is to expand the cognitive toolbox that
+we use to understand, model and manipulate the world to
+communicate and cooperate with others to solve problems of
+enormous complexity.  Without understanding these tools,
+principles and structures there is no way to understand the
+paradigm that is based on them.
+
+Cantos VIII-XV describe the components that make up the
+pardigm and a civilization built on top of such a paradigm.
+
+Cantos XVI-XX describe the broad outline of the structure
+that such a civilization might take.
+
+Cantos XXI-XXX describe the pattern languages that will be
+used that people and oranizations can use to create
+localized pattern languages for specific localities,
+situtions and purposes.  The idea that this core set of
+patterns will be combined with patterns build for different
+purposes and projects and to solve different problems.
+
+Cantos XXX-IXXX describe how the patterns used from the core
+can be combined with locally evolving patterns to create the
+source code that can be compiled to become the kernal for
+each person and organization.
+
+                         III.
+
+The remainder of this introduction introduce the broader
+goals that that the work hopes to achieve..
 
 
  replaces the
