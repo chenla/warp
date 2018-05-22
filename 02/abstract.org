@@ -82,6 +82,86 @@ these tools work, but how to use them.
 
 ** TL;DR
 
+[2018-05-22 Tue 09:52] This might be a good place to
+consider why we need all this mishegoss.  Most of us reading
+this will have grown up in a middle class background with a
+standard liberal education that makes many assumptions about
+how we see the world as being universal or even desirable.
+
+I hope to establish a new paradigm that replaces the
+assumptions that have been imposed on us by the evololution
+of state legibility and high modernism which in practice
+simplifies complexity down to a map showing a handfel of
+parameters, axis and scale.  We forget that there is a very
+real distinction between local and synoptic knowledge.  The
+laster is by definition has less detail, less knowledge in
+it because it needs to take something that can't load into
+our heads because they exceed human cognitive and memory
+limits.  The bigger the territory you try to fit in your
+head the lower the LOD, the lower the LOD the more lossy it
+becomes.
+
+The modern world is becomming increasingly complex, but we
+can't handle all of that complexity so we create ever more
+simplfied maps to get around that only makes this worse.
+
+The tools we use to understand the world are far too
+simplisitic to be of much use any longer -- we need broader
+range of tools to make sense of the world.  The problem with
+this is that simplicity is "user friendly" and fast.
+Complexity has a steep learning curve and slows us down.  We
+trade speed and easy for depth, malleability, wisdom and
+familiarity and efficiency.  Let's consider the last two,
+familiarity and efficiency because that is the biggest thing
+we loose when we spend most of our time in a epistimic,
+synoptic contex.
+
+It's long been understood that small farms are far more
+productive hectare for hectare than large farms.  This is
+because a small farm is familiar to the farmer, it is at a
+scale small enough to fit in his head, Bill Mollison said
+that he is often asked how large a farm should be, and his
+answer was always "as large as you can handle".  You can
+only handle what you can fit in your head, and in a farm
+there is a lot to fit in.  Something becomes familiar when
+it has been encountered so many times that it becomes
+something like muscle memory, your brain understands and and
+use that massive nexus of links to all the times that you
+have encountered it so that it can be accessed sub
+consciously.  We all use this in one form or another.  If
+you commute to work every day, or go to the same market at
+the same time every day, when waking or driving at the time
+and you become distracted or lost in thought, you will
+suddenly realize that you have gone to that place or at
+least started to go there automatically, even if you
+intended to go somewhere else.  Familiarity allows us to go
+on autopilot so we can concentrate conscious efforts on
+other things.  This is the goal of Mastery of anything, to
+become so familiar with something that you can don't need to
+pay attention to the larger sequence so that you can notice
+and control the small details that a beginner can not see or
+control because they need to pay attention to to things that
+are familiar to the master.
+
+
+
+
+
+
+One of the big advantages of a role-based identity model is
+that it perserves the contextual contextual three letter
+soup that we will be introducing in Cantos II, III and IV,
+that we call the /5 Cardinal Perspectives/: rate-of-change
+(ROC), level-of-detail (LOD), level-of-abstraction (LOA),
+level-of-change (LOC) and the process-of-change (POC).  When
+we switch roles, our knowledge workshop swaps out the model
+and information we use in that role for a different model
+that uses a different contexual mix of perspectives that
+constitutes a Point of View which constitutes a
+context-based WorldView.
+
+
+
 #+begin_comment
 This obviously has to be rewritten so that it is a summary
 rather than given as an specific example used as summary. 
