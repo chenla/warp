@@ -39,47 +39,54 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 
-  - rights
-  - duties
-  - reason
-  - empiricism
-  - causality 
-  - reciprocity
-    - tolerance
-    - pluralism
-    - respect
-  - liberty
+ - COGNITIVE
+   - reason
+   - empiricism
+   - causation
+     - proximate and ultimate
+     - causal chains
+
+   - STRUCTURAL
+     - scale
+     - connection
+     - duality
+     - inclusive
+     - diversity
+    - bio-diversity
+     - iteration
+     - decentralistion
+     - antifragility
+
+     - SOCIAL
+       - liberty
     - movement
     - thought
     - speech
     - privacy
-  - empathy
-  - cooperation
-    - consensus
-    - democaracy
-    - particiapation
-  - scale
-  - equity
+       - equity
     - fairness
     - participation
     - distribution
-  - progress
+       - reciprocity
+    - tolerance
+    - pluralism
+    - respect
+       - cooperation
+    - consensus
+    - democaracy
+    - particiapation
+       - empathy
+       - progress
     - happiness
     - meaning
     - purpose
     - quality of life
-  - existence
-  - connection
-    - systems
-    - dual nature
-    - inclusive
-  - diversity
-    - bio-diversity
+       - duties
+       - rights
+       - diversity
     - social
       - ethnic 
       - cultural
-
-
 ** Scope
 
 Principles are not the same as rights.  All rights derive from
