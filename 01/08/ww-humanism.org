@@ -43,14 +43,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - reason
    - empiricism
    - causation
-     - proximate and ultimate
+     - proximate & ultimate
      - causal chains
+   - limits
+     - limits & bias
 
    - STRUCTURAL
      - scale
      - connection
      - duality
+       - atom/whole
+       - natures  
      - inclusive
+     - propagation
      - diversity
        - bio-diversity
      - iteration
@@ -93,10 +98,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+This chapter explores the principles that will be used to build
+everything on top of.  Everything in a civilization should ultimately
+derive from the first principles 
+
 Principles are not the same as rights.  All rights derive from
 principles, but not all principles are manifested as rights.
 
-Break
+Principles 
 
 ** TL;DR
 
