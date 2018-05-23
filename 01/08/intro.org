@@ -32,9 +32,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope 
 
-This brings us to the final part of the first volume which
-explores the principles on which we can build societies and
-a civilization for mankind that has a solid foundation that
+The principles on which we can build societies and a
+civilization for mankind that has a solid foundation that
 gives us a place within a world that is both beautiful,
 natural and fulfills that spiritual dimension of our ability
 to see and understand patterns of living-order in the world
@@ -58,3 +57,6 @@ for ourselves and our children.
 
 
 - TEDTalk on golden rule
+  https://www.ted.com/talks/karen_armstrong_let_s_revive_the_golden_rule
+  https://charterforcompassion.org/
+  https://charterforcompassion.org/the-charter-for-compassion-and-the-sustainable-development-goals 
