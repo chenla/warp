@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 1.3.1 Nature of Order Introduction
+#+TITLE: 4. Nature of Order Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] next
 
-* 1.3.1 Nature of Order Introduction
+* 4 Nature of Order Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/ww-order.org
+:Name:     /home/deerpig/proj/chenla/warp/01/04/intro.org
 :Created:  2018-03-28T10:55@Prek Leap (11.642600N-104.919210W)
 :ID:       7b3517ef-bcaf-4f94-b2e4-a85080371128
 :VER:      575481368.497755146
