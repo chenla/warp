@@ -52,45 +52,51 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - duality
      - inclusive
      - diversity
-    - bio-diversity
+       - bio-diversity
      - iteration
      - decentralistion
      - antifragility
+     - inheritance
 
      - SOCIAL
        - liberty
-    - movement
-    - thought
-    - speech
-    - privacy
-       - equity
-    - fairness
-    - participation
-    - distribution
-       - reciprocity
-    - tolerance
-    - pluralism
-    - respect
+         - movement
+         - thought
+         - speech
+         - privacy
+         - equity
+       - fairness
+       - participation
+       - distribution
+         - reciprocity
+       - tolerance
+         - pluralism
+         - respect
        - cooperation
-    - consensus
-    - democaracy
-    - particiapation
+         - consensus
+         - democaracy
+         - particiapation
+         - access
        - empathy
        - progress
-    - happiness
-    - meaning
-    - purpose
-    - quality of life
-       - duties
+         - happiness
+         - meaning
+         - purpose
+         - quality of life
+       - diversity (social)
+         - ethnic 
+         - cultural
+         - linguistic
        - rights
-       - diversity
-    - social
-      - ethnic 
-      - cultural
+       - duties
+
+
 ** Scope
 
 Principles are not the same as rights.  All rights derive from
 principles, but not all principles are manifested as rights.
+
+Break
 
 ** TL;DR
 
