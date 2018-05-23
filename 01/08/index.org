@@ -43,6 +43,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
        - Libertarianism
        - Lamarkism
   - 02. [[./ww-humanism.org][Humanism]]
+
+  - Cogntive
+  - Structural
+  - Social
+
+
   - 03. Rationality
      - appealing to empirical based reasoning
      - intuition (hunch) as a first guess that must be tested. 
