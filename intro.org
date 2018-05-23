@@ -34,7 +34,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Synopsis Intro, Second Draft
 [2018-05-22 Tue 17:14]
 
-                            I.
+I.
 
 /The Warp & Woof/ is the first in a series of works which
 describe an entirely new attitude to how Mankind can
@@ -154,7 +154,7 @@ generative grammar for compiling the code that would work
 as a running kernal for an operating system for such a
 distributed civilization built from first principles.
 
-                          II.
+II.
 
 The work is divided into Cantos.  They were orginally called
 volumes, but since w&w is both narrative and code, print and
@@ -192,7 +192,7 @@ can be combined with locally evolving patterns to create the
 source code that can be compiled to become the kernal for
 each person and organization.
 
-                         III.
+III.
 
 The remainder of this introduction introduce the broader
 goals that that the work hopes to achieve..
