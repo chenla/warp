@@ -61,6 +61,47 @@ deductions which is not perfectly manifest.
   cite:descartes:2010principles
 #+end_quote
 
+
+
+
+-----
+
+Next, what do we mean by building from first principles --
+
+  - start with no assumptions, only what can be observed and
+    repeated and understood
+
+  - build on what we have learned along the way -- don't
+    throw away the baby with the bathwater.  so no zero-day
+    tabla rasa, instead we start from scratch and decide
+    what works and what hasn't and then build from there.
+
+  - don't be hasty -- we can only change so quickly, and
+    change is measured in generations, not decades, we can
+    not give in to half-baked schemes that don't work, and
+    then when they don't work because the assumptions they
+    were based on were wrong, try to change people to fit
+    the model, rather than changing the model to fit people.
+
+  - be consistent, persistent and resiliant -- many changes
+    take time, sometimes very long periods of time to take
+    hold and work -- keep at it, even though you may not see
+    the desired results in your lifetime, or even dramatic
+    results in your children's lifetime -- playing the long
+    game means playing for a very long time -- you and i
+    will not see the promised land, and our fate is to
+    wander the desert -- that's not an easy thing to say to
+    a generation that is used to instant gratification.  the
+    reward is that a lot of interesting things happen while
+    wandering the desert -- paradise, as well as utopias are
+    overrated, they are a horizon and you can never reach a
+    horizon because it's constantly retreating.  So cherish
+    the challenges in front of you today and that lie ahead
+    and forget the destination, it will never live up the
+    the hype anyway.
+
+-----
+
 Why civilization, let alone rethink it from first priniple?
 
   - exponential increase in rate of change is forcing slower
@@ -108,84 +149,6 @@ Why civilization, let alone rethink it from first priniple?
     you are dying.  we either progress or adjust our
     expectations for humanity and give in to the inevitable.
 
-
------
-
-Next, what do we mean by building from first principles --
-
-  - start with no assumptions, only what can be observed and
-    repeated and understood
-
-  - build on what we have learned along the way -- don't
-    throw away the baby with the bathwater.  so no zero-day
-    tabla rasa, instead we start from scratch and decide
-    what works and what hasn't and then build from there.
-
-  - don't be hasty -- we can only change so quickly, and
-    change is measured in generations, not decades, we can
-    not give in to half-baked schemes that don't work, and
-    then when they don't work because the assumptions they
-    were based on were wrong, try to change people to fit
-    the model, rather than changing the model to fit people.
-
-  - be consistent, persistent and resiliant -- many changes
-    take time, sometimes very long periods of time to take
-    hold and work -- keep at it, even though you may not see
-    the desired results in your lifetime, or even dramatic
-    results in your children's lifetime -- playing the long
-    game means playing for a very long time -- you and i
-    will not see the promised land, and our fate is to
-    wander the desert -- that's not an easy thing to say to
-    a generation that is used to instant gratification.  the
-    reward is that a lot of interesting things happen while
-    wandering the desert -- paradise, as well as utopias are
-    overrated, they are a horizon and you can never reach a
-    horizon because it's constantly retreating.  So cherish
-    the challenges in front of you today and that lie ahead
-    and forget the destination, it will never live up the
-    the hype anyway.
-
-
------
-
-Finally, what is this good for?  The idea of someone
-spending a lifetime to work out a generate grammar's for
-human civilization sounds so arcane and and removed from day
-to day life that it sounds absurd to even consider it.
-
-But consider this, civilization has emerged, evolving on its
-own, without us conciously creating it.  And since evolution
-is a messy process, civilizations have repeatedly risen and
-fallen, and from the ashes new civilizations have emerged
-that are a bit stronger and more resilient than the ones
-they replaced.  But all of this could only happen because
-until the last century, there was always more than one
-civilization on the planet.  If one civilization blew up or
-faded away, another civilization was there to reboot it.
-
-So this work in an attempt to build a scaffolding that can
-be used to build any number of civilizations, it is not
-meant to build any one civilization -- in that sense w&w and
-appl and even the primer are somewhat neutral.  the hoard,
-however will be our attempt to apply w&w, appl and primer to
-build a civilization, first to ensure that it works, and to
-act as an example of how to apply the grammar.  It's
-important that we keep this in mind as we complete this work
-and not get too cocky and think that the hoard we build is
-/the one/ ultimate hoard that will build an ideal
-civilization.  We'll be lucky if we get more than a few
-things right, but we hope that it will be good enough learn
-from and build whatever does become a stable anti-fragile
-human civilization.
-
-Second, the scaffold will be designed to try and keep us
-honest and act as a filter that will identify half-baked
-ideas, blatently dogmatic systems based on belief systems
-etc.
-
-Finally, it will act as a standard that can be used to hold
-up against other scaffolds to that future scaffolds progress
-and improve rather then degenerate and lead to destruction.
 
 
 
