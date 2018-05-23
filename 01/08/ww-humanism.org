@@ -43,21 +43,54 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - duties
   - reason
   - empiricism
-  - tolerance
-  - libery
+  - causality 
+  - reciprocity
+    - tolerance
+    - pluralism
+    - respect
+  - liberty
+    - movement
+    - thought
+    - speech
+    - privacy
   - empathy
   - cooperation
+    - consensus
+    - democaracy
+    - particiapation
   - scale
-  - participation
+  - equity
+    - fairness
+    - participation
+    - distribution
   - progress
+    - happiness
+    - meaning
+    - purpose
+    - quality of life
   - existence
   - connection
-  
+    - systems
+    - dual nature
+    - inclusive
+  - diversity
+    - bio-diversity
+    - social
+      - ethnic 
+      - cultural
+
+
 ** Scope
 
-
+Principles are not the same as rights.  All rights derive from
+principles, but not all principles are manifested as rights.
 
 ** TL;DR
+
+  - principle
+    - right/duty
+      - 
+
 
 
 
