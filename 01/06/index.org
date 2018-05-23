@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   7. Boundries Contents
+#+TITLE:   6. Boundries Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -12,10 +12,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 7. Boundries Contents
+* 6. Boundries Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/07/index.org
+:Name:     /home/deerpig/proj/chenla/warp/01/06/index.org
 :Created:  2018-04-21T17:25@Prek Leap (11.642600N-104.919210W)
 :ID:       d9350052-d225-4cb4-a4d4-88938b180329
 :VER:      577578414.933900398
