@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 8. Humanism (chapter) 
+#+TITLE: Humanism (chapter) 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -14,10 +14,10 @@
 bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
-* 8. Humanism (chapter)
+* Humanism (chapter)
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/08/ww-humanism.org
+:Name:     /home/deerpig/proj/chenla/warp/01/07/ww-humanism.org
 :Created:  2018-05-22T22:23@Prek Leap (11.642600N-104.919210W)
 :ID:       64a9650a-4756-442a-ba66-6317dafbb6f1
 :VER:      580274663.244572248
