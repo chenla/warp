@@ -1,12 +1,12 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 1.4.1 Estrangement Introduction
+#+TITLE: 5. Estrangement Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-* 1.4.1 Estrangement Introduction
+* 5. Estrangement Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/04/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/05/intro.org
 :Created:  2018-03-21T18:52@Prek Leap (11.642600N-104.919210W)
 :ID:       20b34386-119b-40ba-b668-8a885192ca53
 :VER:      574905186.480630274
