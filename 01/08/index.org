@@ -33,62 +33,83 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-  - 01. Enlightenment
-     - Not Enlightenment
-       - High Modernism
-       - Romanticism
-       - Dishonorable Mentions
-       - Objectivism and Ayn Rand
-       - Malthusianism
-       - Libertarianism
-       - Lamarkism
-  - 02. [[./ww-humanism.org][Humanism]]
 
-  - Cogntive
-  - Structural
-  - Social
+  - 00. Getting rid of the onion
+    - Discard romanticism and her sister mysticism
+    - Discard dogmatism, but don't throw away good ideas
+      that happen to be part of discarded ideologies
+    - as complicated as it needs to be -- not reductionism,
+      which was the mistake that modernists made
+    - 00. Mutually exclusive and 
+    - 00. Irreducible
+    - 00. String Free
+    - 00. No Assumptions
+      - at best laws, but at least facts.
+    - 00. No Zero Day -- ab initio, not tabla rasa -- we build
+          on what works and what has worked -- if it doesn't
+          work then discard it, change the system to fit human
+          nature, not human nature to fit a system.
+    - 00. Don't be hasty -- things take as long to change as
+          they take.
+    - 00. Be relentless as well as patient.
+    - 00. The last to escape -- hope, don't give in to despair
+
+    - 01. Enlightenment
+       - Not Enlightenment
+         - High Modernism
+         - Romanticism
+         - Dishonorable Mentions
+         - Objectivism and Ayn Rand
+         - Malthusianism
+         - Libertarianism
+         - Lamarkism
+    - 02. [[./ww-humanism.org][Humanism]]
+
+    - Cogntive
+    - Structural
+    - Social
 
 
-  - 03. Rationality
-     - appealing to empirical based reasoning
-     - intuition (hunch) as a first guess that must be tested. 
-     - deduction (a priori/a postereriori)
-     - induction
-     - methodology in which truth is not sensory
-     - skepticism
-     - utilitarian
-     - pragmatic
-     - secular
-     - Enlightened Self-Interest
-     - Empathic Reciprocity
-  - 04. Democracy
-     - As goldilock zone between violence of anarchy and
-       violence of popularism/totalitarianism/oligarchies
-     - Egalitarian
-  - 05. Human Nature
-     - Human Scales: Self, Domus/Band, Polis
-  - 06. Science
-     https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
-     - Observation
-     - Empirical 
-       - evidence based
-     - Hypothesis development
-       - Any creative process From the poetic,
-         philosophical, brainstorming (which I call the
-         cathartic method (literally vomiting out ideas),
-         day dreams, sleep dreams, to booze, drugs and and
-         malarial fevers.  As Hunter Thompson might have
-         said, I wouldn't endorse all of them but they've
-         worked for me. As the scientist E O Wilson said, in
-         science you start as a poet and end as a
-         bookkeeper.
-     - Prediction
+    - 03. Rationality
+       - appealing to empirical based reasoning
+       - intuition (hunch) as a first guess that must be tested. 
+       - deduction (a priori/a postereriori)
+       - induction
+       - methodology in which truth is not sensory
+       - skepticism
+       - utilitarian
+       - pragmatic
+       - secular
+       - Enlightened Self-Interest
+       - Empathic Reciprocity
+    - 04. Democracy
+       - As goldilock zone between violence of anarchy and
+         violence of popularism/totalitarianism/oligarchies
+       - Egalitarian
+    - 05. Human Nature
+       - Human Scales: Self, Domus/Band, Polis
+    - 06. Science
+       https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
+      - Observation
+      - Empirical 
+        - evidence based
+      - Hypothesis development
+        - Any creative process From the poetic,
+          philosophical, brainstorming (which I call the
+          cathartic method (literally vomiting out ideas),
+          day dreams, sleep dreams, to booze, drugs and and
+          malarial fevers.  As Hunter Thompson might have
+          said, I wouldn't endorse all of them but they've
+          worked for me. As the scientist E O Wilson said, in
+          science you start as a poet and end as a
+          bookkeeper.
+      - Prediction
      - Testable and repeatable
      - Record/Document and Share
      - Analysis
      - External Review
      - Consensus
-  - 07. Progress
+   - 07. Progress
      - not same as growth
      - The unveness of progress
        progress is not evenly distributed
