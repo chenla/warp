@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:  5. Nature of Order Contents
+#+TITLE:   6. Estrangement Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
@@ -10,17 +10,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./intro.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* 5. Nature of Order Contents
+* 6. Estrangement Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/05/index.org
-:Created:  2018-04-21T17:13@Prek Leap (11.642600N-104.919210W)
-:ID:       658fc4df-c768-4ee5-8c5b-2f9bdf9619ad
-:VER:      577577667.028986070
+:Name:     /home/deerpig/proj/chenla/warp/01/06/index.org
+:Created:  2018-04-21T17:18@Prek Leap (11.642600N-104.919210W)
+:ID:       a78bedca-9802-46cf-a2f0-97dee8f6c30c
+:VER:      577577955.325136604
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:KOJ0-3521
+:BXID:     proj:EFP5-8133
 :Class:    primer
 :Entity:   toc
 :Status:   wip
@@ -28,326 +28,51 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Table of Contents
+ - Table of Contents
+ - [[./intro.org][Introduction]]
+ - Human Nature
+ - Nature of Nature
+   - entro evo info
+ - Nature of Order
+   - life is self organizing matter and energy, life
+     gravitates towards organization sees it as living, as
+     beauty, divine -- which are objective
+ - [[./ww-alienation.org][Alienation]]
+ - [[./ww-high-modernism.org][High Modernism]]
+ - The Narrow Gate -- between our strengths and weaknesses
+   - Care
+   - Practice
+   - Rest
 
-  - A Broader Definition of Life
-  - Entropy
-  - Evolution
-  - Information
+------
 
-  - Pattern Recognition
+ - balance between being a whole, or a part of a whole, 
+    a leaf on a stream, or a boat navigating a river
+ - everything applies to all things in the same way
+ - free will is limited, but not deterministic
+ - consciousness is an illusion
+ - control -- fear is about uncertainty and powerlessness
+ - quality and care       -> intentionality and contribution
+ - beauty and order, order is a set of relationships that
+   reinforce each other and become larger than the sum of
+   their parts.
+ - care -- practice -- integrity
+
 ** Scope
 
-We will then explore what Christopher Alexander called, in
-his monumental work, /The Nature of Order/ which at its
-heart attempts to place the idea of /quality/, what
-Alexander calls "quality without a name" (QWAN).  QWAN is no
-less than an attempt to understand the fundemental nature of
-self-organizing matter, which in it's electro-chemical form
-we know as Life.  But biological life is only a subset of
-the larger concept of life in the universe.  We are hard-wired,
-to recognize living structures and see them as things of
-transcendent beauty and spirit.  This is not mere
-aesthetics, or decoration, or a veener that makes something
-attractive.  It goes to the very bones of the nature of the
-universe itself and is difficult to discuss or understand
-without sounding spiritual, because it /is/ spiritual but it
-is not subjective.  The beauty or living order that results
-in organization that is larger than the sum of it's parts,
-that can hold back the inexorible law of entropy should be
-considered to be transcendent and spiritual.
+The problem is that since the development of spoken written
+languages Sapiens have become increasingly estranged from the
+world in which they belong.  This estrangement is a rift
+which since 1800 is widening into a a canyon and threatens
+to become a continental divide if we can not find a way of
+healing this estrangement and creating societies and
+buildings and modes of living in which we can feel
+cormfortable and at home in again.  This is the foundation
+work which will be the most difficult to do, but everything
+depends on us getting this right.  And if we can get this
+right, and mend the rift a lot of other things will fall
+into place.
 
+** TL;DR
+** References
 
-** Review and Summary of The Nature of Order
-
-It took me a few months to read through all 4 volumes and I
-will go through and read them again.  This is a monster
-work that requires more than one reading.  The following is
-a review on Amazon that does an excellent job of summing it
-all up, though without reading the book, it doesn't help
-much :)
-
-
-#+begin_quote
-The Nature of Order Volume 1: The Phenomenon of Life
-
-Christopher Alexander
-
-This is a book that will haunt you. You think you have
-"seen" its purpose, and then you'll reread something, and
-see new depths, reach new insights. You'll be frustrated you
-don't have it with you to refer to at odd moments, when one
-of its passages starts ringing bells, and illuminating bits
-of your experience in new ways. Chris Alexander talks about
-his journey over twenty five years to write the book, and
-the efforts over five to ten years by students to grasp and
-articulate and internalise his ideas.
-
-But don't let these time scale put you off. It is also a
-wonderfully illuminating book, and very clearly written. The
-use of hundreds of contrasting photos of buildings, carpets,
-ceramics, parking areas, and so on to illuminate the
-concepts, and the presence of more or less life, is nothing
-short of breath-taking. I found only one pair of pictures
-leaving me feeling equivocal about what Chris was trying to
-communicate.
-
-If you are interested in art, architecture, design,
-learning, cognition, religion, then you will gain immense
-value from this book, whether from a furiously busy two
-weeks on a loan from the library, or a purchase to treasure
-and explore for the rest of your life.
-
-The excerpts from the 476 pages identify and briefly explain
-the fifteen properties, and attempt to give you a hint of
-the power of this book.
-
-.. the structure I identify as the foundation of all order
-is also personal. As we learn to understand it, we shall see
-that our own feeling, the feeling of what it is to be a
-person, rooted, happy, alive in oneself, straightforward,
-and ordinary, is itself inextricably connected with
-order. 22.
-
-Real life. .. is comfortable, rough around the edges, smooth
-as if it had been rubbed together. This kind of life is the
-ordinary life which is not connected to high art or
-fashion. It has nothing to do with images. It occurs most
-deeply when things are simply going well, where we are
-having a good time, or when we are experiencing joy or
-sorrow - when we experience the real. 38.
-
-.. ordinary enough, or profound enough, to feel alive in
-some degree. .. they are alive because they are - as far as
-possible - concept free... They are vigorous and
-straightforward, where the soul of the maker has entered the
-thing - or where the ordinary processes of daily life,
-uncontaminated by ideas or notions of what to do, has
-unfolded in a way that we accept very easily. These things
-make us comfortable because we recognize them as
-genuine. 51.
-
-THE FIFTEEN PROPERTIES:
-
-1. LEVELS OF SCALE:
-
-(can be) too far apart in scale to be coherent with each other. 147
-
-2. STRONG CENTERS:
-
-cumulative power of strong centers.. progressive quality. 153
-
-3. BOUNDARIES:
-
-If we apply the rule repeatedly, it says that every part, at
-every level, has a boundary which is a thing in its own
-right. This includes the boundaries themselves. They too
-have boundaries, each of which is a thing in its own
-right. What seems like one rule, then, is a pervasive
-structural feature of enormous depth, which is in effect
-applied dozens or hundreds of times, at different scales
-throughout the thing. 162
-
-4. ALTERNATING REPETITION:
-
-The tired yet killing repetition comes from the fact that
-what repeats is one-dimensional there is no alternation to
-speak of, no living centers which repeat. And there are no
-vital secondary centers repeating between the primary
-ones. The difference between the kind of repetition which
-has life, and supports life, and the kind which is banal,
-always lies in this matter of alternation. 169
-
-5. POSITIVE SPACE:
-
-There is not a single space which is "leftover". ..every
-shape is a strong center, and every space is made up in such
-a way that it only has strong centers in its space, nothing
-else besides. 176
-
-6. GOOD SHAPE:
-
-a shape which is itself, as a shape, made up of multiple
-coherent centers. It is easiest to understand good shape as
-a recursive rule. The recursive rule says that the elements
-of any good shape are always good shapes themselves. 179
-
-Partial list of properties required to make a good shape..
-
-  - High degree of internal symmetries
-  - Bilateral symmetry (almost always)
-  - A well-marked center ( not necessarily at the geometric middle)
-  - The spaces .. next to it are also positive
-  - Strongly distinct from what surrounds it
-  - Relatively compact (1:1, 1:2, occ 1:4)
-  - Closure and complete feel 183
-
-7. LOCAL SYMMETRIES:
-
-over-simplified overall symmetry in buildings is most often
-naïve and even brutal. 186. ... a large symmetry of the
-simplified neoclassicist type rarely contributes to the life
-of the thing because in any complex whole in the world,
-there are nearly always complex, symmetrical forces at
-work - matters of location, and context, and function -
-which require that symmetry be broken. 187
-
-.. the relative coherence of the patterns is an objective
-matter of cognitive processing, independent of the person
-who is judging, and independent of the particular kind of
-experimental judgement which is used to measure it. .. but
-the measure is subtle and refined. Even in the most coherent
-patterns only (a few) of the segments are
-symmetrical. 190,191
-
-8. DEEP INTERLOCK AND AMBIGUITY:
-
-situations where centers are "hooked" into their
-surroundings. Eg arcade or gallery. 195 The space in the
-gallery belongs to the outside world, and yet simultaneously
-belongs to the building - thus causing a fusion of the
-two. 197
-
-9. CONTRAST:
-
-Life cannot occur without differentiation. Unity can only be
-created from distinctness. .. for the thing to be whole, the
-contrast has to be pronounced. 200. but it is not forced
-
-10. GRADIENTS:
-
-Qualities vary slowly, subtly, gradually, across the extent
-of the thing. ..One quality changes slowly across space, and
-becomes another. ..centers .. varying in size, spacing,
-intensity, and character. 205.
-
-11. ROUGHNESS:
-
-.. the seemingly rough solution - which seems superficially
-inaccurate - is in fact more precise, not less so, because
-it comes about as a result of paying attention to what
-matters most, and letting go of what matters
-less. .. another essential aspect of the property of
-roughness is its abandon. Roughness can never be consciously
-or deliberately created. Then it is merely contrived. 211
-
-12. ECHOES:
-
-a deep underlying similarity - a family resemblance - among
-the elements, so deep that everything seems to be related,
-and yet one doesn't quite know why, or what causes
-it. ..depend on the angles, and families of angles, which
-are prevalent in the design. 218
-
-13. THE VOID:
-
-This emptiness is needed, in some form, by every center,
-large or small. It is the quiet that draws the center's
-energy to itself, gives it the basis of its
-strength. 225. .. there is a great lack of simple, silent,
-empty, large, calm space. 225
-
-14. SIMPLICITY AND INNER CALM:
-
-geometrical simplicity and purity .. certain slowness,
-majesty, quietness... it comes about when everything
-unnecessary has been removed. 226. It comes from an
-uncompromising steadfastness to function, following the
-thing to its logical conclusion, refusing to be deterred by
-convention. An extreme freedom. 227
-
-15. NOT-SEPARATENESS:
-
-when a thing lacks life, is not whole, we experience it as
-being separate from the world and from itself. ..any center
-which has deep life is connected, in feeling, to what
-surrounds it, and is not cut off, isolated, or
-separated. .. Those unusual things which have the power to
-heal, the depth and inner light of real wholeness, are never
-like this. .. 231. ..lack of abruptness, or sharpness.. 234.
-
-The interplay of the properties:
-
-The 15 properties are not independent. They overlap. In many
-cases we need one of them to understand the definition of
-another one. .. to define ALTERNATING REPETITION exactly, we
-need to get clear that there is an alternation between
-certain things or STRONG CENTERS which repeat... (which)
-relies heavily on the GOOD SHAPE of the things that are
-repeating.. 237. LEVELS OF SCALE ..are not discernible at
-all , until we identify the things at different levels as
-wholes... STRONG CENTERS and have GOOD SHAPE...which
-contains powerful centers within the BOUNDARIES of the
-shape. 237 It is the field of centers which is primary, not
-the fifteen properties. Each of the properties describes one
-of the possible ways in which centers can intensify each
-other. Each one defines one type of spatial relationship
-between two or more centers, and then shows how the mutual
-intensification works in the framework of this
-relationship. 241
-
-Life will increase, or it will degenerate, according to the
-degree to which the wholeness of the world is upheld, or
-damaged, by human beings and human processes. 293
-
-.. It is not easy to find what we really like, and it is by
-no means automatic to be in touch with it. It takes effort,
-hard work, and personal enlightenment to understand it and
-to feel it. It requires liberation from opinions and
-concepts and ego to experience deep liking. 316
-
-My experiments show that, in general, people agree to a
-remarkable extent about which objects are more, or less,
-like their best, or better, or most whole selves. Very
-surprisingly, it appears that this judgement is independent
-of person-to-person differences and independent of
-culture. .. Even if an observer is at first confused by the
-question.. "Which of the two is more alive?", it allows him
-to teach himself and to grow in his ability to judge the
-matter. 319
-
-We live in an era when people's likes and dislikes are
-controlled by dubious intellectual fashions - often
-supported by the media... It is only with maturity that we
-learn to listen to our own heart and recognize what we truly
-like. 342
-
-A healthy human being is able, essentially, to solve
-problems, to develop, to move towards objects of desire, to
-contribute to the well-being of others in society, to create
-value in the world, and to love, to be exhilarated, to
-enjoy. The capacity to do these many positive things, to do
-them well, and to do them freely, is natural. It arises by
-itself. It cannot be created, artificially in a person, but
-it needs to be released, given room. It does need to be
-supported. It depends, simply, on the degree to which a
-person is able to concentrate on these things, not on
-others. 373
-
-I hope these excerpts have done enough justice to the
-richness and power of this book, and that they stimulate you
-to buy a copy, study it with care, and then, in time, to use
-it with flair. We are using it to help us design our
-eco-village called Rosneath Farm.
-
-— https://www.amazon.com/gp/customer-reviews/RP68T412R31VW/ref=cm_cr_othr_d_rvw_ttl?ie=UTF8&ASIN=0972652914
-#+end_quote
-
-Did some googling about Rosneath Farm, which looked like it
-had great promise, but the owner of the land fucked it all
-up and the project was mired in court battles for over five
-years.
-
-I believe the author of the review above was by Warwich
-Rowell who seems to be the main person behind the project.
-It also looked like he passed away....
-
-One of the big problems with permaculture is the shear
-amount of knowledge you need to be able to do it
-successfully, and I don't think there are a lot of metrics
-that have been pulled together that track how these systems
-work and how much they can really produce.  Everything I
-have seen so far is anecdotal.
-
-Perhaps that's the agro app that I need to build on saltmine
--- a framework for managing polyculture farms and
-communities.
