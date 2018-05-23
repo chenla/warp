@@ -13,7 +13,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../index.org][top]]] | [[[./index.org][index]]]
+[[[../index.org][top]]] [[[./index.org][index]]]
 
 * 8. Principles Contents
 :PROPERTIES:
@@ -31,34 +31,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - Abstract
   - [[./intro.org][Introduction]]
   - 01. Enlightenment
-  - 02. Humanism
-     - Humanist Principles
-       - HM3.1 :: Knowledge of the world is derived by
-                  observation, experimentation, and rational
-                  analysis.
-       - HM3.2 :: Humans are an integral part of nature, the
-                  result of unguided evolutionary change.
-       - HM3.3 :: Ethical values are derived from human need
-                  and interest as tested by experience.
-       - HM3.4 :: Life’s fulfillment emerges from individual
-                  participation in the service of humane
-                  ideals.
-       - HM3.5 :: Humans are social by nature and find
-                  meaning in relationships.
-       - HM3.6 :: Working to benefit society maximises
-                  individual happiness.
-     - Humanist Manifesto's  
-  - 03. Not Enlightenment
-     - High Modernism
-     - Romanticism
-     - Dishonorable Mentions
+     - Not Enlightenment
+       - High Modernism
+       - Romanticism
+       - Dishonorable Mentions
        - Objectivism and Ayn Rand
        - Malthusianism
        - Libertarianism
        - Lamarkism
-  - 04. Rationality
+  - 02. [[./ww-humanism.org][Humanism]]
+  - 03. Rationality
      - appealing to empirical based reasoning
      - intuition (hunch) as a first guess that must be tested. 
      - deduction (a priori/a postereriori)
@@ -70,13 +55,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - secular
      - Enlightened Self-Interest
      - Empathic Reciprocity
-  - 05. Democratic Process
+  - 04. Democracy
      - As goldilock zone between violence of anarchy and
        violence of popularism/totalitarianism/oligarchies
      - Egalitarian
-  - 06. Human Nature
+  - 05. Human Nature
      - Human Scales: Self, Domus/Band, Polis
-  - 07. Scientific Process
+  - 06. Science
      https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
      - Observation
      - Empirical 
@@ -97,7 +82,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Analysis
      - External Review
      - Consensus
-  - 08. Progress
+  - 07. Progress
      - not same as growth
      - The unveness of progress
        progress is not evenly distributed
