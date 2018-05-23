@@ -151,12 +151,20 @@ Why civilization, let alone rethink it from first priniple?
 - Association, A. H., /Humanism and its aspirations:
   humanist manifesto iii./ (2003).
   cite:aha:2003humanism
+- Descartes, R., Principles of philosophy, the (2010), :
+  Kessinger Publishing, LLC.
+  cite:descartes:2010principles
 - Einstein, A., Essays in humanism (2011), : Philosophical
   Library/Open Road.
   cite:einstein:2011humanism 
 - Pinker, S., Enlightenment now: the case for reason,
   science, humanism, and progress (2018), : Viking.
-  cite:pinker:2018enlightenment 
+  cite:pinker:2018enlightenment
+- Wikipedia, , /First principle --- Wikipedia, the free
+  encyclopedia/ (2018).
+  cite:wiki:2018first-principles
+
+
 
 
 - TEDTalk on golden rule

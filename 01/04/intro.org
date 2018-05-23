@@ -40,10 +40,4 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-  - Descartes, R., Principles of philosophy, the (2010), :
-    Kessinger Publishing, LLC.
-    cite:descartes:2010principles
-  - Wikipedia, , /First principle --- Wikipedia, the free
-    encyclopedia/ (2018).
-    cite:wiki:2018first-principles
 
