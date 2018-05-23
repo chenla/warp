@@ -32,6 +32,54 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+Metis is a complex concept, but can crudely be understood as
+a local map of a place, but also the people, landscape,
+history and the complexity of human relationships in that
+place.  These maps tend to be accurate but, illegible to
+anyone outside of the community that shares it.   Metis is
+small because it is a detailed and complex map of complexity.
+The brain can only keep so much information in play at any
+given time, so we employ transactive memory in local
+communities, where collective memory is organically kept
+alive by having different people remember different things.
+Sort of like a organic cultural version of Fahrenheit 451.
+Part of that map is how to tap into the collective memory
+and know which people know what things.  This is largely
+impossible for an outsider.  And since the local map is
+intinimately tied to the local, it takes a lifetime to learn
+and maintain.
+
+Episteme is a little more straightforward concept of using
+data derived from rational and empirical observation to
+create simplified maps that are codified into paradigms.  A
+peradigm is similar to episteme except it is a formalized
+framework for understanding something that can be tested
+against.  The data is more often than not, very incomplete
+because it has only been collected for a short period.  This
+is in contrast to metis which is built on generations of
+observation.  The difference between metis and episteme is
+that metis is concerned with how things work and the process
+of knowing how to do things where episteme is concerned with
+why things work and refining what is found to understand new
+things.  Episteme is meant to be global, no tied to a
+specific locality and context so the only way to make it
+legible, is through simplication.  Simplified models
+identify patterns in complexity that are intelligible.
+Stack enough of these patterns together into a
+interconnected framework and you get a model of something.
+At this point, the data melts away and you are left with
+what can be a thought of rational version of metis, a
+paradigm.  This isn't something you can understand by
+reading a description, or even a book or two on the
+subject.  In order to work within the paradigm you must
+master the patterns through repitition, not simply memorize
+a list of facts and rules.  It's only after you have looked
+at the same thing from many different perspectives and done
+the experiments and the equations yourself does the paradigm
+become a part of you, which again, is a kind of metis. 
+
+
 ** TL;DR
 
  - rules>paradigm  cite:keep:2018science-high-modernism
