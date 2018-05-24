@@ -30,4 +30,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-
+  - Carrying Capacity
+    - Petri Dish
+      - positive feedback loops
+      - negative feedback loops
+  - Being the Right Size
+  - People Don't Scale
