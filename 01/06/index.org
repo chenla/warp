@@ -27,6 +27,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
  - Contents
+ - [[./abstract.org][Abstract]]
  - [[./intro.org][Introduction]]
  - 01. Goldilocks
  - 02. Systems Boundries
