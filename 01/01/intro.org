@@ -60,17 +60,18 @@ Something that Big History teachers need to better
 articulate when you learn something from a historical
 perspective, by understanding the prior work that the
 present state of the art is built on, it is not just to make
-work for the students.  This because you are learning a
+work for the students.  This is because you are learning a
 paradigm which is made as much by implicit rules as explicit
 rules.
 
 #+begin_quote
-Scientists, it should already be clear, never learn concepts, laws, and
-theories in the abstract and by themselves. Instead, these intellectual
-tools are from the start encountered in a historically and pedagogically
-prior unit that displays them with and through their applications. A new
-theory is always announced together with applications to some concrete
-range of natural phenomena...
+Scientists, it should already be clear, never learn
+concepts, laws, and theories in the abstract and by
+themselves. Instead, these intellectual tools are from the
+start encountered in a historically and pedagogically prior
+unit that displays them with and through their
+applications. A new theory is always announced together with
+applications to some concrete range of natural phenomena...
 
 -- cite:kuhn:1970sci-revolutions [[pdfview:~/proj/chenla/hoard/lib/kuhn:1970sci-revolutions.pdf::58][p.46]]
 #+end_quote
@@ -113,6 +114,8 @@ habituated memory is a reprogramable extension of the limbic
 system provided by the cerebral cortex, which we share with
 all other mammals.
 
+-------
+
 The amount of information that is stored in local metis
 likely approaches the natural limits.  A cultural mythos
 which is made up of an oral tradition of stories provide the
@@ -140,8 +143,8 @@ announces the message to the group and compares it to the
 original message by the first person.  Invariably the two
 messages are wildly different.
 
-A few culturals developed means of extending those limits of
-an oral tradition to span territories which today would be
+A few culture developed means of extending the limits of
+the oral tradition to span territories which today would be
 considered nation-states.  Eric Havelock's theory that epic
 narratives such as the works of Homer, which were originally
 part of the oral tradition comprised a cultural encyclopedia
@@ -281,7 +284,7 @@ they provide to connect us together is impossible to
 reconcile with the empirical world around us.  Their maps
 are too far out of sync with the world as it is.  The
 worldwide trend is away from organized religions and it's
-nearly certainly never going to reverse.  There is no going
+nearly certainly is not going to reverse.  There is no going
 back, and few people would even if they could.  The larger
 post-industrial world has too many things going for it that
 older modes of living and community could not provide.  So
