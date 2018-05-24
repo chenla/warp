@@ -166,10 +166,36 @@ the era of trans ocean sailing was over.
 The invention of writing systems put an end to the
 techniques the Greeks and Hindus used to extend metis and
 were replaced by written transcriptions of these texts and
-paved the way 
+made it possible to increase the number of narratives so
+that the cultural encyclopedia expanded into a cultural
+library.  
 
+The new system also had built in limits as well.  Making
+physical copies was expensive.  The early media used to make
+copies included clay, stone, metal and even wax.  But these
+were impractical for long texts and in the case of wax were
+too impermanent.  Papyrus, a writing material made from the
+papyrus plant, /Cyperus papyrus/ solved many of these
+problems and was cheap and easy to produce but was fragile
+and tended to crack when rolled into scrolls.  The invention
+of the codex which bound cut sheets of writing material
+helped but not much.  Papyrus was displaced by was
+parchment, a writing material prepared from untanned skins
+of sheep calves and goats.
 
-Writing systems externalized metis
+Copies were made by making copies by hand and required great
+skill, time and patience.  Even the best copies introduced
+copying errors.  Taken together this limited number of
+copies, and the number of people who could access them.
+Writing became the domain of a small educated elite, the
+clergy, the governing class and some of the mechant classes.
+Everyone else was remained within a local oral tradition
+that was part of a network of literate elites who
+synchronized regional metis to local groups.
+
+This only changed in xxxx with Gutenberg's press that used
+moveable type to make exact copies on much cheaper and
+easily produced paper, made from pressed vegitable fibers.
 
 
 ** References
