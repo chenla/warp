@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - [[./02/abstract.org][Abstract]]
+  - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - Speed of Light (propagation)
   - Computation
