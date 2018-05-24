@@ -43,12 +43,74 @@ different LOD, ROC, LOA, LOC and
   - metis               : 
   - local               : 
   - global              : 
-  - local  metis        : 
+  - local metis         : 
   - global metis        : 
   - scientific paradigm : kuhn
   - paradigm            : 
-  - epiphenomenom       : colateral side effects 
-  - territory           : 
+  - epiphenomenom       : colateral side effects (loopholes?) 
+  - territory           :
+  - legibility          : comprehensible, measurable,
+                          synoptically mappable (Scott)
+  - context             :
+  - cardinal persepctives
+
+** Learning a Paradigm
+
+Something that Big History teachers need to better
+articulate when you learn something from a historical
+perspective, by understanding the prior work that the
+present state of the art is built on, it is not just to make
+work for the students.  This because you are learning a
+paradigm which is made as much by implicit rules as explicit
+rules.
+
+#+begin_quote
+Scientists, it should already be clear, never learn concepts, laws, and
+theories in the abstract and by themselves. Instead, these intellectual
+tools are from the start encountered in a historically and pedagogically
+prior unit that displays them with and through their applications. A new
+theory is always announced together with applications to some concrete
+range of natural phenomena...
+
+-- cite:kuhn:1970sci-revolutions [[pdfview:~/proj/chenla/hoard/lib/kuhn:1970sci-revolutions.pdf::58][p.46]]
+#+end_quote
+
+In a very real sense a teacher is introducing not only the
+scientific concept, fact, or law, but the larger paradigm it
+is part of and the enough of the paradigms that preceeded
+it.  You need to have a firm grasp of Newtonian Physics
+before you can understand Einsteinian Relativity which is
+needed to understand Bohr's Quantum mechanics.  Everything
+is built on top of the other and many things you will
+encounter in Quantum mehanics assume fluency in Newtonian
+Physics.  And teaching the biographical details about the
+the people behinds these paradigms and the story of how
+these discoveries took place creates a narrative structure
+that provides us a way of anchoring and reinforcing these
+concepts both cognitively and in our memories.
+
+But this not only applies to the sciences, 
+
+indeed, it could be argued this is what history is filling
+in the assumptions that weree known but not said, that are
+inherited from our ancestors.  This establishes a causal
+chain that is much larger than the sum of it's parts.  The
+more you learn and internalize this causal chain the deeper
+your understanding of the present.  This is what metis
+really is, this long causal chain of generations building
+layers of assumptions about the world that are built on top
+of those who came before us.  Any form of metis, local, or
+global depends on the learner to not only hear or read about
+this causal chain, but to experience it through repeated
+exposure, exercises, practice until it is mastered, which is
+to say that it has been woven into your internal world model
+to the point where it can be accessed underneath conscious
+proccessed.  This is how we cheap the small amount of
+working memory that our brains provide us.  Metis is not
+conscious it is as deeply embeded deep into our cognitive
+processes on a level that approaches instinctual.  Such
+habituated memory is our cerebral cortex extending the
+limbic system which we share with all other mammals.
 
 
 ** References
