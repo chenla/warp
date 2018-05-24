@@ -34,13 +34,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Petri Dish
      - positive feedback loops
      - negative feedback loops
-   - Being the Right Size cite:haldane:1928being
+   - Being the Right Size
    - People Don't Scale
  - 00. Physical Boundries (physics)
    - Speed of Light (propagation)
    - Computation
    - Memory Storage
- - 00. Planetary  cite:steffen:2015planetary
+ - 00. Planetary 
    - Climate change
    - Biosphere
      - functional diversity
@@ -78,3 +78,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - [[./ww-human-nature.org][Human nature]]
      - Cognitive Limits and Bias
  - 00. Civilization
+
+** References
+
+  - Haldane, J. B. S., On being the right size, Harpers, (),
+    (1928).
+    cite:haldane:1928being
+  - Steffen, W., Richardson, K., Rockstr\"om, Johan,
+    Cornell, S. E., Fetzer, I., Bennett, E. M., Biggs, R.,
+    …, Planetary boundaries: guiding human development on a
+    changing planet, Science, 347(6223), 1259855 (2015).
+    cite:steffen:2015planetary
