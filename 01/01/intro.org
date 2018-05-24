@@ -121,11 +121,17 @@ and pass them from one generation to the next.  But oral
 traditions are prone to copying errors which result in
 limiting the size of the territory that a local metis can
 cover.  The more that something is copied and passed on to
-someone else the more copying errors are introduced into the
-message.
+someone else the more cumulitive errors are introduced into
+the message.  This is the primary limiting factor in how
+large a community both in terms of population and physical
+area can be.  Within that threshold, the copying errors are
+corrected and changes slowly over generations.  Once you
+have passed beyond that territorial threshold copying errors
+are compounded and evolve into something altogether
+different.
 
-Anyone who has played the game Chinese whispers (known as
-Telephone, in the United States) has experienced this.
+Anyone who has played the game /Chinese whispers/ (known as
+/telephone/ in the United States) has experienced this.
 Players form a circle, and the first player whispers a
 message to the ear of the person next to them. The next
 person repeats the message to the next person and so on
@@ -134,19 +140,33 @@ announces the message to the group and compares it to the
 original message by the first person.  Invariably the two
 messages are wildly different.
 
-Havelock's theory that epic narratives such as the works of
-Homer, which were originally part of the oral tradition
-comprised a cultural encyclopedia that was mnemonically
-encoded in verse in a way, that when accompanied by a
-musical instrument such as a harp, could virtually eliminate
-copying errors between generations.  The Hindu xxx is still
-passed down the same way.  This greatly extended the
-territory that local metis could encompass.
+A few culturals developed means of extending those limits of
+an oral tradition to span territories which today would be
+considered nation-states.  Eric Havelock's theory that epic
+narratives such as the works of Homer, which were originally
+part of the oral tradition comprised a cultural encyclopedia
+that was mnemonically encoded in verse in a way, that when
+accompanied by a musical instrument such as a harp, could
+virtually eliminate copying errors between generations.  The
+Hindu xxx is still passed down the same way.  This greatly
+extended the territory that local metis could encompass.
+This extended the range of local metis but was pushing the
+limits that the oral tradition could be extended.
 
+These techniques required a great deal of coordination, time
+and practice.  They are the Oral equivilent of the Clipper
+ship, which was the short liced technological pinnacle for
+long distance sail boats.  Such technicalogical achievements
+are typically at the end of a paradigm's lifespan.  Steam
+power was in development before the first Clippers were
+built.  Soon after the Clippers were introduced steam
+powered ships became feasible and soon after practical and
+the era of trans ocean sailing was over.
 
-This is a 
-
-The Greek's and Hindu's 
+The invention of writing systems put an end to the
+techniques the Greeks and Hindus used to extend metis and
+were replaced by written transcriptions of these texts and
+paved the way 
 
 
 Writing systems externalized metis
