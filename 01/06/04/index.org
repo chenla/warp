@@ -28,16 +28,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Abstract
+  - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-  - Environmental
-    - Atmosphere 
-      - composition
-      - pressure
-      - temperature
-      - radiation
-    - Gravity & Acceleration
-  - Physiological
+  - 01. [[./ww-environmental.org][Environmental]]
+  - 02. Physiological
     - Size & Strength
     - Sleep
     - Rest
@@ -46,6 +40,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
       - Calories
       - Nutritional Requirements
       - Water
-  - [[./ww-human-nature.org][Human nature]]
+  - 03. [[./ww-human-nature.org][Human nature]]
     - Cognitive Limits and Bias
 
