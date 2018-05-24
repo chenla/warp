@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - Contents
  - [[./abstract.org][Abstract]]
  - [[./intro.org][Introduction]]
- - 01. Goldilocks
+ - 01. [[./01/index.org][Goldilocks]]
  - 02. Systems Boundries
    - Carrying Capacity (general concepts)
    - Petri Dish
