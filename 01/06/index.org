@@ -80,13 +80,3 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Cognitive Limits and Bias
  - 06. Civilization
 
-** References
-
-  - Haldane, J. B. S., On being the right size, Harpers, (),
-    (1928).
-    cite:haldane:1928being
-  - Steffen, W., Richardson, K., Rockstr\"om, Johan,
-    Cornell, S. E., Fetzer, I., Bennett, E. M., Biggs, R.,
-    …, Planetary boundaries: guiding human development on a
-    changing planet, Science, 347(6223), 1259855 (2015).
-    cite:steffen:2015planetary
