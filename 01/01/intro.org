@@ -322,7 +322,10 @@ this planet.
 - Kuhn, T. S., The structure of scientific revolutions: 50th
   anniversary edition (2012), : The University of Chicago
   Press.
-  cite:kuhn:2012sci-revolutions
+  cite:kuhn:2012sci-revolutions 
+- Kuhn, T. S., The structure of scientific revolutions
+  (1970), : The University of Chicago Press.
+  cite:kuhn:1970sci-revolutions
 - Alexander, S., /Book review: seeing like a state/ (2017).
   cite:alexander:2017seeing-state-review 
 - Rao, V., /A Big Little Idea Called Legibility/ (2010).
