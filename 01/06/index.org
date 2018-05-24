@@ -28,19 +28,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
  - Contents
  - [[./intro.org][Introduction]]
- - 00. Goldilocks
- - 00. Systems Boundries
+ - 01. Goldilocks
+ - 02. Systems Boundries
    - Carrying Capacity (general concepts)
    - Petri Dish
      - positive feedback loops
      - negative feedback loops
    - Being the Right Size
    - People Don't Scale
- - 00. Physical Boundries (physics)
+ - 03. Physical Boundries (physics)
    - Speed of Light (propagation)
    - Computation
    - Memory Storage
- - 00. Planetary 
+ - 04. Planetary 
    - Climate change
    - Biosphere
      - functional diversity
@@ -58,7 +58,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Atmosphere
      - aerosols
    - Chemical pollution
- - 00. Human
+ - 05. Human
    - Environmental
      - Atmosphere 
        - composition
@@ -77,7 +77,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
        - Water
    - [[./ww-human-nature.org][Human nature]]
      - Cognitive Limits and Bias
- - 00. Civilization
+ - 06. Civilization
 
 ** References
 

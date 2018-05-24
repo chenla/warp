@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 6. Boundries Introduction
+#+TITLE:  Boundries Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,66 +15,69 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-
-* 6. Boundries Introduction
+* Boundries Introduction
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/01/06/intro.org
-:Created:  2018-05-01T17:27@Prek Leap (11.642600N-104.919210W)
-:ID:       993594f2-9332-4da3-b9d6-84fcb5800c8b
-:VER:      578442504.546867026
+:Created:  2018-03-21T18:48@Prek Leap (11.642600N-104.919210W)
+:ID:       d12d937d-7901-4cbe-b165-1cbea44f0526
+:VER:      574904971.750844647
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:YRA3-4585
+:BXID:     proj:KDF6-1478
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
-
-From here we can then begin to discuss the limitations of
-Sapiens and of the greater Mankind.  There are no shortage
-of planned utopian visions for the future of Mankind.  Most
-are build on little more than cardboard foundations, or are
-little more than flights of fancy.  As thought experiments
-such uttopian visions are both useful and illustrative
-tools.  But every so often some of these Utopian visions
-have been taken quite literally to be built verbatim,
-dogmatically constructing them according the letter of
-whatever visionary scripture they were based on.  Most have
-been religious, but some secular utopias which are one -ism
-or another are often even worse.  In each case, the utopian
-vision was not built on a solid foundation that made
-allowances for and respected man's nature.  We are clever
-apes, who in evolutionary terms have barely left the
-savvanah from where we evolved and the ecological niche we
-are designed to inhabit through blind evolutionary forces.
-We are capable of being rational, but all too often are not.
-We have the capacity for great empathy, love and compassion
-but easily give in to primal instincts based on fear and
-threat through fight or flight.  We still are in the very
-early stages of beginning to discover what we are, our
-weaknesses and strengths, our bias's and cognitive and
-phyisical limitations.  In short, we are very much a work in
-process and are not capable of living in any Paradise or
-Utopia no matter how pleasant -- we'll manage to screw it
-up.  So we must constantly strive to understand ourselves
-better, and to design social structures which take these
-hard facts about ourselves into account and protect
-ourselves from our less than noble natures.
-
 ** TL;DR
 
-Looking over the outline I have right now, it strikes me
-that most of the outline are better dealt with as parameters
-while here we need to express a broader concept of boundries
-to understand their larger role in systems and human
-behavior.
+Boundries define the limits that our planet, all of life,
+our species, civilization and ourselves as individuals must
+work within.  They include hard physical limits that systems
+need to work within or collapse.  They include limits that
+societies need to stay within or decline and collapse.  They
+include human cognitive limits and bias of which there are
+many.
 
+Boundries mostly come down to the fact that most things are
+designed to work at certain scales.  We don't see dragonflies
+that are several meters long any longer because insects take
+in oxygen through their skin (they don't breath with lungs
+or gills) and monster dragonflies were only possible because
+the percentage of oxygen in the atmosphere allowed insects
+to scale far larger than they can today.
 
+Overall having a lower level of oxygen in the atmosphere is
+a good thing.  Oxygen is a very dangerous element because it
+reacts with so many things.  Oxygen burns, it reacts with
+metals like iron can causes rust.  The astronauts in the
+Apollo space died because of a flash fire caused by a spark
+because the capsule was using pure oxygen instead of mixing
+it with an inert gas such as nitrogen which makes up the the
+bulk of earth's atmosphere.
 
+So it's important that we are aware of all of these
+boundries that, well, bound us.  Some of these bondries
+benifit and others limit and work against us.  But either
+way we can't get around them and we must design systems that
+work within them.
 
 
 ** References
-
+ - Carey, S., The origin of concepts (2009), : Oxford
+   University Press, USA.  cite:carey:2009origin
+ - Haldane, J. B. S., On being the right size, Harpers, (),
+   (1928).
+   cite:haldane:1928being
+ - Pinker, S., The blank slate: the modern denial of human
+   nature (2003), : Penguin Books.
+   cite:pinker:2003blank
+ - Steffen, W., Richardson, K., Rockstr\"om, Johan, Cornell,
+   S. E., Fetzer, I., Bennett, E. M., Biggs, R., …,
+   Planetary boundaries: guiding human development on a
+   changing planet, Science, 347(6223), 1259855 (2015).
+   cite:steffen:2015planetary 
+   cite:rockstrom:2009safe
+ - Wikipedia, , /Planetary boundaries --- wikipedia, the free encyclopedia/ (2017).
+   cite:wiki:2017planetary-boundries
