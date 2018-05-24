@@ -31,9 +31,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./intro.org][Introduction]]
  - 01. [[./01/index.org][Systems]]
  - 02. [[./02/index.org][Physical]]
-   - Speed of Light (propagation)
-   - Computation
-   - Memory Storage
  - 03. Planetary 
    - Climate change
    - Biosphere
