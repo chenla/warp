@@ -34,4 +34,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-
+ - Meadows, D. H., Dancing with systems, The Sustainability
+   Institute, (), (2002).
+   cite:meadows:2002dancing
+ - Meadows, D. H., & Wright, D., Thinking in systems: a
+   primer (2009), : Earthscan.
+   cite:meadows:2009thinking
+ - Gell-MannMurray, M., Complexity and complex adaptive
+   systems, In , Santa Fe Institute Studies In The Sciences
+   Of Complexity-Proceedings (pp. 177–177) (1992). : .
+   cite:gell-mann1992complexity-adaptive
+ - Gell-Mann, M., Complex adaptive systems, In , Santa Fe
+   Institute Studies In The Sciences Of
+   Complexity-Proceedings (pp. 11–11) (1994). : .
+   cite:gell-mann:1994complex
+ - Weinberg, G. M., An introduction to general systems
+   thinking (2001), : Dorset House.
+   cite:weinberg:2001systems-thinking
+ - Brand, S., /Pace layering: how complex systems learn and
+   keep learning/ (2018).
+   cite:brand:2018pace-layering
