@@ -30,6 +30,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+** Scopic Terminology
+
+We need to get our jargon straight here because we're going
+to be using terms used by different authors and from
+different fields that are often a very close fit to how
+we use it, but is still different because the paradigm we
+are using has a different scope, from a specialized POV with
+different LOD, ROC, LOA, LOC and
+
+  - episteme            : 
+  - metis               : 
+  - local               : 
+  - global              : 
+  - local  metis        : 
+  - global metis        : 
+  - scientific paradigm : kuhn
+  - paradigm            : 
+  - epiphenomenom       : colateral side effects 
+  - territory           : 
 
 
 ** References
