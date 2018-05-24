@@ -1,0 +1,33 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   3. Planetary Bountries Contents
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 3. Planetary Bountries Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/06/03/index.org
+:Created:  2018-05-24T18:33@Prek Leap (11.642600N-104.919210W)
+:ID:       1070337a-1bf9-433e-94ea-2e171c0643a1
+:VER:      580433693.930734389
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:XFY5-5805
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+  - Contents
+  - Abstract
+  - [[./intro.org][Introduction]]
+
