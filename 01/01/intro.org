@@ -351,3 +351,11 @@ this planet.
   microphysics (1997), : University of Chicago Press.
   cite:galison:1997image-logic 
 
+- Aristotle, J. B., The complete works of aristotle: the
+  revised oxford translation, one-volume digital edition
+  (2014), : Princeton University Press.
+  cite:aristotle:2014barnes 
+
+- Kant, I., Guyer, P., & Wood, A. W., Critique of pure
+  reason (1998), : Cambridge University Press.
+  cite:kant:1998pure-reason
