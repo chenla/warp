@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 01 Point of View (POV)
+#+TITLE: 01 Point of View Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./02-cognitive-pov.org][next]]]
 
-* 01 Point of View (POV)
+* 01 Point of View Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/01-what-is-pov.org
+:Name:     /home/deerpig/proj/chenla/warp/02/01/intro.org
 :Created:  2018-04-20T17:47@Prek Leap (11.642600N-104.919210W)
 :ID:       d8da4ae7-94c0-46f3-a0e8-f04c9d14fa46
 :VER:      577493293.598233270
