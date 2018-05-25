@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 07. LOD, ROC & POV as Points of View
+#+TITLE: 07. Creating POVs
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./06-poc.org][prev]]] [[[./08-scale.org][next]]]
 
-* 07. LOD, ROC & POV as Points of View
+* 07. Creating POVs
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/07-as-povs.org

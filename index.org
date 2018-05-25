@@ -63,7 +63,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./02/05-loa.org][Level of Abstraction]]
  - 06. [[./02/06-loc.org][Level of Complexity]]
  - 07. [[./02/07-poc.org][Process of Change]]
- - 08. [[./02/08-as-povs.org][LOD, ROC and POC as Points of Views]]
+ - 08. [[./02/08-as-povs.org][Creating POVs]]
  - 09. [[./02/09-scale.org][Scale]]
  - 10. [[./02/10-narrative.org][Narrative]]
  - 11. [[./02/11-propagation.org][Propagation]]
