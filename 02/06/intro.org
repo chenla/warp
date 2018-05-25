@@ -1,0 +1,119 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 6. Level of Complexity Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Level of Complexity Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/06/intro.org
+:Created:  2018-05-16T17:52@Prek Leap (11.642600N-104.919210W)
+:ID:       7ba7e9fd-3f76-4e9c-b850-ca3d28f27c80
+:VER:      579740006.726317945
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:WPY6-0010
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+  - measuring complexity
+    cite:gell-mann:2002what-is-complexity
+
+
+** Scope
+
+The complexity perspective differs from other of the five
+perspectives because of state or phase-change.  LOD simply
+moves closer or father away in whatever increments you
+like.  But as complexity increases you reach a threshold
+that reaches a tipping point where a change of state
+occurs.  The most familiar example is water, below 0°C water
+turns a solid, above 100°C and water turns into a gas and
+in between it is a liquid.  In ecological succession, the
+entire ecosystem transforms at each stage.  In human
+organizations, small simple groups tend to be more
+egalitarian and adapt quickly, as organizations reach
+specific sizes their character changes and they neeed to
+reorganize and become less nimble the larger they get.  This
+is the reason that the Governance Pace-Layer is slower than
+the Infrastructure-Layer.  Governance on a smaller scale it
+far more adaptive and can change faster than infrastructure.
+
+** TL;DR
+** References
+
+
+  - Bak, P., How nature works: the science of self-organized
+    criticality (1996), : Copernicus.
+    cite:bak:1996how-nature-works
+  - Chaisson, E. J., Using complexity science to search for
+    unity in the natural sciences, Complexity and the Arrow
+    of Time, (), 68–79 (2013).
+    cite:chaisson:2013using-complexity
+  - Chaisson, E. J., Cosmic evolution: the rise of
+    complexity in nature (2000)(en)(288s) (2001), : Harvard
+    University Press.
+    cite:chaisson:2001cosmic-evolution
+  - Chaisson, E. J., Complexity: an energetics agenda,
+    Complexity, 9(3), 14–21 (2004).
+    cite:chaisson:2004complexity
+  - Gell-Mann, M., What is complexity?, In (Eds.),
+    Complexity and industrial clusters (pp. 13–24) (2002). :
+    Springer.
+    cite:gell-mann:2002what-is-complexity
+  - Gell-MannMurray, M., Complexity and complex adaptive
+    systems, In , Santa Fe Institute Studies In The Sciences
+    Of Complexity-Proceedings (pp. 177–177) (1992). : .
+    cite:gell-mann1992complexity-adaptive
+  - Gell-Mann, M., Complex adaptive systems, In , Santa Fe
+    Institute Studies In The Sciences Of
+    Complexity-Proceedings (pp. 11–11) (1994). : .
+    cite:gell-mann:1994complex
+  - Holland, J. H., Complexity: a very short introduction
+    (2014), : Oxford University Press.
+    cite:holland:2014complexity-short
+  - Holland, J., Hidden order: how adaptation builds
+    complexity (helix books) (1996), : Basic Books.
+    cite:holland:1996hidden
+  - Johnson, N. F., Simply complexity : a clear guide to
+    complexity theory (2009), : Oneworld.
+    cite:johnson:2009simply
+  - Lewin, R., Complexity: life at the edge of chaos
+    (1994), : Simon & Schuster.
+    cite:lewin:1994complexity
+  - Lineweaver, C. H., Davies, P. C. W., & Ruse, M.,
+    Complexity and the arrow of time (2013), : Cambridge
+    University Press.
+    cite:lineweaver:2013complexity-arrow
+  - Meadows, D. H., & Wright, D., Thinking in systems: a
+    primer (2009), : Earthscan.
+    cite:meadows:2009thinking
+  - Mitchell, M., Complexity: a guided tour (2009), : Oxford
+    University Press, USA.
+    cite:mitchell:2009complexity
+  - Papadimitriou, C. H., Computational Complexity (1993), :
+    Addison-Wesley.
+    cite:papadimitriou:1993computational
+  - Prigogine, I., From being to becoming: time and
+    complexity in the physical sciences (1981), : W H
+    Freeman & Co.  cite:prigogine:1981being-becoming
+  - Sanjeev Arora, B. B., Computational complexity: a modern
+    approach (2009), : Cambridge University Press.
+    cite:sanjeev:2009computational
+  - Stewart, I., & Cohen, J., The collapse of chaos:
+    discovering simplicity in a complex world (2000), :
+    Penguin UK.  cite:stewart:2000collapse-chaos
