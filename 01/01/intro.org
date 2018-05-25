@@ -344,3 +344,8 @@ this planet.
 - Lakatos, I., & Musgrave, A., Criticism and the growth of
   knowledge (1970), : Cambridge University Press.
   cite:lakatos:1970criticism-growth
+- Kuhn, T. S., Second thoughts on paradigms, The structure
+  of scientific theories, 2(), 459–482 (1974).
+  cite:kuhn:1974second
+
+
