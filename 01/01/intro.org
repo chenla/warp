@@ -336,3 +336,11 @@ this planet.
   cite:keep:2017rationional-animal 
 - Keep, L., /Science Under High Modernism/ (2018).
   cite:keep:2018science-high-modernism 
+
+- Masterman, M., The nature of a paradigm, In (Eds.),
+  Criticism and the Growth of Knowledge (pp. 59–89)
+  (1970). : Cambridge University Press.
+  cite:margaret:1970nature
+- Lakatos, I., & Musgrave, A., Criticism and the growth of
+  knowledge (1970), : Cambridge University Press.
+  cite:lakatos:1970criticism-growth
