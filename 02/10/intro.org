@@ -1,0 +1,81 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 10. Narrative Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./08-scale.org][prev]]] [[[./10-propagation.org][next]]]
+
+* 10. Narrative Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/10/intro.org
+:Created:  2018-04-20T18:18@Prek Leap (11.642600N-104.919210W)
+:ID:       7e70a4f4-79ac-4d39-81da-6627b1a6d1f7
+:VER:      577495162.180232703
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:OIV1-1245
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+Unlike process, a narrative POV views things as continuum of snapshots
+of different states of the present.  Each snapshot becomes a point in
+time where the state is frozen.  When you move forward or backward in
+time you move to previous or future frozen states.  When understood
+this way, the whole idea of time as a place doesn't work very well.
+
+Entropy gives time a direction, it is a one-way process -- you can't
+unstir a cup of coffee.
+
+This is where we get the illusion of time as a lie -- we think in
+terms of a present relative to a past, an illusion created my memories
+of when the present was not the same as it is now.
+
+Narratives are an effective means of modeling the world where there
+are memories of things that are no longer the same as in the present.
+
+Narratives move in a single direction, from past to present and from
+present to future.  You can zoom in and out of narratives to see more
+or less LOD, and narratives can be sped up or slowed down at different
+rates than the events are happening in the narrative by zooming in and
+out to provide more temporal LOD.
+
+Now -- what about non-linear narritives -- aka arthurian prose cycles.
+these are branching narratives, rhizomatic structures, which are
+essentially graphs -- and we need to think of narratives as a broader
+set of structures than beginning middle end.
+
+That might be right -- of the four POVs here we don't have a
+graph-based POV -- narratives are stuck with entropic one way
+processes but they don't have to be one damn thing after another they
+don't have to be Ariadne's thread through the maze, they can encompass
+the maze and the threads that weave through them.
+
+Sapiens are story tellers -- but we are constant riffing on stories --
+there is no one story, we always are looking at tweaking the story to
+give different outcomes -- this goes to the core of how we understand
+and model the world -- but today we have the printing press and
+perfect copies of things that don't change.  in fact we can be
+punished if we change things -- but that's not how things really are
+or how things have been -- we are ALL story tellers we tell stories,
+not just repeat other people's stories
+
+that is what a narrative really is and this is key to understanding
+narrative as a POV!
+
+
+** References
+
+
