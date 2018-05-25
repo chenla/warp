@@ -347,5 +347,7 @@ this planet.
 - Kuhn, T. S., Second thoughts on paradigms, The structure
   of scientific theories, 2(), 459–482 (1974).
   cite:kuhn:1974second
-
+- Galison, P., Image and logic: a material culture of
+  microphysics (1997), : University of Chicago Press.
+  cite:galison:1997image-logic 
 
