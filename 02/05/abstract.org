@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 5. Level of Abstraction Abstract
 #+STARTUP: showall
-#+TITLE:   5. Level of Abstraction Contents
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,22 +15,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 5. Level of Abstraction Contents
+* 5. Level of Abstraction Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/05/index.org
-:Created:  2018-05-25T09:06@Prek Leap (11.642600N-104.919210W)
-:ID:       9a61c130-ef73-4faa-93a4-cd3a159cbdc8
-:VER:      580486083.277506315
+:Name:     /home/deerpig/proj/chenla/warp/02/05/abstract.org
+:Created:  2018-05-25T09:07@Prek Leap (11.642600N-104.919210W)
+:ID:       5e68df86-26c7-4ad0-9422-fe6fc88e9193
+:VER:      580486119.796997514
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:IAK8-8862
+:BXID:     proj:UED5-2427
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./abstract.org][Abstract]]
-  - [[./intro.org][Introduction]]
+** Scope
+
+
+
+** TL;DR
 

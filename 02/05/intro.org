@@ -1,0 +1,77 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 5. Level of Abstraction Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 5. Level of Abstraction Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/05/index.org
+:Created:  2018-05-16T20:14@Prek Leap (11.642600N-104.919210W)
+:ID:       b16c80e2-d5d6-44a0-98bc-b56f59c2bb8f
+:VER:      579748560.280300122
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TOU7-3507
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+
+LOA is used by the FRBR entity model to differentiate the
+specific and material of an /instance/ in stages up to the
+immaterial and abstract /work/ which is a pure concept.
+
+Abstractions are generalizations that represent a range of
+things that possess the same attributes
+
+
+SEE: [[https://en.wikipedia.org/wiki/Concept][Concept]]
+
+The Platonic world of forms is more a world of
+abstract concepts than a world of ideal forms.
+
+SEE: [[https://en.wikipedia.org/wiki/Theory_of_forms][Theory of Forms]]
+
+#+begin_quote
+"An abstraction" is the outcome of this process—a concept
+that acts as a super-categorical noun for all subordinate
+concepts, and connects any related concepts as a group,
+field, or category.
+
+— https://en.wikipedia.org/wiki/Abstraction
+#+end_quote
+
+#+begin_quote
+Abstract and concrete are classifications that denote
+whether a term describes an object with a physical referent
+or one with no physical referents. They are most commonly
+used in philosophy and semantics. Abstract objects are
+sometimes called abstracta (sing. abstractum) and concrete
+objects are sometimes called concreta (sing. concretum). An
+abstract object is an object which does not exist at any
+particular time or place, but rather exists as a type of
+thing, i.e., an idea, or abstraction.
+
+— https://en.wikipedia.org/wiki/Abstract_and_concrete
+#+end_quote
+
+
+** TL;DR
+** References
+
+
