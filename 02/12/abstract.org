@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 12. Process Abstract
 #+STARTUP: showall
-#+TITLE:   12. Process Contents
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,22 +15,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 12. Process Contents
+* 12. Process Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/12/index.org
+:Name:     /home/deerpig/proj/chenla/warp/02/12/abstract.org
 :Created:  2018-05-25T09:33@Prek Leap (11.642600N-104.919210W)
-:ID:       c5b636ac-9ec5-4074-9f59-4b81036ff7f1
-:VER:      580487670.159902609
+:ID:       f221013e-ff76-41e1-b0e4-596ed2356dc6
+:VER:      580487686.648860168
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:NTO1-3812
+:BXID:     proj:YPL1-7380
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./abstract.org][Abstract]]
-  - [[./intro.org][Introduction]]
+** Scope
+
+
+
+** TL;DR
 
