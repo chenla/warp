@@ -1,0 +1,118 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 03. The Five Cardinal Points of View
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-cognitive-pov.org][prev]]] [[[./04-lod.org][next]]]
+
+* 03. Perspectives
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/03-objective-pov.org
+:Created:  2018-04-20T18:02@Prek Leap (11.642600N-104.919210W)
+:ID:       dfee203e-a433-4eaf-a098-86df09b8d3d2
+:VER:      577494197.144944568
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:XTX6-4568
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+#+begin_quote
+This... these... the art historians and the critics talking
+about every object and... everything having its own form and
+density and... its own character in Flemish paintings, but
+is that all there is to it? Do you know why everything does?
+Because they found God everywhere. There was nothing God did
+not watch over, nothing, and so this... and so in the
+painting every detail reflects... God’s concern with the
+most insignificant objects in life, with everything, because
+God did not relax for an instant then, and neither could the
+painter then. Do you get the perspective in this? he
+demanded, thrusting the rumpled reproduction before them. —
+There isn’t any. There isn’t any single perspective, like
+the camera eye, the one we all look through now and call it
+realism, there ... I take five or six or ten... the Flemish
+painter took twenty perspectives if he wished, and even in a
+small painting you can’t include it all in your single
+vision, your one miserable pair of eyes, like you can a
+photograph, like you can painting when it... when it
+degenerates, and becomes conscious of being looked at.
+
+— William Gaddis, The Recogitions (1955)
+  cite:gaddis:2012recognitions
+#+end_quote
+
+The term perspective is often used as a synonom for POV.
+A perspective is different from a point of view in fictional
+narrative, and both perspective and point of view are used
+differently depending on if you are an artist, a scientist
+or philospher.  The more you research the two terms the more
+it becomes clear that there is no clear consensus about the
+meaing of either term outside of narrow applications such as
+the geometrical perspective in a painting.
+
+We will use /point of view/ (POV) as a general purpose
+concept that indicates what an observer see's from the
+vantage point of where they are observing.  This includes
+where and when something is observered but also includes all
+other factors that determine what is being observed,
+including cognitive bias, the limitations on what is used to
+made the observation, and the larger contextual worldview
+that includes all of the memory and experience of the
+observer.
+
+  "Take a look out there at those mountains one last time.
+  All you can see is the beauty.  After you become a fire
+  fighter all you'll be able to see is fuel."
+
+Our knowledge and skillsets determine what we see as much as
+the sensory information coming in from our eyes.
+
+We will use /perspective/ to mean a specific, defined POV
+POV that can be used as a cognitive tool.  We define what we
+call the Five Cardinal Perspectives which can be combined in
+different ways for different puposes.
+
+Context is when a given mental model of the world (in
+effect, a mind) is used to make an observation using a
+specific method (camera, telescope, eyes) from a given point
+of view which is made up of a combination of different
+Perspectives.
+
+** The Five Cardinal Perspectives
+
+It would be helpful if generic POVs could be objectively
+defined in a way that they could be used to understand and
+used by anyone without having to resort to subjective
+imagination or empathy which are often so intertwined with
+emotional states, cognitive limitations and biases that they
+are difficult to use as general purpose empirical-based
+cognitive tools.
+
+We have identified what we believe to be three fundamentally
+important types of POVs which can do just that.  And because
+of the importance that POVs have in the survival of a
+species, and as a culture and civilization we are putting
+these three POVs at the center of understanding who we are,
+where we came from, how to overcome cognitive limits and
+bias, problem solving, communication, conflict resolution
+and cooperation.
+
+But before we can introduce the three core POVs we will need
+to introduce three concepts, each of which will be the core
+of a Core POV, but also are critical understanding any one
+of the three POVS.  These are, Level of Detail, Rate of
+Change, and Process of Change.
