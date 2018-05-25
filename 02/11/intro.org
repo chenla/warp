@@ -1,0 +1,87 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 11. Propagation Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./09-narrative.org][prev]]] [[[./11-process.org][next]]]
+
+* 11. Propagation Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/11/intro.org
+:Created:  2018-04-20T18:20@Prek Leap (11.642600N-104.919210W)
+:ID:       29f5ddae-216a-4ddb-948a-8c004a3193c6
+:VER:      577495303.671516502
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:UVA2-7651
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+** TL;DR
+** Chapter
+
+Specifically causal propagation -- 
+
+How is Causal Propagation a POV?  That's what we have to explain here.
+
+Perhaps it is what has or hasn't changed in one place relative to what
+has or hasn't changed in another.  So that from one POV in space in
+time the observer sees X but on the other side of the galaxy at the
+same time but different place the observer sees Y because change has
+does not propagate at the same rate.
+
+Propagation, like time is a one-way process.
+
+Change is not instantaneous, it is tied to the physical laws of the
+universe.  Change can only change as fast as those physical laws
+allow.
+
+Propagation is the speed that change moves through time and space.
+
+  Light Cone
+
+So the maximum ROC at relative scales is limited by the speed of
+light.
+
+The exception is quantum entanglement -- but at the moment this isn't
+important unless we develop tech that leverages -- and
+maintaining entanglement is the big challenge for quantum
+computing to leave the laboratory.
+
+Change is also relative to the distance between two things -- the
+shorter the distence the faster things change between them -- at
+microscopic and atomic scales this is very important.
+
+As we will see in the Pace-Layer model, the maximum ROC (speed of
+light) might be important at very large scales, but there are all
+sorts of scales -- different things happen at different temporal
+scales in a society -- there are processes that happen slower or
+faster or even vary, changing at different rates at different times
+depending on what is changing.
+
+** References
+
+  - Wikipedia, , /Diffusion of innovations --- Wikipedia,
+    the free encyclopedia/ (2018).
+    cite:wiki:2018diffusion-of-innovations
+  - Wikipedia, , /Light cone --- Wikipedia, the free
+    encyclopedia/ (2018).
+    cite:wiki:2018light-cone
+
+
+  - Slow Ideas | Atul Gawande July, 2013, The New Yorker
+    https://www.newyorker.com/magazine/2013/07/29/slow-ideas

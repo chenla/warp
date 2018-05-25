@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 11. Propagation Abstract
 #+STARTUP: showall
-#+TITLE:   11. Propagation Contents
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,22 +15,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 11. Propagation Contents
+* 11. Propagation Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/11/index.org
+:Name:     /home/deerpig/proj/chenla/warp/02/11/abstract.org
 :Created:  2018-05-25T09:31@Prek Leap (11.642600N-104.919210W)
-:ID:       93d3b474-9532-410e-9143-53993b63f637
-:VER:      580487535.763301558
+:ID:       62d18443-8105-4503-9e21-37dd7db46369
+:VER:      580487558.107145179
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:IYV0-7816
+:BXID:     proj:UPO3-7020
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./abstract.org][Abstract]]
-  - [[./intro.org][Introduction]]
+** Scope
+
+
+
+** TL;DR
 
