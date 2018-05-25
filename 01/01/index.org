@@ -64,11 +64,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - [[./intro.org][Introduction]]
 
    - Metis
+     - human scale
    - Episteme
    - Paradigm
      - definition
        - aristotle
        - kuhn
+         - belong to a community 
        - reclaiming
        - our definition
      - local and global
+     - worldview
+   - Community
+     - Dunbar's Number
+     - Territory
+     - Traditions cite:toviah:2018value
+   - Mutual incomprehsibility
+     - Metis of Babel
+       cite:galison:1997image-logic 
