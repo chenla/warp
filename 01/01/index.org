@@ -63,22 +63,26 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - [[./abstract.org][Abstract]]
    - [[./intro.org][Introduction]]
 
-   - Metis
+   - 01. Metis
      - human scale
-   - Episteme
-   - Paradigm
+   - 02. Episteme
+   - 03. Paradigm
      - definition
-       - aristotle
+       - Aristotle
+         - argument or dispute
+         - Prior Analytics book 2 chap 24 (69a1).
+           Rhetoric book 1 chap 2 [1356b]
+           Rhetoric book 2 chap 20 [1393a-b]  
        - kuhn
          - belong to a community 
        - reclaiming
        - our definition
      - local and global
      - worldview
-   - Community
+   - 04. Community
      - Dunbar's Number
      - Territory
-     - Traditions cite:toviah:2018value
-   - Mutual incomprehsibility
+     - Traditions cite:moldwin:2018value
+   - 05. Mutual incomprehsibility
      - Metis of Babel
-       cite:galison:1997image-logic 
+       cite:galison:1997image-logic chap.9
