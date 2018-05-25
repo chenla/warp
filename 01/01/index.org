@@ -66,4 +66,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Metis
    - Episteme
    - Paradigm
+     - definition
+       - aristotle
+       - kuhn
+       - reclaiming
+       - our definition
      - local and global
