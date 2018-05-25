@@ -1,10 +1,13 @@
 #   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 8. Creating POVs Abstract
 #+STARTUP: showall
-#+TITLE:   8. Creating POVs Contents
+#+TOC: headlines 4
+#+PROPERTY: filename
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
@@ -12,22 +15,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 8. Creating POVs Contents
+* 8. Creating POVs Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/02/08/index.org
-:Created:  2018-05-25T09:22@Prek Leap (11.642600N-104.919210W)
-:ID:       a58c5af4-0a2c-41d6-8b03-758637e47615
-:VER:      580487036.803324533
+:Name:     /home/deerpig/proj/chenla/warp/02/08/abstract.org
+:Created:  2018-05-25T09:23@Prek Leap (11.642600N-104.919210W)
+:ID:       0b2ed090-fa54-4bf5-9d62-09b87e60d431
+:VER:      580487058.680208355
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:SCJ3-0741
+:BXID:     proj:GKW4-8044
 :Class:    primer
-:Entity:   toc
+:Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./abstract.org][Abstract]]
-  - [[./intro.org][Introduction]]
+** Scope
+
+
+
+** TL;DR
 

@@ -1,0 +1,66 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 8. Creating POVs Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./06-poc.org][prev]]] [[[./08-scale.org][next]]]
+
+* 8. Creating POVs Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/02/08/intro.org
+:Created:  2018-04-20T18:13@Prek Leap (11.642600N-104.919210W)
+:ID:       ab000e97-4df8-4240-b1a4-6c5024b30f62
+:VER:      577494858.608612189
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:HCU2-3581
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+Now that we understand what a Point of View is, and it's importance
+and the three concepts of LOD, ROC and POC we can build the three Core
+POVs that will be at the heart of our understanding of the universe,
+who and what we are and how to build a civilization from first
+principles.
+
+Originally I planned on jumping straight in and describing each of
+these as a POV, but the concept of LOD is not the same as an LOD POV.
+You can't understand LOD as a POV without understanding ROC and POC.
+Each of these things as a POC only can be understood in relation to
+the other two.
+
+The first is the Scale Point of View which is dominated by LOD and
+distance.  The second is Propagation, which is based on ROC. And
+finally the Process Point of View is based on the concept of
+everything being in the process of becoming something else.
+
+In the same way, the three POVs are not meant to be used separately,
+each builds on the other and hybrid Points of Views that combine them
+to different degrees will be the rule rather than the exception.
+ 
+So you can think of LOD, ROC and POC and building blocks for
+describing context as a POV.  It's important to understand them as
+different POVs but in practice we will almost always be talking in
+terms of LOD, ROC and POC.
+
+You can mix and match these three to create any number of POVs, but we
+will focus on four which will provide a jumping off point for creating
+a wide variety of POVs that we will use over and over.
+
+
+** References
+
+
