@@ -30,10 +30,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
+** Contents
+ - Cognitive Limits and Bias
+** Scope
 ** TL;DR
-
-
 ** References
 
   - Cleary, S. C., /Human Nature Matters/ (2018).
