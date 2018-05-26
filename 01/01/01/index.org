@@ -30,6 +30,102 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
 
+---
+     - Metis -- as defined by Scott SEE p.311
+     - An intense idosyncratic wisdom or knowledge of a
+       locale, knowledge about how things work in a specific
+       place, not in general or globally.  A common farming
+       adage I heard as a child growing up in New England,
+       was that if corn was "knee high by the fourth of
+       July" it indicated an important benchmark that you
+       had a good crop.  After several years observation, I
+       came to the conclusion that the phrase was not coined
+       by a New England farmer.  A brief search on the term
+       turned up no origin for the term, but did show that
+       for most 19th century farmers in the mid-west United
+       States this was a not a bad rule of thumb.  By the
+       late 20th century, the introduction of new corn
+       varieties and high yield hybrids, corn is more likely
+       to be "as high as an elephant's eye"
+
+       Note: “The corn is as high as an elephant’s eye, /
+               An' it looks like it's climbin' clear up to the sky"
+
+       "Oh, What a Beautiful Mornin", /Oklahoma!/, Rodgers
+       and Hammerstein (1943).  
+       SEE: 
+       http://www.youtube.com/watch?v=_C6J9gij5SQ
+       Wikipedia:  [[https://en.wikipedia.org/wiki/Oklahoma!][Oklahoma!]], [[https://en.wikipedia.org/wiki/Rodgers_and_Hammerstein][Rodgers and Hammerstein]], and
+       [[https://en.wikipedia.org/wiki/Oh,_What_a_Beautiful_Mornin%27][Oh What a Beautiful Mornin]]
+
+#+begin_verse
+There's a bright golden haze on the meadow
+There's a bright golden haze on the meadow
+The corn is as high as an elephant's eye
+An' it looks like it's climbin' clear up to the sky
+
+Oh, what a beautiful mornin'
+Oh, what a beautiful day
+I've got a wonderful feelin'
+Every thing's goin' my way
+
+All the cattle are standin' like statues
+All the cattle are standin' like statues
+They don't turn their heads as they see me ride by
+But a little brown maverick is winkin' his eye
+
+Oh, what a beautiful mornin'
+And oh, what a beautiful day
+I've got a wonderful feelin'
+Every thing's goin' my way
+
+All the sounds of the earth are like music
+All the sounds of the earth are like music
+The bees are so busy they don't miss a tree
+And an old weepin' willow is laughin' at me
+
+Oh, what a beautiful mornin'
+Oh, what a beautiful day
+I've got a wonderful feelin'
+Every thing's goin' my way now
+
+Oh, what a beautiful day
+Beautiful day
+
+— "Oh, What a Beautiful Mornin", /Oklahoma!/, Rodgers and Hammerstein (1943)
+#+end_verse
+
+
+     - "it is as economical and accurate as it needs to be,
+       no more and no less, for addressing the problem at
+       hand." (p.313). [[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::329][p.313]]
+     - Knowledge of how, but not why -- why not explored and
+       often mapped to local mythology, and a passed-down tradition. 
+     - Human scale  -- Within human cognitive limits
+     - Layer of Separation - single layer of separation
+     - Map (no key) -- The map borders on being a territory,  
+       dense, local map, topographic, social, linguistic, cultural
+     - Autochthonic -- native evolved organically
+     - Transactive  -- distributed memory, making things
+                       more opaque.
+     - Metis as mastery -- "an accumulation of many, partly
+       redundent signals" ([[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::329][p.313]]) reinforced memories from
+       doing or seeing the same thing over and over until it
+       becomes something close to a learned instinct.
+     - 
+#+begin_quote
+The kind of knowledge required in such endeavors is not
+deductive knowledge from first principles but rather what
+Greeks of the classical period called metis, a concept to
+which we shall return. Usually translated, inadequately, as
+"cunning," metis is better understood as the kind of
+knowledge that can be acquired only by long practice at
+similar but rarely identical tasks, which requires constant
+adaptation to changing circumstances.
+
+— Scott, Seeing Like A State 
+  cite:scott:1998seeing, [[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::177][p.178]]
+#+end_quote
 
 
 
