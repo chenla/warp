@@ -98,3 +98,15 @@ that Vietnamese car mechanic who seems to always know what's wrong
 with your car after listening to it for 10 seconds.  You know, the guy
 whose shop is a couple of blocks south of the Chinese grocery.
 
+
+#+begin_quote
+Mētis must be tracked down elsewhere, in areas which the
+philosopher usually passes over in silence or mentions only
+with irony or with hostility so that, by contrast, he can
+display to its fullest advantage the way of reasoning and
+understanding which is required in his own profession.
+
+ — Marcel Detienne and Jean Pierre Vernant,
+   Cunning intelligence in Greek culture and society (1991)
+   cite:detienne:1991cunning-greek, [[pdf:detienne:1991cunning-greek.pdf::9][p.4]]
+#+end_quote
