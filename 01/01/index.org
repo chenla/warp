@@ -64,12 +64,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - [[./intro.org][Introduction]]
 
    - 01. Metis
-     - Metis
+     - Metis -- as defined by Scott SEE p.311
      - An intense idosyncratic wisdom or knowledge of a
        locale, 
-     - A type of Phronesis  φρόνησῐς, phrónēsis, literally
-       'to think', which is a type of wisdom of practical
-       things as opposed to Sophia which is theoretical knowledge.
+
+     - "it is as economical and accurate as it needs to be,
+       no more and no less, for addressing the problem at
+       hand." (p.313).
      - Knowledge of how, but not why -- why not explored and
        often mapped to local mythology, and a passed-down tradition. 
      - Human scale  -- Within human cognitive limits
@@ -79,6 +80,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Autochthonic -- native evolved organically
      - Transactive  -- distributed memory, making things
                        more opaque.
+     - Metis as mastery -- "an accumulation of many, partly
+       redundent signals" (p311)
+     - 
+#+begin_quote
+The kind of knowledge required in such endeavors is not
+deductive knowledge from first principles but rather what
+Greeks of the classical period called metis, a concept to
+which we shall return. Usually translated, inadequately, as
+"cunning," metis is better understood as the kind of
+knowledge that can be acquired only by long practice at
+similar but rarely identical tasks, which requires constant
+adaptation to changing circumstances.
+
+— Scott, Seeing Like A State 
+  cite:scott:1998seeing, [[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::177][p.178]]
+#+end_quote
+
+
    - 02. Episteme
    - 03. Paradigm
      - definition
