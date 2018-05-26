@@ -80,4 +80,21 @@ justify its procedures.
 #+end_quote
 
 This is not much different to Kuhn's concept of a paradigm, at least
-before the publication of /structure/.  
+before the publication of /structure/.  It's not surprising that
+paradigms largely go unnoticed.  A paradigm is a fabric that weaves
+together both we consciously are aware of and pay attention to,
+together with the unlying memories in our brains that are "an
+accumulation of many, partly redundent signals." ([[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::329][Scott:p.313]]) When
+enough of these signals have been accumulated they become a kind of
+learned instinct or muscle memory which work below the conscious level
+so that they don't have to be loaded into working conscious memory,
+letting us use that to pay attention to the details and subtlies of
+what is in front of us.  All of us has mastered many things, from
+walking, to riding a bicycle, swiming, or writing.  Those who we call
+masters have done the same thing, but in a narrow specialized range of
+activity; Honokw & Azita playing ukulele in Waikiki, chess master
+Magnus Calsen playing and winning 10 simultaeous games blindfolded, or
+that Vietnamese car mechanic who seems to always know what's wrong
+with your car after listening to it for 10 seconds.  You know, the guy
+whose shop is a couple of blocks south of the Chinese grocery.
+
