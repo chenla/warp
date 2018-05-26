@@ -33,11 +33,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-Metis is a complex concept, but can crudely be understood as
+Mētis is a complex concept, but can crudely be understood as
 a local map of a place, but also the people, landscape,
 history and the complexity of human relationships in that
 place.  These maps tend to be accurate but, illegible to
-anyone outside of the community that shares it.   Metis is
+anyone outside of the community that shares it.   Mētis is
 small because it is a detailed and complex map of complexity.
 The brain can only keep so much information in play at any
 given time, so we employ transactive memory in local
@@ -57,9 +57,9 @@ peradigm is similar to episteme except it is a formalized
 framework for understanding something that can be tested
 against.  The data is more often than not, very incomplete
 because it has only been collected for a short period.  This
-is in contrast to metis which is built on generations of
-observation.  The difference between metis and episteme is
-that metis is concerned with how things work and the process
+is in contrast to mētis which is built on generations of
+observation.  The difference between mētis and episteme is
+that mētis is concerned with how things work and the process
 of knowing how to do things where episteme is concerned with
 why things work and refining what is found to understand new
 things.  Episteme is meant to be global, no tied to a
@@ -69,7 +69,7 @@ identify patterns in complexity that are intelligible.
 Stack enough of these patterns together into a
 interconnected framework and you get a model of something.
 At this point, the data melts away and you are left with
-what can be a thought of rational version of metis, a
+what can be a thought of rational version of mētis, a
 paradigm.  This isn't something you can understand by
 reading a description, or even a book or two on the subject.
 In order to work within the paradigm you must master the
@@ -77,11 +77,11 @@ patterns through repitition, not simply memorize a list of
 facts and rules.  It's only after you have looked at the
 same thing from many different perspectives and done the
 experiments and the equations yourself does the paradigm
-become a part of you, which again, is a kind of metis where
+become a part of you, which again, is a kind of mētis where
 the transactive collective memory is spread among practicing
 scientists as well as in monographs, interviews, notes,
 correspondance and books.  A scientific paradigm is meant to
-be an externalized metis.  As students you are constantly
+be an externalized mētis.  As students you are constantly
 reminded that something is not an experiment unless it has
 been recorded and published.  In science if an observation
 has been recorded, it doesn't exist.
@@ -90,7 +90,7 @@ The problem with episteme is that it is an impoverished map,
 that trades rich complexity that fulfills a broad spectrum
 of human physical, economic and psychological needs with far
 more simple map that can be used almost anywhere and opens
-up a larger world that local metis can not provide.
+up a larger world that local mētis can not provide.
 
 Many believe that the local and global are mutually
 exclusive and are polar opposites that can not be
@@ -99,7 +99,7 @@ has only been around since the Enlightenment, and science
 has been practiced by a very select few up until even a few
 decades ago.  An eternalized episteme that centers arond
 different paradigms that have had time to mature and reach a
-level of complexity that can match local metis will
+level of complexity that can match local mētis will
 eventually evolve.  As Lou Keep mentioned, the monumental
 failures of high modernism that Scott gives in /Seeing Like
 a State/ are all of young sciences.  It is only recently
@@ -113,17 +113,17 @@ left the larger body of knowledge fragmented so that no one
 had the big picture of how it all fit together. This is
 starting to change, but has a long ways to go.
 
-The advantage of local metis is that the whole thing can fit
+The advantage of local mētis is that the whole thing can fit
 in each person's head, it's a whole, rather than a bunch of
 disconnected fragments.
 
-The whole point of local metis is that it is transactive and
+The whole point of local mētis is that it is transactive and
 human scale.  Science needs to move from a patchwork of
 disciplines to merge all specialties into a more
 comprehensive paradigms and then employ a more serviceable
 form of transactive memory than the monograph.
 
-Every metis has a:
+Every mētis has a:
 
   - territory
   - transactive community
@@ -131,24 +131,24 @@ Every metis has a:
   - vocabulary & grammar
   - mythos & origin story
 
-In the w&w introduction I talk of reconciling local metis
-with global metis, but now I'm starting to think that this
+In the w&w introduction I talk of reconciling local mētis
+with global mētis, but now I'm starting to think that this
 is almost a side effect, and that the real advantage to an
-global metis is being able to take control of the paradigms
-we live in.  Local metis is not consciously constructed or
+global mētis is being able to take control of the paradigms
+we live in.  Local mētis is not consciously constructed or
 designed, it emerges from the local complexity.  In a sense
 you are trapped in it, it can only change very slowly over
 generations and it is not transferable to other places.
 
-An epistemic metis is all about intentionally finding
+An epistemic mētis is all about intentionally finding
 holes in the existing paradigm and then when the holes are
 big enough to see through you can begin to see the next
 paradigm that will replace it.  Then repeat the process.
 
 In large part Alexandar was trying to develop a grammar that
-people from our simplistic epistic metis could use to create
-their own local metis, but high modernism striped people of
-the ability to understand the idea of local metis, they
+people from our simplistic epistic mētis could use to create
+their own local mētis, but high modernism striped people of
+the ability to understand the idea of local mētis, they
 no longer recognize what they are estranged from and why
 they are so miserable.
 
@@ -234,7 +234,7 @@ complex and pressing problems.
    works and what works and how others fail when trying to
    use the pattern would have made it more useful than
    Nature of Order --  Nature of Order moved is almost an
-   entirely different paradigm from APL -- is APL metis?
+   entirely different paradigm from APL -- is APL mētis?
 
    Soleri gave us a paradigm with little to no map to
    understand it, let alone test against it.
