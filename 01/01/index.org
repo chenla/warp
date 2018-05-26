@@ -64,7 +64,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - [[./intro.org][Introduction]]
 
    - 01. Metis
-     - human scale
+     - Metis
+     - An intense idosyncratic wisdom or knowledge of a
+       locale, 
+     - A type of Phronesis  φρόνησῐς, phrónēsis, literally
+       'to think', which is a type of wisdom of practical
+       things as opposed to Sophia which is theoretical knowledge.
+     - Knowledge of how, but not why -- why not explored and
+       often mapped to local mythology, and a passed-down tradition. 
+     - Human scale  -- Within human cognitive limits
+     - Layer of Separation - single layer of separation
+     - Map (no key) -- The map borders on being a territory,  
+       dense, local map, topographic, social, linguistic, cultural
+     - Autochthonic -- native evolved organically
+     - Transactive  -- distributed memory, making things
+                       more opaque.
    - 02. Episteme
    - 03. Paradigm
      - definition
@@ -83,6 +97,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Dunbar's Number
      - Territory
      - Traditions cite:moldwin:2018value
-   - 05. Mutual incomprehsibility
+   - 05. Incomprehsibility
      - Metis of Babel
        cite:galison:1997image-logic chap.9
+   - 06. Local & Global
