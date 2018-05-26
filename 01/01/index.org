@@ -81,13 +81,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
        varieties and high yield hybrids, corn is more likely
        to be "as high as an elephant's eye"
 
-       Note: “The corn is as high as an elephant’s
-       eye,” lyrics from "Oh, What a Beautiful Mornin",
-       /Oklahoma!/, Rodgers and Hammerstein (1943).
-       SEE  http://www.youtube.com/watch?v=_C6J9gij5SQ
-            https://en.wikipedia.org/wiki/Rodgers_and_Hammerstein  
-            https://en.wikipedia.org/wiki/Oklahoma!
-            https://en.wikipedia.org/wiki/Oh,_What_a_Beautiful_Mornin%27
+       Note: “The corn is as high as an elephant’s eye, /
+               An' it looks like it's climbin' clear up to the sky"
+
+       "Oh, What a Beautiful Mornin", /Oklahoma!/, Rodgers
+       and Hammerstein (1943).  
+       SEE: 
+       http://www.youtube.com/watch?v=_C6J9gij5SQ
+       Wikipedia:  [[https://en.wikipedia.org/wiki/Oklahoma!][Oklahoma!]], [[https://en.wikipedia.org/wiki/Rodgers_and_Hammerstein][Rodgers and Hammerstein]], and
+       [[https://en.wikipedia.org/wiki/Oh,_What_a_Beautiful_Mornin%27][Oh What a Beautiful Mornin]]
 #+begin_verse
 There's a bright golden haze on the meadow
 There's a bright golden haze on the meadow
