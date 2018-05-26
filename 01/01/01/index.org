@@ -139,6 +139,19 @@ adaptation to changing circumstances.
 #+end_quote
 
 
+#+begin_quote
+With distinct communities and incommensurable beliefs, the
+layers seem to fall apart like decaying plywood; if they are
+significantly disconnected—if there are distinct communities
+using terms like “mass” and “energy” in significantly
+different ways—then the continuity of one level would hardly
+bolster discontinuity at another.
+
+— Peter Galison, Image and logic: a material culture of
+  microphysics (1997)
+  cite:galison:1997image-logic, [[pdf:galison:1997image-logic.pdf::404][p.783]]
+#+end_quote
+
 
 ** References
 
