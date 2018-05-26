@@ -98,6 +98,17 @@ that Vietnamese car mechanic who seems to always know what's wrong
 with your car after listening to it for 10 seconds.  You know, the guy
 whose shop is a couple of blocks south of the Chinese grocery.
 
+#+begin_quote
+Broadly understood, mētis represents a wide array of
+practical skills and acquired intelligence in responding to
+a constantly changing natural and human environment.
+
+— Scott, Seeing Like A State 
+  cite:scott:1998seeing, [[pdf:scott:1998seeing.pdf::330][p.313]]
+#+end_quote
+
+
+
 
 #+begin_quote
 Mētis must be tracked down elsewhere, in areas which the
