@@ -62,8 +62,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Contents
    - [[./abstract.org][Abstract]]
    - [[./intro.org][Introduction]]
-
-   - 01. Metis
+   - 01. [[./01/index.org][Metis]]
      - Metis -- as defined by Scott SEE p.311
      - An intense idosyncratic wisdom or knowledge of a
        locale, knowledge about how things work in a specific
@@ -90,6 +89,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
        http://www.youtube.com/watch?v=_C6J9gij5SQ
        Wikipedia:  [[https://en.wikipedia.org/wiki/Oklahoma!][Oklahoma!]], [[https://en.wikipedia.org/wiki/Rodgers_and_Hammerstein][Rodgers and Hammerstein]], and
        [[https://en.wikipedia.org/wiki/Oh,_What_a_Beautiful_Mornin%27][Oh What a Beautiful Mornin]]
+
 #+begin_verse
 There's a bright golden haze on the meadow
 There's a bright golden haze on the meadow
@@ -126,9 +126,6 @@ Beautiful day
 
 — "Oh, What a Beautiful Mornin", /Oklahoma!/, Rodgers and Hammerstein (1943)
 #+end_verse
-
-
-
 
 
      - "it is as economical and accurate as it needs to be,

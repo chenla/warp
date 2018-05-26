@@ -1,0 +1,35 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   1. Metis Contents
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 1. Metis Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/01/01/index.org
+:Created:  2018-05-26T09:17@Prek Leap (11.642600N-104.919210W)
+:ID:       af9c5a0c-e79e-46e0-8e37-08aa3f42b486
+:VER:      580573127.183619895
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:PMK0-6440
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+  - Contents
+  - [[./abstract.org][Abstract]]
+
+
+
+
