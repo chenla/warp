@@ -66,11 +66,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - 01. Metis
      - Metis -- as defined by Scott SEE p.311
      - An intense idosyncratic wisdom or knowledge of a
-       locale, 
+       locale, knowledge about how things work in a specific
+       place, not in general or globally.  A common farming
+       adage I heard as a child growing up in New England,
+       was that if corn was "knee high by the fourth of
+       July" it indicated an important benchmark that you
+       had a good crop.  After several years observation, I
+       came to the conclusion that the phrase was not coined
+       by a New England farmer.  A brief search on the term
+       turned up no origin for the term, but did show that
+       for most farmers in the mid-west United States this
+       was a not a bad rule of thumb.
 
      - "it is as economical and accurate as it needs to be,
        no more and no less, for addressing the problem at
-       hand." (p.313).
+       hand." (p.313). [[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::329][p.313]]
      - Knowledge of how, but not why -- why not explored and
        often mapped to local mythology, and a passed-down tradition. 
      - Human scale  -- Within human cognitive limits
@@ -81,7 +91,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Transactive  -- distributed memory, making things
                        more opaque.
      - Metis as mastery -- "an accumulation of many, partly
-       redundent signals" (p311)
+       redundent signals" ([[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::329][p.313]]) reinforced memories from
+       doing or seeing the same thing over and over until it
+       becomes something close to a learned instinct.
      - 
 #+begin_quote
 The kind of knowledge required in such endeavors is not
