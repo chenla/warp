@@ -32,5 +32,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 
- Mētis is a greek word, Μῆτις which is commonly translated into
- english "wisdom," or "cunning," but the concept also embraces 
+ Mētis is a greek word, Μῆτις which is commonly translated in english
+ as "wisdom," or "cunning," but also embraces concepts of local
+ knowledge, mastery through long practice and the ability to "think on
+ one's feet," and adapt to changing circumstances.
+
+ Odysseus who 
+
