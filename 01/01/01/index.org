@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 1. Metis Contents
+* 1. Mētis Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/01/01/01/index.org
@@ -34,11 +34,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./abstract.org][Abstract]]
 
 ** Notes
-  - Metis (Μῆτις - "wisdom," "skill," or "craft")
+  - Mētis (Μῆτις - "wisdom," "skill," or "craft")
   - as defined by Scott SEE p.311
 
 #+begin_quote
-Broadly understood, metis represents a wide array of
+Broadly understood, mētis represents a wide array of
 practical skills and acquired intelligence in responding to
 a constantly changing natural and human environment.
 
@@ -123,7 +123,7 @@ Beautiful day
      - Autochthonic -- native evolved organically
      - Transactive  -- distributed memory, making things
                        more opaque.
-     - Metis as mastery -- "an accumulation of many, partly
+     - Mētis as mastery -- "an accumulation of many, partly
        redundent signals" ([[pdfview:~/proj/chenla/hoard/lib/scott:1998seeing.pdf::329][p.313]]) reinforced memories from
        doing or seeing the same thing over and over until it
        becomes something close to a learned instinct.
@@ -131,9 +131,9 @@ Beautiful day
 #+begin_quote
 The kind of knowledge required in such endeavors is not
 deductive knowledge from first principles but rather what
-Greeks of the classical period called metis, a concept to
+Greeks of the classical period called mētis, a concept to
 which we shall return. Usually translated, inadequately, as
-"cunning," metis is better understood as the kind of
+"cunning," mētis is better understood as the kind of
 knowledge that can be acquired only by long practice at
 similar but rarely identical tasks, which requires constant
 adaptation to changing circumstances.
