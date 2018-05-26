@@ -182,3 +182,8 @@ adaptation to changing circumstances.
     50th anniversary edition (2012), : The University of
     Chicago Press.
     cite:kuhn:2012sci-revolutions
+
+  - Keep, L., /Man as a rationalist animal/ (2017).
+    cite:keep:2017rationional-animal 
+  - Keep, L., /Science Under High Modernism/ (2018).
+    cite:keep:2018science-high-modernism
