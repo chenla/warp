@@ -1,6 +1,9 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 #+TITLE:   1. Metis Contents
+#+LINK: lib   ~/proj/chenla/hoard/lib/ 
+#+LINK: bib   ~/proj/chenla/hoard/bib.bib
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -30,23 +33,35 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
 
----
-     - Metis -- as defined by Scott SEE p.311
-     - An intense idosyncratic wisdom or knowledge of a
-       locale, knowledge about how things work in a specific
-       place, not in general or globally.  A common farming
-       adage I heard as a child growing up in New England,
-       was that if corn was "knee high by the fourth of
-       July" it indicated an important benchmark that you
-       had a good crop.  After several years observation, I
-       came to the conclusion that the phrase was not coined
-       by a New England farmer.  A brief search on the term
-       turned up no origin for the term, but did show that
-       for most 19th century farmers in the mid-west United
-       States this was a not a bad rule of thumb.  By the
-       late 20th century, the introduction of new corn
-       varieties and high yield hybrids, corn is more likely
-       to be "as high as an elephant's eye"
+** Notes
+  - Metis (Μῆτις - "wisdom," "skill," or "craft")
+  - as defined by Scott SEE p.311
+
+#+begin_quote
+Broadly understood, metis represents a wide array of
+practical skills and acquired intelligence in responding to
+a constantly changing natural and human environment.
+
+— Scott, Seeing Like A State 
+  cite:scott:1998seeing, [[pdf:scott:1998seeing.pdf::330][p.313]]
+#+end_quote
+
+
+  - An intense idosyncratic wisdom or knowledge of a
+    locale, knowledge about how things work in a specific
+    place, not in general or globally.  A common farming
+    adage I heard as a child growing up in New England,
+    was that if corn was "knee high by the fourth of
+    July" it indicated an important benchmark that you
+    had a good crop.  After several years observation, I
+    came to the conclusion that the phrase was not coined
+    by a New England farmer.  A brief search on the term
+    turned up no origin for the term, but did show that
+    for most 19th century farmers in the mid-west United
+    States this was a not a bad rule of thumb.  By the
+    late 20th century, the introduction of new corn
+    varieties and high yield hybrids, corn is more likely
+    to be "as high as an elephant's eye"
 
        Note: “The corn is as high as an elephant’s eye, /
                An' it looks like it's climbin' clear up to the sky"
