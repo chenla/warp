@@ -64,7 +64,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - [[./intro.org][Introduction]]
    - 01. [[./01/index.org][Mētis]]
    - 02. Episteme
-   - 03. Paradigm
+   - 03. [[./03/index.org][Paradigm]]
      - definition
        - Aristotle
          - argument or dispute
