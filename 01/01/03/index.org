@@ -31,4 +31,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-
+  - definition
+    - Aristotle
+      - argument or dispute
+      - Prior Analytics book 2 chap 24 (69a1).
+        Rhetoric book 1 chap 2 [1356b]
+        Rhetoric book 2 chap 20 [1393a-b]  
+    - kuhn
+       - belong to a community 
+    - reclaiming
+    - our definition
+  - worldview
