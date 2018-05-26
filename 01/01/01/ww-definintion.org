@@ -37,6 +37,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
  knowledge, mastery through long practice and the ability to "think on
  one's feet," and adapt to changing circumstances.
 
+#+begin_quote
+There is no doubt that metis is a type of intelligence and of thought,
+a way of knowing; it implies a complex but very coherent body of
+mental attitudes and intellectual behaviour which combine flair,
+wisdom, forethought, subtlety of mind, deception, resourcefulness,
+vigilance, opportunism, various skills, and experience acquired over
+the years. It is applied to situations which are transient, shifting,
+disconcerting. and ambiguous, situations which do not lend themselves
+to precise measurement, exact calculation or rigorous logic. Now, in
+the picture of thought and intelligence presented by the philosophers,
+the professional experts where intelligence was concerned, all the
+qualities of mind which go to make up mētis, its sleights of hand, its
+resourceful ploys and its stratagems, are usually thrust into the
+shadows, erased from the realm of true knowledge and relegated,
+according to the circumstances, to the level of mere routine, chancey
+inspiration, changeable opinion or even charlatanerie, pure and
+simple.
+
+—  Marcel Detienne and Jean Pierre Vernant
+   cite:detienne:1991cunning-greek, [[pdf:detienne:1991cunning-greek.pdf::8-9][p.3-4]]
+#+end_quote
+
+
  Odysseus who 
 
 #+begin_quote
@@ -49,8 +72,12 @@ clearly revealed in a theoretical work that aims to define it.
 It always appears more or less below the surface, immersed
 as it were in practical operations which, even when they
 use it, show no concern to make its nature explicit or to
-justify its procedures. To this extent modern Greek scholars,
+justify its procedures.
 
-cite:detienne:1991cunning-greek, [[pdf:detienne:1991cunning-greek.pdf::8][p.3]]
-
+ — Marcel Detienne and Jean Pierre Vernant,
+   Cunning intelligence in Greek culture and society (1991)
+   cite:detienne:1991cunning-greek, [[pdf:detienne:1991cunning-greek.pdf::8][p.3]]
 #+end_quote
+
+This is not much different to Kuhn's concept of a paradigm, at least
+before the publication of /structure/.  
