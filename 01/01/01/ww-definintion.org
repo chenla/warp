@@ -39,3 +39,18 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
  Odysseus who 
 
+#+begin_quote
+This brings us to the second type of reason for the
+difficulties and—we believe—the interest of our undertaking.
+Although mētis operates within so vast a domain, although
+it holds such an important position within the Greek system
+of values, it is never made manifest for what it is, it is never
+clearly revealed in a theoretical work that aims to define it.
+It always appears more or less below the surface, immersed
+as it were in practical operations which, even when they
+use it, show no concern to make its nature explicit or to
+justify its procedures. To this extent modern Greek scholars,
+
+cite:detienne:1991cunning-greek, [[pdf:detienne:1991cunning-greek.pdf::8][p.3]]
+
+#+end_quote
