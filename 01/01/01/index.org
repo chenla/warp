@@ -211,3 +211,7 @@ metalinguistic reflection.
     cite:keep:2017rationional-animal 
   - Keep, L., /Science Under High Modernism/ (2018).
     cite:keep:2018science-high-modernism
+
+  - Galison, P., Image and logic: a material culture of
+    microphysics (1997), : University of Chicago Press.
+    cite:galison:1997image-logic
