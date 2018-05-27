@@ -36,3 +36,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+- Shapere, D., The structure of scientific revolutions, The
+  Philosophical Review, 73(3), 383 (1964).
+  http://dx.doi.org/10.2307/2183664
+  cite:shapere:1964structure
