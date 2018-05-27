@@ -36,6 +36,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+- Masterman, M., The nature of a paradigm, In (Eds.),
+  Criticism and the Growth of Knowledge (pp. 59–89)
+  (1970). : Cambridge University Press.
+  cite:margaret:1970nature
 - Shapere, D., The structure of scientific revolutions, The
   Philosophical Review, 73(3), 383 (1964).
   http://dx.doi.org/10.2307/2183664
