@@ -359,3 +359,8 @@ this planet.
 - Kant, I., Guyer, P., & Wood, A. W., Critique of pure
   reason (1998), : Cambridge University Press.
   cite:kant:1998pure-reason
+
+- Shapere, D., The structure of scientific revolutions, The
+  Philosophical Review, 73(3), 383 (1964).
+  http://dx.doi.org/10.2307/2183664
+  cite:shapere:1964structure
