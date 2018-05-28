@@ -43,5 +43,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 - Wikipedia, , /Sketch for a historical picture of the progress of the
   human mind --- Wikipedia, the free encyclopedia/ (2018).
   cite:wiki:2018condorcet-sketch 
-
+- J., B., The idea of progress: an inquiry into its origin and growth
+  (1920), : Macmillan and Co.
+  cite:bury:1920progress
 
