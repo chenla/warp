@@ -47,3 +47,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
   (1920), : Macmillan and Co.
   cite:bury:1920progress
 
+- Nisbet, R., Idea of progress: a bibliographical essay by robert
+  nisbet , Literature of Liberty, 2(1), 7–37 (1979).
+  cite:nisbet:1979idea-of-progress 
