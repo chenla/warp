@@ -33,6 +33,70 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 
+
+
+So how do we degin a paradigm that is machine
+understandable?
+
+First let's think of a paradigm in terms of succession
+stages.  No paradigm exists outside of the paradigm that it
+is replacing, or the idea that kuhn uses of different people
+coming up with lists of observations and coming up with
+different schemes of getting them to work together as a
+theory.  Each paradigm is built on top of the paradigm that
+cam before it.  It inherits terminology from the previous
+paradigm, and then goes on not to replace what came before
+it but expand on it and provide a finer grained
+understanding of it.  As in Physics, each paradigm doesn't
+replace, it refines it and allows it to work at deeper and
+deeper scales.  Newtonian Physics still work fine at
+specific scopes -- when you venture outside of that scope,
+Relativity kicks in and provides a deeper explanation and
+provides a fix for anomolies in Newton.
+
+  - Classical Mechanics
+    - Relativity
+     - Quantum Theory
+
+A paradigm is made up of work done by a number of different
+people at different times.  Relativity provided the
+framework for the new paradigm then others came in and
+expanded horizontially filling in the bits, often in the
+form of verification, that wasn't included in the first
+iteration.
+
+Part of a paradigm's scope is its community  
+
+The most difficult part is that there is no single set of
+rules that define the paradigm -- but there are theories,
+parameters.
+
+A paradigm is a bit like knowledge -- knowledge is not
+information, it is what happens when you take information
+and weave it into your head, knowledge is all of the
+connections and patterns and memories that that information
+becomes part of.  The sum of all knowledge in a person's
+head constitutes a map, a worldview.
+
+A paradigm could be thought of as knowledge within a
+community -- a community is made up of individuals, so
+members have to externalize what is in their head, divide
+that knowledge into specialities that are kept in living
+memory by different parts of the community
+
+To learn a paradigm all members in the community have to
+load all or at least a critical amount of the externally
+recorded information that is part of the paradigm into your
+their heads and through deliberate practice -- where each
+repetition is slightly different than the last, this is why
+there are exercises at the back of chapters -- so you can
+reinforce memory and gain a broader feeling for how
+something works and the limits of how it can be used.
+
+
+
+
+
 ** References
 
 
