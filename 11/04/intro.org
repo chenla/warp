@@ -30,9 +30,37 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
-** TL;DR
+
 ** References
 
 
-
+- Sennett, R., The Craftsman (2009), : Penguin.
+  cite:sennett:2008craftsman 
+- Pang, A. S., /Darwin was a slacker and you should be too/
+  (2017).
+  cite:pang:2017darwin-slacker
+- Pang, A. S., Rest: why you get more done when you work
+  less (2016), : Basic Books.
+  cite:pang:2016rest
+- Leonard, G., Mastery. the keys to success and long term
+  fulfillment (1992), : Plume.
+  cite:leonard:1992mastery
+- Greene, R., Mastery (2012), : Viking Adult.
+  cite:greene:2012mastery
+- Davis, J., Two awesome hours: science-based strategies to
+  harness your best time and get your most important work
+  done (2015), : HarperOne.
+  cite:davis:2105two
+- Ericsson, K. A., Krampe, R. T., & Tesch-R\"omer, Clemens,
+  The role of deliberate practice in the acquisition of
+  expert performance., Psychological review, 100(3), 363
+  (1993).
+  cite:ericsson:1993role
+- Newport, C., Deep work: rules for focused success in a
+  distracted world (2016), : Grand Central.
+  cite:newport:2016deep-work
+- Csikszentmihalyi, M., Flow: the psychology of optimal
+  experience (2008), : Harper Perennial Modern Classics.
+  cite:csikszentmihalyi:2008flow
+- Woolf, V., A room of one's own (2004), : Penguin Books.
+  cite:woolf:2004room
