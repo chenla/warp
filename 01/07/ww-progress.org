@@ -40,3 +40,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   posthumous work of the late m. de condorcet. (translated from the
   french.)/ (1796).
   cite:condorcet:1796outlines
+- Wikipedia, , /Sketch for a historical picture of the progress of the
+  human mind --- Wikipedia, the free encyclopedia/ (2018).
+  cite:wiki:2018condorcet-sketch 
+
+
