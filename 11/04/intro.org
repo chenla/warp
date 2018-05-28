@@ -64,3 +64,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
   cite:csikszentmihalyi:2008flow
 - Woolf, V., A room of one's own (2004), : Penguin Books.
   cite:woolf:2004room
+- Sennett, R., The pnyx and the agora, In (Eds.), Designing
+  Politics: the limits of design (pp. 6–9) (2016). : London
+  School of Economics and Political Science.
+  cite:sennett:2016pynx
+- Graham, P., /Maker's schedule, manager's schedule/ (2009).
+  cite:graham:2009maker-manager 
+- Markst, M. '., /The importance of deep work & the 30-hour
+  method for learning a new skill/ (2018).
+  cite:azeria:2018deep-work
