@@ -44,5 +44,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Otium
     - A Room of One's Own
   - Negotium
-
+    - stoa and the agora (moving gradually from public to
+      private)
+    
 
