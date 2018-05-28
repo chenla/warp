@@ -73,3 +73,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
 - Markst, M. '., /The importance of deep work & the 30-hour
   method for learning a new skill/ (2018).
   cite:azeria:2018deep-work
+- Olah, C., & Carter, S., Research Debt, Distill, 2(3),
+  (2017).  http://dx.doi.org/10.23915/distill.00005
+  cite:olah:2017research-debt 
+- Umberto Eco, C. M. F., How to write a thesis (2015), : The
+  MIT Press.
+  cite:eco:2015how
+  Wilson, E. O., Letters to a young scientist (2013), : Liveright.
+- cite:wilson:2013letters 
