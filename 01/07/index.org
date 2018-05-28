@@ -109,7 +109,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Analysis
      - External Review
      - Consensus
-   - 07. Progress
+   - 07. [[./ww-progress.org][Progress]]
      - not same as growth
      - The unveness of progress
        progress is not evenly distributed
