@@ -46,7 +46,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 - J., B., The idea of progress: an inquiry into its origin and growth
   (1920), : Macmillan and Co.
   cite:bury:1920progress
-
 - Nisbet, R., Idea of progress: a bibliographical essay by robert
   nisbet , Literature of Liberty, 2(1), 7–37 (1979).
   cite:nisbet:1979idea-of-progress 
+- Commager, H. S., The past as an extension of the present,
+  Proceedings of the American Antiquarian Society,, 79(1), 17–27
+  (1969).
+  cite:commager:1969past-extension
