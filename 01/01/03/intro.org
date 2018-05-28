@@ -114,7 +114,13 @@ use the information in the paradigm to be structured in the
 way the community understands.  It becomes an externalized
 proto-map which is more useful than a heap.
 
-
+We will not use the word paradigm at all in the system -- we
+only need to define this as an externalized  community map.
+If we can pull this off, then each person's personal copy of
+the map will be a shadow of a person's worldview -- so we
+can offload things to the external map, to free up working
+memory and even long term memory and make it easier to
+remember things.
 
 ** References
 
