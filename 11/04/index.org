@@ -37,8 +37,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Context
     - Process
   - Mastery
+    - Mētis
+    - Deep Work
   - Practice
+    - Flow
   - Otium
+    - A Room of One's Own
   - Negotium
 
 
