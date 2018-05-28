@@ -93,7 +93,26 @@ there are exercises at the back of chapters -- so you can
 reinforce memory and gain a broader feeling for how
 something works and the limits of how it can be used.
 
+So you typically start with a thought experiment -- an
+extremely simple model that is easy to understand.  You then
+introduce the specific terminology that is used within the
+community.  Only then can you look at an equation, or a
+hypothesis and start playing with it -- solve the equation
+using a number of different inputs.  Read papers by
+different people working on different aspects of the
+problem.  Then start taking notes and work out how you
+understand it and fits into what you already know.
 
+The code we need is not to describe the paradigm but to
+create a framework for structuring all of the things that
+are part of us, showing the relationship between
+everything.  Then a person can use this as an external map
+for learning the paradigm, and eventually machine-cog will
+be powerful enough to learn it too.  All we can hope to do
+is to encode the info so that we can start making tools that
+use the information in the paradigm to be structured in the
+way the community understands.  It becomes an externalized
+proto-map which is more useful than a heap.
 
 
 
