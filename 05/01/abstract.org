@@ -37,3 +37,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+
+What is the history of identity models -- how did they
+evolve, extend and externalize?
+
+Was a person's identity different before speech?
+What was a person's identity in the oral tradition?  
+
+We have always had muliple roles -- personal, as parent, as
+child, as specialist, as member of a tribe.
+
+How does state legibility impact identity?
+  - names -- legible names
+  - changing names becomes difficult
+  - changing family identity with a shared history and
+    geneology
+  - tie property to an identity
+  - tie liability to an identity
+  - tie wealth to an identity 
