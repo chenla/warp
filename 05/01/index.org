@@ -31,6 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - Legibility
   - Rights
@@ -54,6 +55,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Authentication
   - Life Stages
   - Enity Model
-    - Identity
+    - Stage of Life
     - Persona
-    - Roles
+    - Role
