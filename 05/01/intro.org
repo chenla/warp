@@ -31,13 +31,113 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
-** TL;DR
+#+begin_quote
+“I am large, I contain multitudes.”
 
+– Walt Whitman
+#+end_quote
 
+Identities are complex.  They are so complex and so deeply part of
+what we are that they are difficult to understand.  We are social
+creatures whether we like it or not.  And identity is only important
+as a means of defining where one ends and another begins.  Other
+people determine our identities, even though at first blush this seems
+wrong.  But without other people there is no identity, there is only
+the self which doesn't require a name, or relationships to other
+people or obligations or rights or much of anything.  Without other
+people there is only the distinction between you and the outside world
+and how you determine what is trying to kill you, or will help you
+survive.  You don't need an identity for that, only a concept of self
+as being distinct from the rest of the world, and perhaps some drive
+for self preservation.
 
-      what is the origin of the military rule that junior officers speak first to
-      avoid intimidation by senior officers
+Since we have different relationships to different people and
+different groups of people, and belong to different places within the
+social order depending on what your relationship is, we do not have a
+single identity.  Before the Internet, this was normal.  We all play
+different roles, that have different requirments that wall off
+different apsects of our lives depending on what we are doing and who
+we are doing it with.  If you had a role as college student, that role
+was separate from the role as daughter or sister, or church member, or
+as the drummer in a punk band, or as party animal on holiday during
+spring break.  We had a reasonable expectation that what happened in
+Vegas stayed in Vegas.  And that unless you diliberately told people
+about something you did in a different role, you had a reasonable
+expectation that most people wouldn't find out about it, unless you
+did something really stupid that transcended role boundries.  Your
+school could probably find out what you did on Spring Break, but it
+would require more than a little effort and resources to do so.  And a
+decade later when you had become a manager in a software company, it
+wouldn't even occur to most people to try to find out what you had
+done as an undergrad.  In fact our first reaction would be, that it's
+none of the schools business what happened so long as it didn't impact
+your role as employee.
+
+The Internet changed all of that, not because people changed, but the
+fences between roles no longer existed, because those who built social
+media and other services never bothered to develop an identity model
+that reflected how people really live.  What you did on Spring Break
+was all lumped together with your Physics homework, and what music you
+listen to, and who you are dating, and the school and your parents and
+the state all see it as if it were part of each of those separate roles.
+
+Social Media forces us to live in a [[https://en.wikipedia.org/wiki/Panopticon][Panopticon]] that has no privacy, no
+walls no boundries.  This is a perverse way to live.  It has stripped
+us of our freedom, our dignity and any way of living a normal life.
+
+ Identity
+     |
+   Stage of Life
+        |
+        `-> Persona
+               |
+               `-> Role
+               
+* Identity
+
+Is a concept, which, like a work in FRBR only exists as a concept.  In
+practical terms, an identity will be the sum total of the personas and
+roles that a person has.
+
+We can create a container for all of this to be collected into a
+single place but perhaps we couldn't.  Perhaps an identity is really
+just a concept.  If there is a root place where all of the parts of
+your identity are collected, it becomes centralized and subject to the
+$5 Wrench Law.  Just knowing that it exists compromises you.
+
+* Persona 
+
+A persona is actually little more than a namespace which is used by
+all of the roles that are played in that namespace.  A persona has a
+backstory, reputation, property, assets etc.
+
+It's actually difficult to live multiple personas at the same time
+without leaking between them.  This is not a normal thing to do and if
+you try to do it, it is very difficult.  But this doesn't mean that
+personas are not important becuase our lives are never lived out in a
+single persona, but broken into different personas that correspond to
+different stages of your life.
+
+* Role
+
+Every person's life is made up of many different, overlapping roles
+that we play.  Each role has a different set of relationships with
+other people, and groups.  A role may have different responsibilities
+and obligations, different access right and privileges.  Roles often
+overlap with each other often we do things in more than one role at
+the same time.  Roles can be owned by an organization, such as a job
+title, which the person playing is just one of many.  A CEO of a large
+company had other persons play that role in the past and others who
+will play it in the future.  While you are in that role there are a
+wide range of things that come with it, from access, power, money and
+time constraints which will be lost when you are no longer playing
+that role.
+
+* Instance
+
+An instance of a role (I don't like the name) is typically something
+like a bank account, email address, account on social media, a drivers
+licence, an educational degree or certification, citizenship etc.
 
 ** References
 
@@ -52,3 +152,106 @@ bibliography:~/proj/chenla/hoard/bib.bib
   encyclopedia/ (2017).
   cite:wiki:2017dunbars-number
 
+*** Original References (not in bib.bib)
+
+ - [[http://www.nypost.com/p/news/national/buddy_brain_drain_n03pXeF8wGS5EEfCEOtKoI][Buddy Brain Drain]] | Robin Dunbar, New York Post, 2010/01/25
+ - [[http://harvardmagazine.com/2010/05/networks-neolithic-now?page=all][Networks Neolothic to Now]] | Elizabeth Gudrais, Harvard Magazine, 2010/May-June
+ - [[http://harvardmagazine.com/2010/05/networked][Networked]] | Robin Dunbar
+ - [[http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html][The Dunbar Number as a Limit to Group Sizes]] | Christopher Allen
+   Life With Alacrity (Blog), 2004/03/10
+ - [[http://en.wikipedia.org/wiki/Dunbar's_number][Dunbar number]] | Wikipedia (accessed 2011/08/26)
+
+
+ - [[http://en.wikipedia.org/wiki/Interpersonal_ties][Interpersonal ties]] | Wikipedia (accessed 2011/08/26)
+ - [[http://www.stanford.edu/dept/soc/people/mgranovetter/documents/granstrengthweakties.pdf][The Strength of Weak Ties]] | Granovetter, Mark S. (1973). 
+   Amer. J. of Sociology, Vol. 78, Issue 6, May 1360-80.
+ - [[http://www.si.umich.edu/~rfrost/courses/SI110/readings/In_Out_and_Beyond/Granovetter.pdf][The Strength of the Weak Tie: Revisited]] | Granovetter, Mark S. (1983)
+   Sociological Theory, Vol. 1, 201-33.
+ - [[http://www.connectedthebook.com/][Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives]] |
+   Nicholas Christakis & James Fowler
+   http://www.amazon.com/Connected-Surprising-Power-Social-Networks
+ - [[http://www.digitalcenter.org/pages/site_content.asp?intGlobalId=20][Digital Future Report]] | Annual report 2000-2011
+   Center for the Digital Future
+ - [[http://www.hpl.hp.com/research/idl/papers/facebook/facebook.pdf][Rhythms of Social Interaction: Messaging within a Massive Online Network]] |
+   Scott A. Golder, Dennis Wilkinson and Bernardo A. Huberman. 
+   3rd International Conference on Communities and Technologies
+   (CT2007). East Lansing, MI. June 28-30, 2007.
+   http://www.hpl.hp.com/research/idl/papers/facebook/index.html (abstract)
+ - [[http://www.thoughtcrumbs.com/publications/burke_chi2010_sns_and_wellbeing.pdf][Social Network Activity and Social Well Being]] | Burke, M.,
+   Marlow, C., and Lento, T. (2010)
+   ACM CHI 2010: Conference on Human Factors in Computing Systems, 1909-1912
+ - Burke has a lot of other papers listed at http://www.thoughtcrumbs.com/
+ - [[https://www.escholar.manchester.ac.uk/uk-ac-man-scw:2g20][The problem of conflicting social spheres]]
+   Binder, Jens; Howes, Andrew; Sutcliffe
+   AlistairIn: Boston, MA, USA. 2009. p. 965-974.
+ - [[http://www.cs.ucsb.edu/~ravenben/publications/pdf/interaction-eurosys09.pdf][User Interactions in Social Networks and Their Implications]]
+   Christo Wilson, Bryce Boe, Alessandra Sala, Krishna P. N. Puttaswamy 
+   Ben Y. Zhao, ACM EuroSys, 2009
+   http://www.cs.ucsb.edu/~ravenben/publications/abstracts/interaction-eurosys09.html (abstract)
+ - [[http://www.ted.com/talks/stefana_broadbent_how_the_internet_enables_intimacy.html][Stefana Broadbent: How the Internet enables intimacy]] | TED
+   Global 2009, filmed Jul 2009, posted Nov 2009
+ - [[http://pewinternet.org/Reports/2010/Teens-and-Mobile-Phones.aspx][Teens, Cell Phones and Texting]] 
+   Amanda Lenhart, Senior Research Specialist 
+   Pew Internet & American Life Project, April 20, 2010
+   http://pewresearch.org/pubs/1572/teens-cell-phones-text-messages (summary)
+ - [[http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Tech_and_Social_Isolation.pdf][Social Isolation and New Technology]] | 
+   Keith Hampton, Lauren Sessions Goulet, Eun Ja Her, Lee Rainie
+   Pew Internet & American Life Project, Nov 4, 2009
+ - [[http://pewinternet.org/Reports/2010/Social-Media-and-Young-Adults.aspx][Social Media & Mobile Internet Use Among Teens and Young Adults]]
+   Amanda Lenhart, Kristen Purcell, Aaron Smith and Kathryn Zickuhr, 
+   Pew Internet & American Life Project, February 3, 2010
+   http://pewresearch.org/pubs/1484/social-media-mobile-internet-use-teens-millennials-fewer-blog (summary)
+ - [[http://www.pewinternet.org/~/media//Files/Reports/2009/PIP_Twitter_Fall_2009web.pdf][Twitter and Status Updating]], Fall 2009 | Susannah Fox, Kathryn Zickuhr, Aaron Smith,
+   Pew Internet & American Life Project, Oct 21, 2009.
+ - [[http://www.amazon.com/Rethinking-Friendship-Hidden-Solidarities-Today/dp/0691127425][Rethinking Friendship: Hidden Solidarities Today]] | Liz Spencer, Ray Pahl
+   Princeton University Press, August 21, 2006
+ - [[http://en.wikipedia.org/wiki/Cognitive_bias][Cognitive bias]] | Wikipedia
+ - [[http://en.wikipedia.org/wiki/List_of_cognitive_biases][List of cognitive biases]] | Wikipedia
+ - [[http://en.wikipedia.org/wiki/Bounded_rationality][Bounded rationality]] | Wikipedia
+ - [[http://en.wikipedia.org/wiki/The_Tipping_Point][The Tipping point]] | Wikipedia
+ - [[tp://www.amazon.com/Six-Degrees-Science-Connected-Age/dp/0393041425/][Six Degrees: The Science of a Connected Age]] | Duncan J. Watts, 
+   W. W. Norton & Company; 1st edition, February 2003
+ - [[http://bear.warrington.ufl.edu/weitz/mar7786/Articles/Goldenberg%20et%20al%202009%20hubs.pdf][The Role of Hubs in the Adoption Process]]
+   Jacob Goldenberg, Sangman Han, Donald R. Lehmann, & Jae Weon Hong 
+   Journal of Marketing 3/1/2009 
+   http://www.marketingpower.com/AboutAMA/Pages/AMA%20Publications/AMA%20Journals/Journal%20of%20Marketing/TOCs/SUM_2009.2/role_of_hubs_adoption_process.aspx (summary)
+ - [[http://marketing.wharton.upenn.edu/documents/research/Npd.pdf][Opinion Leadership and Social Contagion in New Product Diffusion]] 
+   Raghuram Iyengar, Christophe Van den Bulte, and Thomas Valente, 
+   2008 [08-120]
+ - [[http://www.danah.org/papers/][Danah Boyd's]] Publications
+ - [[http://ieeexplore.ieee.org/abstract/document/1579411/][Profiles as Conversation: Networked Identity Performance on Friendster]] 
+   Boyd, Danah & Jeffrey Heer
+ - [[http://www.danah.org/papers/HICSS2006.pdf][In Proceedings of the Hawai'i International Conference on System]]
+   Sciences (HICSS-39), Persistent Conversation Track. Kauai, 
+   HI: IEEE Computer Society. January 4 - 7, 2006.
+ - [[http://research.yahoo.com/files/p2393-gross.pdf][Addressing Constraints: Multiple Usernames, Task Spillage and Notions of Identity]]
+   Gross, B.; Churchill, E.F.
+   Source: CHI 2007, ACM Press, San Jose, CA, USA, p.2393-2398 (2007)
+   http://research.yahoo.com/node/2171 (abstract)
+ - [[http://bengross.com/pubs/ieee-sc09/ieee-sc09.pdf][Names of Our Lives]] | Ben Gross
+   CSE ’09. International Conference on Computational Science and Engineering, 
+   volume 4, pages 747–752, Vancouver, Canada, August 29–31, 2009.
+ - [[http://bengross.com/publications/][Ben Gross]]'s Publications
+ - [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.986&rep=rep1&type=pdf][Trust and nuanced profile similarity in online social networks]] | 2006
+   Jennifer Golbeck
+   http://dl.acm.org/citation.cfm?id=1594174 (abstract)
+ - [[http://www-personal.umich.edu/~ladamic/papers/trust/TengTrustWOSN2010.pdf][I rate you. You rate me. Should we do so publicly?]]
+   Chun-Yuen Teng, Debra Lauterbach, and Lada A. Adamic
+ - [[http://www.heinz.cmu.edu/~acquisti/papers/privacy-facebook-gross-acquisti.pdf][Information Revelation and Privacy in Online Social Networks]] (The Facebook case)
+   Pre-proceedings version. ACM Workshop on Privacy in the Electronic Society (WPES), 2005
+   Ralph Gross, Alessandro Acquisti, H. John Heinz III
+ - [[http://www.pewinternet.org/~/media//Files/Reports/2010/PIP_Reputation_Management_with_topline.pdf][Reputation Management and Social Media]]
+   Mary Madden, Aaron Smith
+   Pew Internet & American Life Project, May 26, 2010
+ - [[hoofnagle:2010different][How Different are Young Adults from Older Adults When it Comes to Information Privacy Attitudes and Policies?]]
+   Hoofnagle, Chris Jay, King, Jennifer, Li, Su and Turow,
+   Joseph, (April 14, 2010). 
+   Available at SSRN: http://ssrn.com/abstract=1589864
+ - [[http://www.bcs.org/upload/pdf/ewic_hc08_v1_paper11.pdf][Strategies and struggles with privacy in an online social networking community]]
+   Katherine Strater, Heather Richter Lipford
+   Proceeding BCS-HCI '08 Proceedings of the 22nd British HCI Group 
+   Annual Conference on People and Computers: Culture, Creativity, 
+   Interaction - Volume 1
+ - [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.7401&rep=rep1&type=pdf][Expandable grids for visualizing and authoring computer security policies]]
+   Robert W. Reeder, Lujo Bauer, Lorrie Faith Cranor, Michael K. Reiter, 
+   Kelli Bacon, Keisha How, Heather Strong
