@@ -63,7 +63,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - brain evolved faster than other animals in ecosystem
     - we escaped natural checks and balances that other predators deal
       with.
-  - 
+  - Cognitive
+    - Abstract Relationships
+    - Understanding relationships between others.
+    - Goals -- A, uses thing B for achieving the goal C
+    - Attributing Goals to Others.
+    - Ureate information connections between things.
   - Externalization
     - Transactive Nature
     - Social Cognition
