@@ -90,3 +90,6 @@ redefined as a common equally shared resource.
 ** References
 
 
+  - Morris, W., & Arata, S., News from nowhere (2002), :
+    Broadview Press.
+    cite:morris:2002news-nowhere
