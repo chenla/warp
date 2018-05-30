@@ -10,6 +10,22 @@
 
 bibliography:../hoard/bib.bib
 
+#+BEGIN_SRC sh :dir ~/proj/chenla/warp :results org drawer
+  words=$(find ./ -type f -name '*.org' -exec wc -w {} \; | awk '{ sum += $1 } END { print sum }')
+  pages=$(($words / 250))
+  echo "|dir|words|pages"
+  echo "|-"
+  echo "|" ${PWD##*/} "|" $words  "|" $pages
+  #+END_SRC
+
+#+RESULTS:
+:RESULTS:
+| dir  |  words | pages |
+|------+--------+-------|
+| warp | 142850 |   571 |
+:END:
+
+
 [top]
 
 * Warp & Woof Contents
