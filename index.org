@@ -158,7 +158,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./11/03/index.org][Methods]]
  - 04. [[./11/04/index.org][Mastery]]
  - 05. [[./11/05/index.org][Curriculum]]
-** XII. Governance
+** XII. Polity
  -[[./12/index.org][ Contents]]
  - Abstract
  - [[./12/intro.org][Introduction]]
