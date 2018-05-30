@@ -1,0 +1,39 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: XII. Polity Abstract
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* XII. Polity Abstract
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/12/abstract.org
+  :Created:   2018-05-30T07:09@Prek Leap (11.642600N-104.919210W)
+  :ID:        caeae198-b9b3-4a5d-9022-5907fd9fe714
+  :VER:       580911056.986333914
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:WTN2-0614
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+
+
+
+** TL;DR
+
