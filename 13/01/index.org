@@ -28,6 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - Private & Public
   - Nationalization & Privitization
