@@ -55,3 +55,14 @@ How does state legibility impact identity?
   - tie property to an identity
   - tie liability to an identity
   - tie wealth to an identity 
+
+Why didn't we develop an identity model for the Internet
+before?  Mostly because we still use an industrial-era
+identity model where all records were stored on physical
+media that wasn't easily copied, so there were only handful
+of copies, which were difficult to locate and get access
+to.  Not because of any great barriers put into place as
+protection, but simply because they were scattered, and you
+had to physically travel to a place and negotiate access
+each place according to local rules.  And even then all
+information was in a variety of organizational schemes.
