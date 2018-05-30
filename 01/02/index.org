@@ -28,9 +28,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - Abstract
   - [[./intro.org][Introduction]]
-
-  - Savannah Heritage
+  - Heritage
+    - Savannah
     - savannah ecosystem
     - high generalized biodiversity
     - clemant
@@ -39,7 +40,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
       motherfuckers to adapt and survive.
     - flexibily -> makes it easier to adapt to other
       climates/ecosystems
-  - Primate Heritage
+    - Primate
     - what advantages do primates have over other species
     - primate senses, compared to other animals
     - primate physical design
@@ -52,13 +53,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
       - means that we are exposed to environment earlier and can begin
         learning earlier.
       - core primate behaviors and instincts -- what is hardwired
+    - Ocean
+    - we have inherieted many things from living in water
+    - possibly will mitigate potential problems living in lower
+      gravity
   - The Accidental Apex
     - how we become an apex predator
     - we are designed to be in the middle of the food chain
     - brain evolved faster than other animals in ecosystem
     - we escaped natural checks and balances that other predators deal
       with.
-  - Ocean Ancestry
-    - we have inherieted many things from living in water
-    - possibly will mitigate potential problems living in lower
-      gravity
+  - 
+  - Externalization
+    - Transactive Nature
+    - Social Cognition
+    - Cultural Transmission
+      - Imitative
+      - Instructive
+      - Collaborative
+    - Tool Building
+    - Speech
+    - Writing
