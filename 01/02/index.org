@@ -28,7 +28,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Abstract
+  - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - Heritage
     - Savannah
