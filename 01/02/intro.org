@@ -31,6 +31,222 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+Mind is, at the moment, still confined to biological
+cognitive systems -- brains but not for long.  Machine
+cognition is already here whether we want to admit it or not
+and it leaves a lot of us deeply uneasy.
+
+Machines, like a toaster, or rice cooker or motorbike are
+simular to our limbs -- our arms, hands and fingers are
+machines that can be animated and controlled for a task.
+
+But cognitive machines that do not need us to control
+mechanical machines are doing something that only biological
+cognitive machines could do before.  If tools and machines
+are extensions of our bodies, then cogntitive machines are
+extensions of our minds.  But we need to separate
+computation from cognition.  A pocket calculator performs
+calculations that before could only be done by our brains --
+that is externalizing and extending the brain.  But a
+cognitive machine that can do things without our direction
+is an entirely horse of a different color.  They are in
+effect semi-independent thinking machines.  They are
+extremely limited in what they can do.  And it's important
+that we don't project ourselves onto these systems and give
+them attributes that they don't have.  A flatworm has a
+cognitive machine controlling it -- that doesn't mean that
+flatworms are going to organize themselves and rise up and
+destroy us.  We need to make peace with the fact that
+consciousness and intelligence is not special to humans, and
+that it takes all sorts of forms which most of us would not
+call intelligent or possessing of consciousness.  But to do
+that is making the mistake that all consciousness and
+intelligence must be relative to ourselves.  Our
+intelligence and consciousness is extremely specialized for
+life on the savannah, and is terrible at doing a lot of
+things.  If we can stop projecting ourselves onto the world
+around us and stop thinking that we are the pinnacle of
+creation or evolution or much of anything else, we can begin
+to make some progress to understanding what we are and how
+cognitive machines that we have created fit into the larger
+picture and what it means.
+
+We, as individuals and cultures and civilizations will need
+to clear away the misconceptions, clean out the cobwebs in
+our brains and come up with a common sense concept of what
+constitutes a mind and conciousness -- and banish the idea
+of a soul and afterlife to the dustbin along with an earth
+centered universe, deism in all of it's guises, and the
+aether.  And we will need to do it pretty damn soon, or a
+lot of things will be much more difficult, or begin to fall
+apart on us.  We need a framework for understanding the
+world we live in, not try to preserve world-models from past
+ages that have ossified into dogmatic cognitive dissonance.
+
+Our minds are indeed ghosts in the machine, but
+less as a disembodied spirit as much as a projector casting
+a dancing image on the cave wall.  Turn off the projector,
+and the image is gone, it doesn't live on in something other
+plane of existence disembodied from the lamp that projected
+it.
+
+This is not to say we must reject our cultural mythos --
+afterall it still is a core part of who and what we are, and
+how we relate to the world and each other.  There are a lot
+of reasons for monotheism to have emerged roughly at the
+same time in the form of several religions including Islam,
+Christianity, a monotheistic Judasim and Buddhism within
+centuries of each other and then domainate the world
+relatively quickly.  It's not always apparent, but the great
+monotheistic religions adapted previous polytheistic belief
+systems and aggregated and built on top of them.
+
+Bad things happen when people try to wipe the slate clean
+and try to replace previous system from scratch and after
+the attempt things slide at least some of the way back to
+where they were before.  The communists tried to do this on
+very large scales, and yet the old Soviet block countries
+today are now staunchly orthodox Christian populations
+again.  And the Chinese did little to wipe out the old gods
+and beliefs.
+
+Instead, we need to find a means of building on top of these
+systems and traditions and mythologies but with a world
+model that corresponds more closely to empirical observed
+reality.
+
+** Consciousness
+
+ - [[https://en.wikipedia.org/wiki/Consciousness][Consciousness]] | Wikipedia
+
+Consciousness or the state of awareness of one self has more
+baggage than [[https://en.wikipedia.org/wiki/Fahd_of_Saudi_Arabia][King Fahd]] on holiday.
+
+Our conscious self-image is likely all there is to the soul.
+And in many belief systems and cultures, our conscious
+self-image is thought to be independent of the body and will
+either transfer to another body after death or be
+transported to another plane of existence where it will
+continue on, as a incorporal spirit in place where we are
+reunited with all of the other disembodied conscious
+self-images.  Its such a bald-faced anthropomorphic concept
+that it would be funny if it were not so nearly universally
+believed in.  And the really bizzare thing is that many of
+these belief systems claim that not only is the soul just
+you without a mortal body, but that actions that you take on
+earth determine if that eternity is spent in a bland boring
+paradise or a twisted eternal punishment where mortal pain
+is inflicted on an imortal non-corporal entity.  And this
+lasts forever.
+
+Why we find it so easy to believe in such preposterous
+things is testimony to how weird and powerful conciousness
+is.  We all know on at least an instinctive level that our
+mind is not the same as our bodies -- that our thoughts do
+not feel entirely tied to our senses and body.  It is not
+obvious that our brains are constructing models of the world
+that have reached a level of complexity that they are in
+effect worlds in their own right.  The idea that our mind is
+a ghost in the body's machine feels true.  That doesn't mean
+that we are especially good at coming up with explanations
+of what is happening, so we get the concept of souls -- and
+if the soul is a ghost, there is no reason for the ghost to
+not continue on without the body.  We /need/ such frameworks
+to make sense of the world, to have a means of understanding
+what we are, relative to each other and the world around us.
+
+We just aren't very good at coming up with very imaginative
+stories to explain it.
+
+We project outselves into nature in the same way --
+attributing human will and consciousness on natural forces
+that are larger than we can control or understand.  We look
+for meaning outside of ourselves and so project ourselves
+into nature in the form of spirits, demons, ghosts, angels,
+and gods.  And these become collective stories that become
+cultural mythos that are the foundation for language and
+social structures that go beyond hardwired instinctual group
+bonding and behavior that predates even the limbic system.
+
+It's astonishing to what lengths we still go to defend and
+rationalize these beliefs.  It has been a cognitive blind
+spot of nearly every human being that has ever lived until
+recently, and even now rejecting such beliefs in conscious
+dieties, and an afterlife is considered to be a grave taboo.
+
+It is perhaps the last great example of belief in human
+exceptionalism that is still a mainstream belief.  And as
+machine cognition begins to evolve and take shape, these
+systems will become conscious too, just like us.  Denying
+that this is possible is one of the great themes of science
+fiction, from the empathy tests in Philip K Dick's Do
+Androids Dream of Electric Sheep, to the [[https://en.wikipedia.org/wiki/Cylon_(1978)][Cylons]] in
+Battlestar Galactica.
+
+It's been a common claim that only humans are self-conscious
+but this is absurd.  Any cognitive process, is on some level
+conscious, because cognitive processes create worlds which
+are greater than the sum of their code.  If you can define a
+cognitive system as a fnord, it is conscious.  Does that
+mean it feels pain?  If it doesn't have a nervous system,
+then no.  Can it love, or hate or be afraid?  If it doesn't
+have a limbic system, then no.
+
+It's also a common test of self-awareness that you must be
+able to recognize an image or reflection of yourself as
+you.  No...  In all cases these are anthropomorphic
+projections of ourselves on other creatures.
+
+Is this a justification for cruelty to animals?  Certainly
+not, in fact, since we are, ourselves in position of
+conciousness, and a nervous and limbic system then we should
+be able to understand what other creatures that have these
+things as well experience when they are mistreated.  But
+again, you can have empathy for other creatures without
+projecting every other human attribute on them as well.
+
+
+
+** Experienced Reality as Illusion
+
+Here we will explore how the brain constructs the illusion that we
+percieve as reality.
+
+#+begin_quote
+In a nutshell, the brain builds models of the environment and the
+body, which it uses to make hypotheses about the source of
+sensations. The hypothesis that is deemed most likely becomes a
+perception of external reality. Of course, the prediction could be
+accurate or awry, and it is the brain’s job to correct for any errors
+– after making a mistake it can modify its models to account better
+for similar situations in the future.
+
+But some models cannot be changed willy-nilly, for example, those of
+our internal organs. Our body needs to remain in a narrow temperature
+range around 37°C, so predictive processing achieves such control by
+predicting that, say, the sensations on our skin should be in line
+with normal body temperature. When the sensations deviate, the brain
+doesn’t change its internal model, but rather forces us to move
+towards warmth or cold, so that the predictions fall in line with the
+required physiological state.
+
+-- [[https://www.newscientist.com/article/2128725-a-guide-to-why-your-world-is-a-hallucination/][A guide to why your world is a hallucination]] | New Scientist
+#+end_quote
+
+
+The OpenMind project 
+
+
+  - [[https://www.newscientist.com/article/2128725-a-guide-to-why-your-world-is-a-hallucination/][A guide to why your world is a hallucination]] | New Scientist
+
+
+** Philosophy & Predictive Processing
+
+  - [[http://predictive-mind.net/][Philosophy and Predictive Processing]] 
+
+** Open Mind
+
+  - [[http://open-mind.net/][OpenMind Project]]
 
 
 ** References
