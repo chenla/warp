@@ -176,7 +176,39 @@ DANIEL M. WEGNER
 
 #+end_quote
 
-
 ** References
-
+  - Oshri, I., Fenema, P. V., & Kotlarsky, J., Knowledge
+    transfer in globally distributed teams: the role of
+    transactive memory, Information Systems Journal, 18(),
+    (2008).
+    http://dx.doi.org/10.1111/j.1365-2575.2007.00243.x
+    cite:oshri:2008transfer
+  - Hollingshead, A. B., Communication, learning, and
+    retrieval in transactive memory systems, Journal of
+    Experimental Social Psychology, 34(), (1998).
+    http://dx.doi.org/10.1006/jesp.1998.1358
+    cite:hollingshead:1998transactive
+  - Moreland, R. L., Transactive memory: learning who knows
+    what in work groups and organizations, Shared Cognition
+    in Organizations: The Management of Knowledge, (), 3–31
+    (1999).
+    cite:moreland:1999transactive
+  - Moreland, R. L., & Myaskovsky, L., Exploring the
+    performance benefits of group training: transactive
+    memory or improved communication?, Organizational
+    Behavior and Human Decision Processes, 82(1), 117–133
+    (2000).
+    cite:moreland:2000exploring
+  - Sparrow, B., Liu, J., & Wegner, D. M., Google effects on
+    memory: cognitive consequences of having information at
+    our fingertips, Science, 333(6043), 776–778 (2011).
+    cite:sparrow:2011google
+  - Wegner, D. M., Erber, R., & Raymond, P., Transactive
+    memory in close relationships., Journal of personality
+    and social psychology, 61(6), 923 (1991).
+    cite:wegner:1991transactive
+  - Wegner, D. M., Transactive memory: a contemporary
+    analysis of the group mind, In (Eds.), Theories of group
+    behavior (pp. 185–208) (1987). : Springer.
+    cite:wegner:1987transactive 
 
