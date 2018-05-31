@@ -1,0 +1,162 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 7. Principles Contents
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../index.org][top]]] [[[./index.org][index]]]
+
+* 7. Principles Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/07/index.org
+:Created:  2018-03-21T15:54@Prek Leap (11.642600N-104.919210W)
+:ID:       89567717-54f9-4114-93b4-5079795d2170
+:VER:      574894558.545678422
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:BVP7-1402
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
+
+  - 00. Getting rid of the onion
+    - Discard romanticism and her sister mysticism
+    - Discard dogmatism, but don't throw away good ideas
+      that happen to be part of discarded ideologies
+    - as complicated as it needs to be -- not reductionism,
+      which was the mistake that modernists made
+    - 00. Mutually exclusive and 
+    - 00. Irreducible
+    - 00. String Free
+    - 00. No Assumptions
+      - at best laws, but at least facts.
+    - 00. No Zero Day -- ab initio, not tabla rasa -- we build
+          on what works and what has worked -- if it doesn't
+          work then discard it, change the system to fit human
+          nature, not human nature to fit a system.
+    - 00. Don't be hasty -- things take as long to change as
+          they take.
+    - 00. Be relentless as well as patient.
+    - 00. The last to escape -- hope, don't give in to despair
+
+    - 01. Enlightenment
+       - Not Enlightenment
+         - High Modernism
+         - Romanticism
+         - Dishonorable Mentions
+         - Objectivism and Ayn Rand
+         - Malthusianism
+         - Libertarianism
+         - Lamarkism
+    - 02. [[./ww-humanism.org][Humanism]]
+
+    - Cogntive
+    - Structural
+    - Social
+
+
+    - 03. Rationality
+       - appealing to empirical based reasoning
+       - intuition (hunch) as a first guess that must be tested. 
+       - deduction (a priori/a postereriori)
+       - induction
+       - methodology in which truth is not sensory
+       - skepticism
+       - utilitarian
+       - pragmatic
+       - secular
+       - Enlightened Self-Interest
+       - Empathic Reciprocity
+    - 04. Democracy
+       - As goldilock zone between violence of anarchy and
+         violence of popularism/totalitarianism/oligarchies
+       - Egalitarian
+    - 05. Human Nature
+       - Human Scales: Self, Domus/Band, Polis
+    - 06. Science
+       https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
+      - Observation
+      - Empirical 
+        - evidence based
+      - Hypothesis development
+        - Any creative process From the poetic,
+          philosophical, brainstorming (which I call the
+          cathartic method (literally vomiting out ideas),
+          day dreams, sleep dreams, to booze, drugs and and
+          malarial fevers.  As Hunter Thompson might have
+          said, I wouldn't endorse all of them but they've
+          worked for me. As the scientist E O Wilson said, in
+          science you start as a poet and end as a
+          bookkeeper.
+      - Prediction
+     - Testable and repeatable
+     - Record/Document and Share
+     - Analysis
+     - External Review
+     - Consensus
+   - 07. [[./ww-progress.org][Progress]]
+     - not same as growth
+     - The unveness of progress
+       progress is not evenly distributed
+     - Evidence of Progress
+
+-----
+
+A Rule Set based on these principles that includes
+metasystems, patterns, parameters and theses which can
+generate a full set of articles.
+
+How to go about doing this?
+
+Pseudo-first-order-logic-code?
+
+MM3 provides base principles
+
+Not enlightenment provides canary tests
+
+Scientific process
+
+entity mode provides mulitple formats, wording etc for
+different targets.
+
+duck tests
+canary tests
+
+I sort of like the idea of leveraging rulesets as a
+framework for judges -- they go through each step in the
+process and act as the AI for determing if something
+applies or not.
+
+Common Law is a powerful concept, but it would be nice if
+each time a judge makes a ruling then the ruling will have
+it's own variation of the ruleset -- higher courts could
+then determine which variation is to be used.
+
+So where do we put ducks and canaries
+
+Ducks and Canaries are definitions as well as a tests -- so
+should they belong in patterns?  They are, after all a kind
+of pattern.
+
+Define living, dead, true, false, sentient, consent, adult,
+liable etc.
+
+Can baysian reasoning be used to define things like "beyond
+reasonable doubt?"
+
+

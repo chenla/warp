@@ -1,0 +1,38 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   2. The Accidental Apex Contents
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 2. The Accidental Apex Contents
+  :PROPERTIES:
+  :CUSTOM_ID:
+  :Name:      /home/deerpig/proj/chenla/warp/01/02/02/index.org
+  :Created:   2018-05-31T12:00@Prek Leap (11.642600N-104.919210W)
+  :ID:        e7aabeac-8c37-43e8-ae4e-b8334b5a9296
+  :VER:       581014887.080789143
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:VPC0-7687
+  :Class:     primer
+  :Entity:    toc
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
+  - how we become an apex predator
+  - we are designed to be in the middle of the food chain
+  - brain evolved faster than other animals in ecosystem
+  - we escaped natural checks and balances that other predators deal
+    with.

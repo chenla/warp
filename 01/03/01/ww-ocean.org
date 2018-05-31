@@ -1,0 +1,43 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 3. Ocean Heritage (chapter) 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 3. Ocean Heritage (chapter)
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/01/02/01/ww-ocean.org
+  :Created:   2018-05-31T10:17@Prek Leap (11.642600N-104.919210W)
+  :ID:        2e66f280-9977-46f9-a3af-1b54a8faf44b
+  :VER:       581008703.025820665
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:TGS0-4030
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Contents
+- we have inherieted many things from living in water
+- possibly will mitigate potential problems living in lower
+  gravity
+
+** Scope
+** TL;DR
+** References
+
+

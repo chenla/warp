@@ -1,0 +1,37 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   4. Human Boundries Contents
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 4. Human Boundries Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/06/04/index.org
+:Created:  2018-05-24T18:40@Prek Leap (11.642600N-104.919210W)
+:ID:       2d5904a5-14b4-4cea-88dc-7d7c22623cad
+:VER:      580434123.849812206
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:XKQ4-7885
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
+  - 01. [[./ww-environmental.org][Environmental]]
+  - 02. [[./ww-physiological.org][Physiological]]
+  - 03. [[./ww-human-nature.org][Human nature]]
+ 
+
