@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 5. Estrangement Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/05/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/06/intro.org
 :Created:  2018-03-21T18:52@Prek Leap (11.642600N-104.919210W)
 :ID:       20b34386-119b-40ba-b668-8a885192ca53
 :VER:      574905186.480630274

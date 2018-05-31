@@ -16,7 +16,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Alienation
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/05/ww-alienation.org
+:Name:     /home/deerpig/proj/chenla/warp/01/06/ww-alienation.org
 :Created:  2018-04-04T11:11@Prek Leap (11.642600N-104.919210W)
 :ID:       3d44545c-d199-4b2c-9685-006c3f096d5d
 :VER:      576087164.792241791

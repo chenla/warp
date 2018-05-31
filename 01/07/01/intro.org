@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 1. Systems Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/06/01/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/07/01/intro.org
 :Created:  2018-05-24T18:07@Prek Leap (11.642600N-104.919210W)
 :ID:       f683d863-a746-44a9-a7af-a813469196b1
 :VER:      580432142.972049438
