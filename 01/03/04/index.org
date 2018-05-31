@@ -16,7 +16,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 4. Social Cognition Contents
   :PROPERTIES:
   :CUSTOM_ID:
-  :Name:      /home/deerpig/proj/chenla/warp/01/02/04/index.org
+  :Name:      /home/deerpig/proj/chenla/warp/01/03/04/index.org
   :Created:   2018-05-31T12:10@Prek Leap (11.642600N-104.919210W)
   :ID:        7085ca1b-fcd0-49c6-8667-f8b0a4ffcd83
   :VER:       581015523.870149028

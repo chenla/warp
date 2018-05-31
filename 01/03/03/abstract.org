@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 3. Human Cognition Abstract
   :PROPERTIES:
   :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/warp/01/02/03/abstract.org
+  :Name:      /home/deerpig/proj/chenla/warp/01/03/03/abstract.org
   :Created:   2018-05-31T12:09@Prek Leap (11.642600N-104.919210W)
   :ID:        e4954c2d-d2db-4061-81f7-2c028d55fe11
   :VER:       581015413.825942001

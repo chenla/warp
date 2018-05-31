@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 2. Sapiens Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/02/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/03/intro.org
 :Created:  2018-05-17T11:42@Prek Leap (11.642600N-104.919210W)
 :ID:       4f815dcc-3965-4ab3-b5f9-bacfa0e17e08
 :VER:      579804207.164488384

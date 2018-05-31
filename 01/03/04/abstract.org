@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 4. Social Cognition Abstract
   :PROPERTIES:
   :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/warp/01/02/04/abstract.org
+  :Name:      /home/deerpig/proj/chenla/warp/01/03/04/abstract.org
   :Created:   2018-05-31T12:12@Prek Leap (11.642600N-104.919210W)
   :ID:        f4e1c198-dce8-4575-a190-c0cdf1a912e4
   :VER:       581015629.386111676

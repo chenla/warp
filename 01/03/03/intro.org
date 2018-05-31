@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 3. Human Cognition Introduction
   :PROPERTIES:
   :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/warp/01/02/03/intro.org
+  :Name:      /home/deerpig/proj/chenla/warp/01/03/03/intro.org
   :Created:   2018-05-31T12:09@Prek Leap (11.642600N-104.919210W)
   :ID:        054fd905-9078-4d41-bab5-c53578a4ef7c
   :VER:       581015459.200312768

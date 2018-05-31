@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 4. Social Cognition Introduction
   :PROPERTIES:
   :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/warp/01/02/04/intro.org
+  :Name:      /home/deerpig/proj/chenla/warp/01/03/04/intro.org
   :Created:   2018-05-31T12:13@Prek Leap (11.642600N-104.919210W)
   :ID:        f36b86b6-42a1-4404-a19e-9879fb3474bc
   :VER:       581015653.827867226

@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Heritage Introduction
   :PROPERTIES:
   :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/warp/01/02/01/intro.org
+  :Name:      /home/deerpig/proj/chenla/warp/01/03/01/intro.org
   :Created:   2018-05-31T10:11@Prek Leap (11.642600N-104.919210W)
   :ID:        7b880d96-f70f-45ec-b3a8-1aa1c5177381
   :VER:       581008354.964758975
