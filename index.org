@@ -62,7 +62,7 @@ bibliography:../hoard/bib.bib
  - [[./01/abstract.org][Abstract]]
  - [[./01/intro.org][Introduction]] 
  - 01. [[./01/01/index.org][Mētis > Episteme]]
- - 02 . Mind
+ - 02. [[./01/02/index.org][Mind]]
    - Mind
    - Consciousness
  - 03. [[./01/03/index.org][Sapiens]]
