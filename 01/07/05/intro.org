@@ -19,7 +19,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 5. Civilization Boundries Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/06/05/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/07/05/intro.org
 :Created:  2018-05-24T19:06@Prek Leap (11.642600N-104.919210W)
 :ID:       89048ef4-2ad1-4b28-b5b2-9f0d00aa0fb4
 :VER:      580435640.276766111

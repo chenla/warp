@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * Human Nature
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/06/04/ww-human-nature.org
+:Name:     /home/deerpig/proj/chenla/warp/01/07/04/ww-human-nature.org
 :Created:  2018-04-26T08:04@Prek Leap (11.642600N-104.919210W)
 :ID:       d8122a33-3ea9-4bf8-8417-35e26e1f593a
 :VER:      577976761.195037891

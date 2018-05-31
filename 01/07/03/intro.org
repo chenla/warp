@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 3. Planetary Boundries Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/06/03/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/07/03/intro.org
 :Created:  2018-05-24T18:38@Prek Leap (11.642600N-104.919210W)
 :ID:       a7077136-2308-4251-b12f-4602040e0036
 :VER:      580433981.020081281
