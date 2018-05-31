@@ -31,7 +31,861 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+I don't have a way to change the behavior of
+seven-point-five billion people carrying their beliefs
+around like precious ges wrapped in hand grenades.
 
+-- [[http://theoatmeal.com/comics/believe][You're not going to believe what I'm about to tell you]] | The Oatmeal
+#+end_quote
+
+** Introduction
+
+It would be useful to have a theory of the absolute limits
+of cognition.  Can cognition infinitely scale or are there
+hard limits.
+
+Physical computation has physical limits in terms of energy
+and storage -- but computation isn't the same as cognition
+(is it?  I have to think about that).  But for now let's say
+that computation ≠ cognition.
+
+I think the whole map/territory relationship will be one of
+the biggest limits.  But also how fast information can
+propagate -- it's one thing to say that the entire universe
+is a computation engine -- but if information travels at the
+speed of light, then it will take millions and billions of
+years to complete a thought -- and there universe only has
+been around only a few more billions of years than than can
+be counted on two hands.  Of course there is quantum
+entanglement, spooky action at a distence,  but there is no
+evidence at present to suggest that this is being used by
+the universe in any way other than to literally keep it's
+shit together.  But then, we really don't know, or
+understand quantum entanglement except that it's real and it
+really messes with your head.
+
+But the map/territory problem, to me, is the real show
+stopper and would seem to make it impossible for a conscious
+omniscient intelligence who existed everywhere and knew
+everything at the same time (which is the definition of a
+monothesitic deity) to exist as part of the universe.  Such
+a thing would have to be outside of the unviverse, which
+again is possible, but then it would still run up against
+the same map/territory problem outside of the universe.  It
+might be omniscient of our universe, but not the universe at
+it's own scale.
+
+In other words, there may well be gods, but they are only
+gods, relative to ourselves at our scale.  And this begs the
+question that if this is true, then how far can it scale?
+If it's turtles all the way down, is size really real?  Is
+the multiverse just a single grain of sand of many
+multiverses?
+
+** cognition as territory
+
+It came to me last night, just as I was ready to close up
+the office, that the reason that intelligence is a black
+box is because in the map-territory relation, once a
+cognitive system reaches a certain threshold of complexity, 
+can no longer be legible.
+
+You can't separate intelligence from the information that it
+emerged from.  Humans are not naturally intelligent, when we
+are born we have some preprogrammed behavior but other than
+that there isn't much there.  But as babies observe the
+world, they start to identify patterns from sensory
+information and from experimenting with that information and
+finding out what works and what doesn't.  We don't become
+intelligent, and perhaps even self-conscious until we have
+ingested enough information to understand what we are and
+some concept of what the world is like.  So the training
+data set is what we take in, crunch it up and become
+intelligent.  But what happens to that training data is
+unknown.  We don't record like a camera or microphone, we
+create maps of patterns that become memories -- and memories
+are reconstructions of sensory events, that are likely never
+really ever the same twice.  We constantly reinventing our
+memories relative to the present.
+
+The other point to make is that intelligence has to include
+not just what happened, but what we think might happen and
+how probable those outcomes may be.  So our mind is not a
+storehouse of facts, it is in fact a fnord, embracing a wide
+range of posibilities.  In in that sense, every mind is made
+up of a large number of interconneted fnords which
+constitute a territory in it's own right.  Our brains are
+not maps of the world, though we are constantly building and
+maintaining a model of the world.  But that model is not a
+map it's a territory -- and territories are not maps.  Maps
+simplify and make territories legible.
+
+So intelligent systems will never be legible in the way we
+would like because they are unintelligible and illegible
+worlds.  This is messy, no question about it.  And it will
+be frustrating, because it will be true of machine
+intelligences no less than it is of meat intelligences.
+It's sort of the uncertainty principle for Intelligence.
+
+This is not to say that we won't eventually be able to ask
+AIs why they came up with an answer, or why they did
+something but they will have to do it the way we did, by
+coming up with a plausible reason that fits the facts.  That
+doesn't mean that this is really why or how, but it will
+have to be good enough.  And when it does, the AI will be
+rationalizing its actions, building an argument for why and
+how, rather than replaying what it did like a video that
+explains step by step it's detailed reasoning.  There will
+be times that it knows that it based its action on the
+probability of x y z outcomes that were used to create a
+scenario -- but there will be all sorts of things that will
+/feel/ like the right solution and will go with that, but
+not be able to explain why it felt right.
+
+This theory, if it pans out will be yet another nail in the
+human exceptionalist coffin and will make a number of people
+deeply uncomfortable.
+
+This is why things like BMF is so important, AIs will need
+to externally document what they find, just like we do.
+Their minds will not be recording devices, they will need to
+externalize their thoughts, and experiences and use other
+dumb compuational computers (cloud) to do specialized number
+crunching.  Take this to the next step, and like Kevin Kelly
+envisions, every intelligence will be different, there will
+be no one general AI that does everything.  AIs will have to
+google things, and they will have to compose their thoughts
+like we do, as way of learning and understanding.  Our AIs
+will be a transactive species like us -- and will relying on
+each other and us, just we rely on each other and them.
+Each is a holon, and together we are a whole.
+
+So yes, our AIs will be looking up stuff in the OED and on
+Wikipedia and puzzling out search results.  They won't do it
+the way we do, but it comes down to the same thing -- our
+AIs will have to make the world legible and interact with
+the world, but they will also have to write stuff down and
+communicate it with others -- they will have to
+collaborate.  And they will end up in edit wars on Wikipedia
+as well.  And it's not really certain if or when they will
+be much better at than we are, though they will be
+/faster/.  They'll need to keep us around because there will
+be times with meat processing will come up with things that
+they can't because we are using a different architecture
+from theirs.  Perhaps we'll be the mystics and gurus for the
+machines, who can find answers that they can not....
+
+
+The Borg are simply a distributed cloud -- and the cloud is
+an intelligence.  But when humans embrace AIs as an
+extension of themselves and a part of the larger concept of
+mankind then we are all holons and we all form larger wholes
+which are part of larger holons.
+
+The other thing that I was thinking about last night is how
+to measure intelligence -- hell, how does one even /define/
+intelligence?  One way to look at it is, again to think of
+it as a fnord -- the smarter you are, the more causal chains
+you can pick out in a each collection of fnords.  One
+assertion may have many different possible causal chains,
+but when you start adding more and more fnords, the
+complexity of how many causal chains that are possible
+quickly become overwhelming.  Perhaps the smarter you are,
+the better or broader you ability to integrate more and more
+causal chains so that your mind -- which is a world, grows
+and becomes more complex.  I'm not articulating this very
+well at the moment becuase I'm still trying to explore the
+concept.  But it is an intriguing idea.
+
+A calculator is dumb as paint -- it takes inputs and does a
+calculation and that's that.  But a bit of code with an if
+then statement actually thinks -- it takes an input and
+evaluates between two or more possibilities and comes up
+with an answer -- the if then statement embraces a number of
+different causal inputs.
+
+If we create a bunch of if then statements that run in
+parallel, so that each is looking for something different we
+have something even more interesting.  So if we have a pile
+of fruit, and then chunks of code which each are looking for
+a different kind of fruit, and the same input is then sent
+to all the fruit identifiers, you might get one of them that
+says -- ah, an apple!  The others might say, alas, not a
+pinapple, or blast it's not a mango, or damn, it's not a
+rambutan.  But that's getting ahead of ourselves.  We first
+need pattern matchers to figure out if what it is looking at
+is a fruit or something else like a rock.  So you might have
+a level of parallel pattern matchers that are looking for
+things that organic and edible and grow on trees.  At each
+level several pattern matchers will fire off 'I found it'
+and pattern matchers at the level above who are waiting for
+things that in turn tell them they found what they are
+looking for.  So that eventually, once you know it's a
+fruit, the color layer will say I found yellow, and the ripe
+mango and banana matches above say they found yellow fruits.
+But only the banana matcher will also see that's the yellow
+fruit is long and faceted and in a bunch.  Which the mango
+matcher will ignore and say 'doh'.
+
+I only explain all of this because this is how our neocortex
+works as well as machine learning software.  And in each
+case we have a pattern matcher that works a little like an
+if then statement -- that is aware of a range of different
+possible things.  Taken all of these pattern matchers
+together working in parallel and we have a system which
+quickly becomes far more complex than the sum of its parts.
+
+Add to that, that every new input that goes through the
+matching tree, also improves and changes individual
+patterns.  Each matcher that finds a positive or a negative
+is strengthened and becomes more complex and confident in
+what it is looking at.  This means that the system is not
+the same as a traditional piece of software that is run and
+will do the same thing every time it is run -- a machine
+learning system is always growing and changing.  That, in
+effect is why it is a territory and not a map.  In other
+words, you can never step in the same river twice, and by
+the time you ask the river what it was, it is no longer the
+same river and can not answer because it does not know.
+
+So finally, how does this effect the idea I had before, that
+total omniscient gods can't exist because that would make
+them a territory?  I have to look it up, but I think I then
+said that our minds are maps.... so yes, this contradicts
+that.  Or does it?  Our minds are worlds, but they are
+holons which are part of larger holons.  Our minds could not
+be worlds without a larger world to get it's training data.
+mind-worlds are dependent on physical worlds.  So if the
+universe is a mind, and a God, then it must be part of
+something larger we can't see that gives it its training
+data otherwise it is not a mind.  And our universe is a
+world, which allows that God to act within its larger
+universe, not act all god-like in it's own mind.
+
+I'm coming to think of this as the god-clause, that protects
+universes from being ravished by Gods. Either way is doesn't
+look good for mono-theistic belief systems.  But there is no
+reason why there could be a bunch of lesser gods which have
+all sorts of superpowers we can't fathom.
+
+
+** The Black Box
+
+Our brains have always been black boxes -- just like the
+emerging AI systems we are building.  Stop worrying about
+not knowing what happens inside the black box so much as
+worrying about how the black boxes will externalize and
+communicate and remember the shit that comes out of the box.
+Treat AI's as the same as our brains and construct tools
+that extend those black boxes so that other AIs and humans
+can work out what is good and bad and bullshit and the rest.
+The collective is the best means of checking and balancing
+-- not handicapping.  Shit goes in and shit goes out and you
+deal with what comes out and don't work so much about what
+happens in between.  If someone goes off the rails then they
+are cut out.  It's the system that has to regulate -- there
+won't be any one AI that could dominate and do what people
+are scared of at the moment, unless we don't even try to pay
+attention to the shit that comes out.  This is not magic,
+it's how everything works in nature.  It's why scientists
+who work in biotech aren't worried about gray goo -- nature
+is far more robust than we think -- and that's how we have
+to build AI.
+
+Perhaps that isn't clear -- brains kept externalizing by
+building other brains around them, and then we externalized
+outside the body with spoken language, then written
+language, the external cognition and external muscle.
+
+Each of our brains are black boxes to the the other parts of
+our brains.
+
+AI's will externalize in the same way -- by building layers
+on layers that don't replace the layers beneath them.  These
+layers should in principle work as pace layers when they
+work, and shearing layers when they don't.
+
+We assume that AIs will be able to replace themselves
+completely -- but that can't happen because it's not the
+same as creating whole new brains that replace the old one
+-- there is no bridge to make that happen, so we will end up
+with crufty AIs that will be complex nested black boxes that
+will still have to talk to other black boxes and we're back
+to the same messy situation that humans have to deal with
+today.
+
+Okay -- I'm not quite finished yet, but I'm not sure where
+this fits in within what I just wrote above....
+
+So far we've talked about the territory, but not maps.  A
+mind contains a lot of maps -- in a sense that's all a mind
+is, a bunch of maps that taken together constitute a world.
+The more maps, the closer we get to the sum total of maps
+becoming fnords in their own right.
+
+A map is an expression of a pattern that has been observed
+in the external world.  So observation is the key to
+everything here.  When you observe, you are not observing
+the totality of the probability cloud that makes up a fnord
+by a subset of causal chains that have some sort of internal
+consistency -- we cannot take in everything in a fnord,
+which is why in the double-slit experiment we can observe it
+as a wave or particle.  The cool thing is that it looks like
+this is not a human limitation, but something that is baked
+into the universe itself.
+
+So conscious observation, is not special to us, but just a
+feature that we can do because that's how the universe
+works.  But it also helps us understand why the map
+territory relationship is an expression of observation, and
+that intelligence can not be understood without
+understanding the dual nature of the universe.
+
+
+
+** Complex systems as a black box
+
+
+It might well be that all /intelligences/, because they are
+complex systems, will always be a black box, human, machine,
+whatever.  That that's the deal.  What goes in, might be
+legible, what comes out, might be legible as well.  But the
+complexity makes whatever happens inbetween illegible and
+that if you try to take it apart and make sense of it, you
+will just get a sum of it's parts, not a legible
+intelligance.  The AIs we are building are ourselves.
+That's the bargin and we might just have to live with it.
+
+Can this be proved?  That intelligences are illegible?
+
+If it turns out that human intelligence is not just
+happening at the biological level, but that there are 
+quantum effects that are involved... then the answer is
+yes.  And it likely won't be as difficult as we think to
+build machine intelligence that does the same thing in a
+different way.  But what if it's not?  What if it is all
+electro-chemical computation?  It still might not be
+knowable.  Just as we can't know the weather -- once you
+cross a complexity threshold it becomes a black box.
+
+
+** Molecular Biology is Hard
+
+#+begin_quote
+Because molecular biology is wayyyyyyyyyyyyyy harder than
+non-biologists realize, in large part due to people thinking
+'genetic code' means something like software code, when it
+was intended to be analogous to cryptographic codes instead.
+
+The human genome is not the source code for the human body,
+but rather a parts list, and an incomplete one at
+that. Unfortunately, it's encrypted. Fortunately, we broke
+the code 50 years ago. Unfortunately, it was also written in
+Klingon. We've spent 50 years trying to translate it
+(determine protein crystal/NMR structures), and
+simultaneously trying to figure out how the parts go
+together. We're maybe 20% through with the
+translation. We’re much further behind on figuring out how
+it actually works. Completing the translation of the parts
+list would be helpful, but it’s no panacea.
+
+The list of what we don’t know (and can’t predict from
+protein structures alone) is far larger than what we do
+know. Which proteins are expressed in which cells? Which
+proteins interact with each other? When do they interact
+with each other? How strong are those interactions? What
+non-protein molecules do they make, and in what
+concentrations? And keep in mind that each and every one of
+those questions affects the others, often in ways that make
+no freaking sense, because evolution is dumb.
+
+As for protein structure prediction, maybe we’ll get there
+eventually, but I’m skeptical; de novo prediction really
+hasn’t made much progress in recent years. Computational
+methods are still terrible at the (to my mind) much simpler
+problem of predicting if/how drugs bind to known protein
+structures, which does not make me optimistic. We’re pretty
+good at predicting structures through homology, mind you,
+but that’s a much simpler problem than going straight from
+the amino acid sequence.
+
+To get a broader sense of why biologists tend to be
+skeptical that computational modeling can replace
+experimental biology any time soon, see [[http://blogs.sciencemag.org/pipeline/archives/2017/04/28/software-eats-the-world-but-biology-eats-it][this recent piece]]
+and the longer article that it links to.
+
+-- [[https://www.reddit.com/user/zmil][zmil]] (comment)
+   [[https://www.reddit.com/r/slatestarcodex/comments/688g0a/the_ai_cargo_cult_kevin_kellys_skepticism_of/]['The AI Cargo Cult': Kevin Kelly's skepticism of superhuman AI]] | slatestarcodex
+#+end_quote
+
+** We Aren’t Built to Live in the Moment (NYT article)
+
+- [[https://mobile.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?referer=https://t.co/OcAMCcjA2H][We Aren’t Built to Live in the Moment]] | New York Times
+
+- [[http://rstb.royalsocietypublishing.org/content/362/1481/773][The cognitive neuroscience of constructive memory:
+  remembering the past and imagining the future]] |
+  Philosophical Transactions of the Royal Society B:
+  Biological Sciences DOI: 10.1098/rstb.2007.2087 ([[bib:schacter:2007cognitive][local]])
+
+
+What struck me, reading the NYT article was something that
+didn't occur to anyone in the HN discussion thread.  If we
+are not wired to live in the moment -- it means that the
+moment is not our strong suit.  But for a long time now, a
+hundred years at least, the amount of change and information
+that we have to deal with is growing exponentially.  This
+leaves us with less time to contemplate our prospects, as
+the article puts it.
+
+The tools that have emerged in the last two decades haven't
+helped this at all.  Instead of help us to cope with the
+overload, we are simply given tools to wack up the overload
+to eleven.  We are now encouraged to live and act and
+communicate and make decisions in the moment, rather than
+think things through first.  It started with email and
+usenet.  Both were originally designed for UUCP store and
+forward networks, not instant and always on.  So we started
+using email as something that required immediate attention,
+and for people to respond in like kind.  USENET was never
+able to really make the leap so discussions moved to mailing
+lists and then online forums.
+
+The introduction of the iPhone changed it all again and
+ratcheted up the speed.  People had already been using SMS
+more and more as a replacement for both telephone calls, and
+email.  AOL instant messenger was the early form of what was
+to come.
+
+Twitter made sms a broadcast medium -- a firehose that could
+never be drunk without dedicating a serious amount of time
+each day.  Tweets are the ultimate in knee jerk responses,
+reducing all conversations to 140 character brain farts.
+Twitter is designed to be a meme injector -- to spread a
+meme as fast and far as possible, without giving anyone
+enough time to catch their breadth, let alone figure out
+what you might actually think about something before you are
+pressured into responding.  The fact that Donald Trump uses
+Twitter as his go-to place to vent and rant and spill the
+beans speaks worlds for the platform.
+
+Facebook came along and built their walled garden and did
+things that even AOL hadn't done.  Facebook has all of the
+immediacy of Twitter, but is organized around real life
+social peer groups.  Those peer groups tend to push for
+group conformity, and pressure for members to perform.
+Facebook is designed around the same principle as casino
+slot machines, by injecting posts from people that they
+infer that they want to hear from and talk to at just the
+right moment to keep people scrolling through their feed.
+It has recently been revealed that they even sell
+advertising that targets teenagers in specific states of
+mind when they will be more suggestable to advertising
+messages.  And advertising is no longer just selling
+unhealthy beverages, snacks, footware and other consumer
+flim flam, advertisers are now, as often or not groups
+looking to influence political issues and elections.
+
+The whole social media ecosystem is build around speed, and
+not giving people enough time to think because you can make
+more money when people react than when they think.
+
+My takeaway from this is that we need to build tools to deal
+with overload, and give us time for otium.  Social media is
+negotium in the harshest sense of the word.  And we need to
+learn to feel comfortable again with the vast majority of
+our communications being asynchronous.  Teach people to use
+IM only for what is immediately important -- not as a
+shorthand means of communication and chat.
+
+Chat is limited but useful -- and again should not be used
+to conduct conversations that are more than a brief back and
+forth to ask and answer a question in real time.
+
+We need to take back email, and it's legacy as an electronic
+analog to paper correpondance through the post.
+
+Most comment threads are pointless and would be better
+served by measured responses to papers and articles that
+take place over days and weeks.
+
+** What where when
+
+I find it remarkable that our brains store what, where and
+when in different parts of the brain.
+
+#+begin_quote
+Perhaps the most remarkable evidence comes from recent brain
+imaging research. When recalling a past event, the
+hippocampus must combine three distinct pieces of
+information — what happened, when it happened and where it
+happened — that are each stored in a different part of the
+brain. Researchers have found that the same circuitry is
+activated when people imagine a novel scene. Once again, the
+hippocampus combines three kinds of records (what, when and
+where), but this time it scrambles the information to create
+something new.
+
+-- [[https://mobile.nytimes.com/2017/05/19/opinion/sunday/why-the-future-is-always-on-your-mind.html?referer=https://t.co/OcAMCcjA2H][We Aren’t Built to Live in the Moment]] | New York Times
+#+end_quote
+
+We reconstruct memories in different ways, in context with
+what we know at the moment we recall things.
+
+#+begin_quote
+Episodic memory is widely conceived as a fundamentally
+constructive, rather than reproductive, process that is
+prone to various kinds of errors and illusions. With a view
+towards examining the functions served by a constructive
+episodic memory system, we consider recent
+neuropsychological and neuroimaging studies indicating that
+some types of memory distortions reflect the operation of
+adaptive processes. An important function of a constructive
+episodic memory is to allow individuals to simulate or
+imagine future episodes, happenings and scenarios. Since the
+future is not an exact repetition of the past, simulation of
+future episodes requires a system that can draw on the past
+in a manner that flexibly extracts and recombines elements
+of previous experiences. Consistent with this constructive
+episodic simulation hypothesis, we consider cognitive,
+neuropsychological and neuroimaging evidence showing that
+there is considerable overlap in the psychological and
+neural processes involved in remembering the past and
+imagining the future.
+
+-- [[bib:schacter:2007cognitive][The cognitive neuroscience of constructive memory: remembering the past and
+   imagining the future]] | Daniel L. Schacter (2007)
+#+end_quote
+
+
+** Fast and Slow
+
+ - [[id:kahneman:2011thinking][Thinking, Fast and Slow]] | Daniel Kahneman (2011)
+
+
+#+begin_quote
+When you come late to the party, writing the 160th review,
+you have a certain freedom to write something as much for
+your own use as for other readers, confident that the review
+will be at the bottom of the pile.
+
+Kahneman's thesis is that the human animal is systematically
+illogical. Not only do we mis-assess situations, but we do
+so following fairly predictable patterns. Moreover, those
+patterns are grounded in our primate ancestry.
+
+The first observation, giving the title to the book, is that
+eons of natural selection gave us the ability to make a fast
+reaction to a novel situation. Survival depended on it. So,
+if we hear an unnatural noise in the bushes, our tendency is
+to run. Thinking slow, applying human logic, we might
+reflect that it is probably Johnny coming back from the Girl
+Scout camp across the river bringing cookies, and that
+running might not be the best idea. However, fast thinking
+is hardwired.
+
+The first part of the book is dedicated to a description of
+the two systems, the fast and slow system. Kahneman
+introduces them in his first chapter as system one and
+system two.
+
+Chapter 2 talks about the human energy budget. Thinking is
+metabolically expensive; 20 percent of our energy intake
+goes to the brain. Moreover, despite what your teenager
+tells you, dedicating energy to thinking about one thing
+means that energy is not available for other things. Since
+slow thinking is expensive, the body is programmed to avoid
+it.
+
+Chapter 3 expands on this notion of the lazy controller. We
+don't invoke our slow thinking, system two machinery unless
+it is needed. It is expensive. As an example, try
+multiplying two two-digit numbers in your head while you are
+running. You will inevitably slow down. NB: Kahneman uses
+the example of multiplying two digit numbers in your head
+quite frequently. Most readers don't know how to do
+this. Check out "The Secrets of Mental Math" for
+techniques. Kahneman and myself being slightly older guys,
+we probably like to do it just to prove we still
+can. Whistling past the graveyard - we know full well that
+mental processes slow down after 65.
+
+Chapter 4 - the associative machine - discusses the way the
+brain is wired to automatically associate words with one
+another and concepts with one another, and a new experience
+with a recent experience. Think of it as the bananas vomit
+chapter. Will you think of next time you see a banana?
+
+Chapter 5 - cognitive ease. We are lazy. We don't solve the
+right problem, we solve the easy problem.
+
+Chapter 6 - norms, surprises, and causes. A recurrent theme
+in the book is that although our brains do contain a
+statistical algorithm, it is not very accurate. It does not
+understand the normal distribution. We are inclined to
+expect more regularity than actually exists in the world,
+and we have poor intuition about the tail ends of the bell
+curve. We have little intuition at all about non-Gaussian
+distributions.
+
+Chapter 7 - a machine for jumping to conclusions. He
+introduces a recurrent example. A ball and bat together cost
+$1.10. The bat costs one dollar more than the ball. How much
+does the ball cost? System one, fast thinking, leaps out
+with an answer which is wrong. It requires slow thinking to
+come up with the right answer - and the instinct to distrust
+your intuition.
+
+Chapter 8 - how judgments happen. Drawing parallels across
+domains. If Tom was as smart as he is tall, how smart would
+he be?
+
+Chapter 9 - answering an easier question. Some questions
+have no easy answer. "How do you feel about yourself these
+days?" Is harder to answer than "did you have a date last
+week?" If the date question is asked first, it primes an
+answer for the harder question.
+
+Section 2 - heuristics and biases
+
+Chapter 10 - the law of small numbers. In the realm of
+statistics there is a law of large numbers. The larger the
+sample size, the more accurate the statistical inference
+from measuring them. Conversely, a small sample size can be
+quite biased. I was in a study abroad program with 10 women,
+three of them over six feet. Could I generalize about the
+women in the University of Maryland student body?
+Conversely, I was the only male among 11 students and the
+only one over 60. Could they generalize anything from that?
+In both cases, not much.
+
+Chapter 11 - anchors. A irrelevant notion is a hard thing to
+get rid of. For instance, the asking price of the house
+should have nothing to do with its value, but it does
+greatly influence bids.
+
+Chapter 12 - the science of availability. If examples come
+easily to mind, we are more inclined to believe the
+statistic. If I know somebody who got mugged last year, and
+you don't, my assessment of the rate of street crime will
+probably be too high, and yours perhaps too low. Newspaper
+headlines distort all of our thinking about the
+probabilities of things like in and terrorist
+attacks. Because we read about it, it is available.
+
+Chapter 13 - availability, emotion and risk. Continuation.
+
+Chapter 14 - Tom W's specialty. This is about the tendency
+for stereotypes to override statistics. If half the students
+in the University area education majors, and only a 10th of
+a percent study mortuary science, the odds are overwhelming
+that any individual student is an education
+major. Nonetheless, if you ask about Tom W, a sallow gloomy
+type of guy, people will ignore the statistics and guess he
+is in mortuary science.
+
+Chapter 15 - less is more. Linda is described as a very
+intelligent and assertive woman. What are the odds she is a
+business major? The odds that she is a feminist business
+major? Despite the mathematical impossibility, most people
+will think that the odds of the latter are greater than the
+former.
+
+Chapter 16 - causes trump statistics. The most important
+aspect of this chapter is Bayesian analysis, which is so
+much second nature to Kahneman that he doesn't even describe
+it. The example he gives is a useful illustration.
+
+  - 85% of the cabs in the city are green, and 15% are blue.
+  - A witness identified the cab involved in a hit and run as blue.
+  - The court tested the witness' reliability, and the
+    witness was able to correctly identify the correct color
+    80% of the time, and failed 20% of the time.
+
+First, to go to the point. Given these numbers, most people
+will assume that the cab in the accident was blue because of
+the witness testimony. However, if we change the statement
+of the problem so that there is a 20% chance that the blue
+identification of the color was wrong, but 85% of the cabs
+involved in accidents are green, people will overwhelmingly
+say that the cab in the accident was a green madman. The
+problems are mathematically identical but the opinion is
+different.  Now the surprise. The correct answer is that
+there is a 41% chance that the cab involved in the accident
+was blue. Here's how we figure it out from Bayes theorem.
+
+If the cab was blue, a 15% chance, and correctly identified,
+an 80% chance, the combined probability is .15 * .8 = .12, a
+12% chance If the cab was green, an 85% chance, and
+incorrectly identified, a 20% chance, the combined
+probability is .85 * .2 = .17, a 17% chance Since the cab
+had to be either blue or green, the total probability of it
+being identified as blue, whether right or wrong, is .12 +
+.17 = .29. In other words, this witness could be expected to
+identify the cab as blue 29% of the time whether she was
+right or wrong.  The chances she was right are .12 out of
+.29, or 41%. Recommend that you cut and paste this, because
+Bayes theorem is cited fairly often, and is kind of hard to
+understand. It may be simple for Kahneman, but it is not for
+his average reader, I am sure.
+
+Chapter 17 - regression to the mean. If I told you I got an
+SAT score of 750 you could assume that I was smart, or that
+I was lucky, or some combination. The average is only
+around 500. The chances are little bit of both, and if I
+take a test a second time I will get a lower score, not
+because I am any stupider but because your first observation
+of me wasn't exactly accurate. This is called regression to
+the mean. It is not about the things you are measuring, it
+is about the nature of measurement instruments. Don't
+mistake luck for talent.
+
+Chapter 18 - taming intuitive predictions. The probability
+of the occurrence of an event which depends on a number of
+prior events is the cumulative probability of all those
+prior events. The probability of a smart grade school kid
+becoming a Rhodes scholar is a cumulative probability of
+passing a whole series of hurdles: studying hard, excelling
+in high school, avoiding drink and drugs, parental support
+and so on. The message in this chapter is that we tend to
+overestimate our ability to project the future.
+
+Part three - overconfidence
+
+Chapter 19 - the illusion of understanding. Kahneman
+introduces another potent concept, "what you see is all
+there is," thereinafter WYSIATI. We make judgments on the
+basis of the knowledge we have, and we are overconfident
+about the predictive value of that observation. To repeat
+their example, we see the tremendous success of Google. We
+discount the many perils which could have totally derailed
+the company along the way, including the venture capitalist
+who could have bought it all for one million dollars but
+thought the price was too steep.
+
+Chapter 20 - The illusion of validity. Kahneman once again
+anticipates a bit more statistical knowledge than his
+readers are likely to have. The validity of a measure is the
+degree to which an instrument measures what it purports to
+measure. You could ask a question such as whether the SAT is
+a valid measure of intelligence. The answer is, not really,
+because performance on the SAT depends quite a bit on prior
+education and previous exposure to standardized tests. You
+could ask whether the SAT is a valid predictor of
+performance in college. The answer there is that it is not
+very good, but nonetheless it is the best available
+predictor. It is valid enough because there is nothing
+better. To get back to the point, we are inclined to assume
+measurements are more valid than they are, in other words,
+to overestimate our ability to predict based on
+measurements.
+
+Chapter 21 - intuitions versus formulas. The key anecdote
+here is about a formula for predicting the quality of a
+French wine vintage. The rule of thumb formula beat the best
+French wine experts. Likewise, mathematical algorithms for
+predicting college success are as least as successful, and
+much cheaper, than long interviews with placement
+specialists.
+
+Chapter 22 - expert intuition, when can we trust it? The
+short answer to this is, in situations in which prior
+experience is quite germane to new situations and there is
+some degree of predictability, and also an environment which
+provides feedback so that the experts can validate their
+predictions. He would trust the expert intuition of a
+firefighter; there is some similarity among fires, and the
+firemen learns quickly about his mistakes. He would not
+trust the intuition of a psychiatrist, whose mistakes may
+not show up for years.
+
+Chapter 23 - the outside view. The key notion here is that
+people within an institution, project, or any endeavor tend
+to let their inside knowledge blind them to things an
+outsider might see. We can be sure that most insiders in
+Enron foresaw nothing but success. An outsider, having seen
+more cases of off-balance-sheet accounting and the woes it
+can cause, would have had a different prediction.
+
+Chapter 24 - the engine of capitalism. This is a tour of
+decision-making within the capitalist citadel. It should
+destroy the notion that there are CEOs who are vastly above
+average, and also the efficient markets theory. Nope. The
+guys in charge often don't understand, and more important,
+they are blind to their own lack of knowledge.
+
+Part four - choices
+
+This is a series of chapters about how people make decisions
+involving money and risk. In most of the examples presented
+there is a financially optimal alternative. Many people will
+not find that alternative because of the way the problem is
+cast and because of the exogenous factors. Those factors
+include:
+
+Marginal utility. Another thousand dollars is much less
+important to a millionaire than a wage slave.
+
+Chapter 26 - Prospect theory: The bias against loss. Losing
+$1000 causes pain out of proportion to the pleasure of
+winning $1000.
+
+Chapter 27 - The endowment effect. I will not pay as much to
+acquire something as I would demand if I already owned it
+and were selling.
+
+Chapter 28 - Bad Events. We will take unreasonable risk when
+all the alternatives are bad. Pouring good money after bad,
+the sunk cost effect, is an example.
+
+Chapter 29 - The fourfold pattern. High risk, low risk, win,
+lose. Human nature is to make choices which are not
+mathematically optimal: buying lottery tickets and buying
+unnecessary insurance.
+
+Chapter 30 - rare events. Our minds are not structured to
+assess the likelihood of rare events. We overestimate the
+visible ones, such as tsunamis and terrorist attacks, and
+ignore the ones of which we are unaware.
+
+Chapter 31 - Risk policies. This is about systematizing our
+acceptance of risk and making policies. As a policy, should
+we buy insurance or not, recognizing that there are
+instances in which we may override the policy. As a policy,
+should we accept the supposedly lower risk of buying mutual
+funds, even given the management fees?
+
+Chapter 32 - keeping score. This is about letting the past
+influence present decisions. The classic example is people
+who refuse to sell for a loss, whether shares of stock or a
+house.
+
+Chapter 33 - reversals. We can let a little negative impact
+a large positive. One cockroach in a crate of strawberries.
+
+Chapter 34 - Frames and reality. How we state it. 90%
+survival is more attractive than 10% mortality.
+
+Part V. Two selves: Experience and memory
+
+Our memory may be at odds with our experience at the
+time. Mountain climbing or marathon running are sheer
+torture at the time, but the memories are exquisite. We
+remember episodes such as childbirth by the extreme of pain,
+not the duration.
+
+Lift decision: do we live life for the present experience,
+or the anticipated memories? Are we hedonists, or
+Japanese/German tourists photographing everything to better
+enjoy the memories?
+
+-- [[https://www.amazon.com/gp/customer-reviews/R3KHS6T5UE1HQG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0374533555][Annotations on Kahneman's table of contents - a survey of
+   logic and illogic]] (March 15, 2012)
+#+end_quote
+
+
+
+** Cognitive Limits
 
 ** References
 
