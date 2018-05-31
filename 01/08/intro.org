@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 7. Principles Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/07/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/08/intro.org
 :Created:  2018-04-21T17:46@Prek Leap (11.642600N-104.919210W)
 :ID:       20950867-a475-4edc-9be1-ceb13de4df1d
 :VER:      577579625.781787685
