@@ -31,4 +31,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
+  - Memory
+    - [[./ww-transactive.org][Transactive memory]]
+  - Cognition
+    - Communication (speech)
+    - Specialization (transactive cognition)
+    - writing
+  - Muscle
+    - Tools & Machines
 
