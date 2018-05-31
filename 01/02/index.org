@@ -31,7 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - 01. [[./01/index.org][Heritage]]
-  - 02. The Accidental Apex
+  - 02. [[./02/index.org][The Accidental Apex]]
     - how we become an apex predator
     - we are designed to be in the middle of the food chain
     - brain evolved faster than other animals in ecosystem
