@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   6. Boundries Contents
+#+TITLE:   5. Estrangement Contents
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
@@ -10,28 +10,69 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]]
+[[[../../index.org][top]]] [[[./index.org][up]]]
 
-* 6. Boundries Contents
+* 5. Estrangement Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/06/index.org
-:Created:  2018-04-21T17:25@Prek Leap (11.642600N-104.919210W)
-:ID:       d9350052-d225-4cb4-a4d4-88938b180329
-:VER:      577578414.933900398
+:Name:     /home/deerpig/proj/chenla/warp/01/05/index.org
+:Created:  2018-04-21T17:18@Prek Leap (11.642600N-104.919210W)
+:ID:       a78bedca-9802-46cf-a2f0-97dee8f6c30c
+:VER:      577577955.325136604
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:TFR1-6135
+:BXID:     proj:EFP5-8133
 :Class:    primer
 :Entity:   toc
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
- - Contents
- - [[./abstract.org][Abstract]]
+
+** Table of Contents
+ - Table of Contents
  - [[./intro.org][Introduction]]
- - 01. [[./01/index.org][Systems]]
- - 02. [[./02/index.org][Physical]]
- - 03. [[./03/index.org][Planetary]]
- - 04. [[./04/index.org][Human]]
- - 05. [[./05/index.org][Civilization]]
+ - Human Nature
+ - Nature of Nature
+   - entro evo info
+ - Nature of Order
+   - life is self organizing matter and energy, life
+     gravitates towards organization sees it as living, as
+     beauty, divine -- which are objective
+ - [[./ww-alienation.org][Alienation]]
+ - [[./ww-high-modernism.org][High Modernism]]
+ - The Narrow Gate -- between our strengths and weaknesses
+   - Care
+   - Practice
+   - Rest
+
+------
+
+ - balance between being a whole, or a part of a whole, 
+    a leaf on a stream, or a boat navigating a river
+ - everything applies to all things in the same way
+ - free will is limited, but not deterministic
+ - consciousness is an illusion
+ - control -- fear is about uncertainty and powerlessness
+ - quality and care       -> intentionality and contribution
+ - beauty and order, order is a set of relationships that
+   reinforce each other and become larger than the sum of
+   their parts.
+ - care -- practice -- integrity
+
+** Scope
+
+The problem is that since the development of spoken written
+languages Sapiens have become increasingly estranged from the
+world in which they belong.  This estrangement is a rift
+which since 1800 is widening into a a canyon and threatens
+to become a continental divide if we can not find a way of
+healing this estrangement and creating societies and
+buildings and modes of living in which we can feel
+cormfortable and at home in again.  This is the foundation
+work which will be the most difficult to do, but everything
+depends on us getting this right.  And if we can get this
+right, and mend the rift a lot of other things will fall
+into place.
+
+** TL;DR
+** References
 
