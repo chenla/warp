@@ -30,40 +30,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-  - Heritage
-    - Savannah
-    - savannah ecosystem
-    - high generalized biodiversity
-    - clemant
-    - stability
-    - evolutionary pressure to adapt -> we had to become bad
-      motherfuckers to adapt and survive.
-    - flexibily -> makes it easier to adapt to other
-      climates/ecosystems
-    - Primate
-    - what advantages do primates have over other species
-    - primate senses, compared to other animals
-    - primate physical design
-      - opposable thumbs --> Opposition and apposition
-        - only old world monkeys and great apes 
-    - omnivores have larger range of diet
-    - omnivores share traits of both carnivores and herbivores
-    - offspring are born before development is complete
-      - this increases early mortality rates? does it?
-      - means that we are exposed to environment earlier and can begin
-        learning earlier.
-      - core primate behaviors and instincts -- what is hardwired
-    - Ocean
-    - we have inherieted many things from living in water
-    - possibly will mitigate potential problems living in lower
-      gravity
-  - The Accidental Apex
+  - 01. [[./01/index.org][Heritage]]
+  - 02. The Accidental Apex
     - how we become an apex predator
     - we are designed to be in the middle of the food chain
     - brain evolved faster than other animals in ecosystem
     - we escaped natural checks and balances that other predators deal
       with.
-  - Human Cognition
+  - 03. Human Cognition
     https://news.softpedia.com/news/The-Limits-of-Human-Cognition-37388.shtml
     - Abstract Relationships
     - Understanding relationships between others.
@@ -76,14 +50,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
       of hiding from it."
     - Humans can only pay attention to three objects a time.
     - Shared Intentionality
-  - Social Cognition
+  - 04. Social Cognition
     - Cultural Transmission
       - Imitative
       - Instructive
       - Collaborative
-  - Externalization
+  - 05. Externalization
     - Memory
-      - Transactive memory
+      - [[./05/ww-transactive.org][Transactive memory]]
     - Cognition
       - Communication (speech)
       - Specialization (transactive cognition)
