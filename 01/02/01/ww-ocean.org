@@ -32,6 +32,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 ** Contents
+- we have inherieted many things from living in water
+- possibly will mitigate potential problems living in lower
+  gravity
 
 ** Scope
 ** TL;DR

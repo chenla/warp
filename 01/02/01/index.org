@@ -34,6 +34,3 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - 01. [[./ww-savannah.org][Savannah]]
   - 02. [[./ww-primate.org][Primate]]
   - 03. [[./ww-ocean.org][Ocean]]
-    - we have inherieted many things from living in water
-    - possibly will mitigate potential problems living in lower
-      gravity
