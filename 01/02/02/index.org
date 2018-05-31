@@ -31,4 +31,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-
+  - how we become an apex predator
+  - we are designed to be in the middle of the food chain
+  - brain evolved faster than other animals in ecosystem
+  - we escaped natural checks and balances that other predators deal
+    with.
