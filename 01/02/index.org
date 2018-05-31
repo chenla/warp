@@ -33,7 +33,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - 01. [[./01/index.org][Heritage]]
   - 02. [[./02/index.org][The Accidental Apex]]
   - 03. [[./03/index.org][Human Cognition]]
-  - 04. Social Cognition
+  - 04. [[./04/index.org][Social Cognition]]
     - Cultural Transmission
       - Imitative
       - Instructive
