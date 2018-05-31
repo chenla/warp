@@ -1,0 +1,39 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   1. Heritage Contents
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 1. Heritage Contents
+  :PROPERTIES:
+  :CUSTOM_ID:
+  :Name:      /home/deerpig/proj/chenla/warp/01/02/01/index.org
+  :Created:   2018-05-31T10:06@Prek Leap (11.642600N-104.919210W)
+  :ID:        19d6dcd6-bf26-4577-ad7f-cd907d5c42c2
+  :VER:       581008043.290069036
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:YYB4-1661
+  :Class:     primer
+  :Entity:    toc
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
+  - 01. [[./ww-savannah.org][Savannah]]
+  - 02. [[./ww-primate.org][Primate]]
+  - 03. [[./ww-ocean.org][Ocean]]
+    - we have inherieted many things from living in water
+    - possibly will mitigate potential problems living in lower
+      gravity
