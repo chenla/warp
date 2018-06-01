@@ -30,13 +30,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents 
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-  - 01. [[./01/index.org][Entity Model]]
-  - 02. [[./02/index.org][Ontology Model]]
-  - 03. [[./03/index.org][Pace-Layer Model]]
-  - 04. [[./04/index.org][Succession Model]]
-  - 05. [[./05/index.org][Goldilocks-Thresholds]]
-  - 06. [[./06/index.org][Hard Soft Wet]]
-  - 07. [[./07/index.org][World Models]]
+  - 01. [[./01/index.org][Metadata]]
+  - 02. [[./02/index.org][Entity Model]]
+  - 03. [[./03/index.org][Ontology Model]]
+  - 04. [[./04/index.org][Pace-Layer Model]]
+  - 05. [[./05/index.org][Succession Model]]
+  - 06. [[./06/index.org][Goldilocks-Thresholds]]
+  - 07. [[./07/index.org][Hard Soft Wet]]
+  - 08. [[./08/index.org][World Models]]
 
 
 
