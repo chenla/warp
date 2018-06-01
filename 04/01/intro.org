@@ -1,0 +1,38 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 1. Metadata Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 1. Metadata Introduction
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/04/01/intro.org
+  :Created:   2018-06-01T16:56@Prek Leap (11.642600N-104.919210W)
+  :ID:        3878c769-8b45-4229-88a8-0341f24bea70
+  :VER:       581119079.901455344
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:QWF6-2554
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+
+
+** References
+
+
