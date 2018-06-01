@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 01. A Pace-Layer Pattern Language TOC
+#+TITLE: 01. A Pace-Layer Pattern Language Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. A Pace-Layer Pattern Language Table of Contents
+* 01. A Pace-Layer Pattern Language Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/07/01/index.org
@@ -38,26 +38,45 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Draft (D)
     - Recommendation (R)
 
-  - Entity Models
+  - Entity Model
+  - Entity Groups
+  - Entity Types
+  - Entities
+
+** Entity Groups
+
+*** Pattern
+
     - Pattern (con)
       - Variation (exp)         -> APPL
         - Implementation (man)  -> Hoard
           - Localization (inst) -> Primer: applied
+*** System
+
     - Metastructure (con)
       - Metasystem (exp)                      
         - (man)
 
+*** Parameter
 
     - Parameter (con)
       - Definition (exp)        -> APPL: define/method/unit
         - Source (man)          -> Hoard
           - Variable (inst)     -> Primer: applied
-    - Theses (con)
+*** Thesis
+
+    - Thesis (con)
       - Declaration (exp)       -> APPL 
         - Rule (man)            -> Hoard: algorithm
           - Code (inst)         -> Primer: applied
+*** Keystone
+
     - Keystone (con)           -> APPL
       - Variation (exp)         -> Hoard
         - Design (man)          -> Primer 
           - Prototype (inst)    -> IRL : applied
 
+*** Concept
+
+  - Concept (con)
+    - Term (exp)
