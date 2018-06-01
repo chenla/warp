@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 07. World Models
+#+TITLE: 8. World Models Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,9 +15,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./06-hard-soft-wet.org][prev]]]
 
-* 07. World Models
+* 8. World Models Contents
 :PROPERTIES:
-:Name:     /home/deerpig/proj/chenla/warp/04/07-world-models.org
+:Name:     /home/deerpig/proj/chenla/warp/04/08/index.org
 :Created:  2018-04-22T10:15@Prek Leap (11.642600N-104.919210W)
 :ID:       b3233769-7496-4258-983b-d7301720ea8f
 :VER:      577638986.816974098
@@ -29,15 +29,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
-
- - 01 [[id:ad421711-3876-42a3-af3b-34398e7da086][Worldview]]
- - 02 [[id:7ae04509-f2b4-46cd-a588-d5be4823fbb7][Consciousness]]
- - 03 [[id:7c1cba63-765e-4409-a3dc-2d4a7b4da6fd][Global Workspace Theory]]
- - 04 [[id:619685e3-f1c7-4169-be8d-1f23731378bd][Externalized Worldviews]]
-** Scope
-** TL;DR
-
+  - Contents
+  - Abstract
+  - Introduction
+  - 01. [[id:ad421711-3876-42a3-af3b-34398e7da086][Worldview]]
+  - 02. [[id:7ae04509-f2b4-46cd-a588-d5be4823fbb7][Consciousness]]
+  - 03. [[id:7c1cba63-765e-4409-a3dc-2d4a7b4da6fd][Global Workspace Theory]]
+  - 04. [[id:619685e3-f1c7-4169-be8d-1f23731378bd][Externalized Worldviews]]
+*
 Break into three parts.
 
 ** Worldview
@@ -256,3 +255,7 @@ corporations in many of their internal structures.
   - Nagel, T., What is it like to be a bat?, The
     philosophical review, 83(4), 435–450 (1974).
     cite:nagel:1974bat
+
+* 
+
+* 
