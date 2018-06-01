@@ -56,11 +56,12 @@ civilization on.  For this reason we have five different
 types of Patterns:
 
   - Metastructure : infrastructure as system
-  - Pattern
-  - Parameter
-  - Thesis
-  - Keystone
-  - Entity   : person, place, event, object, concept, material
+  - Pattern  :
+  - Parameter:
+  - Thesis   :
+  - Keystone : 
+  - Entity   : person, place, event, object, material, structure
+  - Concept  : 
   - Element  : 
 ** Patterns
 ** Metastructure
@@ -541,9 +542,6 @@ Yuccatan.  A true planet killing event has yet to happen to
 Earth.  We know this because we are here to talk about it.
 But there were a couple of times that things were close.
 
-
-
- 
 
 ** References
 
