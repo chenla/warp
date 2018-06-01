@@ -79,4 +79,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 *** Concept
 
   - Concept (con)
-    - Term (exp)
+    - Form ()
+      - Term (ins)
+
+*** Work
+*** Person
+*** Family
+*** Place
+*** Event
+*** Structure
