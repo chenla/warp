@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 01. Entity Model Introduction 
+#+TITLE: 2. Entity Model Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. Entity Model Introduction
+* 2. Entity Model Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/01/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/04/02/intro.org
 :Created:  2018-05-18T08:47@Prek Leap (11.642600N-104.919210W)
 :ID:       1a6ee72c-30ed-46ef-bc8f-f3048c5a208b
 :VER:      579880126.681135502
