@@ -32,8 +32,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 ** Scope
+In the second wave of artificial intelligence research, before the
+onset of the long AI Winter, it was said that there are three types of
+intelligence, Hard, Soft and Wet.  This holds true for understanding
+many things from Energy, Infrastructure, etc.
 
-
-
+In Japan, it's common for people to use the term Hard and Soft as a
+shorthand for Hardware and Software.  We add to that Wet, for
+biological processes, but also include in Wet social systems used by
+biological systems.  So politics is Wet, while logistics is Soft, and
+the electrical grid is Hard.
 ** TL;DR
 
