@@ -10,7 +10,7 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[../index.org][up]]] [[[./02-entities.org][next]]]
+[[[../index.org][top]]] [[[../index.org][up]]] [[[./02-entities.org][next]]]
 
 * IV. Scaffolds Contents
 :PROPERTIES:
