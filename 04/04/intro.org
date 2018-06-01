@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 03. Pace-Layer Model Introduction 
+#+TITLE: 4. Pace-Layer Model Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 03. Pace-Layer Model Introduction
+* 4. Pace-Layer Model Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/03/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/04/04/intro.org
 :Created:  2018-05-18T09:12@Prek Leap (11.642600N-104.919210W)
 :ID:       847859c7-ff64-4161-845f-172d60f0cd05
 :VER:      579881627.201991661
