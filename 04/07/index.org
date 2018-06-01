@@ -32,7 +32,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
   - Contents
   - [[./abstract.org][Abstract]]
-  - Introduction
+  - [[./intro.org][Introduction]]
   - HARD -> define
   - SOFT -> define
   - WET  -> define
@@ -42,9 +42,4 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - DNA/RNA is both Wet (chemical) and Soft (information).
     - Computer Hardware is both Hard (transistors and chips) and Soft
       (bios)
-
-
-
-** Scope
-** TL;DR
 
