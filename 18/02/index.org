@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Hoard TOC
+#+TITLE: 2. Hoard Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Hoard Table of Contents
+* 2. Hoard Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/02/index.org
+:Name:     /home/deerpig/proj/chenla/warp/19/02/index.org
 :Created:  2018-04-10T11:07@Prek Leap (11.642600N-104.919210W)
 :ID:       09b5e459-d2fa-4dfb-960c-b4ec8681b40d
 :VER:      576605306.452670201
@@ -31,6 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - Abstract
   - Introduction
   - Global Attributes
     - Level of Detail
