@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Primer TOC
+#+TITLE: 3. Primer Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* Primer Table of Contents
+* 3. Primer Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/03/index.org
+:Name:     /home/deerpig/proj/chenla/warp/18/03/index.org
 :Created:  2018-04-10T11:03@Prek Leap (11.642600N-104.919210W)
 :ID:       3e6205e9-f41b-4320-8fb8-f82616149612
 :VER:      576605078.415659344
@@ -31,6 +31,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - Abstract
   - [[./intro.org][Introduction]]
   - The Young Ladies Illustrative Primer
   - Succession Stage Layers
