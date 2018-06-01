@@ -58,9 +58,10 @@ types of Patterns:
   - Metastructure : infrastructure as system
   - Pattern
   - Parameter
-  - Theses
+  - Thesis
   - Keystone
-
+  - Entity   : person, place, event, object, concept, material
+  - Element  : 
 ** Patterns
 ** Metastructure
 
