@@ -129,11 +129,11 @@ bibliography:../hoard/bib.bib
  - 01. [[./06/01/index.org][The Way]]
  - 02. [[./06/02/index.org][Cycles]]
  - 03. [[./06/03/index.org][Rules]]
- - 04. [[./06/04/index.org][Replicators]]
- - 05. [[./06/05/index.org][Workflow]]
+ - 04. [[./06/04/index.org][Workflow]]
+ - 05. [[./06/05/index.org][Replicatiors]]
  - 06. [[./06/06/index.org][Fabrication]]
  - 07. [[./06/06/index.org][Agency]]
-** VII. Workflow
+** VII. 
 
  - Processes 
  - Tool Chains
@@ -141,14 +141,7 @@ bibliography:../hoard/bib.bib
  - Feedback
 
 **  ???
- - [[./07/index.org][Contents]]
- - [[./07/abstract.org][Abstract]]
- - [[./07/intro.org][Introduction]]
- - 01. [[./07/01/index.org][APPL]]
- - 02. [[./07/02/index.org][Hoard]]
- - 03. [[./07/03/index.org][Primer]]
- - 04. [[./07/04/index.org][The OS]]
- - 05. [[./07/05/index.org][Arc]]
+
 * Cantos VIII-XV Components
 ** VIII. Heliosphere
  - [[./08/index.org][Contents]]
@@ -244,10 +237,15 @@ bibliography:../hoard/bib.bib
  - [[./17/index.org][Contents]]
  - [[./17/abstract.org][Abstract]]
  - [[./17/intro.org][Introduction]]
-** XVIII.
- - Contents
- - Abstract
- - Introduction
+** XVIII. Provisioning
+ - [[./18/index.org][Contents]]
+ - [[./18/abstract.org][Abstract]]
+ - [[./18/intro.org][Introduction]]
+ - 01. [[./18/01/index.org][APPL]]
+ - 02. [[./18/02/index.org][Hoard]]
+ - 03. [[./18/03/index.org][Primer]]
+ - 04. [[./18/04/index.org][The OS]]
+ - 05. [[./18/05/index.org][Arc]]
 ** IXX. Scenarios
  - Contents
  - Abstract
