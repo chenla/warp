@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 5. Goldlilocks & Thresholds Abstract 
+#+TITLE: 6. Goldlilocks & Thresholds Abstract 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 5. Goldlilocks & Thresholds Abstract
+* 6. Goldlilocks & Thresholds Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/05/abstract.org
+:Name:     /home/deerpig/proj/chenla/warp/04/06/abstract.org
 :Created:  2018-05-18T09:32@Prek Leap (11.642600N-104.919210W)
 :ID:       dc4c9e00-db10-4a90-b1dc-5632f2143ab5
 :VER:      579882797.445001025

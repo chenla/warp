@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 5. Goldilocks & Thresholds Introduction 
+#+TITLE: 6. Goldilocks & Thresholds Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 5. Goldilocks & Thresholds Introduction
+* 6. Goldilocks & Thresholds Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/05/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/04/06/intro.org
 :Created:  2018-05-18T09:33@Prek Leap (11.642600N-104.919210W)
 :ID:       722a9034-4393-463b-9d18-0c33d970d58b
 :VER:      579882868.947805278
