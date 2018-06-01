@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: Arc TOC
+#+TITLE: 5. Arc Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Arc Table of Contents
+* 5. Arc Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/37/index.org
+:Name:     /home/deerpig/proj/chenla/warp/18/05/index.org
 :Created:  2018-04-10T11:10@Prek Leap (11.642600N-104.919210W)
 :ID:       4ff49df1-cc2e-4d08-bc05-abbd3dbc5c66
 :VER:      576605474.319722695
