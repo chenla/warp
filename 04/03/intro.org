@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 02. Ontologies Introduction 
+#+TITLE: 3. Ontologies Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 02. Ontologies Introduction
+* 3. Ontologies Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/02/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/04/03/intro.org
 :Created:  2018-05-18T09:04@Prek Leap (11.642600N-104.919210W)
 :ID:       363354f9-4283-4479-9c6e-640d1f4f4006
 :VER:      579881150.839522928
