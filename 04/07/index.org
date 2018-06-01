@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 06. Hard Soft and Wet
+#+TITLE: 7. Hard Soft and Wet Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./05-goldilocks.org][prev]]] [[[./07-world-models.org][next]]]
 
-* 06. Hard Soft and Wet
+* 6. Hard Soft and Wet Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/06-hard-soft-wet.org
+:Name:     /home/deerpig/proj/chenla/warp/04/07/index.org
 :Created:  2018-04-06T10:41@Prek Leap (11.642600N-104.919210W)
 :ID:       4cb9c53f-63c3-401d-a370-69dc5d8a0520
 :VER:      576258140.846828408
@@ -29,6 +29,22 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
+  - Contents
+  - Abstract
+  - Introduction
+  - HARD -> define
+  - SOFT -> define
+  - WET  -> define
+  - HSW uses different types of measurement
+  - HSW are often different layers in succession stages and stacks
+  - There are hard soft and wet elements within each category 
+    - DNA/RNA is both Wet (chemical) and Soft (information).
+    - Computer Hardware is both Hard (transistors and chips) and Soft
+      (bios)
+
+
+
 ** Scope
 ** TL;DR
 
@@ -45,13 +61,4 @@ the electrical grid is Hard.
 
 ** Table of Contents
 
-  - HARD -> define
-  - SOFT -> define
-  - WET  -> define
-  - HSW uses different types of measurement
-  - HSW are often different layers in succession stages and stacks
-  - There are hard soft and wet elements within each category 
-    - DNA/RNA is both Wet (chemical) and Soft (information).
-    - Computer Hardware is both Hard (transistors and chips) and Soft
-      (bios)
   - 
