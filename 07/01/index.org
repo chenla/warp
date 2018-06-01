@@ -71,16 +71,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
           - Code (inst)         -> Primer: applied
 *** Keystone
 
-    - Keystone (con)           -> APPL
+    - Keystone (con)            -> APPL
       - Variation (exp)         -> Hoard
         - Design (man)          -> Primer 
           - Prototype (inst)    -> IRL : applied
+          - Copy
 
 *** Concept
 
-  - Concept (con)
-    - Form ()
-      - Term (ins)
+- Idea (con)          Beverage
+  - Concept (exp)       Carbonated Beverage
+    - Term ()             Soda, Tonic, Pop, Soda Pop 
+      - Label               CocaCola, Pepsi etc. 
+
+
+ideas are general, concepts are specific, terms are labels
+
+Kant: ideas are normative, concepts are constrictive
 
 *** Work
 *** Person
