@@ -30,7 +30,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Abstract
+  - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - 01. [[id:ad421711-3876-42a3-af3b-34398e7da086][Worldview]]
   - 02. [[id:7ae04509-f2b4-46cd-a588-d5be4823fbb7][Consciousness]]
