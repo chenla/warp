@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 142850 |   571 |
+| warp | 154154 |   616 |
 :END:
 
 
@@ -63,8 +63,6 @@ bibliography:../hoard/bib.bib
  - [[./01/intro.org][Introduction]] 
  - 01. [[./01/01/index.org][Mētis > Episteme]]
  - 02. [[./01/02/index.org][Mind]]
-   - Mind
-   - Consciousness
  - 03. [[./01/03/index.org][Sapiens]]
  - 04. [[./01/04/index.org][Civilization]]
  - 05. [[./01/05/index.org][Nature of Order]]
