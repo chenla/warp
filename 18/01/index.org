@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 01. A Pace-Layer Pattern Language Contents
+#+TITLE: 1. A Pace-Layer Pattern Language Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. A Pace-Layer Pattern Language Contents
+* 1. A Pace-Layer Pattern Language Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/07/01/index.org
+:Name:     /home/deerpig/proj/chenla/warp/18/01/index.org
 :Created:  2018-04-10T10:57@Prek Leap (11.642600N-104.919210W)
 :ID:       9eabb218-75d0-4a23-a358-00c13fe7d021
 :VER:      576604703.780441407
