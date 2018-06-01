@@ -36,3 +36,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+  - Baca, M., Introduction to metadata (2008), : Getty Research
+    Institute.  cite:baca:2008metadata
+  - Foulonneau, M., & Riley, J., Metadata for digital
+    resources. implementation, systems design and interoperability
+    (2008), : Chandos Publishing.
+    cite:foulonneau:2008metadata-digital
+  - Harpring, P., Introduction to controlled vocabularies terminology
+    for art, architecture, and other cultural works (2010), : Getty
+    Research Institute.
+    cite:harpring:2010controlled-vocab
+  - Lubas, R., Jackson, A., & Schneider, I., The metadata manual: a
+    practical workbook (2013), : Chandos Publishing.
+    cite:rebecca:2013metadatamanual
+  - Pomerantz, J., Metadata (2015), : The MIT Press.
+    cite:pomerantz:2015metadata
+  - Sicilia, M., & Sicilia, M., Handbook of metadata, semantics and
+    ontologies (2014), : World Scientific Publishing Company.
+    cite:miguel-angel:2014handbook-metadata
