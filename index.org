@@ -130,10 +130,17 @@ bibliography:../hoard/bib.bib
  - 02. [[./06/02/index.org][Cycles]]
  - 03. [[./06/03/index.org][Rules]]
  - 04. [[./06/04/index.org][Replicators]]
- - 05. [[./05/05/index.org][Workflow]]
+ - 05. [[./06/05/index.org][Workflow]]
  - 06. [[./06/06/index.org][Fabrication]]
  - 07. [[./06/06/index.org][Agency]]
 ** VII. Workflow
+
+ - Processes 
+ - Tool Chains
+ - Flow Control
+ - Feedback
+
+**  ???
  - [[./07/index.org][Contents]]
  - [[./07/abstract.org][Abstract]]
  - [[./07/intro.org][Introduction]]
@@ -260,6 +267,14 @@ bibliography:../hoard/bib.bib
  - 00. Models
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
+
+* Cantos ____ Texts 
+* Cantos ____ Vocabularies
+* Cantos ____ Polity
+* Cantos ____ Middle
+* Cantos ____ Arc
+
+
 * The Rest
 
 ** Back Matter 
