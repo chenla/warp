@@ -31,4 +31,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-
+  - Metadata
+    - Definititions
+    - Background
+    - Metadata as Map
+    - Metadata as Graph
+    - Serialization
+    - Schemes
+      - Dewey, Dublin Core, LOC
+  - Controlled Vocabularies
+    - Authority Files
+    - Classifiction Schemes
+    - Taxonomies
+    - Facets
+    - Thesauri
+    - Ontologies
+    - Folksonomies
