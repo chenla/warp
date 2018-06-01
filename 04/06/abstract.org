@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 01. Entity Model TOC
+#+TITLE: 5. Goldlilocks & Thresholds Abstract 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,28 +13,25 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./02-ontologies.org][next]]]
+[[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 01. Entity Model Table of Contents
+* 5. Goldlilocks & Thresholds Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/01/index.org
-:Created:  2018-03-27T19:33@Prek Leap (11.642600N-104.919210W)
-:ID:       674a5f75-68c9-4362-9092-684ef90d4b8f
-:VER:      575426074.504527788
+:Name:     /home/deerpig/proj/chenla/warp/04/05/abstract.org
+:Created:  2018-05-18T09:32@Prek Leap (11.642600N-104.919210W)
+:ID:       dc4c9e00-db10-4a90-b1dc-5632f2143ab5
+:VER:      579882797.445001025
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:HLM3-7344
+:BXID:     proj:YWY2-3143
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Table of Contents
+** Scope
+** TL;DR
+** References
 
- - Contents
- - [[./abstract.org][Abstract]]
- - [[./intro.org][Introduction]]
- - What is an Entity Model
- - FRBR
- - FRAD
+

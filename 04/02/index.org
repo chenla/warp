@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 02. Ontologies TOC
+#+TITLE: 01. Entity Model TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,38 +13,28 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./01-entities.org][prev]]] [[[./03-pace-layers.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./02-ontologies.org][next]]]
 
-* 02. Ontologies Table of Contents
+* 01. Entity Model Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/02/index.org
-:Created:  2018-03-27T19:43@Prek Leap (11.642600N-104.919210W)
-:ID:       b20309ce-541f-48ea-8ac8-1506d3bdd2b3
-:VER:      575426696.052189112
+:Name:     /home/deerpig/proj/chenla/warp/04/01/index.org
+:Created:  2018-03-27T19:33@Prek Leap (11.642600N-104.919210W)
+:ID:       674a5f75-68c9-4362-9092-684ef90d4b8f
+:VER:      575426074.504527788
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:HAR2-1804
+:BXID:     proj:HLM3-7344
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-  - Contents
-  - [[./abstract.org][Abstract]]
-  - [[./intro.org][Introduction]]
-  - What is an ontology?
-  - Thesaurus
-  - Relationships
-    - Partitive
-    - Instantive
-    - Hierarchical
-      - Broader Term
-      - Narrower
-      - Equivalent (used for)
-      - Related
-      - Primary Term
-    - Linear
-      - Previous
-      - Next
-  - Relationships and Graphs
+** Table of Contents
+
+ - Contents
+ - [[./abstract.org][Abstract]]
+ - [[./intro.org][Introduction]]
+ - What is an Entity Model
+ - FRBR
+ - FRAD

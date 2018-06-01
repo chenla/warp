@@ -1,0 +1,58 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 5. Goldilocks & Thresholds Introduction 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 5. Goldilocks & Thresholds Introduction
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/04/05/intro.org
+:Created:  2018-05-18T09:33@Prek Leap (11.642600N-104.919210W)
+:ID:       722a9034-4393-463b-9d18-0c33d970d58b
+:VER:      579882868.947805278
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:IBT3-1215
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+
+
+
+
+** References
+
+  - Chaisson, E. J., Complexity: an energetics agenda,
+    Complexity, 9(3), 14–21 (2004).
+    cite:chaisson:2004complexity 
+  - Christian, D., The history of our world in 18 minutes,
+    TED Talk. March, (), (2011).
+    cite:christian:2011history
+  - Dole, S. H., & Asimov, I., Planets for man (2007), : RAND Corporation.
+    cite:dole:2007planets-for-man
+  - Southey, R., Nicol, G., & (.ill), B. H., The story of the three
+    bears (1839), : Wright.
+    cite:southey:1839three-bears
+  - Wikipedia, /Goldilocks principle --- wikipedia,
+    the free encyclopedia/ (2018).
+    cite:wiki:2018goldilocks-principle 
+  - Wikipedia, /Goldilocks and the three bears --- wikipedia,
+    the free encyclopedia/ (2018).
+    cite:wiki:2018goldilocks-three-bears
+  - Wikipedia, /Circumstellar habitable zone --- wikipedia, the
+    free encyclopedia/ (2018).
+    cite:wiki2018:circumstellar-habitable-zone

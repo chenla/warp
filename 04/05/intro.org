@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 5. Goldilocks & Thresholds Introduction 
+#+TITLE: 4. Succession Introduction 
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,15 +15,15 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 5. Goldilocks & Thresholds Introduction
+* 4. Succession Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/05/intro.org
-:Created:  2018-05-18T09:33@Prek Leap (11.642600N-104.919210W)
-:ID:       722a9034-4393-463b-9d18-0c33d970d58b
-:VER:      579882868.947805278
+:Name:     /home/deerpig/proj/chenla/warp/04/04/intro.org
+:Created:  2018-05-18T09:25@Prek Leap (11.642600N-104.919210W)
+:ID:       54285291-ee6b-44ec-abf5-6fac5b01190e
+:VER:      579882381.197637244
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:IBT3-1215
+:BXID:     proj:LGL7-0060
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -31,28 +31,202 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 
+** Succession Models
+
+This works the same as in [[https://en.wikipedia.org/wiki/Ecological_succession][ecological succession]] but for
+civilization:
+
+  - terrestrial 
+    - nomadic hunter-gather
+    - semi-nomadic
+    - sedantary 
+      - agricultural -> villages and towns
+      - industrial   -> cities and states
+      - info-network 
+      - machine-cog  -> machine-cognition controlling machines
+  - extra-terrestrial
+    - nomadic -> exploritory  -> robotic then human
+    - sedantary
+      - stations
+      - colonies
+      - solar civilizations 
+  - extra-solar
+
+Sucession can be linear or cyclical.  Any stage can move on
+to the seceeding stage or revert to previous stages.  It's
+possible to jump stages -- but as a general rule this should
+be avoided.  Just as a human embyro passed through different
+evolutionary stages in the womb, jumping to an advanced
+stage directly is both difficult and runs the risk that it
+will not be complete.  This holds for both ecological
+succession as well as societal succession and technological
+succession.  It's not a good idea for human societies to try
+and jump stages -- the changes are too traumatic and will
+result in disruption that will cause irreparable damage to
+the society.  The same is true of humans, but is a different
+way.  People can only change so much in a lifetime, unless
+they have been able to learn to internalize change massive
+change.  And even then it's limited.
+
+
+stages of the primer will provide generative grammars for
+each layer as well as all of the knowledge needed to build
+that stage and lay the groundwork for the next stage.
+
+The primer is focused on expressions of civilization rather
+than manifestions or instances.
+
+In this respect, the primer is prescriptive more than
+descriptive.
+
+The primer will include specific recomendations for
+standards -- weights and measures, standard things like
+screw and bolt thread specifications, guages of wire etc.
+
+It will provide keystone designs for things like electrical
+sockets, hinges, electric motors.
+
+It will provide keystone designs for processes and keystones
+for building them for different succession layers.
+
+*** Terms
+
+- succession stage --
+- keystone designs -- reference designs 
+** Reversibility
+
+When possible everything in the primer should at least try
+to be capable of gracefully degrading, so that if there is a
+problem that knocks you back to a previous stage, you are
+not screwed.
+
+If this is designed into the system from day one, then some
+interesting things become possible -- we can provide
+keystone designs which can be upgraded years or decades
+later.
+
+    Let's use a washing machine as an example. An agitating
+    clothes washer can be build that will work mechanically,
+    with any power source from using water or even a biycle
+    as well as an electrical motor.  Controls for the
+    washing machine can be mechanical, or electronic.  You
+    could also create an API and a network interface and
+    install sensors in the washing machine so that the
+    machine could me controlled remotely via software or
+    machine-cog.  Since washing machines can have used to be
+    built that lasted decades with little or no maintenance,
+    there is no reason why we can't have design where you
+    can upgrade a machine for electricity then electronics
+    and then network controllable.  And this should then
+    work in reverse.  If the network is down, it should work
+    electronically, if the electronics are down it should
+    work mechnically with electricity, if electricity is
+    down you should be able to reconnect the belt to a
+    mechanical power source.
+
+Such designs are not as easy to build as designs that are
+built for a single succession stage -- but because a washing
+machine, if well designed and built, should easily last a
+half century, then it makes sense to take the extra effort
+to make it both upgradable and degradable
+
+** Complexity Thresholds
+
+This seems to be largely treated in terms of energy flows
+
+#+begin_quote
+According to this model of complexity, which is based on the work of
+astrophysicist Eric Chaisson and that of cultural anthropologist Fred
+Spier, a form of complexity—for example, the universe, a galaxy, a
+solar system, an organism, or an agricultural or industrial
+civilization—is comprised of four elements: 
+
+   *diverse components*, or different types of parts, arrayed in . . .
+
+   *specific arrangements*, or characteristic structures, such as an
+   atom with a nucleus and orbiting electrons; a cell with a nucleus
+   and energy-processing organelles, surrounded by a membrane; a solar
+   system with a star at its center, orbited by planets and two
+   concentric layers of loose debris; or a civilization with a city at
+   its center and agricultural production at its periphery, connected
+   by trade routes to other similar cities. Those arrangements of
+   those components are held together by . . .
+
+   *flows of energy*, typically energy emitted by the fusion within
+   stars that is being used in ways characteristic to that form of
+   complexity and resulting in new . . .
+
+   *emergent properties*, or new properties that exist only in this new
+   form of complexity—things that the whole can do that the parts could
+   not.
+
+— cite:behmand:2015teaching
+
+#+end_quote
 
 
 
 ** References
 
-  - Chaisson, E. J., Complexity: an energetics agenda,
-    Complexity, 9(3), 14–21 (2004).
-    cite:chaisson:2004complexity 
-  - Christian, D., The history of our world in 18 minutes,
-    TED Talk. March, (), (2011).
-    cite:christian:2011history
-  - Dole, S. H., & Asimov, I., Planets for man (2007), : RAND Corporation.
-    cite:dole:2007planets-for-man
-  - Southey, R., Nicol, G., & (.ill), B. H., The story of the three
-    bears (1839), : Wright.
-    cite:southey:1839three-bears
-  - Wikipedia, /Goldilocks principle --- wikipedia,
-    the free encyclopedia/ (2018).
-    cite:wiki:2018goldilocks-principle 
-  - Wikipedia, /Goldilocks and the three bears --- wikipedia,
-    the free encyclopedia/ (2018).
-    cite:wiki:2018goldilocks-three-bears
-  - Wikipedia, /Circumstellar habitable zone --- wikipedia, the
-    free encyclopedia/ (2018).
-    cite:wiki2018:circumstellar-habitable-zone
+  - Walker, L. R., & Moral, R. d., Primary succession and
+    ecosystem rehabilitation (2003), : Cambridge University
+    Press.
+    cite:walker:2003primary-succession
+  - West, D. C., Shugart, H. H., Botkin, D. B., Darrell
+    C. West, H. H. S., & Botkin, D. B., Forest succession:
+    concepts and application (1981), : Springer-Verlag New
+    York.
+    cite:west:1981forest-succession
+  - Clements, F. E., Plant succession and indicators
+    (1928), : H.W. Wilson Company.
+    cite:clements:1928plant 
+  - Clements, F. E., Plant succession: an analysis of the
+    development of vegetation (1916), : Carnegie Institution
+    of Washington.  cite:clements:1916plant
+  - Behmand, M., Burke, T., & Simon, R. B., Teaching big
+    history (2015), : University of California Press.
+    cite:behmand:2015teaching 
+  - Chaisson, E., A unifying concept for astrobiology,
+    International Journal of Astrobiology, 2(2), 91–101
+    (2003).  http://dx.doi.org/10.1017/s1473550403001484
+    cite:chaisson:2003unifying
+  - Lineweaver, C. H., Davies, P. C. W., & Ruse, M.,
+    Complexity and the arrow of time (2013), : Cambridge
+    University Press.
+    cite:lineweaver:2013complexity-arrow
+  - Chaisson, E. J., Using complexity science to search for
+    unity in the natural sciences, Complexity and the Arrow
+    of Time, (), 68–79 (2013).
+    cite:chaisson:2013using-complexity
+  - Spier, F., Big history and the future of humanity
+    (2010), : Wiley-Blackwell.  cite:spier:2010big-history
+  - Christian, D. M., Maps of time : an introduction to big
+    history (2011), : University of California Press.
+    cite:christian:2011maps-of-time
+
+
+  - Arbesman, S., The half-life of facts: why everything we
+    know has an expiration date (2012), : Current Hardcover.
+    cite:arbesman:2012half-life
+
+
+  - Gladwell, M., The tipping point: how little things can
+    make a big difference (2002), : Little, Brown and
+    Company.
+    cite:gladwell:2002tipping 
+
+  - Turcotte, D. L., Self-organized criticality, Reports on
+    progress in physics, 62(10), 1377 (1999).
+    cite:turcotte:1999self
+  - Hergarten, S., Self-organized criticality in earth
+    systems (2002), : Springer-Verlag Berlin Heidelberg.
+    cite:hergarten:2002criticality-in-earth-systems
+  - Bak, P., Tang, C., & Wiesenfeld, K., Self-organized
+    criticality, Physical review A, 38(1), 364 (1988).
+    cite:bak:1988crticallity
+  - Bak, P., & Chen, K., Self-organized criticality,
+    Scientific American, 264(1), 46–53 (1991).
+    cite:bak:1991self-organized
+  - Bak, P., How nature works: the science of self-organized
+    criticality (1996), : Copernicus.
+    cite:bak:1996how-nature-works

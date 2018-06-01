@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 04. Succession Model TOC
+#+TITLE: 03. Pace-Layers TOC
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,17 +13,17 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./03-pace-layers.org][prev]]] [[[./05-goldilocks.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./02-ontologies.org][prev]]] [[[./04-succession-model.org][next]]]
 
-* 04. Succession Contents
+* 03. Pace-Layers Table of Contente
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/04/index.org
-:Created:  2018-03-22T12:02@Prek Leap (11.642600N-104.919210W)
-:ID:       1a0e2740-9b50-4db2-9c17-7e3601374b2d
-:VER:      574967007.402589543
+:Name:     /home/deerpig/proj/chenla/warp/04/03/index.org
+:Created:  2018-03-22T16:57@Prek Leap (11.642600N-104.919210W)
+:ID:       8541b0ba-95c5-462c-bc26-63ea275cbb3a
+:VER:      574984730.876076307
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:TNA7-1268
+:BXID:     proj:HBU0-0687
 :Class:    primer
 :Type:     work
 :Status:   wip
@@ -33,43 +33,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-  - Succession models
-    - Number of Niche/Specialties determine complexity
-    - Niches and specialities can be divided or consolidated.
-    - Number of niches is determined by size of territory 
-  - State Change
-
-
- - Complexity Thresholds
- - Phase transitions SEE: chapter 7 cite:arbesman:2012half-life
-   - Copernican & Darwinian
-   - Ising Model
-     - https://en.wikipedia.org/wiki/Ising_model
-     - self-organized criticality
-   - Reversibility
-   - upgrade & degrade
- - Keystones
-   - species
-   - concepts
-   - niches
-   - specializations
-   - standards
-   - designs
- - Stages
-   - universe
-   - a galaxy
-   - solar system
-   - an organism
-   - ecological
-   - economic
-   - technological
-   - cultural
-   - [[./ww-ages-of-man.org][Ages of Man]]
-
- - Succession stacks
-   use POC so that succession is treated as a stack, not
-   one stage replacing another.  This is useful to apply LOD
-   to a text, so that you can read a layer at a low LOD (say
-   for beginners, and then move down to progressively more
-   detailed and more advanced material.
-
+  - Pace-Layers
+  - Complex Societies
+  - Biospheres
+  - Geological
+  - Stellar
+  - Shearing-Layers -> for made things

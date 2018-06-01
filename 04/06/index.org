@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 06. Hard Soft and Wet
+#+TITLE: 5. Goldilocks Thresholds Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,45 +13,31 @@
 
 bibliography:~/proj/chenla/hoard/bib.bib
 
-[[[../../index.org][top]]] [[[./index.org][up]]] [[[./05-goldilocks.org][prev]]] [[[./07-world-models.org][next]]]
+[[[../../index.org][top]]] [[[./index.org][up]]] [[[./04-succession-model.org][prev]]] [[[./06-hard-soft-wet.org][next]]]
 
-* 06. Hard Soft and Wet
+* 5. Goldilocks & Thresholds Contents
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/04/06-hard-soft-wet.org
-:Created:  2018-04-06T10:41@Prek Leap (11.642600N-104.919210W)
-:ID:       4cb9c53f-63c3-401d-a370-69dc5d8a0520
-:VER:      576258140.846828408
+:Name:     /home/deerpig/proj/chenla/warp/04/05/index.org
+:Created:  2018-03-29T16:18@Prek Leap (11.642600N-104.919210W)
+:ID:       63e10324-ba8a-46c6-b579-28449f0c7f9d
+:VER:      575587154.803624081
 :GEO:      48P-491193-1287029-15
-:BXID:     proj:OHA1-5032
+:BXID:     proj:IQK0-4140
 :Class:    primer
 :Type:     work
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
-** Scope
-** TL;DR
 
-In the second wave of artificial intelligence research, before the
-onset of the long AI Winter, it was said that there are three types of
-intelligence, Hard, Soft and Wet.  This holds true for understanding
-many things from Energy, Infrastructure, etc.
+  - Contents
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
+  - [[./01-three-bears.org][The Three Bears]]
 
-In Japan, it's common for people to use the term Hard and Soft as a
-shorthand for Hardware and Software.  We add to that Wet, for
-biological processes, but also include in Wet social systems used by
-biological systems.  So politics is Wet, while logistics is Soft, and
-the electrical grid is Hard.
-
-** Table of Contents
-
-  - HARD -> define
-  - SOFT -> define
-  - WET  -> define
-  - HSW uses different types of measurement
-  - HSW are often different layers in succession stages and stacks
-  - There are hard soft and wet elements within each category 
-    - DNA/RNA is both Wet (chemical) and Soft (information).
-    - Computer Hardware is both Hard (transistors and chips) and Soft
-      (bios)
-  - 
+  - astrobiology: habitable zone
+  - goldilock economy: sustains moderate economic growth and low inflation
+  - communication : amount, type and detail needed to
+    maximize effectiveness & minimize redundancy
+  - big history : a threshold of conditions in which a new
+    order of complexity emerges.
