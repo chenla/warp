@@ -264,25 +264,76 @@ who owned the original copy also effectively owned all copies made of
 it, whether they were physical or not.  This has not worked out very
 well.
 
-As more and more wealth becomes information that is not tied to a
-physical object, the base assumption of market-economies based on
-zero-sum transfer of work and goods becomes increasingly unstable.
+As more and more wealth becomes information that is not tied
+to a physical object, the base assumption of
+market-economies based on zero-sum transfer of work and
+goods becomes increasingly unstable.
 
-This is set to become even more complicated as AI systems become smart
-enough to autonomously control machines.  Does a self-driving car need
-an owner?  The entire assumption that all agents are human beings
-because only human beings are capable of being autonomous and
-self-directing becomes as unstable as treating information as
-property.
+This is set to become even more complicated as AI systems
+become smart enough to autonomously control machines.  Does
+a self-driving car need an owner?  The entire assumption
+that all agents are human beings because only human beings
+are capable of being autonomous and self-directing becomes
+as unstable as treating information as property.
 
-Newspapers are an interesting case, because they are both goods and
-services.  The physical printed paper are goods.  Advertisements 
-are an announcement service that broadcasts messages to large numbers
-of people, a one-to-many service.  Newspapers as businesses are just
-announcement services where money is made by those who want to
-broadcast announcements.  The news iself is also a broadcast service
-without a monitizaton model.  With little to no money, one small
-company, called Craig's List wiped out the majority of tranditional
-newspaper's revenue, classified ads.
+Newspapers are an interesting case, because they are both
+goods and services.  The physical printed paper are goods.
+Advertisements are an announcement service that broadcasts
+messages to large numbers of people, a one-to-many service.
+Newspapers as businesses are just announcement services
+where money is made by those who want to broadcast
+announcements.  The news iself is also a broadcast service
+without a monitizaton model.  With little to no money, one
+small company, called Craig's List wiped out the majority of
+tranditional newspaper's revenue, classified ads.
+
+----
+
+[2018-06-02 Sat 09:58] Advertising is a crutch -- it's at
+the edge of the economy, we need to move away from the
+Internet as being part of Media & Content to being at the
+core of daily activities, and supply and production chains.
+Entertainment is one sphere, publishing is another, but that
+is the model that all of these technology companies are now
+based on -- they are not part of.
+
+The internet should be thought of as logistics for
+information, there is /it/ logistics, and /bit/ logistics.
+
+If it is from bit, then /bits/ are at the core of all /its/
+including /it/ logistics.
+
+We need to move away from marketing, to a model where your
+needs determine what is manufactured, not manipulate your
+desired to convince you to buy what is being manufactured.  
+
+Then all content and the internet is a means of delivering
+needs, and will take over most of logistics and information
+producers will no longer be sidelined, they will be at the
+heart of the system and there will be no divsion between
+physical and virtual.
+
+Another BIG problem here is that our by-default-property,
+needs to change to by-default-commons.  The market needs to
+return to filling people's needs, not filling people's
+manipulated desires.
+
+Our system today is designed to create demand to match
+production, not match production to meet demands.  This is
+bat-shit crazy.  150 years ago this was not the case, and
+there is no reason why we can't go back to that model.
+
+The system today is designed to be wasteful, create crap
+that has to be replaced every xx months/years and you burn
+up resources that does not improve people's lives, only
+makes money for a small group of people, creates an instable
+production chain that leads to monopolies, squanders
+resources and contributes to pollution and climate change.
+
+The selfish ledger could well become the heart of this --
+it's actually a very good idea, so long as it's not being
+controlled by a consumer economy and production chain.
+
+
 ** References
 

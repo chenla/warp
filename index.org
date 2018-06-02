@@ -174,50 +174,7 @@ bibliography:../hoard/bib.bib
      - machine -> human
 - Peripherals
 
-Advertising is a crutch -- it's at the edge of the economy,
-we need to move away from the Internet as being part of
-Media & Content to being at the core of daily activities,
-and supply and production chains.  Entertainment is one
-sphere, publishing is another, but that is the model that
-all of these technology companies are now based on -- they
-are not part of.
 
-The internet should be thought of as logistics for
-information, there is /it/ logistics, and /bit/ logistics.
-
-If it is from bit, then /bits/ are at the core of all /its/
-including /it/ logistics.
-
-We need to move away from marketing, to a model where your
-needs determine what is manufactured, not manipulate your
-desired to convince you to buy what is being manufactured.  
-
-Then all content and the internet is a means of delivering
-needs, and will take over most of logistics and information
-producers will no longer be sidelined, they will be at the
-heart of the system and there will be no divsion between
-physical and virtual.
-
-Another BIG problem here is that our by-default-property,
-needs to change to by-default-commons.  The market needs to
-return to filling people's needs, not filling people's
-manipulated desires.
-
-Our system today is designed to create demand to match
-production, not match production to meet demands.  This is
-bat-shit crazy.  150 years ago this was not the case, and
-there is no reason why we can't go back to that model.
-
-The system today is designed to be wasteful, create crap
-that has to be replaced every xx months/years and you burn
-up resources that does not improve people's lives, only
-makes money for a small group of people, creates an instable
-production chain that leads to monopolies, squanders
-resources and contributes to pollution and climate change.
-
-The selfish ledger could well become the heart of this --
-it's actually a very good idea, so long as it's not being
-controlled by a consumer economy and production chain.
 
 
 * Cantos VIII-XV Components
