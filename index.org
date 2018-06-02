@@ -134,7 +134,7 @@ bibliography:../hoard/bib.bib
  - 06. [[./06/06/index.org][Fabrication]]
  - 07. [[./06/06/index.org][Agency]]
 ** VII. Interfaces
- - Contents
+ - [[./07/index.org][Contents]]
  - Abstract
  - Introduction
 
