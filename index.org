@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 154154 |   616 |
+| warp | 155551 |   622 |
 :END:
 
 
@@ -133,14 +133,92 @@ bibliography:../hoard/bib.bib
  - 05. [[./06/05/index.org][Replicatiors]]
  - 06. [[./06/06/index.org][Fabrication]]
  - 07. [[./06/06/index.org][Agency]]
-** VII. 
+** VII. Interfaces
+ - Contents
+ - Abstract
+ - Introduction
 
- - Processes 
- - Tool Chains
- - Flow Control
- - Feedback
+ - Shamanistic API
 
-**  ???
+ - Stone : monuments as beacons & gateways
+ - Ink   : gracefully degrade -- to paper
+ - Chalk :
+ - Pixel : electronic interfaces
+   - Web Publication
+   - Paradigmatic Interfaces
+     - Multi screen design
+       - today, it's all total interface for each display,
+         but this will soon change to using any display
+         around you to pull up information.
+       - designs that allow you to use any combination of
+         displays available to see different parts of same
+         thing.
+       - this will make use of different form factors
+         appropriately -- there is no mobile, tablet,
+         laptop, desktop, television and wall. 
+     - Principle of least suprise
+     - Standard Layout, Widgets and Components for Each Entity Group 
+     - Everything can be natively customized to fit each
+       person's toolchain and workflow, and skinned.
+     - Editor - Browser Parity
+   - Incantation Languages
+   - Augmented interface
+   - VR total immersion interface
+   - Chalk board scripting
+   - Stage of Life -- different interfaces for different
+     stages of life and different stages of
+     economic/educational development.
+   - Rethinking Access for Disabled
+   - Integrating Machine Interfaces
+     - human   -> machine
+     - machine -> human
+- Peripherals
+
+Advertising is a crutch -- it's at the edge of the economy,
+we need to move away from the Internet as being part of
+Media & Content to being at the core of daily activities,
+and supply and production chains.  Entertainment is one
+sphere, publishing is another, but that is the model that
+all of these technology companies are now based on -- they
+are not part of.
+
+The internet should be thought of as logistics for
+information, there is /it/ logistics, and /bit/ logistics.
+
+If it is from bit, then /bits/ are at the core of all /its/
+including /it/ logistics.
+
+We need to move away from marketing, to a model where your
+needs determine what is manufactured, not manipulate your
+desired to convince you to buy what is being manufactured.  
+
+Then all content and the internet is a means of delivering
+needs, and will take over most of logistics and information
+producers will no longer be sidelined, they will be at the
+heart of the system and there will be no divsion between
+physical and virtual.
+
+Another BIG problem here is that our by-default-property,
+needs to change to by-default-commons.  The market needs to
+return to filling people's needs, not filling people's
+manipulated desires.
+
+Our system today is designed to create demand to match
+production, not match production to meet demands.  This is
+bat-shit crazy.  150 years ago this was not the case, and
+there is no reason why we can't go back to that model.
+
+The system today is designed to be wasteful, create crap
+that has to be replaced every xx months/years and you burn
+up resources that does not improve people's lives, only
+makes money for a small group of people, creates an instable
+production chain that leads to monopolies, squanders
+resources and contributes to pollution and climate change.
+
+The selfish ledger could well become the heart of this --
+it's actually a very good idea, so long as it's not being
+controlled by a consumer economy and production chain.
+
 
 * Cantos VIII-XV Components
 ** VIII. Heliosphere
@@ -187,6 +265,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./12/05/index.org][Duties]]
  - 06. [[./12/06/index.org][Constitution]]
  - 07. [[./12/07/index.org][Statutes]]
+ - 08. [[./12/08/index.org][Electoral System]]
 ** XIII. Infrastructure
  - [[./13/index.org][Contents]]
  - Abstract
@@ -266,7 +345,7 @@ bibliography:../hoard/bib.bib
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 
-* Cantos ____ Texts 
+* Cantos ____ Canon
 * Cantos ____ Vocabularies
 * Cantos ____ Polity
 * Cantos ____ Middle
