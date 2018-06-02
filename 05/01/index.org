@@ -50,11 +50,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
       - Individuals
       - Groups
   - Social Paritioning
-  - Privacy
+  - Privacy needs to be tied to accountability
   - Access Control
   - Authentication
+  - Anonymity -> needs to be used as a check and balance,
+    but not as a means of hoarding wealth or doing nasty
+    shit to other people.  So anonymity has to be tied to
+    accountability as well.  How?  That's a very hard
+    problem, but it is important that we solve this.
+    Anonymity is one of the best tools for combating a wide
+    range of evils, so if we can find a way for anyone to
+    speak anonymously and ensure that they it can not be
+    abused, then we might be on to something.  Perhaps,
+    there could be a mechanism that if you abuse that right,
+    it will punish you, but not expose you?  How the fuck
+    could that work?
   - Life Stages
   - Enity Model
     - Stage of Life
     - Persona
     - Role
+
+  - The Selfish Ledger
