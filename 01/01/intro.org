@@ -315,10 +315,22 @@ this planet.
 
 ** References
 
-- Scott, J. C., Seeing like a state: how certain schemes to
-  improve the human condition have failed (1998), : Yale
-  University Press.
-  cite:scott:1998seeing
+- Aristotle, J. B., The complete works of aristotle: the
+  revised oxford translation, one-volume digital edition
+  (2014), : Princeton University Press.
+  cite:aristotle:2014barnes 
+- Alexander, S., /Book review: seeing like a state/ (2017).
+  cite:alexander:2017seeing-state-review 
+- Galison, P., Image and logic: a material culture of
+  microphysics (1997), : University of Chicago Press.
+  cite:galison:1997image-logic 
+- Kant, I., Guyer, P., & Wood, A. W., Critique of pure
+  reason (1998), : Cambridge University Press.
+  cite:kant:1998pure-reason
+- Keep, L., /Man as a rationalist animal/ (2017).
+  cite:keep:2017rationional-animal 
+- Keep, L., /Science Under High Modernism/ (2018).
+  cite:keep:2018science-high-modernism 
 - Kuhn, T. S., The structure of scientific revolutions: 50th
   anniversary edition (2012), : The University of Chicago
   Press.
@@ -326,41 +338,25 @@ this planet.
 - Kuhn, T. S., The structure of scientific revolutions
   (1970), : The University of Chicago Press.
   cite:kuhn:1970sci-revolutions
-- Alexander, S., /Book review: seeing like a state/ (2017).
-  cite:alexander:2017seeing-state-review 
-- Rao, V., /A Big Little Idea Called Legibility/ (2010).
-  cite:rao:2010big-little-idea 
-- Scott, J. C., /The trouble with the view from above/ (2010).
-  cite:scott:2010trouble 
-- Keep, L., /Man as a rationalist animal/ (2017).
-  cite:keep:2017rationional-animal 
-- Keep, L., /Science Under High Modernism/ (2018).
-  cite:keep:2018science-high-modernism 
-
+- Kuhn, T. S., Second thoughts on paradigms, The structure
+  of scientific theories, 2(), 459–482 (1974).
+  cite:kuhn:1974second
+- Lakatos, I., & Musgrave, A., Criticism and the growth of
+  knowledge (1970), : Cambridge University Press.
+  cite:lakatos:1970criticism-growth
 - Masterman, M., The nature of a paradigm, In (Eds.),
   Criticism and the Growth of Knowledge (pp. 59–89)
   (1970). : Cambridge University Press.
   cite:margaret:1970nature
-- Lakatos, I., & Musgrave, A., Criticism and the growth of
-  knowledge (1970), : Cambridge University Press.
-  cite:lakatos:1970criticism-growth
-- Kuhn, T. S., Second thoughts on paradigms, The structure
-  of scientific theories, 2(), 459–482 (1974).
-  cite:kuhn:1974second
-- Galison, P., Image and logic: a material culture of
-  microphysics (1997), : University of Chicago Press.
-  cite:galison:1997image-logic 
-
-- Aristotle, J. B., The complete works of aristotle: the
-  revised oxford translation, one-volume digital edition
-  (2014), : Princeton University Press.
-  cite:aristotle:2014barnes 
-
-- Kant, I., Guyer, P., & Wood, A. W., Critique of pure
-  reason (1998), : Cambridge University Press.
-  cite:kant:1998pure-reason
-
+- Rao, V., /A Big Little Idea Called Legibility/ (2010).
+  cite:rao:2010big-little-idea 
 - Shapere, D., The structure of scientific revolutions, The
   Philosophical Review, 73(3), 383 (1964).
   http://dx.doi.org/10.2307/2183664
   cite:shapere:1964structure
+- Scott, J. C., Seeing like a state: how certain schemes to
+  improve the human condition have failed (1998), : Yale
+  University Press.
+  cite:scott:1998seeing
+- Scott, J. C., /The trouble with the view from above/ (2010).
+  cite:scott:2010trouble 
