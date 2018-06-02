@@ -31,4 +31,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-
+  - First-Past-The-Post
+  - Proportional System
+  - Two-Round System
+  - Indirect Voting
+  - Cardinal Systems
+    - Approval Voting
+  - Weighted Voting
