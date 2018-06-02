@@ -1,4 +1,4 @@
-#+TITLE: 1. Metis > Episteme Contents
+#+TITLE: 1. Mētis Contents
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -13,7 +13,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* 1. Metis > Episteme Contents
+* 1. Mētis Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/01/01/index.org

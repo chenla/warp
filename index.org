@@ -61,7 +61,7 @@ bibliography:../hoard/bib.bib
  - [[./01/index.org][Contents]]
  - [[./01/abstract.org][Abstract]]
  - [[./01/intro.org][Introduction]] 
- - 01. [[./01/01/index.org][Mētis > Episteme]]
+ - 01. [[./01/01/index.org][Mētis]]
  - 02. [[./01/02/index.org][Mind]]
  - 03. [[./01/03/index.org][Sapiens]]
  - 04. [[./01/04/index.org][Civilization]]
