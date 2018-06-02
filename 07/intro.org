@@ -35,9 +35,38 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-  - Bringhurst, R., The elements of typographic style (2004), : Hartley & Marks.
+  - Bringhurst, R., The elements of typographic style
+    (2004), : Hartley & Marks.
     cite:bringhurst:2004typographic
   - Glass, C., /A day made of glass/ (2011).
     cite:corning:2011day-glass 
-  - Glass, C., /A day made of glass 2: same day expanded corning vision/ (2012).
-   cite:corning:2012day-glass-2
+  - Glass, C., /A day made of glass 2: same day expanded
+    corning vision/ (2012).
+    cite:corning:2012day-glass-2
+  - Friedman, V., The Smashing Book (2009), : Smashing
+    Media.
+    cite:friedman:2009smashing-book
+  - Tidwell, J., Designing Interfaces (2010), : O'Reilly
+    Media.
+    cite:tidwell:2010designing-interfaces
+  - Norman, D. A., The design of everyday things (2013), :
+    Basic Books.
+    cite:norman:2013everyday-things
+  - Raskin, J., The human interface. new directions for
+    designing interactive systems (2000), : Addison-Wesley
+    Professional.
+    cite:raskin2000interface
+  - Bainbridge, W. S., Berkshire encyclopedia of
+    human-computer interaction (2004), : Berkshire
+    Pub. Group.
+    cite:bainbridge:2004human-computer-2
+  - Bainbridge, W. S., Berkshire encyclopedia of
+    human-computer interaction (2004), : Berkshire
+    Pub. Group.  cite:bainbridge:2004human-computer-1
+  - Alan Cooper, R. R., About face 3: the essentials of
+    interaction design (2007), : Wiley.
+    cite:alan:2007about-face
+  - Krishna, G., The best interface is no interface: the
+    simple path to brilliant technology (2015), : New
+    Riders.
+    cite:krishna:2015no-interface
