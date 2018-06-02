@@ -37,3 +37,4 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - 05. [[./05/index.org][Duties]]
   - 06. [[./06/index.org][Constitution]]
   - 07. [[./07/index.org][Statutes]]
+  - 08. [[./08/index.org][Electoral System]]
