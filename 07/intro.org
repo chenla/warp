@@ -35,4 +35,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-
+  - Bringhurst, R., The elements of typographic style (2004), : Hartley & Marks.
+    cite:bringhurst:2004typographic
+  - Glass, C., /A day made of glass/ (2011).
+    cite:corning:2011day-glass 
+  - Glass, C., /A day made of glass 2: same day expanded corning vision/ (2012).
+   cite:corning:2012day-glass-2
