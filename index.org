@@ -135,44 +135,8 @@ bibliography:../hoard/bib.bib
  - 07. [[./06/06/index.org][Agency]]
 ** VII. Interfaces
  - [[./07/index.org][Contents]]
- - Abstract
- - Introduction
-
- - Shamanistic API
-
- - Stone : monuments as beacons & gateways
- - Ink   : gracefully degrade -- to paper
- - Chalk :
- - Pixel : electronic interfaces
-   - Web Publication
-   - Paradigmatic Interfaces
-     - Multi screen design
-       - today, it's all total interface for each display,
-         but this will soon change to using any display
-         around you to pull up information.
-       - designs that allow you to use any combination of
-         displays available to see different parts of same
-         thing.
-       - this will make use of different form factors
-         appropriately -- there is no mobile, tablet,
-         laptop, desktop, television and wall. 
-     - Principle of least suprise
-     - Standard Layout, Widgets and Components for Each Entity Group 
-     - Everything can be natively customized to fit each
-       person's toolchain and workflow, and skinned.
-     - Editor - Browser Parity
-   - Incantation Languages
-   - Augmented interface
-   - VR total immersion interface
-   - Chalk board scripting
-   - Stage of Life -- different interfaces for different
-     stages of life and different stages of
-     economic/educational development.
-   - Rethinking Access for Disabled
-   - Integrating Machine Interfaces
-     - human   -> machine
-     - machine -> human
-- Peripherals
+ - [[./07/abstract.org][Abstract]]
+ - [[./07/intro.org][Introduction]]
 
 
 
