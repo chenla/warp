@@ -35,4 +35,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** References
 
-
+- Brams, S., & Fishburn, P. C., Approval voting, second
+  edition (2007), : Springer.
+  cite:brams:2007approval
+- Brams, S. J., & Fishburn, P. C., Approval Voting, American
+  Political Science Review, 72(03), 831–847 (1978).
+  http://dx.doi.org/10.2307/1955105
+  cite:brams:1978approval
+- Brams, S. J., & Fishburn, P. C., Going from theory to
+  practice: the mixed success of approval voting, Social
+  Choice and Welfare, 25(2-3), 457–474 (2005).
+  cite:brams:2005going
+- Jean-François, , & Laslier, M. R. S., Handbook on approval
+  voting (2010), : Springer-Verlag Berlin Heidelberg.
+  cite:laslier:2010approval
+- Ottewell, G., /The arithemetic of voting/ (1987). 
+  cite:ottewell:1987arithmetic
