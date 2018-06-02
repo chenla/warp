@@ -169,100 +169,113 @@ round -- this is not healthy.
 An economy cuts a pretty broad swath of a civilization:
 
 #+begin_quote
-An economy is an area of the production, distribution, or trade, and
-consumption of goods and services by different agents. Understood in
-its broadest sense, 'The economy is defined as a social domain that
-emphasizes the practices, discourses, and material expressions
-associated with the production, use, and management of resources.
+An economy is an area of the production, distribution, or
+trade, and consumption of goods and services by different
+agents. Understood in its broadest sense, 'The economy is
+defined as a social domain that emphasizes the practices,
+discourses, and material expressions associated with the
+production, use, and management of resources.
 
 ....
 
-A given economy is the result of a set of processes that involves its
-culture, values, education, technological evolution, history, social
-organization, political structure and legal systems, as well as its
-geography, natural resource endowment, and ecology, as main
-factors. These factors give context, content, and set the conditions
-and parameters in which an economy functions. In other words, the
-economic domain is a social domain of human practices and
-transactions. It does not stand alone.
+A given economy is the result of a set of processes that
+involves its culture, values, education, technological
+evolution, history, social organization, political structure
+and legal systems, as well as its geography, natural
+resource endowment, and ecology, as main factors. These
+factors give context, content, and set the conditions and
+parameters in which an economy functions. In other words,
+the economic domain is a social domain of human practices
+and transactions. It does not stand alone.
 
 -- Economy | Wikipedia
    https://en.wikipedia.org/wiki/Economy
 #+end_quote
 
-Different kinds of economies achieve this in different ways.  Market
-economies use barter or a medium of exchange (money) to achieve this
-according to supply and demand.  The assumption is, that if there is a
-need for something, someone will find a way of filling that need
-through production of goods and services.  All in all this system is
-messy and leaves a great deal of room for abuse, but is better than
-the alternatives because it is at base, a bottom up approach where the
-purpose of production is to meet needs.  In a command-based an
-authority (usually political) controls how things are produced and
-distributed.  Because of the complexity of even fairly small
-economies, it is for all all intents and purposes impossible to
-anticipate needs, plan production and coordinate distribution anywhere
-close to as well as market-based economies can do.  This doesn't mean
-that market-economies are perfect, far from it, but to date it's
-better than the alternatives that have been tried.  Market-eonomies
-which are regulated to ensure that the markets are both free and fair
-minimize the worst in market-economies which quickly go off the rails
-if there is not substantive regulation.  Unregulated market-economies
-are called free-markets, and they are as bad and in some ways worse
-than command-economies.  This has not stopped many people believing
-that free-economies supply and demand is a self-regulating system, and
-that if all regulation was removed it would result in a capitalist
-self-regulating utopia.  What they forget is that at the beginning of
-the industrial revolution mass production created just this kind of
-self-regulated system and it resulted in truly horrible behavior.
+Different kinds of economies achieve this in different ways.
+Market economies use barter or a medium of exchange (money)
+to achieve this according to supply and demand.  The
+assumption is, that if there is a need for something,
+someone will find a way of filling that need through
+production of goods and services.  All in all this system is
+messy and leaves a great deal of room for abuse, but is
+better than the alternatives because it is at base, a bottom
+up approach where the purpose of production is to meet
+needs.  In a command-based an authority (usually political)
+controls how things are produced and distributed.  Because
+of the complexity of even fairly small economies, it is for
+all all intents and purposes impossible to anticipate needs,
+plan production and coordinate distribution anywhere close
+to as well as market-based economies can do.  This doesn't
+mean that market-economies are perfect, far from it, but to
+date it's better than the alternatives that have been tried.
+Market-eonomies which are regulated to ensure that the
+markets are both free and fair minimize the worst in
+market-economies which quickly go off the rails if there is
+not substantive regulation.  Unregulated market-economies
+are called free-markets, and they are as bad and in some
+ways worse than command-economies.  This has not stopped
+many people believing that free-economies supply and demand
+is a self-regulating system, and that if all regulation was
+removed it would result in a capitalist self-regulating
+utopia.  What they forget is that at the beginning of the
+industrial revolution mass production created just this kind
+of self-regulated system and it resulted in truly horrible
+behavior.
 
-Unfortunately, economies today assume that anything bartered or traded
-must be either goods or services.  All goods are a form of property
-which has an owner.  The word property also means land, which under
-the present system also has an owner, even if that owner is a diety.
+Unfortunately, economies today assume that anything bartered
+or traded must be either goods or services.  All goods are a
+form of property which has an owner.  The word property also
+means land, which under the present system also has an
+owner, even if that owner is a diety.
 
-Services, on the other hand, treat work-done on behalf of someone else
-as a kind of property as well.  Work is energy expended to do
-something.  Services are usually measured in increments of time, and
-the value of a service is determined by how easy or difficult the work
-done is.
+Services, on the other hand, treat work-done on behalf of
+someone else as a kind of property as well.  Work is energy
+expended to do something.  Services are usually measured in
+increments of time, and the value of a service is determined
+by how easy or difficult the work done is.
 
 The problem with this system is that it doesn't account for
-information, which until a few decades ago could only be used as
-physical goods that stored information, such as a book, musical
-recording or video tape.  Information could also be treated as a
-service in the form of transmission information, or in the form of a
-performance such as a concert.
+information, which until a few decades ago could only be
+used as physical goods that stored information, such as a
+book, musical recording or video tape.  Information could
+also be treated as a service in the form of transmission
+information, or in the form of a performance such as a
+concert.
 
-The digital revolution made it possible for the cost of storing and
-transmitting information so cheap that for all practical purposes it
-became free.  Treating information as either goods or services was
-not a very good fit.  So, the concept of copyright and design patents
-were invented to treate specific arrangements of information as
-property in their own right.  This worked well when physical
-recordings the norm because you weren't selling information, just an
-object whose value came from the information recorded on the object.
+The digital revolution made it possible for the cost of
+storing and transmitting information so cheap that for all
+practical purposes it became free.  Treating information as
+either goods or services was not a very good fit.  So, the
+concept of copyright and design patents were invented to
+treate specific arrangements of information as property in
+their own right.  This worked well when physical recordings
+the norm because you weren't selling information, just an
+object whose value came from the information recorded on the
+object.
 
-When all of these objects were replaced by digitized information
-transmitted essentially for free over the Internet there was no way to
-monetize information beause transmission of information makes no
-distinction of what is being transmitted.  Transission works fine as a
-service, but without physical objects to sell, the producers of
+When all of these objects were replaced by digitized
+information transmitted essentially for free over the
+Internet there was no way to monetize information beause
+transmission of information makes no distinction of what is
+being transmitted.  Transission works fine as a service, but
+without physical objects to sell, the producers of
 information no longer had means of earning a living from it.
 
-Copyright literally means the right to copy, but that was when what
-was copied was a physical object which is property with an owner.  If
-you take away my copy of physical object then I no longer have that
-object, that object as wealth has been taken or transfered to a
-different owner.  But digital copies that are not permanent physical
-objects can be copied and transmitted for free without depriving the
-person the copy was made from of their copy.  Ownership is a zero-sum
-process that tranfers one thing from one owner to another.  If
-something is not a zero-sum transfer, then it no longer functions as
-property.  So the concept of copyright changed to mean that the person
-who owned the original copy also effectively owned all copies made of
-it, whether they were physical or not.  This has not worked out very
-well.
+Copyright literally means the right to copy, but that was
+when what was copied was a physical object which is property
+with an owner.  If you take away my copy of physical object
+then I no longer have that object, that object as wealth has
+been taken or transfered to a different owner.  But digital
+copies that are not permanent physical objects can be copied
+and transmitted for free without depriving the person the
+copy was made from of their copy.  Ownership is a zero-sum
+process that tranfers one thing from one owner to another.
+If something is not a zero-sum transfer, then it no longer
+functions as property.  So the concept of copyright changed
+to mean that the person who owned the original copy also
+effectively owned all copies made of it, whether they were
+physical or not.  This has not worked out very well.
 
 As more and more wealth becomes information that is not tied
 to a physical object, the base assumption of
