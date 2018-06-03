@@ -262,7 +262,16 @@ bibliography:../hoard/bib.bib
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 
-* Cantos ____ Canon
+* Cantos XXI-  Canon
+** XXI. Canon
+ - [[./21/index.org][Contents]]
+ - Abstract
+ - Introduction 
+ - 00. Origin Story
+ - 00. Archetypes
+ - 00. Events
+ - 00. Figures
+ - 00. Motifs
 
 #+begin_quote
 My mother always talked to me a lot about the sky. She liked
@@ -326,14 +335,6 @@ to the same rules from every galaxy and the stars orbiting
 in them, down to and every pelican bobbing on the ocean's
 surface and each periwinkle inching across the ocean floor
 beneath them.
-
-  - 00. Canon
-  - 00. Origin Story
-  - 00. Archetypes
-  - 00. Events
-  - 00. Figures
-  - 00. Motifs
-
 * Cantos ____ Vocabularies
 * Cantos ____ Polity
 * Cantos ____ Middle
