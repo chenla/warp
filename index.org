@@ -265,8 +265,9 @@ bibliography:../hoard/bib.bib
 * Cantos XXI-  Canon
 ** XXI. Canon
  - [[./21/index.org][Contents]]
- - Abstract
- - Introduction 
+ - [[./21/abstract.org][Abstract]]
+ - [[./21/intro.org][Introduction]] 
+ - 00. Canon 
  - 00. Origin Story
  - 00. Archetypes
  - 00. Events
