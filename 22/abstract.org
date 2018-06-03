@@ -33,7 +33,22 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-
-
 ** TL;DR
 
+
+Not entirely sure how to do this.  Big Hisory has some
+fantastic works, but they are not really narratives in the
+sense that origin stories are structured.  Cosmos comes
+somewhat close in that it starts with us, zooms out to the
+big bang and then works back to us -- later it shrinks
+down.  At each step, there is a story of how each discovery
+came about, the human story of the person/people behind it
+and how it changed the paradigm that came before it.  This
+is the way we teach science -- but is it the way we teach an
+origin story?
+
+The Bible too is structured somewhat the same way, starting
+with creation, then the first people, and how things got
+increasingly complex as societies grew more complex, as more
+generations passed, with an increasingly complex history
+behind them.
