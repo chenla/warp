@@ -31,7 +31,68 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+My mother always talked to me a lot about the sky. She liked
+to watch the clouds in the day, and the stars at
+night... especially the stars. We would play a game
+sometimes, a game called, what's beyond the sky. We would
+imagine darkness, or a blinding light, or something else
+that we didn't know how to name. But of course, that was
+just a game. There's nothing beyond the sky. The sky just
+is, and it goes on and on, and we play all of our games
+beneath it.
 
+— Allison Clarke, Taken (2002)
+  https://en.wikipedia.org/wiki/Taken_(miniseries)
+#+end_quote
+
+The Canon is a collection of texts that comprise a global
+mythos.  It can be used as a primary evidence-based
+narrative that is based on secularm pluralistic, humanist
+principles.  But it can also serve as an interoperability
+layer, a cosmological canopy; what the Mongolians call the
+"eternal blue sky" which every one and every thing is
+underneath.  In this way, the Canon can map to local
+cultural mythos that reflects their own context; gods,
+geography, climate, diet, traditions, and history.
+
+Being multi-lingual is essential here.  And we are all
+multi-lingual in that we all belong to local communities, be
+it a mountain village in champasak, the professional
+community of particle physicists, or emacs users.  When you
+are in the community, you share a common vocabulary,
+worldview, history, geography and skillsets that are
+incomprehensible to those outside the community.  From the
+outside all such communities are admired or feared as
+elites, or dismissed and denegraded as ignorant hicks.  From
+the standpoint of a community's paradigm they are all
+functionally equivalent.
+
+The Canon forms the foundation for a universal, cosmopolitan
+mētis which is also rich and complex but is designed for
+what Brian Eno calls the big-here and long-now.  We all play
+different roles in different contexts and at different times
+in our lives -- the local demands respect, recognition and
+dignity.  But this can only happen if there is a
+corresponding global that embraces and accepts the reality
+that civilization is a plurality, a galaxy of countless
+local communities.  At it's heart is the concept of the
+liberal arts in their original meaning, those principles,
+skills and knowledge essential for a free person to take and
+active part in civic life.  In a secular, pluralistic
+evidence-based humanist society these comprise a kind of
+cosmopolitan toolbox.
+
+We can no longer use high modernism's reductionist map to
+mask and hide from complexity.  Rather we need a
+cosmopolitan framework for understanding and building a
+civilization that acknowledges the cold hard fact that not
+everything is knowable, measurable, and controllable.  We
+all live under the same eternal blue sky and we are subject
+to the same rules from every galaxy and the stars orbiting
+in them, down to and every pelican bobbing on the ocean's
+surface and each periwinkle inching across the ocean floor
+beneath them.
 
 ** References
 
