@@ -267,13 +267,21 @@ bibliography:../hoard/bib.bib
  - [[./21/index.org][Contents]]
  - [[./21/abstract.org][Abstract]]
  - [[./21/intro.org][Introduction]] 
- - 00. Canon 
- - 00. Origin Story
+ - 00. Canon
+
+What other works than the origin story go here?
+
+
+
+** XXII. Origin Story
+** XXIII. Archetypes
+ - Contents
+ - Abstract
+ - Introduction
  - 00. Archetypes
  - 00. Events
  - 00. Figures
  - 00. Motifs
-
 
 * Cantos ____ Vocabularies
 * Cantos ____ Polity
