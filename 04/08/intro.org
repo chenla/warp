@@ -31,6 +31,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+"truth … is much too complicated to allow anything but
+approximations"
+
+— John von Neuman (1947)
+
+von Neumann, J.,(1947) "The Mathematician", 
+in Haywood, R. B., Works of the Mind, 
+University of Chicago Press, pp. 180–196.
+#+end_quote
+
+#+begin_quote
+"The most that can be expected from any model is that it can
+supply a useful approximation to reality: All models are
+wrong; some models are useful".
+
+— George Box (2005)
+
+Box, G. E. P.; Hunter, J. S.; Hunter, W. G. (2005),
+Statistics for Experimenters (2nd ed.), John Wiley & Sons.
+#+end_quote
+
+
 Break into three parts.
 
 ** Worldview
