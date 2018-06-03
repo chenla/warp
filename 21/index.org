@@ -31,4 +31,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-
+  - 00. Canon 
+  - 00. Origin Story
+  - 00. Archetypes
+  - 00. Events
+  - 00. Figures
+  - 00. Motifs
