@@ -137,10 +137,6 @@ bibliography:../hoard/bib.bib
  - [[./07/index.org][Contents]]
  - [[./07/abstract.org][Abstract]]
  - [[./07/intro.org][Introduction]]
-
-
-
-
 * Cantos VIII-XV Components
 ** VIII. Heliosphere
  - [[./08/index.org][Contents]]
@@ -267,6 +263,46 @@ bibliography:../hoard/bib.bib
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 
 * Cantos ____ Canon
+
+The Canon is a collection of texts that comprise a global
+mythos.  It can be used either as a primary evidence-based
+narrative that is based on a pluralistic, secular humanistic
+principles.
+
+But it can also serve as an interoperability layer, an
+eternal blue sky which everything is underneath.  In this
+way, the Canon can map to local cultural mythos that
+reflects their own context -- gods, geography, climate,
+diet, traditions, history.
+
+Being multi-lingual is essential here.  And we are all
+multi-lingual in that we all belong to local communities, be
+it a mountain village in champasak, the professional
+community of particle physicists, or emacs users.  When you
+are in the community, you share a common vocabulary,
+worldview, history, geography and skillsets that are
+incomprehensible to those outside the community.  From the
+outside all such communities are admired or feared as
+elites, or dismissed and denegraded as ignorant hicks.  From
+the standpoint of a community's paradigm they are all
+functionally equivilent.
+
+The Canon forms the foundation for a universal, cosmopolitan
+mētis which is also rich and complex but is designed for
+what Brian Eno calls the big-here and long-now.  We all play
+different roles in different contexts and at different times
+in our lives -- the local demands respect, recognition and
+dignity.  But this can only happen if there is a
+corresponding global that embraces and accepts the reality
+that civilization is a plurality, a galaxy of countless
+local communities.  At it's heart is the concept of the
+liberal arts in their original meaning, those principles,
+skills and knowledge essential for a free person to take and
+active part in civic life.  In a secular, pluralistic
+evidence-based humanist society these comprise a kind of
+cosmopolitan toolbox.
+
+
 * Cantos ____ Vocabularies
 * Cantos ____ Polity
 * Cantos ____ Middle
