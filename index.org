@@ -272,6 +272,11 @@ bibliography:../hoard/bib.bib
 What other works than the origin story go here?
 
 ** XXII. Origin Story
+ - [[./22/index.org][Contents]]
+ - [[./22/abstract.org][Abstract]]
+ - [[./22/intro.org][Introduction]]
+
+
 ** XXIII. Archetypes
  - Contents
  - Abstract
