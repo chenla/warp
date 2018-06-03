@@ -271,8 +271,6 @@ bibliography:../hoard/bib.bib
 
 What other works than the origin story go here?
 
-
-
 ** XXII. Origin Story
 ** XXIII. Archetypes
  - Contents
@@ -284,6 +282,13 @@ What other works than the origin story go here?
  - 00. Motifs
 
 * Cantos ____ Vocabularies
+
+   - Patterns
+   - Parameters
+   - Theses
+   - Keystones
+   - Entities
+   - Concepts 
 * Cantos ____ Polity
 * Cantos ____ Middle
 * Cantos ____ Arc
