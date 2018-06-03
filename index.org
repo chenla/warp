@@ -264,16 +264,29 @@ bibliography:../hoard/bib.bib
 
 * Cantos ____ Canon
 
-The Canon is a collection of texts that comprise a global
-mythos.  It can be used either as a primary evidence-based
-narrative that is based on a pluralistic, secular humanistic
-principles.
+#+begin_quote
+My mother always talked to me a lot about the sky. She liked
+to watch the clouds in the day, and the stars at
+night... especially the stars. We would play a game
+sometimes, a game called, what's beyond the sky. We would
+imagine darkness, or a blinding light, or something else
+that we didn't know how to name. But of course, that was
+just a game. There's nothing beyond the sky. The sky just
+is, and it goes on and on, and we play all of our games
+beneath it.
 
-But it can also serve as an interoperability layer, an
-eternal blue sky which everything is underneath.  In this
-way, the Canon can map to local cultural mythos that
-reflects their own context -- gods, geography, climate,
-diet, traditions, history.
+— Allison Clarke, Taken (2002)
+#+end_quote
+
+The Canon is a collection of texts that comprise a global
+mythos.  It can be used as a primary evidence-based
+narrative that is based on secularm pluralistic, humanist
+principles.  But it can also serve as an interoperability
+layer, a cosmological canopy, what the Mongolians called the
+"eternal blue sky" which every one and every thing is
+underneath.  In this way, the Canon can map to local
+cultural mythos that reflects their own context -- gods,
+geography, climate, diet, traditions, history.
 
 Being multi-lingual is essential here.  And we are all
 multi-lingual in that we all belong to local communities, be
