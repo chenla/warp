@@ -49,6 +49,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Tidwell, J., Designing Interfaces (2010), : O'Reilly
     Media.
     cite:tidwell:2010designing-interfaces
+  - Mauss, M., A general theory of magic (2001), : Routledge.
+    cite:mauss:2001magic
   - Norman, D. A., The design of everyday things (2013), :
     Basic Books.
     cite:norman:2013everyday-things
