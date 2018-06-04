@@ -34,3 +34,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 ** References
+
+  - Jung, C. G., McGuire, W., Read, H., Fordham, M., &
+    Adler, G., The archetypes and the collective unconscious
+    (1980), : Princeton University Press.
+    cite:jung:1980collected-9-1
