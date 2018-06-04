@@ -289,9 +289,9 @@ What other works than the origin story go here?
  - Abstract
  - Introduction
 ** XXV. Calendar
- - Contents
- - Abstract
- - Introduction
+ - [[./25/index.org][Contents]]
+ - [[./25/abstract.org][Abstract]]
+ - [[./25/intro.org][Introduction]]
  - 00. Reckoning
  - 00. Rituals
  - 00. Convocations
