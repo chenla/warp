@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 156146 |   624 |
+| warp | 159035 |   636 |
 :END:
 
 
@@ -205,6 +205,7 @@ bibliography:../hoard/bib.bib
  - 00. Chains
  - 00. Value
  - 00. Currencies
+ - 00. [[./14/ww-barter.org][Barter]]
  - 00. Supply
  - 00. Production
  - 00. Logistics
@@ -285,6 +286,10 @@ What other works than the origin story go here?
  - 00. Events
  - 00. Figures
  - 00. Motifs
+
+** XXIV. Cycles & Seasons
+
+Microseasons
 
 * Cantos ____ Vocabularies
 
