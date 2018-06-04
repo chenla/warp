@@ -1,0 +1,38 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Gift Economies 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Gift Economies
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/14/ww-gift.org
+  :Created:   2018-06-04T19:13@Prek Leap (11.642600N-104.919210W)
+  :ID:        1ccc9aff-35aa-4caf-b187-b69ca50f7b5a
+  :VER:       581386491.008785311
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:XDI6-8071
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+** TL;DR
+** References
+
+

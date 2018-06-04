@@ -100,6 +100,10 @@ is the same as happiness
 
 ** References
 
+  - Adams, J., /Constitution of massachusetts/ (1780).
+    cite:adams:1780ma-constitution
+
+
   - American Humanist Association, /Humanism and its aspirations: humanist
     manifesto iii./ (2003).
     cite:aha:2003humanism
