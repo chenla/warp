@@ -285,9 +285,9 @@ What other works than the origin story go here?
  - 00. Figures
  - 00. Motifs
 ** XXIV. Time
- - Contents
- - Abstract
- - Introduction
+ - [[./34/index.org][Contents]]
+ - [[./24/abstract.org][Abstract]]
+ - [[./24/intro.org][Introduction]]
 ** XXV. Calendar
  - [[./25/index.org][Contents]]
  - [[./25/abstract.org][Abstract]]
