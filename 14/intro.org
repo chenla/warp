@@ -350,6 +350,16 @@ controlled by a consumer economy and production chain.
 
 ** References
 
+  - Barnes, P., Capitalism 3.0: a guide to reclaiming the
+    commons (2006), : Berrett-Koehler Publishers.
+    cite:barnes:2006capitalism-3-0
+  - Kelly, K., New rules for the new economy: 10 radical
+    strategies for a connected world (1999), : Penguin.
+    cite:kelly:1999new-rules
+  - Marglin, S. A., Premises for a new economy, Development,
+    56(2), 149–154 (2013).
+    http://dx.doi.org/10.1057/dev.2013.20
+    cite:marglin:2013premises
   - Mauss, M., The gift : the form and reason for exchange
     in archaic societies (2001), : Routledge.
     cite:mauss:2001gift 
@@ -357,14 +367,6 @@ controlled by a consumer economy and production chain.
     nature and causes of the wealth of nations (1977), :
     University Of Chicago Press.
     cite:smith:1977wealth
-  - Marglin, S. A., Premises for a new economy, Development,
-    56(2), 149–154 (2013).
-    http://dx.doi.org/10.1057/dev.2013.20
-    cite:marglin:2013premises
-  - Kelly, K., New rules for the new economy: 10 radical
-    strategies for a connected world (1999), : Penguin.
-    cite:kelly:1999new-rules
   - Trotsky, L., & ZINOV'EV, G. E., /Soviet economy in
     danger. the expulsion of zinoviev/ (1933).
     cite:trotsky:1933soviet 
-
