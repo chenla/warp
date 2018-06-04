@@ -276,8 +276,6 @@ What other works than the origin story go here?
  - [[./22/index.org][Contents]]
  - [[./22/abstract.org][Abstract]]
  - [[./22/intro.org][Introduction]]
-
-
 ** XXIII. Archetypes
  - Contents
  - Abstract
@@ -286,19 +284,17 @@ What other works than the origin story go here?
  - 00. Events
  - 00. Figures
  - 00. Motifs
-
-** XXIV. Time
-
-** XXVI. Cycles
-  - Contents
-  - Abstract
-  - Introduction
-  - 00. Rituals
-  - 00. Convocations
-  - 00. Elections
-  - 00. Stages of Life
-  - 00. Seasons & Microseasons
-  - 00. Festivals
+** XXIV. Calendar
+ - Contents
+ - Abstract
+ - Introduction
+ - 00. Reckoning
+ - 00. Rituals
+ - 00. Convocations
+ - 00. Elections
+ - 00. Stages of Life
+ - 00. Seasons & Microseasons
+ - 00. Festivals
 
 * Cantos ____ Vocabularies
 
