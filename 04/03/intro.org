@@ -107,3 +107,6 @@ structures.
     construction, format, and management of monolingual controlled
     vocabularies/ (2010).
     cite:ansi:2010ansi-z39.19
+  - Durkheim, E., Mauss, M., & Needham, R., Primitive
+    Classification (2010), : Routledge.
+    cite:durkheim:2010primitive
