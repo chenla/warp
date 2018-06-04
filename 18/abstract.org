@@ -31,6 +31,46 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
 ** Scope
+
+This canto was just recently renamed to /provisioning/ and
+I'm just starting to think through what that means.  First,
+provisioning was the correct word to use, in the sense of
+setting things up and make ready to run.
+
+In our case, this will mean an expanded concept that
+includes network and server provisioning, as well as initial
+planning, design and bringing the system online.
+
+We will need a toolchain to do these things.
+
+  - a package management system for different modules and
+    add on modes.
+  - a configuration management system along the same lines
+    as Chef.
+  - a build and continuous deployment system 
+  - a monitor and administration system for distributed
+    infrastructure.
+
+We could cobble this together using existing tools, and in
+the early days that's what we will do.  We can use
+Kubernetes, GitLab, Chef etc.  But that only gets us so far.
+These are all tools for managing hardware and software.  The
+system is designed to be homoiconographic, and work as
+literate computing/programs so source code is not just code,
+but content as well.
+
+In fact the system has to work as a paper-based system if
+being run in a mechanical succession stage, and we will
+eventually maintain running systems that will work at each
+succession stage, so that the lower stages -- this is the
+only way that we can ensure that when things go wrong that
+the systems will continue to work and work well within the
+constraits of the succession stage.
+
+We will also be running IOT devices and coordinate
+semi-autonomous systems as well.  The existing provisioning
+stack is not up to that.
+
 ** TL;DR
 Volume V outlines the major components in the process of
 building a civilization and the workflow between each
