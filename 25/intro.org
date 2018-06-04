@@ -36,6 +36,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+  - Blackburn, B., & Holford-Strevens, L., The oxford
+    companion to the year: an exploration of calendar
+    customs and time-reckoning (1999), : Oxford University
+    Press, USA.
+    cite:blackburn:1999companion-year
+  - Blake, S. P., Time in early modern islam: calendar,
+    ceremony, and chronology in the safavid, mughal and
+    ottoman empires (2013), : Cambridge University Press.
+    cite:blake:2013time-islam
+  - Duncan, D. E., The calendar: the 5000-year struggle to
+    align the clock and the heavens - and what happened to
+    the missing ten days (1999), : Fourth Estate Ltd.
+    cite:duncan:1999calendar
   - Feeney, D., Caesar's calendar: ancient time and the
     beginnings of history (sather classical lectures)
     (2007), : University of California Press.
@@ -43,11 +56,18 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Kelley, D. H., Calendar animals and deities (1960), :
     University of New Mexico.
     cite:kelley:1960calendar-animals
+  - Mikalson, J. D., The sacred and civil calendar of the
+    athenian year (2015), : Princeton University Press.
+    cite:mikalson:2015athenian-year
+  - Richards, E. G., Mapping time : the calendar (1999), :
+    Oxford University Press, USA.
+    cite:richards:1999mapping-time
+  - Rüpke, J., & Richardson, D. M. B., The roman calendar
+    from numa to constantine: time, history, and the fasti
+    (2011), : Wiley-Blackwell.
+    cite:rüpke:2011roman-calendar
   - Steel, D., Marking time: the epic quest to invent the
     perfect calendar (2000), : Wiley.
     cite:steel:2000marking-time
-  - Blackburn, B., & Holford-Strevens, L., The oxford
-    companion to the year: an exploration of calendar
-    customs and time-reckoning (1999), : Oxford University
-    Press, USA.
-    cite:blackburn:1999companion-year
+
+
