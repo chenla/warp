@@ -289,16 +289,16 @@ What other works than the origin story go here?
 
 ** XXIV. Time
 
-** XXVI. Cycles & Seasons
+** XXVI. Cycles
   - Contents
   - Abstract
   - Introduction
-  - Rituals
-  - Convocations
-  - Elections
-  - Stages of Life
-  - Seasons & Microseasons
-  - Festivals
+  - 00. Rituals
+  - 00. Convocations
+  - 00. Elections
+  - 00. Stages of Life
+  - 00. Seasons & Microseasons
+  - 00. Festivals
 
 * Cantos ____ Vocabularies
 
