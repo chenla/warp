@@ -44,6 +44,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
   -> cultural loops
   -> generational cycles
 
-
+SEE: [[https://en.wikipedia.org/wiki/List_of_cycles][List of Cycles]], Wikipedia
 
 
