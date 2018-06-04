@@ -1,0 +1,39 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: XV. Culture Abstract
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* XV. Culture Abstract
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/15/abstract.org
+  :Created:   2018-06-04T17:54@Prek Leap (11.642600N-104.919210W)
+  :ID:        997b3eca-29b0-4f41-a2ac-9973561d811c
+  :VER:       581381721.449474177
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:YEB5-7453
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+
+
+
+** TL;DR
+

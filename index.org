@@ -214,7 +214,7 @@ bibliography:../hoard/bib.bib
  - 00. Recycling
 ** XV. Culture
  - [[./15/index.org][Contents]]
- - Abstract
+ - [[./15/abstract.org][Abstract]]
  - [[./15/intro.org][Introduction]]
  - 00. Slow infrastructure
  - 00. Slow governance
