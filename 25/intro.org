@@ -36,3 +36,18 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+  - Feeney, D., Caesar's calendar: ancient time and the
+    beginnings of history (sather classical lectures)
+    (2007), : University of California Press.
+    cite:feeney:2007caesar
+  - Kelley, D. H., Calendar animals and deities (1960), :
+    University of New Mexico.
+    cite:kelley:1960calendar-animals
+  - Steel, D., Marking time: the epic quest to invent the
+    perfect calendar (2000), : Wiley.
+    cite:steel:2000marking-time
+  - Blackburn, B., & Holford-Strevens, L., The oxford
+    companion to the year: an exploration of calendar
+    customs and time-reckoning (1999), : Oxford University
+    Press, USA.
+    cite:blackburn:1999companion-year
