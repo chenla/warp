@@ -1,0 +1,99 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Barter 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Barter
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/14/ww-barter.org
+  :Created:   2018-06-04T00:19@Prek Leap (11.642600N-104.919210W)
+  :ID:        7cfad91b-6534-46f2-a249-00a474b9ebf5
+  :VER:       581318464.915126572
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:VEE8-8086
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+** TL;DR
+
+Industrial societies have all but forgotten the concept of barter.
+
+
+We have a problem with the concept of property -- everything is
+considered property by default.
+
+Wealth is now synonymous with both property (especially land) and
+currency.  But currency is now symbolic, little more than ones and
+zeros and its value is a house of cards, little more than a belief
+system.
+
+Barter is outside of that system. A direct exchange of goods and
+services.  But barter is contingent on two parties having something to
+exchange directly.  Token systems provide an exchange layer so that
+anything can be converted into tokens and tokens are accepted in
+exchange for any goods or services.
+
+But tokens are a level of abstraction that comes at a cost of needing
+a vast infrastructure to manage them which has taken on a life of its
+own and is threatening to eat us alive.
+
+That infrastructure now requires an enormous amount of computational
+power to manage all of that complexity.  Barter was replaced by token
+systems because it was too complicated to coordinate beyond a single
+level of separation.  Computing and networking systems could handle
+many levels of separation without breaking a sweat.
+
+Centralized systems lead to monopolies.  I think this is mostly
+because centralized systems are good at avoiding and defeating
+negative feedback loops that keep them in check.  So centralized
+systems favor centralized token systems which are also brilliant at
+avoiding or defeating negative feedback loops which keep them in
+check.
+
+Decentralized systems depend on negative feedback loops for
+stablility.  Centralized systems are little more than wannabe
+positive feedback loops.
+
+If we can move to decentralized systems, then barter, facilitated by
+computational muscle that can handle many levels of separation, could
+become viable.  Tokens will still be needed for a variety of purposes,
+including caching and buffers.  But what we want to move away from is
+the use of tokens as hoarding and rent seeking mechanisms which have
+no other purpose than to accumulate wealth for the sake of
+accumulating wealth, influence and therefore power over others.
+
+Barter cuts out a lot of complexity and overhead; it intrinsically
+meets needs more than it fulfills desires.  Is that true? Not sure,
+but I hope that turns out to be the case.
+
+I envision local and regional supply and production chains that are
+based on barter first, and tokens second.
+
+This concept of barter /is/ very complex and it's not simply a matter
+of throwing a bunch of clock cycles at it.  We need a generative
+approach, where a few simple rules can result in complex exchange
+systems.  Such a system is not a trivial problem but the advantages of
+such a system would be equally non-trivial as well.
+
+
+** References
+
+
