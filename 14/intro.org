@@ -370,3 +370,12 @@ controlled by a consumer economy and production chain.
   - Trotsky, L., & ZINOV'EV, G. E., /Soviet economy in
     danger. the expulsion of zinoviev/ (1933).
     cite:trotsky:1933soviet 
+
+  - Mauss, M., The gift : the form and reason for exchange in archaic
+    societies (2001), : Routledge.
+    cite:mauss:2001gift
+  - Commons transition: policy proposals for an open
+    knowledge commons society (2015), : P2P Foundation.
+    cite:troncoso:2015commons 
+
+
