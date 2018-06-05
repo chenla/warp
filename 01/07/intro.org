@@ -76,6 +76,11 @@ between them.
 #+end_quote
 
 
+Now let's quote a couple of things from APL and then from
+Mollison.
+
+
+
 
 ** References
 
@@ -83,3 +88,7 @@ between them.
     (1928).  cite:haldane:1928being
   - Graham, P., /You weren't meant to have a boss/ (2008).
     cite:graham:2008boss
+
+  - Schumacher, E. F., Small is beautiful: a study of
+    economics as if people mattered (2011), : Random House.
+    cite:schumacher:2011small
