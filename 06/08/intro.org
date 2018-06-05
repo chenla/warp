@@ -36,7 +36,20 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+
+
+  - Larman, C., & Basili, V., Iterative and incremental
+    developments. a brief history, Computer, 36(6), 47–56
+    (2003).  http://dx.doi.org/10.1109/mc.2003.1204375
+    cite:larman:2003iterative
   - Scott, J. C., Seeing like a state: how certain schemes
     to improve the human condition have failed (1998), :
     Yale University Press.
     cite:scott:1998seeing
+  - Raymond, E. S., The art of unix programming (2003), :
+    Addison-Wesley Professional.
+    cite:raymond:2003art-unix
+  - Raymond, E. S., The cathedral and the bazaar : musings
+    on linux and open source by an accidental revolutionary
+    (2001), : O'Reilly.
+    cite:raymond:2001cathedral
