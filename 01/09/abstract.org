@@ -1,0 +1,46 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: 07. Principles Abstract 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* 07. Principles Abstract
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/warp/01/08/abstract.org
+:Created:  2018-05-23T17:02@Prek Leap (11.642600N-104.919210W)
+:ID:       0bfe4467-f45d-4c0f-b19f-c262ef970974
+:VER:      580341794.917772368
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:TSA5-4714
+:Class:    primer
+:Type:     work
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
+
+** Scope
+The principles on which we can build societies and a
+civilization for mankind that has a solid foundation that
+gives us a place within a world that is both beautiful,
+natural and fulfills that spiritual dimension of our ability
+to see and understand patterns of living-order in the world
+around us, that takes into account our strengths and
+weaknesses and allows us to make progress and a better world
+for ourselves and our children.
+
+** TL;DR
+
+
+
