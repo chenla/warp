@@ -31,6 +31,37 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+/Take small steps/. In an experimental approach to social change, pre-
+sume that we cannot know the consequences of our interventions in ad-
+vance. Given this postulate of ignorance, prefer wherever possible to
+take a small step, stand back, observe, and then plan the next small
+move. As the biologist J. B. S. Haldane metaphorically described the
+advantages of smallness: "You can drop a mouse down a thousand-
+yard mineshaft; and on arriving at the bottom, it gets a slight shock
+and walks away. A rat is killed, a man broken, a horse splashes."
+
+ — cite:scott:1998seeing, [[pdf:scott:1998seeing.org::362][p.345]]
+#+end_quote
+
+#+begin_quote
+According to Lowdermilk, erosion control in Japan is like a
+game of chess.  The forest engineer, after studying his
+eroding valley, makes his first move, locating and building
+one or more check dhms. He waits to see what Nature’s
+response is. This determines the forest engineer’s next
+move, \Vhich may be another dam or two, an increase in the
+former dam, or the constniction of side retaining
+walls. After another pause for observation, the next move is
+made and so on until erosion is checkmated. The operation of
+natural forces, such as sedimentation and re-vegeta- tion,
+are guided and used to the best advantage to keep down costs
+and to obtain practical results. No more is attempted than
+Nature has already done in the region.
+
+— cite:howard:1945agricultural, [[pdf:howard:1945agricultural.pdf::171][p.144]]
+  SEE: cite:scott:1998seeing, [[pdf:scott:1998seeing::344][p.327]]
+#+end_quote
 
 
 ** References
@@ -53,3 +84,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
     on linux and open source by an accidental revolutionary
     (2001), : O'Reilly.
     cite:raymond:2001cathedral
+
+  - DeMarco, T., & Lister, T., Peopleware: productive
+    projects and teams (3rd edition) (2013), :
+    Addison-Wesley Professional.
+    cite:demarco:2013people
