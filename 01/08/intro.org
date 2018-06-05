@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE:  Boundries Introduction
+#+TITLE:  8. Boundries Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-* Boundries Introduction
+* 8. Boundries Introduction
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/07/intro.org
+:Name:     /home/deerpig/proj/chenla/warp/01/08/intro.org
 :Created:  2018-03-21T18:48@Prek Leap (11.642600N-104.919210W)
 :ID:       d12d937d-7901-4cbe-b165-1cbea44f0526
 :VER:      574904971.750844647

@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: 6. Boundries Abstract
+#+TITLE: 8. Boundries Abstract
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -15,10 +15,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]]
 
-* 6. Boundries Abstract
+* 8. Boundries Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/07/abstract.org
+:Name:     /home/deerpig/proj/chenla/warp/01/08/abstract.org
 :Created:  2018-05-01T17:27@Prek Leap (11.642600N-104.919210W)
 :ID:       993594f2-9332-4da3-b9d6-84fcb5800c8b
 :VER:      578442504.546867026
