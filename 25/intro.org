@@ -31,7 +31,49 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+The Scopic Calendar is a collection of rituals, festivals
+and conventions that are practiced by members of a scopic
+arc.  
 
+  - Rituals
+    - winding the clock
+    - tile laying ceremony
+    - island building ceremony
+  - Convox
+    - Decade
+    - Century
+    - Millennium
+    - Special (founding for one)  
+  - Elections
+    - Abbot  
+    - 
+  - Stages of Life
+    - birth
+    - coming of age
+    - novice
+    - apprentice
+    - journeyman
+    - master
+    - marriage
+    - divorce :: divorce needs a ceremony -- that helps all parties
+                 com to terms with what is happening and pull
+                 community behind them to start a new life...
+    - death : preparation of the body, wake, funeral,
+      cremation, three month, one year.
+  - Seasons & Microseasons
+  - Festival
+    - Solstice
+    - New Years & Festival of Fools
+    - Water Festival
+    - Harvest Festival
+    - Founding Day
+    - Saunts
+  - Symbols
+
+Microseasons!
+
+The Chinese 1-day per page -- almanack-calendar is where we
+want to go with this...
 
 ** References
 
