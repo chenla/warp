@@ -76,6 +76,8 @@ Nature has already done in the region.
   - Haldane, J. B. S., On being the right size, Harpers, (),
     (1928).
     cite:haldane:1928being
+  - Graham, P., /Programming bottom-up/ (1993).
+    cite:graham:1993bottom-up
   - Larman, C., & Basili, V., Iterative and incremental
     developments. a brief history, Computer, 36(6), 47–56
     (2003).  http://dx.doi.org/10.1109/mc.2003.1204375
