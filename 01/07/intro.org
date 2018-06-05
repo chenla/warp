@@ -31,8 +31,55 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+What's so unnatural about working for a big company? The
+root of the problem is that humans weren't meant to work in
+such large groups.
+
+Another thing you notice when you see animals in the wild is
+that each species thrives in groups of a certain size. A
+herd of impalas might have 100 adults; baboons maybe 20;
+lions rarely 10. Humans also seem designed to work in
+groups, and what I've read about hunter-gatherers accords
+with research on organizations and my own experience to
+suggest roughly what the ideal size is: groups of 8 work
+well; by 20 they're getting hard to manage; and a group of
+50 is really unwieldy.
+
+Whatever the upper limit is, we are clearly not meant to
+work in groups of several hundred. And yet—for reasons
+having more to do with technology than human nature—a great
+many people work for companies with hundreds or thousands of
+employees.
+
+Companies know groups that large wouldn't work, so they
+divide themselves into units small enough to work
+together. But to coordinate these they have to introduce
+something new: bosses.
+
+These smaller groups are always arranged in a tree
+structure. Your boss is the point where your group attaches
+to the tree. But when you use this trick for dividing a
+large group into smaller ones, something strange happens
+that I've never heard anyone mention explicitly. In the
+group one level up from yours, your boss represents your
+entire group. A group of 10 managers is not merely a group
+of 10 people working together in the usual way. It's really
+a group of groups. Which means for a group of 10 managers to
+work together as if they were simply a group of 10
+individuals, the group working for each manager would have
+to work as if they were a single person—the workers and
+manager would each share only one person's worth of freedom
+between them.
+
+— cite:graham:2008boss
+#+end_quote
+
 
 
 ** References
 
-
+  - Haldane, J. B. S., On being the right size, Harpers, (),
+    (1928).  cite:haldane:1928being
+  - Graham, P., /You weren't meant to have a boss/ (2008).
+    cite:graham:2008boss
