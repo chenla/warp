@@ -18,7 +18,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 * 5. Civilization Boundries Abstract
 :PROPERTIES:
 :CUSTOM_ID:
-:Name:     /home/deerpig/proj/chenla/warp/01/07/05/abstract.org
+:Name:     /home/deerpig/proj/chenla/warp/01/08/05/abstract.org
 :Created:  2018-05-24T19:05@Prek Leap (11.642600N-104.919210W)
 :ID:       f3d6bd67-0af7-48dd-927f-42f511042f72
 :VER:      580435602.177426873
