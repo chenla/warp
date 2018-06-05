@@ -35,4 +35,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** TL;DR
 ** References
 
-
+  - Mauss, M., The gift : the form and reason for exchange in archaic
+    societies (2001), : Routledge.
+    cite:mauss:2001gift
