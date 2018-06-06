@@ -31,6 +31,21 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+My views about the 'archaic remnants', which I call
+'archetypes' or 'primordial images,' have been constantly
+criticized by people who lack a sufficient knowledge of the
+psychology of dreams and of mythology. The term 'archetype'
+is often misunderstood as meaning certain definite
+mythological images or motifs, but these are nothing more
+than conscious representations. Such variable
+representations cannot be inherited. The archetype is a
+tendency to form such representations of a
+motif—representations that can vary a great deal in detail
+without losing their basic pattern.
+
+— Carl Jung, Man and His Symbols
+#+end_quote
 
 
 ** References
