@@ -12,7 +12,7 @@ bibliography:../hoard/bib.bib
 
 #+BEGIN_SRC sh :dir ~/proj/chenla/warp :results org drawer
   words=$(find ./ -type f -name '*.org' -exec wc -w {} \; | awk '{ sum += $1 } END { print sum }')
- yy pages=$(($words / 250))
+  pages=$(($words / 250))
   echo "|dir|words|pages"
   echo "|-"
   echo "|" ${PWD##*/} "|" $words  "|" $pages
