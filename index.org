@@ -149,7 +149,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./08/03/index.org][Biospheres]]
 ** IX. Origins
  - [[./09/index.org][Contents]]
- - Abstract
+ - [[./09/abstract.org][Abstract]]
  - [[./09/intro.org][Introduction]]
  - 01. [[./09/01/index.org][Preamble]]
  - 02. [[./09/02/index.org][Big History]]
