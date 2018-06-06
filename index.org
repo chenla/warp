@@ -166,7 +166,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./10/05/index.org][A Common Language]]
 ** XI. Curriculum
  - [[./11/index.org][Contents]]
- - Abstract
+ - [[./11/abstract.org][Abstract]]
  - [[./11/intro.org][Introduction]]
  - 01. [[./11/01/index.org][Learning]]
  - 02. [[./11/02/index.org][Pedagogy]]
