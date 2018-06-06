@@ -12,7 +12,7 @@ bibliography:../hoard/bib.bib
 
 #+BEGIN_SRC sh :dir ~/proj/chenla/warp :results org drawer
   words=$(find ./ -type f -name '*.org' -exec wc -w {} \; | awk '{ sum += $1 } END { print sum }')
-  pages=$(($words / 250))
+ yy pages=$(($words / 250))
   echo "|dir|words|pages"
   echo "|-"
   echo "|" ${PWD##*/} "|" $words  "|" $pages
@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 160692 |   642 |
+| warp | 162981 |   651 |
 :END:
 
 
@@ -84,7 +84,7 @@ bibliography:../hoard/bib.bib
  - 08. [[./02/08/index.org][Creating POVs]]
  - 09. [[./02/09/index.org][Scale]]
  - 10. [[./02/10/index.org][Narrative]]
- - 11. [[./02/11/index.org][Propagation]]
+ - 11. [[./02/11/index.org][Propagation]]QQ
  - 12. [[./02/12/index.org][Process]]
 ** III. Frameworks
  - [[./03/index.org][Contents]]
