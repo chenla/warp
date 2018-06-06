@@ -33,6 +33,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+Jung, of course but need to broaden this out -- 
+
+Golden Bough,
+
+Lévi-Strauss, 
+
+Hero with a thousand faces,
+
+ - [X] Roland Barthes' Mythologies
+ - [ ] Caillois, Roger. Le Mythe et l'homme. 1938. Paris: Gallimard, 1987.
+ - [X] Cassirer, Ernst. Language and Myth. Trans. Susanne K. Langer. New York: Dover, 1946.
+ - [ ] Chase, Richard. The Quest for Myth. Baton Rouge: Louisiana State UP, 1949.
+ - [X] Coupe, Laurence. Myth. (The New Critical Idiom). London: Routledge, 1997.*
+ - [ ] Csapo, Eric. Theories of Mythology. (Ancient Culture). Oxford: Blackwell, 2004.
+ - [X] Eliade, Mircea. Myth and Reality. Trans. Willard R. Trask. New York: Harper, 1963.
+ - [X] Fromm, Erich. The Forgotten Language: An Introduction to an Understanding of Dreams, Fairy Tales and Myths. New York, 1951.
+ - [X] Frye, Northrop. Anatomy of Criticism: Four Essays. Princeton (NJ): Princeton UP, 1957.*
+ - [X] Jung, C. G., and C. Kerényi. Introduction to a Science of Mythology. Trans. R. F. C. Hull. London, 1951.
+ - [ ] Lévi-Strauss, Claude. The Raw and the Cooked: Introduction to a Science of Mythology. Vol. 1. Trans. John and Doreen Weightman. New York: Harper and Row, 1969; London: Cape, 1970.
 
 
 ** TL;DR
