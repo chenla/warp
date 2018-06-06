@@ -40,7 +40,31 @@ bibliography:~/proj/chenla/hoard/bib.bib
   History (1956)
 #+end_quote
 
-** TL;DR
+#+begin_quote
+We have an essentially mechanistic view of what's going
+on. And no matter what kind of a humanistic clothing this
+mechanistic view has, it will still produce garbage so long
+as it is not oriented in that direction. It will produce
+things that are fundamentally unfriendly, dangerous,
+unpleasant, decep- tive, slippery, and not helpful to
+us. And this is very tough stuff, I realize. It's
+unfortunate.
+
+— cite:alexander:1981beyond, [[pdf:alexander:1981beyond::6][p.22]]
+#+end_quote
+
+#+begin_quote
+We're sitting at the end of a 300-year period of history,
+ and it is not very surprising in people who have inherited
+ the products of those 300 years, and especially the
+ products of the last fifty years. There are deep traps of
+ thought that have engulfed people's minds, words, thoughts
+ and habits.  And it takes an extraordinary phenomenon to
+ shake the ground under somebody's feet, so that they
+ suddenly start to realize just what this is all about.
+
+— cite:alexander:1981beyond, [[pdf:alexander:1981beyond::6][p.22]]
+#+end_quote
 
 I once heard a pourquoi attributed to some Natve-American
 tribe which I can't track down that described the origin
@@ -96,8 +120,8 @@ Olson wrote of Ahab in Moby-Dick:
 #+begin_quote
 This Ahab had gone wild.  The object of his attention was
 something unconscionably big and white.  He had become a
-specialist: he had all spae concentrated into the form of a
-white whale called Moby-Dick.  And he asailed it as Comumbus
+specialist: he had all space concentrated into the form of a
+white whale called Moby-Dick.  And he asailed it as Columbus
 an Ocean, LaSalle a continent, the Donner Party their winter
 pass.
 
@@ -112,7 +136,7 @@ Some men ride on such space, others have to fasten
 themselves to it like a tent stake to survive.  As I see it
 Poe dug in and Meville Mounted. They are the alternatives.
 
-Americans still fancy themselves such democrates.  But their
+Americans still fancy themselves such democrats.  But their
 triumphs are of the machine.  It is the only master of space
 the average person ever knows, oxwheel to piston, muscle to
 jet.  It gives trajectory.
@@ -121,6 +145,9 @@ To Melville it was not the will to be free but the will to
 overwhelm nature that lies at the bottom of us as
 individuals and a people.  Ahab is no democrat.  Moby-Dick,
 antagonist, is only king of natural force, resource.
+
+— Call me Ishmael p12 (1949)
+  cite:olson:1997collected-prose
 #+end_quote
 
 For Olson, America was all about SPACE, writ large and still
@@ -163,6 +190,7 @@ something, but right now it’s so down to nothing, it’s the
 tiniest last little candle flame.
 
 — Grant Morrison on, Happy! (2017)
+  https://boingboing.net/2017/12/21/grant-morrison-on-happy-the.html
 #+end_quote
 
 Man had always experienced space as all encompassing
@@ -494,6 +522,10 @@ I need more feedback to make sure I'm on track.
 
 
 ** References
+   - Alexander, C., & Davis, H., Beyond Humanism, JAE,
+     35(1), 18 (1981).  http://dx.doi.org/10.2307/1424577
+     cite:alexander:1981beyond
+
 
 Mongols
 
@@ -520,8 +552,6 @@ Enlightenment
   - Havelock, E. A., Preface to plato (history of the greek
     mind) (1963), : Harvard University Press.
     cite:havelock:1963preface
-
-
 
 Alienation? 
   - [[https://aeon.co/essays/in-the-1950s-everybody-cool-was-a-little-alienated-what-changed][A History of Alienation]] | Aeon cite:jay:2018alienation
