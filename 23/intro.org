@@ -45,21 +45,50 @@ motif—representations that can vary a great deal in detail
 without losing their basic pattern.
 
 — Carl Jung, Man and His Symbols
+  cite:carl:1968man-symbols
 #+end_quote
 
 
 ** References
 
+  - Barthes, R., & Lavers, A., Mythologies (1972), : Farrar,
+    Straus and Giroux.
+    cite:barthes1972mythologies
+  - Cassirer, E., Language and myth (1953), : Dover Publications.
+    cite:cassirer:1953language-myth
+  - Coupe, L., Myth (2008), : Routledge.
+    cite:coupe:2008myth
+  - Eliade, M., Myth and reality (1963), : Harper & Row.
+    cite:eliade:1963myth-reality
+  - Fromm, E., Forgotten language : an introduction to the
+    understanding of dreams, fairy tales, and myths
+    (2013), : Open Road Intregated Media.
+    cite:fromm:2013forgotten
+  - Frye, N., Anatomy of criticism: four essays (2000), :
+    Princeton University Press.
+    cite:frye:2000anatomy
   - Jung, C. G., McGuire, W., Read, H., Fordham, M., &
     Adler, G., The archetypes and the collective unconscious
     (1980), : Princeton University Press.
     cite:jung:1980collected-9-1
   - Jung, C. G., Man and his symbols (1968), : Dell.
-    cite:carl:1968man-symbols
+    cite:jung:1968man-symbols
   - Jung, C. G., Adler, G., & Hill, R. F. C., Two essays on
     analytical psychology (1966), : Princeton University
     Press.
     cite:jung:1966collected-7
+  - Jung, C. G., & Kerenyi, C., Essays on a science of
+    mythology: the myth of the divine child and the
+    mysteries of eleusis (1969), : Princeton University
+    Press.  cite:jung1969science-mythology
+  - Levi-Strauss, C., Totemism (1991), : Merlin Press.
+    cite:lévi-strauss:1991totemism 
+  - Lévi-Strauss, C., Myth and meaning (2001), : Routledge.
+    cite:lévi-strauss:2001myth-meaning
+  - Mark, M., & Pearson, C. S., The hero and the outlaw:
+    building extraordinary brands through the power of
+    archetypes (2001), : McGraw-Hill Education.
+    cite:mark:2001hero-outlaw
   - Mark, M., & Pearson, C. S., The hero and the outlaw:
     building extraordinary brands through the power of
     archetypes (2001), : McGraw-Hill Education.
