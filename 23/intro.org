@@ -54,3 +54,13 @@ without losing their basic pattern.
     Adler, G., The archetypes and the collective unconscious
     (1980), : Princeton University Press.
     cite:jung:1980collected-9-1
+  - Jung, C. G., Man and his symbols (1968), : Dell.
+    cite:carl:1968man-symbols
+  - Jung, C. G., Adler, G., & Hill, R. F. C., Two essays on
+    analytical psychology (1966), : Princeton University
+    Press.
+    cite:jung:1966collected-7
+  - Mark, M., & Pearson, C. S., The hero and the outlaw:
+    building extraordinary brands through the power of
+    archetypes (2001), : McGraw-Hill Education.
+    cite:mark:2001hero-outlaw
