@@ -175,7 +175,7 @@ bibliography:../hoard/bib.bib
  - 05. [[./11/05/index.org][Curriculum]]
 ** XII. Polity
  -[[./12/index.org][ Contents]]
- - Abstract
+ - [[./12/abstract.org][Abstract]]
  - [[./12/intro.org][Introduction]]
  - 01. [[./12/01/index.org][Distributed Governance]]
  - 02. [[./12/02/index.org][Articles]]
