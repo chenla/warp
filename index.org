@@ -84,7 +84,7 @@ bibliography:../hoard/bib.bib
  - 08. [[./02/08/index.org][Creating POVs]]
  - 09. [[./02/09/index.org][Scale]]
  - 10. [[./02/10/index.org][Narrative]]
- - 11. [[./02/11/index.org][Propagation]]QQ
+ - 11. [[./02/11/index.org][Propagation]]
  - 12. [[./02/12/index.org][Process]]
 ** III. Frameworks
  - [[./03/index.org][Contents]]
@@ -142,7 +142,7 @@ bibliography:../hoard/bib.bib
 * Cantos VIII-XV Components
 ** VIII. Heliosphere
  - [[./08/index.org][Contents]]
- - Abstract
+ - [[./08/abstract.org][Abstract]]
  - [[./08/intro.org][Introduction]]
  - 01. [[./08/01/index.org][Habitats]]
  - 02. [[./08/02/index.org][Heliosphere]]
