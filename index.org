@@ -157,7 +157,7 @@ bibliography:../hoard/bib.bib
  - 04. [[./09/04/index.org][Stack]]
 ** X. Lingua Franca
  - [[./10/index.org][Contents]]
- - Abstract
+ - [[./10/abstract.org][Abstract]]
  - [[./10/index.org][Introduction]]
  - 01. [[./10/01/index.org][Languages]]
  - 02. [[./10/02/index.org][Writing Systems]]
