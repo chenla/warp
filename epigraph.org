@@ -137,6 +137,60 @@ in a box apon the sea
 — II.203, Charles Olson
 #+end_verse
 
+*** personal
+
+#+begin_quote
+I was so struck with distribution of Galapagos organisms &c
+&c & with the character of the American fossil mammifers, &c
+&c that I determined to collect blindly every sort of fact,
+which cd bear any way on what are species. — I have read
+heaps of agricultural & horticultural books, & have never
+ceased collecting facts — At last gleams of light have come,
+& I am almost convinced (quite contrary to opinion I started
+with) that species are not (it is like confessing a murder)
+immutable. Heaven forfend me from Lamarck nonsense of a
+“tendency to progression” “adaptations from the slow willing
+of animals” &c, — but the conclusions I am led to are not
+widely different from his — though the means of change are
+wholly so — I think I have found out (here's presumption!)
+the simple way by which species become exquisitely adapted
+to various ends. — You will now groan, & think to yourself
+‘on what a man have I been wasting my time in writing to.’
+
+— Charles Darwin, letter to Bromley Kent, November, 1859
+  http://www.lettersofnote.com/2009/09/it-is-like-confessing-murder.html
+#+end_quote
+
+
+#+begin_quote
+The film Francis is making is a metaphor for a journey into
+self.  He has made that journey and is still making it.
+It's scary to watch someone you love go into the center of
+himself and confront his fears.  Fear of failure, fear of
+death, fear of going insane.  You have to fail a little, die
+a little, go insane a little to come out the other side.
+The process is not over for Francis.
+
+— Eleanor Coppola, Diary; during shooting of Apocolypse Now.
+  "Hearts of Darkness: A Filmmakers Apocalypse" (1991)
+#+end_quote
+
+#+begin_quote
+nextos: Is it easy to get academic funding for such a
+non-incremental idea?
+
+drmeister: No, none, zero, zip, nadda. What you do is you
+hook it to another really important idea and then you work
+until 3:00am every night for months and then years writing
+code. You take all those voices in your head that say you
+should not be doing this and squeeze them hard until
+they... go to sleep and stop bothering you. For me it
+started paying off in the last year and it is starting to
+look like it was a really good idea.
+
+— HN thread "On Common Lisp homepage"
+   https://news.ycombinator.com/item?id=17042122
+#+end_quote
 
 
 ** Epigraph: Volume 1
