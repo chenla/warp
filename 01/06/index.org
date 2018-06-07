@@ -30,35 +30,11 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - Contents
  - [[./abstract.org][Abstract]]
  - [[./intro.org][Introduction]]
- - Human Nature
- - Nature of Nature
-   - entro evo info
- - Nature of Order
-   - life is self organizing matter and energy, life
-     gravitates towards organization sees it as living, as
-     beauty, divine -- which are objective
+ - Mētis Lost
  - [[./ww-alienation.org][Alienation]]
  - [[./ww-high-modernism.org][High Modernism]]
- - The Narrow Gate -- between our strengths and weaknesses
+ - [[./ww-specialization.org][Specialization]]
+ - Purpose
    - Care
    - Practice
    - Rest
- - [[./ww-specialization.org][Specialization]]
-   - Power Imbalances
-   - Transactive Estrangement
-
-
-------
-
- - balance between being a whole, or a part of a whole, 
-    a leaf on a stream, or a boat navigating a river
- - everything applies to all things in the same way
- - free will is limited, but not deterministic
- - consciousness is an illusion
- - control -- fear is about uncertainty and powerlessness
- - quality and care       -> intentionality and contribution
- - beauty and order, order is a set of relationships that
-   reinforce each other and become larger than the sum of
-   their parts.
- - care -- practice -- integrity
-
