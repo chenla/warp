@@ -68,7 +68,13 @@ a zoo is easier, but it isn't the life they were designed for.
     Journal of Production Research, 8(2), 93–107 (1970).
     http://dx.doi.org/10.1080/00207547008929833
     cite:branton:1970repetitive-work
-
+  - Kossek, E., Ellen, , Ozeki, , & Cynthia, , Work-family
+    conflict, policies, and the job-life satisfaction
+    relationship: a review and directions for organizational
+    behavior-human resources research., Journal of Applied
+    Psychology, 83(2), 139–149 (1998).
+    http://dx.doi.org/10.1037/0021-9010.83.2.139
+    cite:kossek:1998work-family
 
   *Boredom*
 
