@@ -84,6 +84,10 @@ a zoo is easier, but it isn't the life they were designed for.
     captivity: principles and techniques for zoo management (2010), :
     University Of Chicago Press.
     cite:kleiman:2010mammal-captivity
+  - Meagher, R. K., & Mason, G. J., Environmental enrichment reduces
+    signs of boredom in caged mink, PLoS ONE, 7(11), 49180 (2012).
+    http://dx.doi.org/10.1371/journal.pone.0049180
+    cite:meagher:2012environmental
   - Pitsko, L. E., /Wild tigers in captivity: a study of the effects
     of the captive environment on tiger behavior/ (2003).
     cite:pitsko:2003wild
