@@ -58,3 +58,37 @@ a zoo is easier, but it isn't the life they were designed for.
 — cite:graham:2008boss
 #+end_quote
 
+
+
+** References 
+
+  - Clubb, R., & Mason, G., Animal welfare: captivity effects on
+    wide-ranging carnivores, Nature, 425(6957), 473 (2003).
+    cite:clubb:2003animal-welfare
+  - Erwin, J., Mitchell, G., & Maple, T., Abnormal behavior in
+    non-isolate-reared rhesus monkeys, Psychological Reports, 33(2),
+    515–523 (1973).  http://dx.doi.org/10.2466/pr0.1973.33.2.515
+    cite:erwin:1973abnormal
+  - Hosey, G. R., & Skyner, L. J., Self-injurious behavior in zoo
+    primates, International Journal of Primatology, 28(6), 1431–1437
+    (2007).  http://dx.doi.org/10.1007/s10764-007-9203-z
+    cite:hosey:2007self-injurious
+  - Haque, A., Depression in caged animals: a study at the national
+    zoo, kuala lumpur, malaysia, Zoo’s Print Magazine, 26(11), 25–29
+    (2011).
+    cite:haque:2011depression
+  - Hediger, H., Wild animals in captivity (1950), :
+    Butterworth-Heinemann.
+    cite:hediger:1950wild-animals
+  - Kleiman, D. G., V., K., Thompson, , & Baer, C. K., Wild mammals in
+    captivity: principles and techniques for zoo management (2010), :
+    University Of Chicago Press.
+    cite:kleiman:2010mammal-captivity
+  - Pitsko, L. E., /Wild tigers in captivity: a study of the effects
+    of the captive environment on tiger behavior/ (2003).
+    cite:pitsko:2003wild
+  - Wells, D. L., A note on the influence of visitors on the behaviour
+    and welfare of zoo-housed gorillas, Applied Animal Behaviour
+    Science, 93(1-2), 13–17 (2005).
+    http://dx.doi.org/10.1016/j.applanim.2005.06.019
+    cite:wells:2005influence
