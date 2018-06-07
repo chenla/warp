@@ -35,6 +35,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Practice
    - Rest
 
+   - Boredom
+   - Occupational Stress
+   - Incarceration
+   - Animals in Captivity
+
+
 Taylor-style factories which strip workers down to little more than
 single-task human machines.  Humans aren't designed to stay in one
 place and do the same repetitive task over and over for days, years
@@ -61,6 +67,24 @@ a zoo is easier, but it isn't the life they were designed for.
 
 
 ** References 
+  - 
+    
+  - Taylor, F. W., The principles of scientific management
+    (1911), : Harper and Brothers.
+    cite:taylor:1911principles
+  - Taylor, F. W., Shop Management (1919), : Harper and
+    Brothers.
+    cite:taylor:1919shop
+  - Bauman, Z., Liquid Modernity (2000), : Polity.
+    cite:bauman:2000liquid-modernity 
+  - Giddens, A., The consequences of modernity (1991), :
+    Stanford University Press.
+    cite:giddens:1991consequences-modernity
+  - Prisig, R. M., Zen and the art of motorcycle
+    maintenance: an inquiry into values (1999), : Random
+    House.
+    cite:pirsig:1999zen
+
   *Occupational Stress*
 
   - Branton, P., A field study of repetitive manual work in
