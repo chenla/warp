@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 162981 |   651 |
+| warp | 164241 |   656 |
 :END:
 
 
@@ -273,7 +273,9 @@ bibliography:../hoard/bib.bib
  - [[./21/intro.org][Introduction]] 
  - 00. Canon
  - 00. 
-
+ - 00. Biographical
+ - 00. Dictionary
+ - 00. Encyclopedia
 
 What other works than the origin story go here?
 what makes up a cultural encyclopedia?
@@ -285,6 +287,10 @@ what makes up a cultural encyclopedia?
  - [[./22/index.org][Contents]]
  - [[./22/abstract.org][Abstract]]
  - [[./22/intro.org][Introduction]]
+
+ - Parables
+
+
 ** XXIII. Archetypes
  - [[./23/index.org][Contents]]
  - [[./23/abstract.org][Abstract]]
@@ -297,11 +303,19 @@ what makes up a cultural encyclopedia?
  - [[./24/index.org][Contents]]
  - [[./24/abstract.org][Abstract]]
  - [[./24/intro.org][Introduction]]
-
+ - Time and ROC
+ - Terrestrial
+ - Martian Time slip 
+ - Meridians
+ - Measurement
+ - Units
+   - Seconds
+   - Minutes
+   - Hours
+   - Days
+   - Months
+   - Years
  - Epochs
-
- - 
-
 
 ** XXV. Calendar
  - [[./25/index.org][Contents]]
