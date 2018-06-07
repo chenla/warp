@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 164241 |   656 |
+| warp | 166088 |   664 |
 :END:
 
 
@@ -200,7 +200,7 @@ bibliography:../hoard/bib.bib
  - 09. [[./13/09/index.org][Individual]]
 ** XIV. Economy
  - [[./14/index.org][Contents]]
- - Abstract
+ - [[./14/abstract.org][Abstract]]
  - [[./14/intro.org][Introduction]]
  - 00. Systems & Concepts
  - 00. Markets
