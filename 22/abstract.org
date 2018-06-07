@@ -33,8 +33,68 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-** TL;DR
 
+Our origin story will encompass Big History as a meta-origin
+and history as a template which is then combined with a
+local map that puts the story into a local context that
+people can relate to.  This will not contradict the meta
+story, but will put empasis on local POV and mētis.
+
+It seems to be common practice of begining where you happen
+to be.  But religious and cutural origin stories start at
+the beginning and work up to where you are.
+
+But to start from the beginning, you need to have a number
+of concepts under your belt to understand it, especially if
+you are starting from the big bang, which is /a/ beginning,
+the beginning of what we can know through empirical
+evidence.  We'll have to cover speculation of what came
+before it.
+
+I wonder if we start with the concept of infinity -- with
+the simple mathematical principle that you can add something
+to any set of numbers, and you can divide anything, not
+matter how small.  There is no beginning and end -- just one
+very large middle.  So we are introducing a very remedial
+concept of set theory...
+
+And everything you know about the world is relative to where
+you are observing it.  So all observers see themselves as
+being at the center of the universe.
+
+We need a structure for this -- an LOD so that there is
+relatively short narrative the sweeps through the big
+picture, but you can then drill down in more detail.
+
+I like parables and gedankenexperiments.  There is no reason
+that thought experiments can't be done as fictional stories
+like parables.
+
+And if we make these parables universal, they can be
+remapped on top of local cultural mythos and iconography.
+
+#+begin_quote
+George Fyler Townsend, in his translator's preface to
+Aesop's Fables (Belford, Clarke & Co., 1887), defined the
+parable as being "purposely intended to convey a hidden and
+secret meaning other than that contained in the words
+themselves, and which may or may not bear a special
+reference to the hearer or reader." However, Townsend may
+have been influenced by the 19th century expression, "to
+speak in parables", connoting obscurity.
+#+end_quote
+
+Frank Burton has put together a collection of secular
+parablesm called the Parables of Reason.
+http://www.circleofreason.org/
+
+We don't need to mimic 19th century verse for this.  Yes it
+makes it feel biblical, but that actually just translates
+into, "sounds like the King James Bible."
+
+
+
+** TL;DR
 
 Not entirely sure how to do this.  Big Hisory has some
 fantastic works, but they are not really narratives in the
