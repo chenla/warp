@@ -31,3 +31,30 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+   - Care
+   - Practice
+   - Rest
+
+Taylor-style factories which strip workers down to little more than
+single-task human machines.  Humans aren't designed to stay in one
+place and do the same repetitive task over and over for days, years
+and careers.  Just as animals in captivity, humans in industrial
+production, be it in the factory or the office, are deprived of
+stimulous, confined to a small space, are deprived of normal social
+intercourse, removed for most of their waking hours from family and
+community, and removed from nature.
+
+This results in 
+
+#+begin_quote
+I was in Africa last year and saw a lot of animals in the wild that
+I'd only seen in zoos before. It was remarkable how different they
+seemed. Particularly lions. Lions in the wild seem about ten times
+more alive. They're like different animals. I suspect that working for
+oneself feels better to humans in much the same way that living in the
+wild must feel better to a wide-ranging predator like a lion. Life in
+a zoo is easier, but it isn't the life they were designed for.
+
+— cite:graham:2008boss
+#+end_quote
+

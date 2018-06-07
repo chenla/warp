@@ -34,7 +34,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./ww-alienation.org][Alienation]]
  - [[./ww-high-modernism.org][High Modernism]]
  - [[./ww-specialization.org][Specialization]]
+ - Sédentarisation
  - [[./ww-purpose.org][Purpose]]
-   - Care
-   - Practice
-   - Rest
