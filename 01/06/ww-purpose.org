@@ -61,6 +61,29 @@ a zoo is easier, but it isn't the life they were designed for.
 
 
 ** References 
+  *Occupational Stress*
+
+
+  *Human Captivity*
+
+  - Massoglia, M., & Pridemore, W. A., Incarceration and health,
+    Annual Review of Sociology, 41(1), 291–310 (2015).
+    http://dx.doi.org/10.1146/annurev-soc-073014-112326
+    cite:massoglia:2015incarcertation
+  - Wildeman, C., Incarceration and health, Emerging Trends
+    in the Social and Behavioral Sciences, (), 1–9 (2015).
+    http://dx.doi.org/10.1002/9781118900772.etrds0179
+    cite:wildeman:2015incarceration
+  - Heron, W., The pathology of boredom, Scientific
+    American, 196(1), 52–56 (1957).
+    http://dx.doi.org/10.1038/scientificamerican0157-52
+    cite:heron:1957boredom
+  - McKenzie, I. K., The Stockholm Syndrome Revisited,
+    Journal of Police Crisis Negotiations, 4(1), 5–21
+    (2004).  http://dx.doi.org/10.1300/j173v04n01_02
+    cite:mckenzie:2004stockholm
+
+  *Animal Captivity*
 
   - Clubb, R., & Mason, G., Animal welfare: captivity effects on
     wide-ranging carnivores, Nature, 425(6957), 473 (2003).
