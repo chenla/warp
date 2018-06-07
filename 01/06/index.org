@@ -43,6 +43,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - Care
    - Practice
    - Rest
+ - [[./ww-specialization.org][Specialization]]
+   - Power Imbalances
+   - Transactive Estrangement
+
 
 ------
 

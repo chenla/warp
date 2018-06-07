@@ -1,0 +1,167 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Specialization (chapter) 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Specialization (chapter)
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/01/06/ww-specialization.org
+  :Created:   2018-06-07T08:30@Prek Leap (11.642600N-104.919210W)
+  :ID:        4b6bbbd7-f20c-4ad0-a352-b359982ad0da
+  :VER:       581607068.284691124
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:XFL2-1363
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** The Consequences of Specialization
+
+Note: This section is based based on these [[url:1ac70469-6b8a-4af9-ab6b-88d8e25883d4][Notes]].
+
+** Power Imbalances
+
+Specializtaion creates power imbalances in groups.  Not all
+information is equally as valuable.  Some specializations resulted in
+some people having advantages over others.  All of the specialties are
+required to make a civilization, but it meant that the garbage
+collectors couldn't leverage their knowledge over other people in the
+same way as a police captain, or a owner of a bank.
+
+Societies place different values on different specialties which
+roughly correspond to how much the knowledge of a given specialty can
+be leveraged to give them an advantage.
+
+Specialties are not equal.  Even among people who share the same
+specialty, some will be better than others which gives them an
+advantage over other people in their specialty.  There will always be
+a small group at the top who do very well, and will resist any change
+to the system that impacts their individual position of power.
+
+So in effect, equality in a group is directly proportionate to the
+number of individuals in that group.  The upper limit to a naturally
+egalitarian system seems to go back to the size of the neolithic band,
+which is between 10-25 individuals.  As groups get larger, roles
+within the group become more specialized and heirarchies emerge in
+order for the group to be able cooperate.  All power structures are
+hierarchical in nature and structure.
+
+** Estrangement 
+
+The second result of the compartmentalization of knowledge is
+estrangement.  In Eric Havelock's book, /Preface To Plato/ makes the
+case that Homer's Illiad and Odyssey were not works of fiction, but
+acted as cultural encyclopedias for Greek civilization before the
+invention of writing.  These two works, Havelock argues, include all
+of the shared information that was required to maintain the
+civilization.  There wasn't one encyclopedia for kings and another for
+slaves.  Everyone used the same two stories.  This changed
+dramatically when writing systems were adopted by the political and
+intellectual elites who quickly moved beyond Homer's encyclopedias to
+create the cannon of philosophical and cultural works that make up
+Classical Greek culture.  This was the reason Plato railed against
+poetry and believed it shouldn't be taught.  Poetry for Plato was not
+the same as what we think of as modern poetry.  Poetry was a verse
+that was structured memonically to maximize memorization with the
+least amount of errors.  In this sense, Homer's to works were the
+Clipper ships of cultural knowledge.  The Greeks had managed to refine
+and reach the limits of human memorization.  Other cultures,
+especially on the Indian sub-continent had their equivilent.  The
+civilizations who had the most advanced cultural encyclopedias had an
+advantage over civilizations which had looser and less detailed
+encyclopedias.
+
+When writing systems were adopted, the oral tradition could not
+compete.  Writing not only made it possible to store cultural
+knowledge outside of an individual's head, the amount of knowledge a
+civilization could store limitless.  It also meant that knowledge no
+longer needed to be transmitted person to person, a document could be
+copied and sent, rather than a person, and communicate that knowledge
+to other people.  A document could be copied and each copy sent to
+different places so that one to many communication was now free of
+public speaking.  And even more remarkably, a document could simply
+sit on a shelf for years or even millenia and communicate with other
+people in the future.
+
+The side effect of compartmentalization of knowledge is that knowledge
+and memory increasingly became more and more transactive.  So each
+person only had at best a vague grasp of the knowledge of other
+specializations and needed to rely on a big picture map of a culture's
+total store of knowledge.
+
+By nature, man is a transactive species, but only within limits.  We
+naturally shard knowledge between members of the group and rely on
+them for external storage.  Studies have shown that this is very
+common between married couples who have been together for a long
+time.  Each person remembers different things in the relationship, and
+togetht they form a larger knowledge store than the sum of their
+parts.
+
+But there are limits to how far this can be taken, and those limits
+began to become apparent in the 19th century which saw an expoential
+explostion in both specialization and expansion of knowledge.
+
+In his book, /The Great Derangement/ Gosh describes how capitalism and
+empire and colonialism coincided with changes in behavior that on its
+face is nonsensical.  Humans have naturally and very correctly been
+wary of the power of the seas and oceans.  And before the late 16th
+and 17th centuries there were no major settlements build on the shores
+of an ocean.  New York and Bombay are good examples.  These are cities
+that have been located in very stupid locations.  It is not a matter
+of if, but when they will be wiped out by natural disasters.  Climate
+change ensures that this is not something that might not happen in the
+distant future but will likely happen in our or our children's
+lifetimes.
+
+The architect Christopher Alexander noticed the disconnect between
+modern buildings and the cities that have been built in the past
+hundred years to be so disconnected from human life, as to be not only
+disfunctional but hostile to the people who live in them.
+
+He dedicated most of his career to understanding what had happened,
+and how to fix it.  But he was never able to understand why he
+couldn't get people to understand his great insight and change how we
+build buildings and cities to improve our lives.
+
+It all comes down to compartmentalization of knowledge and
+specialization that has resulted in man becoming estranged from his
+own nature and the world around him.  We moderns are lost in the world
+we have created, cut adrift from nature and the universe in a way that
+is now adversely effecting the quality of our lives and jeopardizes
+our existence.
+
+This estrangement explains why we build waterfront properties, don't
+take climate change seriously, provide education systems that actually
+teach our children, eat food in vast quantities that is literally
+killing us, living and working in lifeless soul sucking buildings, and
+working insane numbers of hours in jobs only to support life styles
+which are little more than empty and vacant exercises in aspirational
+consumerism.  This is nothing short of insanity.  And yet most people
+accept it as the way things have always been.  It is not.  Andy while
+there are things that the modern world provides us that are
+immeasurably better than our ancestors.  We didn't just replace the
+bad parts, we threw away what was good and did work.  
+
+
+
+
+
+
+
+
