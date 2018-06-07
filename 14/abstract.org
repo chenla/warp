@@ -37,3 +37,28 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+Small is beautiful
+
+  - based on everything being property that can be bought and sold.
+  - economies are systems, which need to mapped (modeled) not only
+    measured.
+  - economic models are too simple to track enough parameters to model
+    the complexity of economic systems.
+
+
+
+#+begin_comment
+Starting to read /Small is Beautiful/ which is fun.  It's interesting
+to read about speculations of what the year 2000 will be like from
+thirty years before that.  In many ways he got it right.
+
+But it's also gratifying to see that I came up with many of his
+conclusions independently.  The difference is that today, I think that
+the technology is here to actually realise some of these ideas.
+
+The TLS lists it as one of the most influential books of published
+since WWII.  I don't know who he influenced but none of them went into
+economics or politicis or business :)
+
+The book is from an economist's POV.
+#+end_comment
