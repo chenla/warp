@@ -33,7 +33,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+Canto XXIV will be about time as measured and reckoned using
+clocks and calendars.  
 
+Canto XXV will cover how calendars are used to map to
+everyday life, cycles in nature (day night, seasons etc) and
+cultural recurring social events.
 
 ** TL;DR
 
