@@ -63,6 +63,29 @@ a zoo is easier, but it isn't the life they were designed for.
 ** References 
   *Occupational Stress*
 
+  *Boredom*
+
+  - Hill, A. B., Work variety and individual differences in
+    occupational boredom., Journal of Applied Psychology,
+    60(1), 128–131 (1975).
+    http://dx.doi.org/10.1037/h0076346
+    cite:hill:1975work-variety
+  - Toohey, P., Boredom: a lively history (2012), : Yale
+    University Press.
+    cite:toohey:2012boredom
+  - Pezze, B. D., & Salzani, C., Essays on boredom and
+    modernity (2009), : Rodopi.
+    cite:pezze:2009bordom
+  - Hooff, M. L. v., & Hooft, E. A. v., Boredom at work:
+    proximal and distal consequences of affective
+    work-related boredom., Journal of occupational health
+    psychology, 19(3), 348 (2014). 
+    cite:vanhoof:2014boredom
+  - Fisherl, C. D., Boredom at work: a neglected concept,
+    Human Relations, 46(3), 395–417 (1993).
+    cite:fisherl:1993boredom
+  - Mann, S., /Boredom at work/ (2007).
+    cite:mann:2007boredom
 
   *Human Captivity*
 
