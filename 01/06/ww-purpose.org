@@ -63,6 +63,13 @@ a zoo is easier, but it isn't the life they were designed for.
 ** References 
   *Occupational Stress*
 
+  - Branton, P., A field study of repetitive manual work in
+    relation to accidents at the work place, International
+    Journal of Production Research, 8(2), 93–107 (1970).
+    http://dx.doi.org/10.1080/00207547008929833
+    cite:branton:1970repetitive-work
+
+
   *Boredom*
 
   - Hill, A. B., Work variety and individual differences in
@@ -86,6 +93,10 @@ a zoo is easier, but it isn't the life they were designed for.
     cite:fisherl:1993boredom
   - Mann, S., /Boredom at work/ (2007).
     cite:mann:2007boredom
+  - Brissett, D., & Snow, R. P., Boredom: where the future
+    isn’t, Symbolic Interaction, 16(3), 237–256 (1993).
+    http://dx.doi.org/10.1525/si.1993.16.3.237
+    cite:brissett:1993boredom
 
   *Human Captivity*
 
