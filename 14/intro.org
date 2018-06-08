@@ -47,7 +47,7 @@ with goods and services from the point of view of the
 market, where willing buyer meets willing seller. The buyer
 is essentially a bargain hunter; he is not concemed with the
 origin of the goods or the conditions under which they have
-been produced. His solé concern is to obtain the best valué
+been produced. His sole concern is to obtain the best valué
 for his money.
 
 The market therefore represents only the surface of society
@@ -62,7 +62,34 @@ for anything but himself.
 — cite:schumacher:1975small [[pdf:schumacher:1975small.pdf::44][p.43]]
 #+end_quote
 
+Schumacher notes the one exception to that
+non-responsibility which is not to buy stolen goods because
+this would threaten the system.  In the same way, anything
+that threatens the principle that everything is property and
+can be bought and sold is a threat to the system.  Even
+human life is a commidity in market economics, which becomes
+painfully clear when dealing with insurance claims, or when
+taking someone to court for injuring or killing someone.
+Courts place monetary values to people according to their
+age, gender and wealth relative to others.
 
+#+begin_quote
+It's like this. A dead plaintiff is rarely worth as much as
+a living, severely-maimed plaintiff. However, if it's a long
+slow agonizing death, as opposed to a quick drowning or car
+wreck, the value can rise considerably. A dead adult in his
+20s is generally worth less than one who is middle aged. A
+dead woman less than a dead man. A single adult less than
+one who's married. Black less than white. Poor less than
+rich. The perfect victim is a white male professional, 40
+years old, at the height of his earning power, struck down
+in his prime. And the most imperfect? Well, in the calculus
+of personal injury law, a dead child is worth the least of
+all.
+
+— Jan Schlichtmann, A Civil Action (1998)
+  https://www.imdb.com/title/tt0120633/quotes/?tab=qt&ref_=tt_trv_qu
+#+end_quote
 
 #+begin_comment
 I'm hesitating to commit to this outline because the model
