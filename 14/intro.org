@@ -30,6 +30,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+#+begin_quote
+Economics, moreover, deals with goods in accordance with
+their market valué and not in accordance with what they
+really are. The same rules and criteria are applied to
+primary goods, which man has to win from nature, and
+secondary goods, which presuppose the existence of primary
+goods and are manufactured from them. All goods are treated
+the same, because ths point of view is fundamentally that of
+prívate profit-making, and this means that it is inherent in
+the methodology of economics to ignore man's dependence on
+the natural world.
+
+— cite:schumacher:1975small [[pdf:schumacher:1975small.pdf::44][p.43]]
+#+end_quote
+
+
+
+
+
 #+begin_comment
 I'm hesitating to commit to this outline because the model
 that is emerging is bluring the line between private and
