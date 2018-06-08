@@ -91,6 +91,42 @@ all.
   https://www.imdb.com/title/tt0120633/quotes/?tab=qt&ref_=tt_trv_qu
 #+end_quote
 
+Though most of us prefer not to believe it, yes, it really
+is that bad.  Human life, let alone human well-being or
+happiness is subjugated to the sanctity of private property.
+If that doesn't bother you, then there is something very
+wrong.  That's now how we raltionalize it.  Of course that
+doesn't apply to ourselves or our family and children. It
+only applies /other/ people, and even then only when in the
+context of business or civil court proceedings.  But this
+argument doesn't hold up to scrutiny.  You think it doesn't
+apply to you or /your/ family, but from from another person
+or business or court's perspective it /does/ apply to you.
+Our modern market-based system is based on the belief that
+everything, including human life, has a monetary value and
+therefore is considered to be property.  Nothing is
+/priceless/ in this system, everything has a value and can
+be bought and sold. /Everything/ is property.
+
+#+begin_quote
+In the market place, for practical reasons, innumerable
+qualitative distinctions which are of vital importance for
+man and society are suppressed; they are not allowed to
+surface.  Thus the reign of quantity celebrates its greatest
+triumphs in "The Market." Everything is equated with
+everything else. To equate things means to give them a price
+and thus to make them exchangeable. To the extent that
+economic thinking is based on the market, it takes the
+sacredness out of life, because there can be nothing sacred
+in something that has a price.  Not surprisingly, therefore,
+if economic thinking pervades the whole of society, even
+simple non-economic valúes like beauty, health, or cleanli-
+ness can survive only if they prove to be "economic."
+
+— cite:schumacher:1975small [[pdf:schumacher:1975small.pdf::53][p.45]]
+#+end_quote
+
+
 #+begin_comment
 I'm hesitating to commit to this outline because the model
 that is emerging is bluring the line between private and
