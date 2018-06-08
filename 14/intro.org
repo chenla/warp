@@ -30,6 +30,23 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+No where is the distinction between quantitative and
+qualitative more clear than in the field of economics.
+
+Economic's domain used to be relatively narrow 
+
+#+begin_quote
+Economics is a study of man in the ordinary business of
+life. It enquires how he gets his income and how he uses
+it. Thus, it is on the one side, the study of wealth and on
+the other and more important side, a part of the study of
+man.
+
+— Lionel Robbins (1932)
+  cite:backhouse:2009retrospectives  
+#+end_quote
+
+
 #+begin_quote
 Economics, moreover, deals with goods in accordance with
 their market valué and not in accordance with what they
@@ -120,11 +137,13 @@ economic thinking is based on the market, it takes the
 sacredness out of life, because there can be nothing sacred
 in something that has a price.  Not surprisingly, therefore,
 if economic thinking pervades the whole of society, even
-simple non-economic valúes like beauty, health, or cleanli-
-ness can survive only if they prove to be "economic."
+simple non-economic values like beauty, health, or
+cleanliness can survive only if they prove to be "economic."
 
 — cite:schumacher:1975small [[pdf:schumacher:1975small.pdf::53][p.45]]
 #+end_quote
+
+
 
 
 #+begin_comment
@@ -443,6 +462,11 @@ controlled by a consumer economy and production chain.
 
 ** References
 
+  - Backhouse, R. E., & Medema, S. G., Retrospectives: on
+    the definition of economics, Journal of Economic
+    Perspectives, 23(1), 221–233 (2009).
+    http://dx.doi.org/10.1257/jep.23.1.221
+    cite:backhouse:2009retrospectives
   - Barnes, P., Capitalism 3.0: a guide to reclaiming the
     commons (2006), : Berrett-Koehler Publishers.
     cite:barnes:2006capitalism-3-0
