@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: XII. Polity Abstract
+#+TITLE: XII. Governance Abstract
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -16,7 +16,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* XII. Polity Abstract
+* XII. Governance Abstract
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/warp/12/abstract.org
