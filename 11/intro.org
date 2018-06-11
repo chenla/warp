@@ -241,4 +241,18 @@ Colleges
     cite:willingham:2010why,parker:1890seven
 
 
-    
+  - Doucleff, M., /How to get your kids to do chores
+    (without resenting it)/ (2018).
+    cite:doucleff:2018chores
+  - Lancy, D. F., anthropological perspectives on children
+    as helpers, workers, artisans, and laborers (2018), :
+    Palgrave Macmillan US.
+    cite:lancy:2018child-helper
+  - Alcalá, L., Rogoff, B., Mejía-Arauz, R., Coppens, A. D.,
+    & Dexter, A. L., Children’s initiative in contributions
+    to family work in indigenous-heritage and cosmopolitan
+    communities in mexico, Human Development, 57(2-3),
+    96–115 (2014).  http://dx.doi.org/10.1159/000356763
+    cite:alcala:2014chores
+
+
