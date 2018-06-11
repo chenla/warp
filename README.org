@@ -28,3 +28,8 @@ The Warp and Woof will be the introduction and methodology
 for The Pace Layer Pattern Language (APPL).
 
 
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/prolog]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/prolog]]
