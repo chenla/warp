@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 167163 |   668 |
+| warp | 167515 |   670 |
 :END:
 
 
@@ -246,6 +246,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./18/03/index.org][Primer]]
  - 04. [[./18/04/index.org][The OS]]
  - 05. [[./18/05/index.org][Arc]]
+ - 06. Toolchain
 ** IXX. Scenarios
  - Contents
  - Abstract
@@ -266,7 +267,7 @@ bibliography:../hoard/bib.bib
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 
-* Cantos XXI-  Structures of Everyday Life
+* Cantos XXI-  Narratives
 ** XXI. Canon
  - [[./21/index.org][Contents]]
  - [[./21/abstract.org][Abstract]]
@@ -282,15 +283,12 @@ what makes up a cultural encyclopedia?
 
   - epic narrative?
   - 
-
 ** XXII. Origin Story
  - [[./22/index.org][Contents]]
  - [[./22/abstract.org][Abstract]]
  - [[./22/intro.org][Introduction]]
 
  - Parables
-
-
 ** XXIII. Archetypes
  - [[./23/index.org][Contents]]
  - [[./23/abstract.org][Abstract]]
@@ -329,13 +327,41 @@ what makes up a cultural encyclopedia?
  - 00. Seasons & Microseasons
  - 00. Festivals
 
+** XXVI. Space
+ - euclidean, cartesian, 
+ - distances and time-to-destination (propagation)
+** XXVII. Maps
+
+Calendars map time, Maps map space
+
+ - Projections - 2d representation of 3d
+ - Hilbert space
+ - Abstractions -- eg. mass transit maps
+ - Metaphors -- eg. desktop metaphor, transitional and
+   interoperability -- map one paradigm to another.
+ - Territories
+   - dimensionality -- linear (beach), 2, 3 and 4
+     dimensional.  Human political territories are 4D maps,
+     using time as a dimension for claiming sovereignty and
+     claims that rights and property can be inherited.
+   - piss points -- scent markers
+   - classifications (birds have six types)
+   - single resource territories (oil, water, lowland
+     farming etc.)
+ - Cadastre
+ - 
+* Cantos XXI-  Everyday Life
+
+** Population
+- growth
+- standard of living
+
 ** Stages of Life
 
  - childhood
  - adolescence
  - adulthood
  - old age
-
 ** Family
  - biological imperatives
  - relationships
@@ -355,12 +381,14 @@ what makes up a cultural encyclopedia?
    - nuclear
 
 ** Tribe
-
-
+ - Territorial
 ** Work
-
+** Place
 
 * Cantos _ - _ Vocabularies
+:PROPERTIES:
+:ID:       c3ec1809-aece-49b5-948c-90f846b3ea99
+:END:
 
    - Patterns
    - Parameters
