@@ -267,7 +267,7 @@ bibliography:../hoard/bib.bib
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 
-* Cantos XXI-  Narratives
+* Cantos XXI-XXVII  Narratives
 ** XXI. Canon
  - [[./21/index.org][Contents]]
  - [[./21/abstract.org][Abstract]]
@@ -333,9 +333,9 @@ what makes up a cultural encyclopedia?
 ** XXVII. Maps
 
 Calendars map time, Maps map space
-
- - Projections - 2d representation of 3d
- - Hilbert space
+ - Spherical Cows -- 
+ - Projections -- 2d representation of 3d
+ - Hilbert space -- 
  - Abstractions -- eg. mass transit maps
  - Metaphors -- eg. desktop metaphor, transitional and
    interoperability -- map one paradigm to another.
@@ -350,19 +350,18 @@ Calendars map time, Maps map space
      farming etc.)
  - Cadastre
  - 
-* Cantos XXI-  Everyday Life
-
-** Population
+* Cantos XXVIII-XXX  Everyday Life
+** XXVIII. Population
 - growth
 - standard of living
 
-** Stages of Life
+** XXIV. Stages of Life
 
  - childhood
  - adolescence
  - adulthood
  - old age
-** Family
+** XXV. Family
  - biological imperatives
  - relationships
    - plutonic
@@ -380,10 +379,10 @@ Calendars map time, Maps map space
    - extended
    - nuclear
 
-** Tribe
+** XXVI. Tribe
  - Territorial
-** Work
-** Place
+** XXVII. Work
+** XXVIII. Place
 
 * Cantos _ - _ Vocabularies
 :PROPERTIES:
