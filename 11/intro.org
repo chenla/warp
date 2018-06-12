@@ -254,5 +254,7 @@ Colleges
     communities in mexico, Human Development, 57(2-3),
     96–115 (2014).  http://dx.doi.org/10.1159/000356763
     cite:alcala:2014chores
-
+  - Lancy, D. F., The anthropology of childhood: cherubs,
+    chattel, changelings (2015), : Cambridge University
+    Press.  cite:lancy:2015childhood
 
