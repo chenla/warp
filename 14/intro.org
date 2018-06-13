@@ -544,3 +544,12 @@ controlled by a consumer economy and production chain.
     times and ideas of the great economic thinkers (2011), :
     Touchstone / Simon & Schuster.
     cite:heilbroner:2011worldly-philosophers
+  - Mankiw, N. G., Principles of microeconomics (2014), :
+    Cengage Learning.
+    cite:mankiw:2014microeconomics
+  - Mankiw, N. G., Brief principles of macroeconomics, 5th
+    edition (2008), : South-Western College Pub.
+    cite:mankiw:2008macroeconomics
+  - Mankiw, G., Principles of economics (2007), : Thomson
+    Southwestern.
+    cite:mankiw:2007principles
