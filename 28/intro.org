@@ -36,3 +36,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** References
 
 
+  - Braudel, F., Civilization and capitalism, 15th-18th century,
+    volume i: the structure of everyday life: the limits of the
+    possible (1992), : University of California Press.
+    cite:braudel:1992civilization-capitalism-1
+  - Ehrlich, P. R., The Population Bomb (1986), : Ballantine Books.
+    cite:ehrlich:1986population-bomb 
+  - Pinker, S., The better angels of our nature: why violence has
+    declined (2012), : Penguin Books.  cite:pinker:2012better-angels
+  - Pinker, S., Enlightenment now: the case for reason, science,
+    humanism, and progress (2018), : Viking.
+    cite:pinker:2018enlightenment 
+  - Meadows, D. H., Randers, J., & Meadows, D. L., Limits to growth:
+    the 30-year update (2004), : Chelsea Green.
+    cite:meadows:2004limits-30 
