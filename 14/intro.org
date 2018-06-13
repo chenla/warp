@@ -534,3 +534,9 @@ controlled by a consumer economy and production chain.
   - Tilly, C., Coercion capital and european states a d
     990-1990 (1990), : Blackwell Pub.
     cite:tilly:1990coercion
+  - Kropotkin, P., Kropotkin: ’the conquest of bread’ and
+    other writings (1995), : Cambridge University Press.
+    cite:kropotkin:1995bread
+  - Graeber, D., Debt: the first 5,000 years (2011), :
+    Melville House.
+    cite:graeber:2011debt
