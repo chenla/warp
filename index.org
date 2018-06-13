@@ -244,7 +244,7 @@ bibliography:../hoard/bib.bib
  - 04. [[./18/04/index.org][The OS]]
  - 05. [[./18/05/index.org][Arc]]
  - 06. Toolchain
-** IXX. Scenarios
+** XIX. Scenarios
  - Contents
  - Abstract
  - Introduction
@@ -264,7 +264,7 @@ bibliography:../hoard/bib.bib
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 
-* Cantos XXI-XXVII  Narratives
+* Cantos XXI-XXVII Narratives
 ** XXI. Canon
  - [[./21/index.org][Contents]]
  - [[./21/abstract.org][Abstract]]
@@ -349,8 +349,11 @@ Calendars map time, Maps map space
  - 
 * Cantos XXVIII-XXXVI  Everyday Life
 ** XXVIII. Population
-- growth
-- standard of living
+- [[./28/index.org][Contents]]
+- [[./28/abstract.org][Abstract]]
+- [[./28/intro.org][Introduction]]
+- Growth
+- Standard of Living
 ** XXIX. Stages of Life
  - childhood
  - adolescence
@@ -380,14 +383,9 @@ Calendars map time, Maps map space
 ** XXXIV. Place
 ** XXXV. Commerce
 ** XXXVI. Polis
-
 * Back Matter 
- - Contents
- - Preface
  - Appendix
-   - shoulders
-   - rabbit holes
-   - w&w meta
+   - W&W meta
      - specification -- format
      - markup language
      - conventions
