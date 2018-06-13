@@ -43,10 +43,20 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Ehrlich, P. R., The Population Bomb (1986), : Ballantine Books.
     cite:ehrlich:1986population-bomb 
   - Pinker, S., The better angels of our nature: why violence has
-    declined (2012), : Penguin Books.  cite:pinker:2012better-angels
+    declined (2012), : Penguin Books.
+    cite:pinker:2012better-angels
   - Pinker, S., Enlightenment now: the case for reason, science,
     humanism, and progress (2018), : Viking.
     cite:pinker:2018enlightenment 
   - Meadows, D. H., Randers, J., & Meadows, D. L., Limits to growth:
     the 30-year update (2004), : Chelsea Green.
     cite:meadows:2004limits-30 
+  - Economic, D. o., & Social Affairs, P. D. ., /World population
+    prospects 2017 revision/ (2017).
+    cite:un:2017population-prospects
+  - Gritzner, C. F., The human population (global connections)
+    (2009), : Chelsea House Publications.
+    cite:gritzner:2009global-connection
+  - Bashford, A., Global population: history, geopolitics, and life on
+    earth (2014), : Columbia University Press.
+    cite:bashford:2014global-population
