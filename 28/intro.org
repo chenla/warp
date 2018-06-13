@@ -31,6 +31,28 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+When a population increases, its relationship to the space it occupies
+and the wealth at its disposal is alterted.  It crosses 'critical
+thresholds' and at each one its enture structure is questioned afresh.
+
+-- cite:braudel:1992civilization-capitalism-1 [[pdf:braudel:1992civilization-capitalism-1.pdf::33][p.33]]
+#+end_quote
+
+  - population since 1800 has steadily increased
+  - 15th-18th centuries population doubled
+  - after that doubling every 30-40 years
+  - population growth is not uniformly distributed -- increase leads
+    to deteriation of standard of living
+  - nation-state borders are blocking natural migration during war and
+    famine -- resulting in people not getting to where they are
+    needed, because existing populations don't want them, even though
+    they need them.
+
+  - healthcare, public health principles that resulted from discovery
+    of microscopic world, togethere with agricultural advances is good
+    from the perspective of human well-being.  But these were also
+    negative feeback loops that naturally kept human  population in check
 
 
 ** References
@@ -60,3 +82,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Bashford, A., Global population: history, geopolitics, and life on
     earth (2014), : Columbia University Press.
     cite:bashford:2014global-population
+
+  - Malthus, T. R., An essay on the principle of population: or, a
+    view of its past and present effects on human happiness (1888), :
+    Reeves \& Turner.
+    cite:malthus:1888essay
