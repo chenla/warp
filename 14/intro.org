@@ -540,3 +540,7 @@ controlled by a consumer economy and production chain.
   - Graeber, D., Debt: the first 5,000 years (2011), :
     Melville House.
     cite:graeber:2011debt
+  - Heilbroner, R. L., The worldly philosophers. the lives
+    times and ideas of the great economic thinkers (2011), :
+    Touchstone / Simon & Schuster.
+    cite:heilbroner:2011worldly-philosophers
