@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 
-#+TITLE: XXVIII. Introduction
+#+TITLE: XXVIII. Population Introduction
 #+STARTUP: showall
 #+TOC: headlines 4
 #+PROPERTY: filename
@@ -16,7 +16,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* XXVIII. Introduction
+* XXVIII. Population Introduction
   :PROPERTIES:
   :CUSTOM_ID: 
   :Name:      /home/deerpig/proj/chenla/warp/28/intro.org
@@ -61,6 +61,16 @@ thresholds' and at each one its enture structure is questioned afresh.
     It is only recently that education and reduction of child-hood
     mortality creates a kind of feedback loop that lowers birthrates.
     We have become Pandas who can't be bothered to reproduce.
+
+** Standard of Living
+
+The amount of resources used per capita by countries such as
+the United States are grossly usustainable.  The US is in a
+positive feeback loop created by a an industrial production
+system that has run amok.  NeoClassical Economic Models are
+too simple and treat all types of goods as income rather
+than capital.  
+
 
 ** References
 
