@@ -520,3 +520,14 @@ controlled by a consumer economy and production chain.
     economist explores the hidden side of everything (p.s.)
     (2009), : Harper Perennial.
     cite:steven:2009freakonomics
+  - Polanyi, K., The great transformation: the political and
+    economic origins of our time (2001), : Beacon Press.
+    cite:polanyi:2001great-transformation 
+  - Hazlitt, H., Economics in one lesson: the shortest and
+    surest way to understand basic economics (1988), : Three
+    Rivers Press.
+    cite:hazlitt:1988one-lesson
+  - Friedman, M., Capitalism and freedom: fortieth
+    anniversary edition (2002), : University Of Chicago
+    Press.
+    cite:friedman:2002capitalism 
