@@ -531,3 +531,6 @@ controlled by a consumer economy and production chain.
     anniversary edition (2002), : University Of Chicago
     Press.
     cite:friedman:2002capitalism 
+  - Tilly, C., Coercion capital and european states a d
+    990-1990 (1990), : Blackwell Pub.
+    cite:tilly:1990coercion
