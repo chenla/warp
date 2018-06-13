@@ -52,8 +52,15 @@ thresholds' and at each one its enture structure is questioned afresh.
   - healthcare, public health principles that resulted from discovery
     of microscopic world, togethere with agricultural advances is good
     from the perspective of human well-being.  But these were also
-    negative feeback loops that naturally kept human  population in check
+    negative feeback loops that naturally kept human  population in
+    check.
 
+    This is compounded by the fact that the average lifespan has now
+    doubled since 1800.
+
+    It is only recently that education and reduction of child-hood
+    mortality creates a kind of feedback loop that lowers birthrates.
+    We have become Pandas who can't be bothered to reproduce.
 
 ** References
 
