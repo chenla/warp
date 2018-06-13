@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 167515 |   670 |
+| warp | 167645 |   670 |
 :END:
 
 
@@ -42,9 +42,6 @@ bibliography:../hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
-
-* In Brief
-** Front Matter
  - [[./title.org][Title Page]]
  - Copyright Page
  - [[./epigraph.org][Epigraph]]
@@ -173,7 +170,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./11/03/index.org][Methods]]
  - 04. [[./11/04/index.org][Mastery]]
  - 05. [[./11/05/index.org][Curriculum]]
-** XII. Goverance
+** XII. Governance
  -[[./12/index.org][ Contents]]
  - [[./12/abstract.org][Abstract]]
  - [[./12/intro.org][Introduction]]
@@ -350,18 +347,16 @@ Calendars map time, Maps map space
      farming etc.)
  - Cadastre
  - 
-* Cantos XXVIII-XXX  Everyday Life
+* Cantos XXVIII-XXXVI  Everyday Life
 ** XXVIII. Population
 - growth
 - standard of living
-
-** XXIV. Stages of Life
-
+** XXIX. Stages of Life
  - childhood
  - adolescence
  - adulthood
  - old age
-** XXV. Family
+** XXX. Family
  - biological imperatives
  - relationships
    - plutonic
@@ -378,76 +373,15 @@ Calendars map time, Maps map space
    - band
    - extended
    - nuclear
-
-** XXVI. Tribe
+** XXXI. Tribe
  - Territorial
-** XXVII. Work
-** XXVIII. Place
+** XXXII. Commerce
+** XXXIII. Work
+** XXXIV. Place
+** XXXV. Commerce
+** XXXVI. Polis
 
-* Cantos _ - _ Vocabularies
-:PROPERTIES:
-:ID:       c3ec1809-aece-49b5-948c-90f846b3ea99
-:END:
-
-   - Patterns
-   - Parameters
-   - Theses
-   - Keystones
-   - Entities
-   - Concepts 
-* Cantos _ - _ Polity
-
-We outlined broad concepts and structures for governance now
-we can put together an actual working polity -- the polity
-in our case is both public and private.
-
-We have to merge them together at appropriate scales.
-
-Once we have polity worked out, then we have a foundation
-for the three branches: middle, scope and culture.
-
-* Cantos _ - _ Middle
-
-MIDDLE is infrastructure -- up till now we've had public
-infrastructure and private infrastructure -- which we need
-to merge into a commons
-
-MIDDLE boils down to three things -- process management,
-feedback loops and physical stuff -- assets
-
-* Cantos _ - _ Culture 
-
-  Domus  -> unit of local organization
-  Shop   -> unit of local organization 
-  Polis  -> unit of regional organization
-
-  CULTURE
-  ARC
-
-* Cantos _ - _ Scope
-:PROPERTIES:
-:ID:       910fbbdc-f293-499e-af39-3b583bfceab1
-:END:
-
-  Guild   -> unit of global organization
-  CONTACT
-  SPECIAL CIRCUMSTANCES
-
-* Cantos _ - _ Arc
-
-ARC is part of Culture, but is so big it deserves it's own
-major grouping.
-
-  Distributed - system
-  discovery
-  MAP -- the distributed index
-  succession stages
-  dark arcs & local libraries
-
-
-* The Rest
-
-** Back Matter 
+* Back Matter 
  - Contents
  - Preface
  - Appendix
@@ -462,4 +396,60 @@ major grouping.
  - Ontography
  - Index
  - Colophon
+
+* A Pace-Layer Pattern Language Contents
+   - Patterns
+   - Parameters
+   - Theses
+   - Keystones
+   - Entities
+   - Concepts
+* Chenla Hoard Contents
+** Polity
+We outlined broad concepts and structures for governance now
+we can put together an actual working polity -- the polity
+in our case is both public and private.
+
+We have to merge them together at appropriate scales.
+
+Once we have polity worked out, then we have a foundation
+for the three branches: middle, scope and culture.
+** Middle
+
+MIDDLE is infrastructure -- up till now we've had public
+infrastructure and private infrastructure -- which we need
+to merge into a commons
+
+MIDDLE boils down to three things -- process management,
+feedback loops and physical stuff -- assets
+
+** Culture 
+
+  Domus  -> unit of local organization
+  Shop   -> unit of local organization 
+  Polis  -> unit of regional organization
+
+  CULTURE
+  ARC
+
+** Scope
+:PROPERTIES:
+:ID:       910fbbdc-f293-499e-af39-3b583bfceab1
+:END:
+
+  Guild   -> unit of global organization
+  CONTACT
+  SPECIAL CIRCUMSTANCES
+
+** Arc
+
+ARC is part of Culture, but is so big it deserves it's own
+major grouping.
+
+  Distributed - system
+  discovery
+  MAP -- the distributed index
+  succession stages
+  dark arcs & local libraries
+
 
