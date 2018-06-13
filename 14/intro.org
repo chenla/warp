@@ -513,5 +513,10 @@ controlled by a consumer economy and production chain.
     cite:trotsky:1933soviet
   - Sutherland, R., /This Thing For Which We Have No Name/
     (2014).
-    cite:sutherland:2014no-name 
-
+    cite:sutherland:2014no-name
+  - Foster, N., /The selfish ledger, internal video/ (2016).
+    cite:foster:2016selfish-ledger
+  - Levitt, S. D., & Dubner, S. J., Freakonomics: a rogue
+    economist explores the hidden side of everything (p.s.)
+    (2009), : Harper Perennial.
+    cite:steven:2009freakonomics
