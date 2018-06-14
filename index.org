@@ -395,14 +395,14 @@ Calendars map time, Maps map space
  - Index
  - Colophon
 
-* A Pace-Layer Pattern Language Contents
+* A Pace-Layer Pattern Language
    - Patterns
    - Parameters
    - Theses
    - Keystones
    - Entities
    - Concepts
-* Chenla Hoard Contents
+* Scopic Hoard
 ** Polity
 We outlined broad concepts and structures for governance now
 we can put together an actual working polity -- the polity
