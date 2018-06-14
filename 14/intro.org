@@ -158,7 +158,34 @@ cleanliness can survive only if they prove to be "economic."
 — cite:schumacher:1975small [[pdf:schumacher:1975small.pdf::53][p.45]]
 #+end_quote
 
+#+begin_quote
+The Buddhist point of view takes the function of work to be
+at least threefold: to give a man a chance to utilise and
+develop his faculties; to enable him to overcome his
+ego-centredness by joining with other people in a common
+task; and to bring forth the goods and services needed for a
+becoming existence. Again, the consequences that flow from
+this view are endless. To organise work in such a manner
+that it becomes meaningless, boring, stultifying, or
+nerve-racking for the worker would be little short of
+criminal; it would indicate a greater concern with goods
+than with people, an evil lack of compassion and a
+soul-destroying degree of attachment to the most primitive
+side of this worldly existence. EquaUy, to strive for
+leisure as an altemative to work would be considered a
+complete misunderstanding of one of the basic truths of
+human existence, namely that work and leisure are
+complementary parts of the same living process and cannot be
+separated without destroying the joy of work and the bliss of
+leisure.
 
+From the Buddhist point of view, there are therefore two
+types of mechanisation which must be clearly distinguished:
+one that enhances a man's skill and power and one that turns
+the work of man over to a mechanical slave ...
+
+— cite:schumacher:1975small [[pdf:schumacher:1975small.pdf::55-56][p.55]]
+#+end_quote
 
 
 #+begin_comment
