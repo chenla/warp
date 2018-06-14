@@ -553,3 +553,9 @@ controlled by a consumer economy and production chain.
   - Mankiw, G., Principles of economics (2007), : Thomson
     Southwestern.
     cite:mankiw:2007principles
+  - Thaler, R. H., Quasi Rational Economics (1991), :
+    Russell Sage Foundation.
+    cite:thaler:1991quasi-rational
+  - Thaler, R. H., Misbehaving: the making of behavioral
+    economics (2015), : W. W. Norton & Company.
+    cite:thaler:2015misbehaving
