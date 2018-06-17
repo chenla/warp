@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 167645 |   670 |
+| warp | 168544 |   674 |
 :END:
 
 
@@ -274,9 +274,6 @@ bibliography:../hoard/bib.bib
  - 00. Biographical
  - 00. Dictionary
  - 00. Encyclopedia
-
-What other works than the origin story go here?
-what makes up a cultural encyclopedia?
 
   - epic narrative?
   - 
