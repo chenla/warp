@@ -252,3 +252,42 @@ The OpenMind project
 ** References
 
 
+  - Dennett, D. C., Content and consciousness (1986), :
+    Routledge.
+    cite:dennett:1986content
+  - Wikipedia, , /Consciousness explained --- Wikipedia, the
+    free encyclopedia/ (2017).
+    cite:wiki:2018consciousness-explained
+  - Dennett, D. C., Consciousness Explained (1992), : Back
+    Bay Books.
+    cite:dennett:1992consciousness-explained
+  - Dehaene, S., /Signatures of consciousness--a talk by
+    stanislas dehaene/ (2009).
+    cite:dehaene2009signatures
+  - Dehaene, t., Towards a cognitive neuroscience of
+    consciousness: basic evidence and a workspace framework,
+    Cognition, 79(1-2), 1–37 (2001).
+    http://dx.doi.org/10.1016/s0010-0277(00)00123-2
+    cite:dehaene:2001framework
+  - Torey, Z., The conscious mind (2014), : The MIT Press.
+    cite:torey:2014conscious 
+  - Rothman, J., /Daniel dennett’s science of the soul: a
+    philosopher’s lifelong quest to understand the making of
+    the mind./ (2017).
+    cite:rothman:2017daniel-dennett
+  - Dennett, D. C., Kinds of minds: toward an understanding
+    of consciousness (1996), : Basic Books.
+    cite:dennett:1996kinds-of-minds
+  - Dennett, D. C., Brainchildren: essays on designing minds
+    (1998), : The MIT Press.
+    cite:dennett:1998brainchildren
+  - Kaku, M., The future of the mind: the scientific quest
+    to understand, enhance, and empower the mind (2014), :
+    Doubleday.
+    cite:kaku:2014future-mind
+  - Westphal, J., The Mind-Body Problem (2016), : MIT Press. 
+    cite:westphal:2016mind-body
+  - Torey, Z., The conscious mind (2014), : The MIT Press.  
+    cite:torey:2014conscious
+  - Bateson, G., Mind and nature (1979), : E. P. Dutton.
+    cite:bateson:1979mind
