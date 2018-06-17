@@ -591,3 +591,10 @@ controlled by a consumer economy and production chain.
     buy a decent used car! (fully revised&updated ed.)
     (2006), : Oxford University Press.
     cite:harford:2006undercover
+  - Dixit, A., Microeconomics: a very short introduction
+    (2014), : Oxford University Press.
+    cite:dixit:2014microeconomics
+  - Dasgupta, P., Economics: a very short introduction (very
+    short introductions) (2007), : Oxford University Press,
+    USA.
+    cite:dasgupta:2007economics
