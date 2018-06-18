@@ -37,3 +37,36 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
+Before getting into structure — what goes /into/ a hoard —
+we should talk a bit about files, formats, interfaces and
+such.
+
+Since there will be different media and interfaces for
+different succession stages, I suppose we should start
+there.  For the lower succession stages it's a no brainer to
+choose the codex as the media of choice.  A codex is one of
+Man's great inventions and it has served us well over the
+past two centuries.
+
+We've only had electronic displays for a short period of
+time, a couple of decades really.  And it's only been in the
+last decade that displays can be thought of having /begun/
+to mature in terms of quality and resolution.  We likely
+still have a long ways to go, but at least we now have the
+beginning of high end displays which can hold their own
+against printed text and images on physical media.  We are
+no longer tied to large, heavy, hot and flickering CRTs.  We
+now have displays that can fit in a pocket and in form
+factors that are the same as a book.
+
+What we don't have is the interface -- the electronic
+equivalent of a codex just is not here yet.
+
+Of course we ask more of our displays than we ever did our
+books.  Books just needed to formated once and you were done
+with it.  Diplays, /screens/, are different.  A screen is an
+interface that can display static and moving images.  Add
+speakers and you have audio and video.  Add a pointing
+device, be it arrow keys and a cursor, or a mouse, and more
+recently a finger and you have a means of manipulating
+images on the screeen.
