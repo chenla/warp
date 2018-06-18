@@ -31,8 +31,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
-  - Abstract
-  - Introduction
+  - [[./abstract.org][Abstract]]
+  - [[./intro.org][Introduction]]
+
   - Global Attributes
     - Level of Detail
     - Pace/Shearing-Layer
