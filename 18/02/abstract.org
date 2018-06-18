@@ -95,19 +95,44 @@ There is, however, a mature computer interface that predates
 the Window's metaphor -- the command line and key-chording.
 Such interfaces do not clutter the screen with clunky
 widgets.  The amount of navigational crud on the typical web
-page is astonishingly ugly and crude.  A book has very
-little in terms of interface.  There is a table of contents,
-which outline the structure of the book into pages, chapters
-etc, a index at the back of the book, page numbers and links
-to footnotes, endnotes and to other books.  It's elegant and
-it it's out of your way.  Mobile interfaces are almost
-entirely made up of widgets, leaving little room for
-content.  Since mobile devices do not have input peripherals
-we are stuck with fingers and thumbs.  We swipe and tap and
-sometimes we can pinch to scale.  But it's weak beer.  It's
-too simple to do much of anything each screen can only do a
-very small range of things so we have to jump through
-multiple screens to get anything done.
+page is astonishingly ugly and crude.  The command line has
+a learning curve, which puts off a lot of people. It's not
+something you can pick up and use in a few minutes.  But
+then if you've never used a mobile device before, there is a
+learning curve, just as there is a learning curve for
+windows GUIs.
+
+A shallow learning curve allows new users to get up to speed
+quickly, but then it plateaus giving people who would like a
+more powerful interface out of luck.  Windows is great for
+the majority of people who only do a few things.  But it is
+a terrible interface for people who are using it for
+professional work.
+
+There are some exceptions -- 3D software like Power Animator
+(now called Maya) and SoftImage had a powerful graphical
+interface that didn't require all of the clunky widgets from
+the windows world.  Sadly as more people from the windows
+gui world can on board, the interfaces have been dumbed down
+to accomadate them.  The graphical editing program Gimp met
+with the same fate.  People wanted it to be a clone of
+photoshop and not require the use of the keyboard for
+anything.  So it was dumbed down.  Graphic designers have
+been a terrible influence on interfaces and the Web.
+
+
+A book has very little in terms of interface.  There is a
+table of contents, which outline the structure of the book
+into pages, chapters etc, a index at the back of the book,
+page numbers and links to footnotes, endnotes and to other
+books.  It's elegant and it it's out of your way.  Mobile
+interfaces are almost entirely made up of widgets, leaving
+little room for content.  Since mobile devices do not have
+input peripherals we are stuck with fingers and thumbs.  We
+swipe and tap and sometimes we can pinch to scale.  But it's
+weak beer.  It's too simple to do much of anything each
+screen can only do a very small range of things so we have
+to jump through multiple screens to get anything done.
 
 
 
