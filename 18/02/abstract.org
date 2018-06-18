@@ -83,3 +83,31 @@ fields are really terrible.  Tarting them up with sleeker
 looking widgets doesn't change the fact that this is simply
 not very good.  They have made mobile devices very limited
 interfaces.
+
+One problem is that we let the wrong people design our
+interfaces.  Interface design was taken over by graphic
+designers who are trained to create text and image layouts
+for print media.  That hasn't really changed.  What
+designers are not trained in, is cybernetics — man-machine
+interfaces.
+
+There is, however, a mature computer interface that predates
+the Window's metaphor -- the command line and key-chording.
+Such interfaces do not clutter the screen with clunky
+widgets.  The amount of navigational crud on the typical web
+page is astonishingly ugly and crude.  A book has very
+little in terms of interface.  There is a table of contents,
+which outline the structure of the book into pages, chapters
+etc, a index at the back of the book, page numbers and links
+to footnotes, endnotes and to other books.  It's elegant and
+it it's out of your way.  Mobile interfaces are almost
+entirely made up of widgets, leaving little room for
+content.  Since mobile devices do not have input peripherals
+we are stuck with fingers and thumbs.  We swipe and tap and
+sometimes we can pinch to scale.  But it's weak beer.  It's
+too simple to do much of anything each screen can only do a
+very small range of things so we have to jump through
+multiple screens to get anything done.
+
+
+
