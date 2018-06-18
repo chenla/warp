@@ -134,5 +134,58 @@ weak beer.  It's too simple to do much of anything each
 screen can only do a very small range of things so we have
 to jump through multiple screens to get anything done.
 
+---
+
+The biggest drawback of the web is that it uses a client
+server design.  Web browsers are mearly clients that access
+services on remote servers. This has naturally favors
+monopolies and is responsible for the errosion of copyright
+laws to require all information to go through gate-keepers
+who make their money through rent seeking and tolls.  Most
+of this has happened largely because of the client-server
+paradigm.  Google passed on buying Skype because Skype used
+a decentralised architecture.
+
+We need to replace the web with a portable document model.
+
+The key invention was the epub ebook format.  Epub is a
+zipped directory that contains a manifest, html documents
+and associated scripts, style sheets and media.  That's it.
+
+Documents potentially can include anything that that can be
+included in a web page.  But it's all kept locally on disk.
+The W3C has a variation on the epub concept called Web
+Publications which is basically epub that isn't restricted
+to ebook readers.
+
+I'm thinking along the lines of combining a couple of
+different things.
+
+  - Web publication/ePub type documents
+  - Version Control -- every ePub is also a git repo
+  - Wiki-Markup source files -- used to generate the html
+
+Then, information services as well as individuals, groups,
+companies etc. each maintain an index server either on a
+local computer, or in a container in the cloud.  Documents
+are indexed in a graph database and provide a means of
+searching across man documents, and running scripts that can
+dynamically update documents over the network.
+
+Since the markdown or org src for each doc in included in
+the directory and its under version control, it can be
+edited, expanded, cut down in size or forked and merged with
+other documents.  Src files are literate-programs and can be
+used for literate computing.
+
+We believe that this approach can be used for the vast
+majority of things that we use GUIs and Web Apps for today.
+
+What it won't replace are a handful of underlying tools.
+This includes mostly editors.  Text editors, table editors
+(spreadsheets), bitmap editors like Gimp and Photoshop, 2D
+vector editors like Inkscape, 3D vector editors like
+Blender, as well as video and audio compositing software.
+
 
 
