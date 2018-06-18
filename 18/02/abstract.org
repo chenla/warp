@@ -69,4 +69,17 @@ interface that can display static and moving images.  Add
 speakers and you have audio and video.  Add a pointing
 device, be it arrow keys and a cursor, or a mouse, and more
 recently a finger and you have a means of manipulating
-images on the screeen.
+images on the screeen.  You can create widgets which use
+pixels to create controls that work in a simular way as
+physical mechanical controls; switches, buttons, dials,
+counters, sliders, knobs, levers, indicator lights, audio
+alarms etc.  The fact that no one brings up the fact that
+the only electronic interface we have is little more than
+recreate 19th century industrial mechanical interfaces is
+more than a little disturbing.  Steampunk interfaces were
+and are clunky, clumsy and crude.  Turning screen interfaces
+full of pull down menus, slider bars, buttons and text
+fields are really terrible.  Tarting them up with sleeker
+looking widgets doesn't change the fact that this is simply
+not very good.  They have made mobile devices very limited
+interfaces.
