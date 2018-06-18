@@ -31,8 +31,504 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+The Hoard, is not meant for use by end-users.  The Hoard is
+a collection of different source-code repositories that pull
+in patterns, parameters, theses, and keystones that have
+been adapted to build a specific Primer meant for a specific
+use-case for a specific individual or group, at a specific
+level of development in a specific place, environment and
+climate.
+
+The Hoard is both dna and the rna (code) for the running
+processes that make up a civilization -- when you deploy a
+hoard you are triggering a process that will attempt at
+building a civilization according to the hoard's DNA.
+
+You use a primer to build a hoard -- when it's ready, you
+deploy.  A hoard is not static, it is constantly being added
+to, fixed and changed -- so it uses a continious deployment
+model where you are constantly rolling out changes in real
+time.  This means that if you fuck up, you can roll back
+changes.  It also means that changes are incremental, so
+that there is time for change to propagate and burn in to
+the institutions and people using them.
+
+Deployment is not global -- change deploys at the smallest
+possible scope and then propagates -- this is a safeguard
+but it also can't be avoided because civilizations are
+distributed systems.  It also means that you can test things
+on subsets of the civilization, perhaps even do A:B testing
+before it propagates.
+
+But I also want to stress that there is no master hoard for
+a civilization.  There will be thousands if not millions of
+hoards that make it up -- different things will change in
+different places and as those changes propagate, they might
+well come into conflict with each other and, like when the
+fauna of north america came into contact with the fauna of
+south america, you'll get two different species that fill
+the same ecological niche.  One will inevitably die out to
+be replaced by the other.  The trick is, how this will work
+without the system fracturing.  At the core of the entire
+system is that conflicts must be resolved without forking
+the network.  I think that will be our greatest challenge.
+
+The system is not designed to be homogeneous, locally there
+might be any number of differences between the local here
+and the local in another place.  Again, as it should be.
+
+I think that the key here will be to ensure that the
+different p-layers have the authority to do their job, and
+ensure that systemic change is slow -- that competing ideas
+can cooexist for as long as it takes for a concensus to take
+place and for one to win out over the other.
+
+The problem of peaceful propagation is going to keep me
+awake many a night...
+
+A lot of these notes above will be moved to propagation
+section in w&w.
+
+
+#+begin_quote
+With great power, comes great responsibility.
+
+— Uncle Ben
+#+end_quote
+
+#+begin_quote
+Trust but verify.
+
+— Ronald Reagan
+#+end_quote
+
+We need to design hoards so that users start at the
+appropriate stage and then unlock other stages as they
+progress -- so in a way this works like levels in a computer
+game.  The thing is, that unlocking a level doesn't take you
+to a new place, it just expands on where you already are.
+
+We can think of a hoard as being a book where different
+information is accessible depending on the user.  Different
+content will be available to different users at different
+stages.
+
+In the development stage everything is unlocked.  When the
+Hoard is deployed (released) the permission model kicks in
+and you can only see everything if you have super-user
+privileges.
+
+Super Users can see everything all at once, or use a
+God-Mode where they can /play/ the hoard, but are
+automatically granted access and write access to everything.
+
+For end-users, access to each stage can be fine-grained as
+well, so that students can access it in one way, and
+masters, another.
+
+There is a whole deployment framework, so that the designers
+can create this whole succession stage system.  Unlocking
+and duck tests to determine if someone is ready for the next
+stage will be a challenge.  It may not only be cryptographic
+locking, it might well be physical.  So, let's say that the
+last stage can only be unlocked by building a device that
+can send a signal to the moon, and a slow AI on the moon
+listening for that signal will then unlock it and allow
+downloads.
+
+I think that the hoard is where we can start to get into a
+lot of ideas that Suarez explored in Daemon
+cite:suarez:2009daemon -- leveraging mythos as both a
+cognitive model, and an interface.
+
+There are a lot of parallels here with both the unix
+filesystem and computer/console games.  They have to be
+woven in with the identity model, governance and a raft of
+other things.
+
+** Hoard
+
+Every Hoard begin with an origin story and a curriculum --
+not all Primers will cover as large a canvas as all of
+civilization, so scale your LOD to the scope of what your
+Hoard will cover.
+
+** Origin Story
+  - Filters
+
+  - 1. The Big Bang
+  - 2. Stars Light Up
+  - 3. New Chemical Elements
+  - 4. Earth and the Solar System
+
+  - Life
+  - 5. Life on Earth
+  - 6. Collective Learning
+  - 7. Agricuture
+  - 8. The Modern Revolution
+
+The origin story is the first part of the primer,[fn:1]
+followed by the theses (declarations), then education (triv,
+quad, laurea etc), then the shops and guilds, then the
+value-chain, then bioregions, and finally production.
+
+Man started out just as any other animal on the savannah,
+but development of tools, then speech and finally writing
+resulted in an estrangement that in our minds that estranged
+us from the world and who we were that seemed to have
+started with Aristotle and all of those god damned lists and
+categories.  It wasn't until the Copernican Revolution which
+showed that there was nothing special about where we were in
+the universe that we began the slow process of decentering.
+The Darwinian Revolution was the second decentering which
+taught us that we are just one more creature in a vast
+fabric of life and that all of the rules apply to all of us,
+we are no exception. I believe that we are at the brink of a
+third which will teach us that our minds and our
+intelligence is nothing special either.  We've fallen a long
+way and we are still falling.  And as anyone who has jumped
+out of an airplane could tell you, the fall is nothing to be
+afraid of, it's when the ground breaks your fall that you
+have to worry about. Intelligence is all around us, we are
+simply too caught up in ourselves to notice.  I hope that
+when Man does hit bottom that it will leave us humbled and
+capable of living within the limits of the ecosystems that
+we are part of.  That doesn't mean we will stop hacking them
+and shaping them for our own purposes, but it will have to
+be with an understanding that we either find a way of living
+within the carrying capacity of where we live, or we die.
+You can not increase carrying capacity by using up or
+abusing resources faster than they can be replaced.  If you
+can hack nature to increase sustainible carrying capacity
+great -- but that is not what Man is doing now.
+
+  - social contract   
+  - origin
+  - theses
+  - education
+  - shops & guilds
+  - value-chain
+  - 
+  - bioregions/ecosystems
+  - production & surpluses
+
+    - slavery/mass labour -> machinery -> cognitive machines
+
+
+
+** Succession Model
+
+The Succession model is designed so that Primers can be
+generated to work at specific technological and sociel
+levels of development.
+
+Giving someone lessons in quantum mechanics and CAD files
+for building a molten salt battery is not going to be of
+much help to someone who is trying to survive in a
+post-collapse survival scenario.
+
+For this reason Primers are designed for five different
+succession stages:
+
+  - Survival 
+  - Tools 
+  - Clockwork
+  - Electric
+  - Cognitive
+
+Each stage is designed to build on the foundation of the
+stage before it.  Because of this, you can't jump from a
+Tool Stage directly to the Electric State beause you will
+not have the industrial infrasructure, knowledge or
+experience to be able to do so.
+
+In fact, we expect that in many cases, people today will
+have to refer back to many things in earlier stages because
+a lot of knowledge has been lost of how to do mahy things
+less than inustrial scales.
+
+This will be the first big challenge for our present
+civilizaton, to take centralized massive scale industrial
+processes and adapting them to smaller distributed
+production systems that are part of a fine-grained supply
+and production chain that works as efficiently at small
+scales as our present system can only do at massive scales.
+
+Another requirement will be for all stages to be able to
+gracefully degrade.  In the event of a collapse, a cognitive
+stage region who has suffered a catastrophe should be able
+to revert without too much hardship to a lower stage of
+production and existence either temporaily or for protracted
+periods of time.  So each stage must be reversible.  A
+washing machine that runs at the Cognitive Stage must be
+able to degrade as far back as to the Clockwork stage and
+still be functional until infrastructure is restored.
+
+For this to work, all designs and production must produce
+things that are durable, use-repairable, up-gradeable and
+down-gradeable.
+
+*** Survival
+
+This stage could actually be designed to work in two broad
+scenarios.  We will not decide which or if both of these
+scenarios will be supported.
+
+The first scenario is to provide instructions on rebuilding
+a civilization that has collapsed.  In Lewis Dartnell's
+book, /The Knowledge/ he lays out the initial conditions:
+
+#+begin_quote
+Of course, even in one of the extreme doomsday scenarios,
+groups of survivors would not need to become self-sufficient
+immediately. If the great majority of the population
+succumbed to an aggressive virus, there would still be vast
+resources left behind. The supermarkets would remain stocked
+with plentiful food, and you could pick up a fine new set of
+designer clothes from the deserted department stores or
+liberate from the showroom the sports car you’ve always
+dreamed about. Find an abandoned mansion, and with a little
+foraging it wouldn’t be too hard to salvage some mobile
+diesel generators to keep the lighting, heating, and
+appliances running.  Underground lakes of fuel remain
+beneath gas stations, sufficient to keep your new home and
+car functioning for a significant period. In fact, small
+groups of survivors could probably live pretty comfortably
+in the immediate aftermath of the Fall. For a while,
+civilization could coast on its own momentum. The survivors
+would find themselves surrounded by a wealth of resources
+there for the taking: a bountiful Garden of Eden.  
+
+But the Garden is rotting.  
+
+Food, clothes, medicines, machinery, and other technology
+inexorably decompose, decay, deteriorate, and degrade over
+time. The survivors are provided with nothing more than a
+grace period. With the collapse of civilization and the
+sudden arrest of key processes— gathering raw materials,
+refining and manufacturing, transportation and
+distribution—the hourglass is inverted and the sand steadily
+drains away. The remnants provide nothing more than a safety
+buffer to ease the transition to the moment when harvesting
+and manufacturing must begin anew.
+
+— cite:dartnell:2014knowledge
+
+#+end_quote
+
+All sorts of other assumptions can also be made of
+survivors.  We can expect them to be literate, have a basic,
+if tenuous grasp of basic classical mechanics and physics
+and tools (though not as many as one would expect or even
+hope).  All sorts of raw materials including metals and even
+plastics can be recovered and recycled.  It's far easier to
+melt down a pile of aluminium cans and recast the aluminium
+for other purposes.  It's extremely difficult to find
+bauxite deposits, refine the ore into alumina and get
+aluminum that can be used to make things.  Less than two
+hundred years ago, despite bauxite being one of the most
+plentiful and easily mined minerals on the planet,
+aluminimum was far more expensive than gold or platinum
+because of the enormous energy and chemical requirements to
+refine aluminimum.
+
+The second scenario is to provide a second survival level
+Primer for those who don't stumble across a copy of a Primer
+for hundreds or even thousands of years, long after our
+industrial civilization has rotted and decayed into
+scattered remnants of ruins and relics.  Their path is many
+orders of magnitude longer and more difficult than survivors
+rebuilding from a recent collapse.
+
+I believe, as does Dartnell, that it's more prudent to
+provide a starting point for recent surviors, as a practical
+matter of urgency, since this is a far more likely and
+immediate scenario we may have to contend with.
+
+#+begin_comment
+I want to expand this and explore both in more detail,
+including things that can be done to help jumpstart from
+scratch -- by leaving caches of raw materials or other
+approaches that could get them off the ground sooner.  Such
+caches need to be hidden, and forgotten unless there is such
+a long term collapse and will only be found by reading the
+from-scratch Primer -- that means that the Primer must not be
+accessable to anyone unless there has been a collapse that
+has lasted hundreds or thousands of years.  It's an
+interesting problem.
+#+end_comment
+
+So let's look a each of the five stages in turn:
+
+*** Tools
+hand tools, wind, water, and domesticed plants & animals.
+
+The tool-stage assumes that complex machines and industrial
+proccesses have been destroyed or can not be operated or
+function and all there is are people, hopefully some animals
+and basic hand tools.  This is essentially a pre-industrial
+level of civilization.
+
+The key here is to always look to jump start things to
+shorten this stage in any way possible.
+
+We will have knowledge that pre-industrial man didn't have
+-- knowledge of sanitation, viruses, medicine, and optics.
+We will know the basics of the periodic table and the uses
+for different types of materials far in advance and in far
+pure forms than they did.
+
+A lot of things were not possible in pre-industrial times
+because of impure materials and very low tolerances.  Steam
+and internal combustion engines need high tolerance very
+precise machining.  Even a mechanical watch required a level
+of precsion that only handful of people were capable of for
+moe than a hundred years after it's invention.
+
+We know far more about the nutrient needs of sustainable
+agriculture, food processing and preservation, and labor
+saving devices than they did.
+
+So it is possible to build a pre-idustrial village or town
+from the wreckage of an industrial collapse that would be
+far better than our ancestors at that stage of technology.
+
+*** Clockwork 
+enlightened edwardian civilization
+
+Edwardian England was an interesting time. Many technologies
+that had been invented during the Victorian era had begun to
+mature, and the fruits of the scientific revolution had
+begun to trickle down into the day to day lives of the
+average person.
+
+Edwardian England was the true beginning of the age of the
+machines that were powered by steam.  There will still any
+number of advances that still made life at that time
+dreadful, medicine was more an art than based on any real
+science.  Biology was still largely a mystery and basic
+questions about how the universe worked had been discovered
+but were still being debated.  But a great deal was possible
+if you had the right kind of knowledge.
+
+I see the clockwork stage as being a transitional stage
+between tools and the electric stage, because clockwork can
+be run on any power source and electricity is far more
+flexible than steam.  But the integrated circuit had yet to
+be invented and machines needed to be controlled using
+complex mechanical clockwork which would all be miniturized
+by electronics.
+
+The edwardian age is when all mechanical devices were
+electrified.  It was a magical transition that brought the
+industrial revolution up to steam, so to speak.
+
+But machines still were largely single purpose and had to be
+operated by people pull levers and still doing a lot of
+manual labour.  Cybernetic devices were single purpose,
+complex, difficult to build and easily broke down.
+
+All of this would change with the invention of the
+integrated circuit.
+
+*** Electronic
+electrified & electronic enlightened edwardian
+
+After World War II, the development of the integrated
+curcuit ushered in the electronic era.  Electronics, where
+machines could me miniturized from room sized clanking
+monsters to something that could hum quietly on a table top.
+
+Single purpose computational devices like the pocket
+calculator became possible, the transistor radio, and radios
+and steros moved from hot and somewhat fragile vacuum tubes
+to circuit boards.
+
+All of this required the machines that had been built in the
+tool and then clockwork stages and then electrified -- but
+now we had the ability to control them in far more flexible,
+powerful ways. 
+
+*** Cognitive
+cognitive machines, robotics, bio & nano-tech
+
+The computer revolution, which will soon be known as the
+cognitive-machine revolution took the transistor and
+miniturized it while at the same time increasing the number
+of transistors on a circuit from dozens to millions.
+
+This made possible general purpose computational machines
+that could be programed using codes written by people and
+then fed into the machine which would execute the
+instructions.
+
+This is just getting up to where we are today.
+
+These systems are now becoming capable of performing simple
+cognitive functions which allow them to do complex jobs with
+little or no human supervision, or participation.  There is
+a growing consensus that these systems are on the verge of
+being able to replace a very large range of jobs that have
+required humans to operate machinery.
+
+At the same time, these computational tools have made it
+possible to unlock and directly manipulate DNA -- so that we
+will soon be able to design organisms and adapt genomes in
+any way we see fit. 
+
+And as if this isn't enough, advances in material sciences
+are allowing us to create composite materials that are not
+seen in nature and allow us to build things that would have
+been thought impossible thirty years ago.
+
+Space flight, which has been possble for nearly a hundred
+years, but was handicapped by institutional and political
+layers of crud are now being replaced by a handful of
+private companies who are poised at turning spaceflight into
+something closer to airlines, than chartered launch
+services.  At present there are less than 1,500 satellites
+orbiting the planet.  This month a licence was granted to a
+company to launch over 2,500 new satellites that will have
+to be launched in the next six years.  And these first 2,500
+satellites are only the first wave of a deployment of more
+than 11,000 in total.  And all of this this is being done by
+only one company with no government financial support.  That
+same company plans on putting the first people on Mars by
+the middle of the next decade and a million people within 50
+years after that.
+
+The changes from any one of these revolutions would have as
+great an impact as the printing press, or steam or the
+transistor.  But we are now experiencing three to four
+revolutions of this magnitude all happening at the same
+time.  The changes that we will see over the next twenty
+years will dwarf all of the changes that mankind has
+experiences in the past 10,000 years.
+
+This is the world and the civilization that is just starting
+to emerge from these revolutions that we will need to guide
+and shape.  We will need frameworks like APPL/Hoard and
+Primer to adapt to these changes as quickly as they are
+taking place.
 
 
 ** References
+
+
+** Footnotes
+
+[fn:1] What about language?  Origins lays out our history which is
+tells what our metaphysics and physics.  The nuts and bolts of laguage
+will be in the Triv.  but I'm talking about something deeper, more
+structural -- language both spoken, written and executable -- a
+language of the long now that will change far slower than language at
+the upper pace layers -- it will change, but over centuries and
+milennia not years and decades.  It should be something that is stable
+for long periods of time.  Different pace-layers will have different
+versions of it, the fashion layer tries out new ideas which are
+filtered and refined until they change the lowest layers.
+
+
+
 
 
