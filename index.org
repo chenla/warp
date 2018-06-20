@@ -333,7 +333,7 @@ bibliography:../hoard/bib.bib
  - 00. Coordinate Systems
  - 00. Abstractions
  - 00. Metaphors
-   00. interoperability
+ - 00. Interoperability
  - 00. Territories
 * Cantos XXVIII-XXXVI  Everyday Life
 ** XXVIII. Population
@@ -348,18 +348,35 @@ bibliography:../hoard/bib.bib
  - adulthood
  - old age
 ** XXX. Family
- - biological imperatives
- - relationships
-   - plutonic
-   - sexual
-   - bonding
-     - dating
-     - going steady
-     - cohabitation
-     - engagement
- - marriage
- - divorce
- - family
+ - Contents
+ - Abstract
+ - Introduction 
+ - 00. Imperatives
+   - Biological
+   - Psychological
+   - Social
+   - Economic
+ - 00. Interpersonal
+   - Friendship
+   - Romantic Love
+   - Plutonic Love
+   - Sexual
+   - Stages
+     - Dating
+     - Cohabitation
+     - Engagement
+ - 00. Marriage
+ - 00. Divorce
+   - terminating relationships
+   - divorce
+   - impact 
+ - 00. Family
+   - parent-child
+   - siblings
+   - in-laws
+   - grand parents
+   - god parents
+ - 00. Family Structures
    - band
    - extended
    - nuclear
