@@ -348,9 +348,9 @@ bibliography:../hoard/bib.bib
  - adulthood
  - old age
 ** XXX. Family
- - Contents
- - Abstract
- - Introduction 
+ - [[./30/index.org][Contents]]
+ - [[./30/abstract.org][Abstract]]
+ - [[./30/intro.org][Introduction]] 
  - 00. Imperatives
    - Biological
    - Psychological
