@@ -322,18 +322,20 @@ bibliography:../hoard/bib.bib
  - 00. Festivals
 
 ** XXVI. Space
- - euclidean, cartesian, 
+ - euclidean, cartesian, hilbert
  - distances and time-to-destination (propagation)
 ** XXVII. Maps
-
+ - [[./27/index.org][Contents]]
+ - [[./27/abstract.org][Abstract]]
+ - [[./27/intro.org][Introduction]]
 Calendars map time, Maps map space
- - Spherical Cows -- 
- - Projections -- 2d representation of 3d
- - Hilbert space -- 
- - Abstractions -- eg. mass transit maps
- - Metaphors -- eg. desktop metaphor, transitional and
-   interoperability -- map one paradigm to another.
- - Territories
+ - 00. Spherical Cows 
+ - 00. Projections -- 2d representation of 3d
+ - 00. Coordinate  Systems
+ - 00. Abstractions -- eg. mass transit maps
+ - 00. Metaphors -- eg. desktop metaphor, transitional and
+   00. interoperability -- map one paradigm to another.
+ - 00. Territories
    - dimensionality -- linear (beach), 2, 3 and 4
      dimensional.  Human political territories are 4D maps,
      using time as a dimension for claiming sovereignty and
@@ -342,15 +344,15 @@ Calendars map time, Maps map space
    - classifications (birds have six types)
    - single resource territories (oil, water, lowland
      farming etc.)
- - Cadastre
+   - Cadastre -- simplfied territories, not inclusive.
  - 
 * Cantos XXVIII-XXXVI  Everyday Life
 ** XXVIII. Population
-- [[./28/index.org][Contents]]
-- [[./28/abstract.org][Abstract]]
-- [[./28/intro.org][Introduction]]
-- Growth
-- Standard of Living
+ - [[./28/index.org][Contents]]
+ - [[./28/abstract.org][Abstract]]
+ - [[./28/intro.org][Introduction]]
+ - Growth
+ - Standard of Living
 ** XXIX. Stages of Life
  - childhood
  - adolescence
@@ -368,7 +370,6 @@ Calendars map time, Maps map space
      - engagement
  - marriage
  - divorce
-
  - family
    - band
    - extended
