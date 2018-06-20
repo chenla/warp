@@ -31,4 +31,32 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
-
+  - 00. Imperatives
+    - Biological
+    - Psychological
+    - Social
+    - Economic
+  - 00. Interpersonal
+    - Friendship
+    - Romantic Love
+    - Plutonic Love
+    - Sexual
+    - Stages
+      - Dating
+      - Cohabitation
+      - Engagement
+  - 00. Marriage
+  - 00. Divorce
+    - terminating relationships
+    - divorce
+    - impact 
+  - 00. Family
+    - parent-child
+    - siblings
+    - in-laws
+    - grand parents
+    - god parents
+  - 00. Family Structures
+    - band
+    - extended
+    - nuclear
