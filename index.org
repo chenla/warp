@@ -328,7 +328,6 @@ bibliography:../hoard/bib.bib
  - [[./27/index.org][Contents]]
  - [[./27/abstract.org][Abstract]]
  - [[./27/intro.org][Introduction]]
-Calendars map time, Maps map space
  - 00. Spherical Cows 
  - 00. Projections
  - 00. Coordinate Systems
