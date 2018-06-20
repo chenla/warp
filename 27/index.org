@@ -31,19 +31,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
- - 00. Spherical Cows 
- - 00. Projections -- 2d representation of 3d
- - 00. Coordinate  Systems
- - 00. Abstractions -- eg. mass transit maps
- - 00. Metaphors -- eg. desktop metaphor, transitional and
-   00. interoperability -- map one paradigm to another.
- - 00. Territories
-   - dimensionality -- linear (beach), 2, 3 and 4
-     dimensional.  Human political territories are 4D maps,
-     using time as a dimension for claiming sovereignty and
-     claims that rights and property can be inherited.
-   - piss points -- scent markers
-   - classifications (birds have six types)
-   - single resource territories (oil, water, lowland
-     farming etc.)
-   - Cadastre -- simplfied territories, not inclusive.
+  - 00. Spherical Cows 
+  - 00. Projections -- 2d representation of 3d
+  - 00. Coordinate  Systems
+  - 00. Abstractions -- eg. mass transit maps
+  - 00. Metaphors -- eg. desktop metaphor, transitional and
+  - 00. Interoperability -- map one paradigm to another.
+  - 00. Territories
+    - Dimensionality -- linear (beach), 2, 3 and 4
+        dimensional.  Human political territories are 4D maps,
+        using time as a dimension for claiming sovereignty and
+        claims that rights and property can be inherited.
+    - Piss points -- scent markers
+    - Classifications (birds have six types)
+    - Single resource territories (oil, water, lowland
+      farming etc.)
+    - Cadastre -- simplfied territories, not inclusive.
