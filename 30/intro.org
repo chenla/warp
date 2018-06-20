@@ -1,0 +1,38 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: XXX. Family Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* XXX. Family Introduction
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/30/intro.org
+  :Created:   2018-06-20T21:43@Prek Leap (11.642600N-104.919210W)
+  :ID:        a594b244-aa22-4f36-968f-3d22f840756f
+  :VER:       582777881.529891279
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:TPF0-8443
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+
+
+** References
+
+
