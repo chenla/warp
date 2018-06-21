@@ -88,7 +88,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
        - Egalitarian
     - 05. Human Nature
        - Human Scales: Self, Domus/Band, Polis
-    - 06. Science
+    - 05. [[./ww-reciprocity.org][Reciprocity]]
+    - 07. Science
        https://en.wikipedia.org/wiki/File:The_Scientific_Method_as_an_Ongoing_Process.svg
       - Observation
       - Empirical 
@@ -109,7 +110,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Analysis
      - External Review
      - Consensus
-   - 07. [[./ww-progress.org][Progress]]
+   - 08. [[./ww-progress.org][Progress]]
      - not same as growth
      - The unveness of progress
        progress is not evenly distributed
