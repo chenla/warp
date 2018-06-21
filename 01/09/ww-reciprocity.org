@@ -1,0 +1,50 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Reciprocity (chapter) 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Reciprocity (chapter)
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/01/09/ww-reciprocity.org
+  :Created:   2018-06-21T08:21@Prek Leap (11.642600N-104.919210W)
+  :ID:        e76eb099-37ee-418d-80d9-6451c6073198
+  :VER:       582816160.680839163
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:BFW4-5457
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+
+#+begin_quote
+To tolerate is to insult.
+
+— Goethe
+#+end_quote
+
+Tolerance cite:name:2018tolerance
+
+Reciprocity
+
+** TL;DR
+** References
+
+
+  
