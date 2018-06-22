@@ -72,6 +72,21 @@ world was flat and resources were infinite, but if they saw
 that the world was a sphere they would realize that
 resources were finite and would change their behavior.
 
+
+#+begin_quote
+Space Vehicle Earth was so superbly well designed, equipped
+and supplied as to have been able to sustain human life
+aboard it for at least two million years — despite
+humanity’s comprehensive ignorance which permitted a
+fearfully opinionated assumption of an infinitely extensive
+planar World.
+
+— Buckminster Fuller, Earth Inc. (1972)
+#+end_quote
+SEE: https://web.archive.org/web/20160420125812/enthea.org/author/paul/page/24/
+
+
+
 ---
 
 #+begin_quote
