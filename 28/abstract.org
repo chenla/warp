@@ -86,7 +86,23 @@ planar World.
 #+end_quote
 SEE: https://web.archive.org/web/20160420125812/enthea.org/author/paul/page/24/
 
+#+begin_quote
+However, the big thinking in general of a spherical Earth
+and celestial navigation was retained exclusively by the
+Great Pirates, in contradistinction to a four-cornered, flat
+world concept, with empire and kingdom circumscribed
+knowledge, constricted to only that which could be learned
+through localized preoccupations. Knowledge of the world and
+its resources was enjoyed exclusively by the Great Pirates,
+as were also the arts of navigation, shipbuilding and
+handling, and of grand logistical strategies and of
+nationally-undetectable, therefore effectively deceptive,
+international exchange media and trade balancing tricks by
+which the top pirate, as (in gambler’s parlance) "the
+house," always won.
 
+— cite:fuller:2008operating-manual
+#+end_quote
 
 ---
 
