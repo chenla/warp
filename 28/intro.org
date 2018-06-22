@@ -104,3 +104,7 @@ than capital.
     view of its past and present effects on human happiness (1888), :
     Reeves \& Turner.
     cite:malthus:1888essay
+
+  - Fuller, R. B., Operating manual for spaceship earth
+    (2008), : Lars Müller Publishers.
+    cite:fuller:2008operating-manual
