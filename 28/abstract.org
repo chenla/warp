@@ -33,7 +33,39 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-
-
 ** TL;DR
+
+
+The demographic transition
+
+In the village married women are under the thumb if her
+husband's mother.  In the city, "the mother in-law is not
+around." This is an important insight that I hadn't really
+considered before.
+
+  Interview with Stewart Brand
+  https://boingboing.net/2018/06/21/interview-with-stewart-brand-o.html
+
+On the whole I have looked at the negative side of nuclear
+families, but once you think about it, there are plenty of
+negative things about extended families, especially lack of
+mobility, and pressure to conform.  It's not the small
+village that traps people, it's the extended family and the
+power structures in them.  When you move to an nuclear
+family model many of those presures are gone, giving people
+far more freedom.  But this comes at the expense of social
+support in the form of child care, and sharing domestic
+chores.
+
+---
+
+Barry Commoner 1968  The Closing Circle — was right on
+Climate, and demographic transition.
+
+https://en.wikipedia.org/wiki/Barry_Commoner
+
+---
+
+
+
 
