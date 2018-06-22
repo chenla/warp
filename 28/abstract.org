@@ -70,7 +70,8 @@ Brand's Whole Earth insight can from Bucky who said that the
 reason people behaved so terribly was that they thought the
 world was flat and resources were infinite, but if they saw
 that the world was a sphere they would realize that
-resources were finite and would change their behavior.
+resources were finite and would change their
+behavior.cite:brand:2018interview
 
 
 #+begin_quote
