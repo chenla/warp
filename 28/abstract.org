@@ -64,6 +64,23 @@ Climate, and demographic transition.
 
 https://en.wikipedia.org/wiki/Barry_Commoner
 
+Predating The Population Bomb, Buckminster Fuller also saw
+that industrialization results in a decline in birthrate.
+
+#+begin_quote
+The population explosion is a myth. As we industrialize,
+down goes the annual birth rate. If we survive, by 1985, the
+whole world will be industrialized, and, as with the United
+States, and as with all Europe and Russia and Japan today,
+the birth rate will be dwindling and the bulge in population
+will be recognized as accounted for exclusively by those who
+are living longer.
+
+— Buckminster Fuller, Operating Manual for Spaceship Earth (1968)
+  cite:fuller:2008operating-manual
+#+end_quote
+
+
 ---
 
 Brand's Whole Earth insight can from Bucky who said that the
