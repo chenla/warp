@@ -30,8 +30,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
-** Scope
-** TL;DR
 
 A pattern is an expression that is meant to be manifested in
 a hoard as something that is physical object, or as a
