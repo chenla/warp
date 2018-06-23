@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 168544 |   674 |
+| warp | 171756 |   687 |
 :END:
 
 
@@ -343,10 +343,16 @@ bibliography:../hoard/bib.bib
  - Growth
  - Standard of Living
 ** XXIX. Stages of Life
+ - Contents
+ - Abstract
+ - Introduction
  - childhood
  - adolescence
  - adulthood
  - old age
+
+**      Home
+
 ** XXX. Family
  - [[./30/index.org][Contents]]
  - [[./30/abstract.org][Abstract]]
