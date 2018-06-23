@@ -31,11 +31,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :END:
 
   - Contents
+  - Abstract
   - [[./intro.org][Introduction]]
   - Patterns and Processes
     - Patterns
     - Rules
   - Pattern Languages
+  - Primitive Group Model
+    - PT Primitive Class
+      - NTI Primitive Group
+        - NTI Primitive
   - Pattern Entity Model
     - pattern (con)
       - Keystone (exp)
@@ -45,7 +50,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
       - declaration (exp)
         - rule (man)
 
-------
+---
 
  - Patterns
    - civilization
@@ -64,3 +69,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
    - shearing layers
      - 
+---
+
+  - Primitives
+    - GUI Class
+    - Building/Structure Class
+      - Enclosure Group
+        - room
+        - hallway
+        - stairwell
+        - hall (large, as in a concert hall)
+        - closet/cubbard
+    - Process Class
+    - Rule Class
+    - Machine Class
