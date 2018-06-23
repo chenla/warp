@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   XXXVIII. Population Contents
+#+TITLE:   XXVIII. Population Contents
 #+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
@@ -13,7 +13,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[../index.org][up]]]
 
-* XXXVIII. Population Contents
+* XXVIII. Population Contents
   :PROPERTIES:
   :CUSTOM_ID:
   :Name:      /home/deerpig/proj/chenla/warp/28/index.org
@@ -32,8 +32,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - Pre Industrial Fluxuation Patterns
-  - Linear Malthusian Model  
-  - Corrected Post Industrial Growth Models
+  - Linear Malthusian Model
+  - Demographic Transition
   - Standard of Living
   - Adequate Prosperity
   - Buddhist Economics
