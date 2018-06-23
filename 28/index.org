@@ -39,3 +39,4 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Buddhist Economics
   - Gross National Happiness
   - [[https://en.wikipedia.org/wiki/Moderately_prosperous_society][Moderately prosperous society]] (小康社会)
+
