@@ -37,6 +37,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Patterns
     - Rules
   - Pattern Languages
+  - [[./ww-primitives.org][Primitives]]
+
   - Primitive Group Model
     - PT Primitive Class
       - NTI Primitive Group
