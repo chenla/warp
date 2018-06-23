@@ -31,8 +31,35 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+Patterns are made up of basic conceptual elements called /primitives/
+
+This brings us to shearing layers -- shearing layers are made up of
+primitives.
+
+APL didn't need them, because primitives were cultural assumptions that
+people reading the pattern language understood.  But to be machine
+understandable, we can not make such assumptions.  A primitive is abstract,
+but abstract in a way that can be defined.  A room is a good primitive as
+it can be defined as an enclose made up of ceiling, walls, and floor
+primitives.  Walls are made up of load-bearing structure, vapor barrier,
+infrastructure conduit for wires and pipes.  Outside walls are sheathed in
+a protective layer of shingles, clapboards, brick, stucco, cement, tile
+etc. which are covered in paint, stain, sealer etc.
 
 
+
+  - Primitives
+    - GUI Class
+    - Building/Structure Class
+      - Enclosure Group
+        - room
+        - hallway
+        - stairwell
+        - hall (large, as in a concert hall)
+        - closet/cubbard
+    - Process Class
+    - Rule Class
+    - Machine Class
 
 ** References
 
