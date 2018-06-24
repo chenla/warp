@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 ** Population
- - Contents
+  - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - Pre Industrial Fluxuation Patterns
