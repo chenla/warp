@@ -351,7 +351,9 @@ bibliography:../hoard/bib.bib
  - adulthood
  - old age
 
-**      Home
+**      Standard of Living
+
+
 
 ** XXX. Family
  - [[./30/index.org][Contents]]
@@ -365,6 +367,7 @@ bibliography:../hoard/bib.bib
  - 00. Family Structures
 ** XXXI. Tribe
  - Territorial
+**      Home
 ** XXXII. Commerce
 ** XXXIII. Work
 ** XXXIV. Place
