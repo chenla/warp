@@ -53,7 +53,7 @@ bibliography:../hoard/bib.bib
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
-* Cantos I-VII Building Blocks
+* Building Blocks
 ** I. Foundations
  - [[./01/index.org][Contents]]
  - [[./01/abstract.org][Abstract]]
@@ -136,7 +136,7 @@ bibliography:../hoard/bib.bib
  - [[./07/index.org][Contents]]
  - [[./07/abstract.org][Abstract]]
  - [[./07/intro.org][Introduction]]
-* Cantos VIII-XV Components
+* Components
 ** VIII. Heliosphere
  - [[./08/index.org][Contents]]
  - [[./08/abstract.org][Abstract]]
@@ -222,7 +222,7 @@ bibliography:../hoard/bib.bib
  - 00. Memory
  - 00. Commons
  - 00. Continuity
-* Cantos XVI-XX Assembly
+* Assembly
 ** XVI. Branches
  - [[./16/index.org][Contents]]
  - [[./16/abtract.org][Abstract]]
@@ -264,7 +264,7 @@ bibliography:../hoard/bib.bib
  - 00. [[./17/ww-window.org][Window]]
  - 00. [[./17/ww-roadmap.org][Roadmap]]
 
-* Cantos XXI-XXVII Narratives
+* Narratives
 ** XXI. Canon
  - [[./21/index.org][Contents]]
  - [[./21/abstract.org][Abstract]]
@@ -335,7 +335,7 @@ bibliography:../hoard/bib.bib
  - 00. Metaphors
  - 00. Interoperability
  - 00. Territories
-* Cantos XXVIII-XXXVI  Everyday Life
+* Everyday Life
 ** XXVIII. Population
  - [[./28/index.org][Contents]]
  - [[./28/abstract.org][Abstract]]
