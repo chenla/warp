@@ -28,12 +28,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-  - Contents
+** Population
+ - Contents
   - [[./abstract.org][Abstract]]
   - [[./intro.org][Introduction]]
   - Pre Industrial Fluxuation Patterns
   - Linear Malthusian Model
   - Demographic Transition
+** Standard of living
   - Standard of Living
   - Adequate Prosperity
   - Buddhist Economics
