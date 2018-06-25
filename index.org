@@ -60,7 +60,9 @@ bibliography:../hoard/bib.bib
  - fifty-year window
 
 ** Natures
-
+  - Contents
+  - Abstract
+  - Introduction  
   - 00. Physics
   - 05. [[./foundations/05/index.org][Nature of Order]]
   - 00. Life
@@ -81,6 +83,9 @@ bibliography:../hoard/bib.bib
   - 08. [[./foundations/08/index.org][Boundries]]
 
 ** Principles
+  - [[./fdn-principles/index.org][Contents]]
+  - [[./fdn-principles/abstract.org][Abstract]]
+  - [[./fdn-principles/intro.org][Introduction]]
   - 00. Ethics
     - as foundation for principles
     - ethics as social standards of behavior
@@ -88,7 +93,6 @@ bibliography:../hoard/bib.bib
     - codification in governance rules & laws
     - secular arguments for ethical stances
     - moral hazzard anti-pattern (eg. same as seatbelts)    
-  - 09. [[./foundations/09/index.org][Principles]]
 ** II. Points of View
  - [[./02/index.org][Contents]]
  - [[./02/abstract.org][Abstract]]
