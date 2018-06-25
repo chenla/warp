@@ -53,20 +53,42 @@ bibliography:../hoard/bib.bib
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
-* Building Blocks
-** I. Foundations
+* Foundations
  - [[./foundations/index.org][Contents]]
  - [[./foundations/abstract.org][Abstract]]
  - [[./foundations/intro.org][Introduction]]
- - 01. [[./foundations/01/index.org][Mētis]]
- - 02. [[./foundations/02/index.org][Mind]]
- - 03. [[./foundations/03/index.org][Sapiens]]
- - 04. [[./foundations/04/index.org][Civilization]]
- - 05. [[./foundations/05/index.org][Nature of Order]]
- - 06. [[./foundations/06/index.org][Estrangement]]
- - 07. [[./foundations/07/index.org][Human Scale]]
- - 08. [[./foundations/08/index.org][Boundries]]
- - 09. [[./foundations/09/index.org][Principles]]
+ - fifty-year window
+
+** Natures
+
+  - 00. Physics
+  - 05. [[./foundations/05/index.org][Nature of Order]]
+  - 00. Life
+  - 00. Biosphere
+  - 03. [[./foundations/03/index.org][Sapiens]]
+  - 02. [[./foundations/02/index.org][Mind]]
+  - 01. [[./foundations/01/index.org][Mētis]]
+  - 04. [[./foundations/04/index.org][Civilization]]
+
+
+
+  - 00. Human Nature
+  - 06. [[./foundations/06/index.org][Estrangement]]
+  - 07. [[./foundations/07/index.org][Human Scale]]
+
+
+
+  - 08. [[./foundations/08/index.org][Boundries]]
+
+** Principles
+  - 00. Ethics
+    - as foundation for principles
+    - ethics as social standards of behavior
+    - morals as internalized social standards
+    - codification in governance rules & laws
+    - secular arguments for ethical stances
+    - moral hazzard anti-pattern (eg. same as seatbelts)    
+  - 09. [[./foundations/09/index.org][Principles]]
 ** II. Points of View
  - [[./02/index.org][Contents]]
  - [[./02/abstract.org][Abstract]]
