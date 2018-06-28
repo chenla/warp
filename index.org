@@ -57,7 +57,7 @@ bibliography:../hoard/bib.bib
  - [[./foundations/index.org][Contents]]
  - [[./foundations/abstract.org][Abstract]]
  - [[./foundations/intro.org][Introduction]]
- - fifty-year window
+ - [[./foundations/window.org][Fifty-Year Window]]
 
 ** Natures
  - Contents
