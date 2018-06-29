@@ -34,8 +34,43 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Scope
 ** TL;DR
 
+A Capitalist is literally someone who lives off of the growth of
+capital as opposed to laborers who live off of their labor.  Another
+term for a capitalist is an older word, rentier, someone who lives off
+of rents and fees paid for use of someone elses capital.
 
+In good times, laborers spend one third of their income on rents in
+the form of taxes to the state, rents paid for living quarters, or in
+the form of loans and mortgages on borrowed capital for the purchase
+of things like houses and automobiles.  In the late 20th century in
+developed countries this started to change and a larger and larger
+percentage of income began going to rents.  New types of rents
+appeared for use of networks -- cable television and cell phone
+networks.  Amazon Prime is effectively a rent as well -- and don't be
+fooled, in time most people will feel as locked into paying their
+Amazon Prime rent as they do their cable, and cell rents.
 
+The higher percentage of rents you pay, the less control you have over
+your life -- the more you can build up capital and live off that
+capital the more control and agency you will have.  I believe that a
+lot of the unease and desperation that people in advanced economies
+feel is this loss of agency  in their lives which their parents or
+grandparents had some measure of.  This always was the demarcation
+between the working and middle class, the working class lived
+pay-check to pay-check, the middle-class spent their working life
+building up a small amount of capital.
+
+Labor and employment is, in itself, a kind of capital and in that
+sense it is a form of slavery, where a person's labor is owned by
+another and treated as a form of property.
+
+Machine-cog is a form of labor which is also a form of property.
+
+If machine-cog can work efficiently at small scales, then the
+possibility of a new middle class emerging, who builds up capital they
+can live on by leveraging machine-labour rather than land as property
+and buildings as property or the accumulation of invested currency in
+the form of stocks, bonds and other financial tools.
 
 ** References
 
