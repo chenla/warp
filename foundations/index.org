@@ -30,7 +30,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 ** Table of Contents
  - Contents
  - [[./abstract.org][Abstract]]
- - [[./intro.org][Introduction]]
+ - [[./intro.org][Introduction]] (The Big Three; Population, Climate and AI)
+ - [[./population.org][Population]]
+ - [[./climate][Climate]]
+ - [[./machine-cog][Machine Cognition]]
+ - [[./auto-eco.org][Automation Economics]]
+ - [[./window.org][Fifty Year Window]] 
+*** Cantos
  - 01. [[./01/index.org][Metis > Episteme]]
  - 02. [[./02/index.org][Mind]]
  - 03. [[./03/index.org][Sapiens]]
