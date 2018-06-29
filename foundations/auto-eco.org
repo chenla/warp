@@ -145,16 +145,16 @@ are eliminated until there is only one, holding a monopoly.
 
 ---
 
-All types of is a kind of capital and in that sense it is a form of
-property.  Slavery is the original embodiment of this concept, where a
-person is held captive and their labor is the property of the captor.
-The industrial revolution made it clear that there was no need to hold
-people captive to own their labor.  It was far cheaper to leave people
-free when not working, so that workers are responsible for finding and
-maintaining their own food and shelter.  So long as they maintained
-conditions where workers had no alternative but to sell their labor to
-an employer that in many cases there was no reason to keep people
-physically captive indefinitately.  
+All types of labor is a kind of capital and in that sense it is a form
+of property.  Slavery is the original embodiment of this concept,
+where a person is held captive and their labor is the property of the
+captor.  The industrial revolution made it clear that there was no
+need to hold people captive to own their labor.  It was far cheaper to
+leave people free when not working, so that workers are responsible
+for finding and maintaining their own food and shelter.  So long as
+they maintained conditions where workers had no alternative but to
+sell their labor to an employer that in many cases there was no reason
+to keep people physically captive indefinitately.
 
 This obviously is still not always the case.  Prison labor is the
 slave-model write large.  Large companies, especially as seen today in
@@ -186,6 +186,74 @@ In all cases, workers are dependent on their employer for day-to-day
 existance, they have little to no agency, ability to choose where and
 how they live, where they can send their children to school, buy food, 
 clothing, etc.
+
+Moral and ethical questions of slavery aside, this is a terrible waste
+of cognitive resources.  Properly educated and trained, a human being
+is a remarkable combination of general purpose cognition in a highly
+flexible and adaptive body that can manipulate and shape the world
+around them in remarkably subtle and beautiful ways.  Using a human to
+rake leaves, or assemble iPhones is like using a Cray Supercomputer to
+sent Tweets.  It will do the job, but it's overkill.
+
+---
+
+This leads us to the next problem.  Why are we wasting all of that
+cognitive and motor capacity on repetitive and menial tasks?  To
+support a small number of people can dedicate themselves to fully
+using all of their cognitive powers.
+
+
+Most innovation in the sciences, philosophy, engineering, the arts and
+so on done by a very small percentage of people who don't have to
+worry about physical survival and have the freedom and free time to
+devote all of the energies to creative pursuits.  It is these people
+that all other human advances stem from.  As Abraham Flexner said in
+his 1939 essay, "The Incredible Usefulness of Useless Knowledge,"
+
+
+
+
+#+begin_quote
+
+
+— cite:flexner:1939usefulness
+#+end_quote
+
+Looking back at great intellectual and scientific advances throughout
+human history, the vast majority of them were directly or indirectly
+possible by accumulating capital through labor as property.
+
+The classical Greek thinkers all had free time because of their social
+position as elites who owned property and slaves.
+
+
+Darwin lived off capital from his family and a dowery from his wife's
+family.  Marx and later Einstein were exception, who had to scrape
+through on little or nothing through the early parts of their careers
+but eventually were supported by the labor as capital regieme.
+Einstein found a home in his later years at the Center for Advanced
+Study in Princeton New Jersey, an institution founded by fortunes from
+19th century tycoons and robber barons.
+
+Robber Barons especially like to endow great public works, all wishing
+they they be remembered for their philanthropy than the ruthlesses and
+swaths of carnage left behind as they built their fortunes.  Carnegie,
+Mellon, Rockafella and most recently Bill Gates all took the
+philanthropic route, as if they were buy indulgences to buy their way
+into heaven for their sins.  Refreshingly, a few went to their graves
+unrepentent and proud of their achievements, J Paul Getty and Steve
+Jobs both come to mind.  The Getty name, now famous for the foundation
+and art museum bearing his name, had nothing to do with Paul, who must be
+turning over in his grave every time the foundation funded by his
+wealth does anything that doesn't make a profit.  In the case of Jobs
+it's clear that he believed that his fortune was built making the
+world a better place, rather than being built by turning the power and
+flexibility of general purpose personal computer into kitschy
+over-priced consumer life-style appliances that locked in his idea of
+how people should think and create.
+
+
+---
 
 
 
