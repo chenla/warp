@@ -214,9 +214,51 @@ his 1939 essay, "The Incredible Usefulness of Useless Knowledge,"
 
 
 #+begin_quote
+I recall a conversation which I had some years ago with Mr. George
+Eastman on the subject of use. Mr. Eastman, a wise and gentle
+farseeing man, gifted with taste in music and art, had been saying to
+me that he meant to devote his vast fortune to the promotion of
+education in useful subjects. I ventured to ask him whom he regarded
+as the most useful worker in science in the world. He replied
+instantaneously: “Marconi.” I surprised him by saying, “Whatever
+pleasure we derive from the radio or however wireless and the radio
+may have added to human life, Marconi’s share was practically
+negligible.”
 
+I shall not forget his astonishment on this occasion. He asked me to
+explain. I replied to him somewhat as follows: “Mr. Eastman, Marconi
+was inevitable. The real credit for everything that has been done in
+the field of wireless belongs, as far as such fundamental credit can
+be definitely assigned to anyone, to Professor Clerk Maxwell, who in
+1865 carried out certain abstruse and remote calculations in the field
+of magnetism and electricity. Maxwell reproduced his abstract
+equations in a treatise published in 1873. At the next meeting of the
+British Association Professor H. S. Smith of Oxford declared that ‘no
+mathematician can turn over the pages of these volumes without
+realizing that they contain a theory which has already added largely
+to the methods and resources of pure mathematics.’ Other discoveries
+supplemented Maxwell's theoretical work during the next fifteen
+years. Finally in 1887 and 1888 the scientific problem still
+remaining—the detection and demonstration of the electromagnetic waves
+which are the carriers of wireless signals—was solved by Heinrich
+Hertz, a worker in Helmholtz’s laboratory in Berlin. Neither Maxwell
+nor Hertz had any concern about the utility of their work; no such
+thought ever entered their minds. They had no practical objective. The
+inventor in the legal sense was of course Marconi, but what did
+Marconi invent? Merely the last technical detail, mainly the now
+obsolete receiving device called coherer, almost universally
+discarded.”
 
-— cite:flexner:1939usefulness
+Hertz and Maxwell could invent nothing, but it was their useless
+theoretical work which was seized upon by a clever technician and
+which has created new means for communication, utility, and amusement
+by which men whose merits are relatively slight have obtained fame and
+earned millions. Who were the useful men? Not Marconi, but Clerk
+Maxwell and Heinrich Hertz. Hertz and Maxwell were geniuses without
+thought of use. Marconi was a clever inventor with no thought but use.
+
+— Abraham Flexner, The Usefulness of Useless Knowledge (1939)
+  cite:flexner:1939usefulness
 #+end_quote
 
 Looking back at great intellectual and scientific advances throughout
@@ -243,14 +285,22 @@ philanthropic route, as if they were buy indulgences to buy their way
 into heaven for their sins.  Refreshingly, a few went to their graves
 unrepentent and proud of their achievements, J Paul Getty and Steve
 Jobs both come to mind.  The Getty name, now famous for the foundation
-and art museum bearing his name, had nothing to do with Paul, who must be
-turning over in his grave every time the foundation funded by his
-wealth does anything that doesn't make a profit.  In the case of Jobs
-it's clear that he believed that his fortune was built making the
-world a better place, rather than being built by turning the power and
-flexibility of general purpose personal computer into kitschy
-over-priced consumer life-style appliances that locked in his idea of
-how people should think and create.
+and art museum bearing his name, had nothing to do with Paul, who must
+be turning over in his grave every time the foundation funded by his
+wealth does anything that doesn't make a profit.  Getty was so cheap,
+that he kept a public pay-telephone booth in his caverous mansion so
+that he wouldn't have to pay for guest's telephone calls.  At least
+his butler made change for free.  In the case of Jobs it's clear that
+he believed that his fortune was built making the world a better
+place, rather than by turning the power and flexibility of general
+purpose personal computers into kitschy over-priced consumer
+life-style appliances that lock users in his idea of how people should
+think and create.
+
+Most great achievements are roads that lead back to accumulated
+capital and slavery in some incarnation.
+
+
 
 
 ---
