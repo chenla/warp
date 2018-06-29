@@ -84,7 +84,9 @@ gentry in europe who lived off of their accumulated capital.
 
 In the late 20th and beginning of the 21st centuries, as the
 middle-class saw their capital evaporate, three new means of getting
-rich quick emerged, which manipulated information in order build capital.
+rich quick emerged, which manipulated information in order to build
+capital. In each case, the capital was often used for status seeking
+instead of long-term multi-generational investment.
 
 The first, property speculation, certainly was nothing new.  But what
 was new was that land and buildings were no longer seen as a means to
@@ -115,9 +117,37 @@ appearance of having more capital than you actually had.  This makes
 possible a precarious life-style at a very high level, but is never
 more than one or two bad trades away from being wiped out.
 
+The third method was a variation on the /land-rush/ or /gold-rush/
+model where being the first to enter a market that was reaching a
+tipping point and was in the early stages of exponential grown when
+the barrier to entry was very low.
 
-Labor and employment is, in itself, a kind of capital and in that
-sense it is a form of slavery, where a person's labor is owned by
+[[https://www.youtube.com/watch?v=8-Sn2ZgfVqM][Tumbleweeds]] Cherokee Strip Land Rush scene
+https://newsok.com/gallery/2497/pictures/51506
+
+The 21st century incarnation of this was the Dot-Com boom, followed by
+the Mobile-App boom.  The pioneers who developed the technology that
+became the Internet and Web thought of what they were doing in the
+same way that people would buy a home.  But early adopters only saw
+the technology as a means to getting rich quickly.
+
+None of three of these methods are sustainable.  First, they are seen
+as zeo-sum where one person can not succeed unless someone else
+looses.  This is physical true in the case of property speculation as
+what is being speculated on is physical and finite.  Only one party
+can profit from a single property.  In the case of financial and
+technological greed, the finite resource that is fought over is
+customers.  That there are a limited number of people you can sell
+things to resulting in a hunger games environment where all players
+are eliminated until there is only one, holding a monopoly.
+
+
+
+All types of is a kind of capital and in that sense it is a form of
+property
+
+
+form of slavery, where a person's labor is owned by
 another and treated as a form of property.
 
 Machine-cog is a form of labor which is also a form of property.
@@ -126,7 +156,7 @@ If machine-cog can work efficiently at small scales, then the
 possibility of a new middle class emerging, who builds up capital they
 can live on by leveraging machine-labour rather than land as property
 and buildings as property or the accumulation of invested currency in
-the form of stocks, bonds and other financial tools.q
+the form of stocks, bonds and other financial instuments.
 
 ** References
 
