@@ -33,6 +33,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+
+
+
 ** References
 
-
+  - Piketty, T., & Goldhammer, A., Capital in the twenty-first century
+    (2014), : Belknap Press.
+    cite:piketty:2014capital-twenty-first
