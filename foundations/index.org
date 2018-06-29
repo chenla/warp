@@ -33,8 +33,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./intro.org][Introduction]] (The Big Three; Population, Climate and AI)
  - [[./population.org][Population]]
  - [[./climate][Climate]]
- - [[./machine-cog][Machine Cognition]]
+ - [[./machine-cog][Machine Cognition]] (bio-cog and machine-cog -- get over it)
  - [[./auto-eco.org][Automation Economics]]
+ - [[./spanners.org][Spanners]]  (On the Horizon; Space, Genetics and Life Extension)
  - [[./window.org][Fifty Year Window]] 
 *** Cantos
  - 01. [[./01/index.org][Metis > Episteme]]
