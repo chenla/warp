@@ -365,6 +365,26 @@ rooms within.
   cite:woolf:2004room
 
 #+end_quote
+
+#+begin_quote
+And one gathers from this enormous modern literature of confession and
+self-analysis that to write a work of genius is almost always a feat
+of prodigious difficulty. Everything is against the likelihood that it
+will come from the writer’s mind whole and entire. Generally material
+circumstances are against it. Dogs will bark; people will interrupt;
+money must be made; health will break down. Further, accentuating all
+these difficulties and making them harder to bear is the world’s
+notorious indifference. It does not ask people to write poems and
+novels and histories; it does not need them. It does not care whether
+Flaubert finds the right word or whether Carlyle scrupulously verifies
+this or that fact. Naturally, it will not pay for what it does not
+want.
+
+— Virginia Woolfe, A Room of One's Own
+  cite:woolf:2004room
+#+end_quote
+
+
 ---
 
 
