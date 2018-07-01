@@ -384,6 +384,7 @@ want.
   cite:woolf:2004room
 #+end_quote
 
+[[slink:woolfe:2004room :dt "\2018-06-30 Sat 11:27"][A Room of One's Own]]
 
 ---
 
