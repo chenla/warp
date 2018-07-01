@@ -384,7 +384,25 @@ want.
   cite:woolf:2004room
 #+end_quote
 
-[[slink:woolfe:2004room :dt "\2018-06-30 Sat 11:27"][A Room of One's Own]]
+#+begin_quote
+The slave was precious to his master because of the money he had cost
+him ... They were worth at least as much as they could be sold for in
+the market ... It is the impossibility of living by any other means
+that compels our farm labourers to till the soil whose fruits they
+will not eat and our masons to construct buildings in which they will
+not live ... It is want that compels them to go down on their knees to
+the rich man in order to get from him permission to enrich him
+... what effective gain [has] the suppression of slavery brought [him
+?] He is free, you say. Ah! That is his misfortune ... These men
+... [have] the most terrible, the most imperious of masters, that is,
+need. ... They must therefore find someone to hire them, or die of
+hunger. Is that to be free?
+
+— Linguet, Théorie des lois civiles, etc., Londres, 1767.
+  Quoted In Karl Marx, Theories of Surplus Value, 1861
+  https://www.marxists.org/archive/marx/works/1863/theories-surplus-value/ch07.htm
+  cite:marx:1968surplus-value
+#+end_quote
 
 ---
 
@@ -405,3 +423,5 @@ the form of stocks, bonds and other financial instuments.
     cite:piketty:2014capital-twenty-first
   - Woolf, V., A room of one's own (2004), : Penguin Books.
     cite:woolf:2004room
+
+  - cite:marx:1968surplus-value
