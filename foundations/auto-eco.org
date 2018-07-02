@@ -404,6 +404,59 @@ hunger. Is that to be free?
   cite:marx:1968surplus-value
 #+end_quote
 
+#+begin_quote
+Next I think that you may object that in all this I have
+made too much of the importance of material things. Even
+allowing a generous margin for symbolism, that five hundred
+a year stands for the power to contemplate, that a lock on
+the door means the power to think for oneself, still you may
+say that the mind should rise above such things; and that
+great poets have often been poor men. Let me then quote to
+you the words of your own Professor of Literature, who knows
+better than I do what goes to the making of a poet. Sir
+Arthur Quiller-Couch writes
+
+
+   What are the great poetical names of the last hundred
+   years or so? Coleridge, Wordsworth, Byron, Shelley,
+   Landor, Keats, Tennyson, Browning, Arnold, Morris,
+   Rossetti, Swinburne – we may stop there. Of these, all
+   but Keats, Browning, Rossetti were University men; and of
+   these three, Keats, who died young, cut off in his prime,
+   was the only one not fairly well-to-do. It may seem a
+   brutal thing to say, and it is a sad thing to say: but,
+   as a matter of hard fact, the theory that poetical genius
+   bloweth where it listeth, and equally in poor and rich,
+   holds little truth. As a matter of hard fact, nine out of
+   those twelve were University men: which means that
+   somehow or other they procured the means to get the best
+   education England can give. As a matter of hard fact, of
+   the remaining three you know that Browning was
+   well-to-do, and I challenge you that, if he had not been
+   well-to-do, he would no more have attained to write Saul
+   or The Ring and the Book than Ruskin would have attained
+   to writing Modern Painters if his father had not dealt
+   prosperously in business. Rossetti had a small private
+   income; and, moreover, he painted. There remains but
+   Keats; whom Atropos slew young, as she slew John Clare in
+   a mad-house, and James Thomson by the laudanum he took to
+   drug disappointment. These are dreadful facts, but let us
+   face them. It is – however dishonouring to us as a nation
+   – certain that, by some fault in our commonwealth, the
+   poor poet has not in these days, nor has had for two
+   hundred years, a dog’s chance. Believe me – and I have
+   spent a great part of ten years in watching some three
+   hundred and twenty elementary schools – we may prate of
+   democracy, but actually, a poor child in England has
+   little more hope than had the son of an Athenian slave to
+   be emancipated into that intellectual freedom of which
+   great writings are born.cite:quiller-couch:1916art-writing
+
+— A room of one's own
+  cite:woolf:2004room
+#+end_quote
+
+
 ---
 
 Machine-cog is a form of labor which is also a form of property.
