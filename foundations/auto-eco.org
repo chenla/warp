@@ -459,13 +459,100 @@ Arthur Quiller-Couch writes
 
 ---
 
-Machine-cog is a form of labor which is also a form of property.
+Machine-cog is a form of labor which is also a form of
+property.
 
-If machine-cog can work efficiently at small scales, then the
-possibility of a new middle class emerging, who builds up capital they
-can live on by leveraging machine-labour rather than land as property
-and buildings as property or the accumulation of invested currency in
-the form of stocks, bonds and other financial instuments.
+If machine-cog can work efficiently at small scales, then
+the possibility of a new middle class emerging, who builds
+up capital they can live on by leveraging machine-labour
+rather than land as property and buildings as property or
+the accumulation of invested currency in the form of stocks,
+bonds and other financial instuments.
+
+---
+
+Think of it this way.  Instead of thinking of wealth as
+accumulated property, think of it sort of like the way we
+calculate the power of an engine, in horse power, or how
+many horses would it take to achieve the same amount of work
+as a particular engine.
+
+Machine cognition doesn't replace horses it replaces
+thinking people doing repetitive and menial tasks that
+require relatively low amounts of cognition.  Since this
+works out to be a many as two-thirds of jobs, then is stands
+to reason that minimum one person working together with
+machine-cog systems will be able to do the same work as
+several people can today.
+
+How many will that actually be?  It's not as simple as
+dividing the number of people who have lost jobs among the
+ones with jobs.
+
+In some cases, as in the case of heavy industry there are
+now factories in Europe run less than a dozen people who
+have replaced 150 workers.  In many cases, entire classes of
+employment will simply be swallowed by network services.  So
+it is difficult to work up from jobs being replaced to
+number of people that a person working with machine-cog will
+have.  Let's call it jobpower.  These are such early days
+that it's almost a meaningless question to ask.  We simply
+don't know at this point in time.  There is no data.
+
+But we can think about how many jobpower it takes to
+generate enough capital for a person, and their family, to
+accumulate enough capital to live off of that capital, while
+coordinating a human-machine-cog system.
+
+We have numbers for that, I need to do a lot more thinking
+and study and research to work out those numbers and what
+the mean, so for now I need a back-of-napkin model to see if
+this might work out....
+
+Our goal is for each working person to be as productive as
+xx number of people in order to generate the equivilent of
+$40K/year from capital created by that labor.  I want that
+to be the base minimum income.  But that's basically only
+cash -- in addition everyone owns their own house and
+property they live on, debt-free, and that 60% of food and
+energy will be grown/generated on-premise in non-urban
+settings.  I still have to work out how this will work in
+highly oncentrated urban environments.
+
+The number I pulled out of thin air before was around 20
+jobpower -- put another way, if you had twenty slaves that
+didn't have to be paid, how much capital would be generated
+by their labor?  Instead of feeding and housing slaves,
+you'd be paying for energy to run the machine-cog systems
+and maintain them and replace them periodically.  If we take
+a different approach to manufacturing so that everything is
+designed to last decades, and to be repairable and
+upgradable, the fixed upfront costs could be spread over
+10-20 years.
+
+It could be as simple as simply adding up the those of those
+people in terms of wages and benifits-- but of course it
+won't be.
+
+At the low end and labor is minimum wage, twenty people at
+say $15 an hour is about $30k * 20 = $600K  even you gave
+yourself $100K in salary and benifits from that, you'd still
+have $500K a year of capital added to your hoard each year.
+
+If we then pool about 15 people together into a couple of
+shops that shares land, houses and fixed costs for running
+those shops you would be generating as a group perhaps as
+much as $10M/Yr in capital.  If that capital is invested
+into making new shop-clusters, who in turn do the same, you
+are adding value to your shop because the value-chains
+becomes more valuable with every new node added to the
+network.
+
+So my gut feeling at the moment is that this model could
+work if -- IF -- we can make production and supply chains
+highly distributed, and that automation will make these
+systems competitive with large scale production which I
+think is possible.
 
 ** References
 
