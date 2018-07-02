@@ -406,8 +406,6 @@ hunger. Is that to be free?
 
 ---
 
-
-
 Machine-cog is a form of labor which is also a form of property.
 
 If machine-cog can work efficiently at small scales, then the
@@ -423,5 +421,5 @@ the form of stocks, bonds and other financial instuments.
     cite:piketty:2014capital-twenty-first
   - Woolf, V., A room of one's own (2004), : Penguin Books.
     cite:woolf:2004room
-
-  - cite:marx:1968surplus-value
+  - Marx, K., Theories of surplus value (1968), : Progress Publishers.
+    cite:marx:1968surplus-value
