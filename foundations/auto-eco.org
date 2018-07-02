@@ -531,7 +531,7 @@ upgradable, the fixed upfront costs could be spread over
 10-20 years.
 
 It could be as simple as simply adding up the those of those
-people in terms of wages and benifits-- but of course it
+people in terms of wages and benifits -- but of course it
 won't be.
 
 At the low end and labor is minimum wage, twenty people at
@@ -547,6 +547,22 @@ into making new shop-clusters, who in turn do the same, you
 are adding value to your shop because the value-chains
 becomes more valuable with every new node added to the
 network.
+
+The system will be designed so that for every person that is
+working, another 10 non-working people will be supported at
+large.
+
+The goals of production is not to maximize profit but to
+meet the maximum amount of human needs.  Salaries for those
+working are capped at what Piketty suggests -- $500K/Yr and
+anything above that is taxed at %80.
+
+Piketty shows that the present system, when working properly
+always results in low-growth and massive inequality, that
+keeps most people poor.  If we aren't careful, the
+machine-cog revolution will just be more of the same if we
+let those in power now try to repress the system becoming
+distributed, which it will naturally do.
 
 So my gut feeling at the moment is that this model could
 work if -- IF -- we can make production and supply chains
