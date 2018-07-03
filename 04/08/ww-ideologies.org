@@ -115,7 +115,19 @@ of a long and conscious peace.
   https://jordanbpeterson.com/maps-of-meaning/ 
 #+end_quote
 
+Religeon is a subclass of ideology in the sense of a progression of
+the loss of information over time.  Ideologies get worn down, polished
+smooth and loose information and become religions.
 
+  Person/Event/Place -> News     -> History  -> Legand -> Myth
+  Theory/Narrative   -> Ideology -> Religion -> Myth
+
+Religions use myths that predate them as source material which is used
+to help get people in specifc locales to convert.  There are many
+examples of religions swallowing previous myths and religions.
+
+Not all myths are part of a religion, but they are all part of a
+culture.
 
 ** References
 
