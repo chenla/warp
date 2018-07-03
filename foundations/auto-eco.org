@@ -577,6 +577,9 @@ think is possible.
     brilliant technologies (2014), : Brilliance Audio on
     MP3-CD.
     cite:brynjolfsson:2014second-machine-age
+  - Carr, N., The glass cage: automation and us (2014), :
+    W. W. Norton & Company.
+    cite:carr:2014glass-cage
   - Castells(auth.), M., The rise of the network society,
     volume i (2009), : Wiley-Blackwell.
     cite:castells:2010network_society-1
@@ -584,6 +587,10 @@ think is possible.
     volume iii, second edition with a new preface (2010), :
     Wiley-Blackwell.
     cite:castells:2010network_society-3
+  - Kelly, K., The inevitable: understanding the 12
+    technological forces that will shape our future
+    (2016), : Viking.
+    cite:kelly:2016inevitable
   - Marx, K., Theories of surplus value (1968), : Progress Publishers.
     cite:marx:1968surplus-value
   - Mokyr, J., Vickers, C., & Ziebarth, N. L., The history
@@ -600,4 +607,4 @@ think is possible.
     (2018).
     cite:schlogl:2018rise-automation
   - Woolf, V., A room of one's own (2004), : Penguin Books.
-    cite:woolf:2004room
+    cite:woolf:2004room 
