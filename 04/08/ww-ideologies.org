@@ -33,14 +33,54 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+#+begin_quote
+I think of Marxism as the Creationism of Economics. Derives it's
+self-importance from an outdated but still venerable source of
+knowledge. Defends that source rather than tests it. Emphasizes parts
+their source happened to get right while glossing over the ones where
+it completely failed. Maintains that there's still a controversy even
+after everyone outside their bubble knows they lost the factual debate
+long ago.
+
+— partoffuturehivemind | /r/slatestarcodex
+  https://www.reddit.com/r/slatestarcodex/comments/8v7iux/the_opium_of_the_intellectuals/e1lgucg/
+#+end_quote
+
+Until recently I had dismissed ideologies as being maps that once
+served a purpose but taken on religious meaning and frozen; Medusa's
+gaze turning it into dogmatic stone.
+
+Dogma is a mechanism to reduce copying errors which becomes a problem
+when a religion scales beyond a certain size.  When errors are
+introduced, religious factions inevitably emerge which come into
+conflict with the parent belief system.  There is good reason for
+religions to place heresy, which at base is nothing more than
+asserting statements that do not align with the normative encoding of
+the belief system, as a existential danger and act accordingly.  It's
+not surprising that monothesistic religions all emerged after the
+widespread adoption of writing systems, and that literacy becomes one
+of the primary tools used to spread adoption of those systems.  Large
+pantheistic systems were too flexible and make peace with the inherent
+uncertainty, and ambiguitiy of the world to be able to scale.
+Monothesisms were simple inter-connected clouds of memes designed for
+maximum propagation.  In that sense the origins of monothesistic
+religions are populist in nature, beginning as, or later evolving into
+groups seeking independence from or the overthrow of elites.
+
+All of this applies equally to ideologies.
+
+
+
+
 ** References
 
 
-  - 
-    cite:peterson:2000maps-meaning 
-
-  - 
-    cite:kimball:2005opium-review
-
-  - 
+  - Aron, R., Opium of the intellectuals (1962), : W. W. Norton &
+    Company.
     cite:aron:1962opium
+  - Kimball, R., /The opium of the intellectuals/ (2005).
+    cite:kimball:2005opium-review
+  - Peterson, J. B., Maps of meaning: the architecture of belief
+    (2000), : Routledge.
+    cite:peterson:2000maps-meaning
