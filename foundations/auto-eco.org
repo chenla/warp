@@ -572,10 +572,32 @@ think is possible.
 
 ** References
 
+  - Brynjolfsson, E., McAfee, A., & Cummings, J., The second
+    machine age: work, progress, and prosperity in a time of
+    brilliant technologies (2014), : Brilliance Audio on
+    MP3-CD.
+    cite:brynjolfsson:2014second-machine-age
+  - Castells(auth.), M., The rise of the network society,
+    volume i (2009), : Wiley-Blackwell.
+    cite:castells:2010network_society-1
+  - Castells, M., End of millennium: with a new preface,
+    volume iii, second edition with a new preface (2010), :
+    Wiley-Blackwell.
+    cite:castells:2010network_society-3
+  - Marx, K., Theories of surplus value (1968), : Progress Publishers.
+    cite:marx:1968surplus-value
+  - Mokyr, J., Vickers, C., & Ziebarth, N. L., The history
+    of technological anxiety and the future of economic
+    growth: is this time different?, Journal of Economic
+    Perspectives, 29(3), 31–50 (2015).
+    cite:mokyr:2015history
   - Piketty, T., & Goldhammer, A., Capital in the twenty-first century
     (2014), : Belknap Press.
     cite:piketty:2014capital-twenty-first
+  - Schlogl, L., & Summer, A., /The rise of the robot
+    reserve army: automation and the future of economic
+    development, work, and wages in developing countries/
+    (2018).
+    cite:schlogl:2018rise-automation
   - Woolf, V., A room of one's own (2004), : Penguin Books.
     cite:woolf:2004room
-  - Marx, K., Theories of surplus value (1968), : Progress Publishers.
-    cite:marx:1968surplus-value
