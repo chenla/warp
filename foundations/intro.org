@@ -15,6 +15,43 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[../index.org][up]]]
 
+#+begin_quote
+Let me pick up by way of the polis.  Socrates put it sharply when he
+explained his choice of suicide over exile to his afflicted friends;
+he pointed out that in his suicide, Athens committed suicide.  And we
+don't need the history of Athens to know he was right.  He wa right
+(and could not choose exile) because he had rested his case throughout
+his life on the identity of the citizen with the polis.  This is the
+truism, that the polis disappeared, but another possibility as been
+left out, that what we are dealing with is not its loss but a change
+in its size (and the omission of this possibility has played
+increasing hob with the individual & society since the 18th Century at
+least).  Socrated could circle Athens every day, he could speak for
+man because he could know all the men that mattered in the polis
+concept, yr own fellow city citizens.  In other words, the organism of
+society was actually knowable daily to the organism which also
+mattered, the individual.  Literally.
+
+The question, now is: what is our polis (even allowing that no such
+thing can be considered as possible to exist when such homogeneity as
+any Greek city was has been displaced by such heterogenity as modern
+cities and nations are)?  It is a point worth making, simply that it
+will expose the thinking of all community, cooperative, colony people,
+as well as false premises by which the present political-social System
+imposes itself on all of us.  I ask  what polis we have other than the
+very whole world?  It is truewe eac have extrications from it, suburbs
+of birth or jobs or passport rights or cultural allegiances etc. But
+in the actual fact of the reality of a society as society now bears on
+us, is it at all a bit smaller than the whole damn thing?
+
+— Charles Olson, Totality: The Methodology Is the Form (1952)
+  Intent, Vol.1 No.1, Spring 1989.
+  cite:olson:1989methodology-form
+#+end_quote
+
+
+
+
 * I. Foundations Introduction
 :PROPERTIES:
 :CUSTOM_ID:
