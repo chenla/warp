@@ -66,16 +66,17 @@ bibliography:../hoard/bib.bib
  - 05. [[./foundations/05/index.org][Nature of Order]]
  - 00. Life
  - 00. Biosphere
+ - 00. Savannah, Primates, Apes
  - 03. [[./foundations/03/index.org][Sapiens]]
+ - 00. Human Nature (limitations)
  - 02. [[./foundations/02/index.org][Mind]]
  - 01. [[./foundations/01/index.org][Mētis]]
- - 04. [[./foundations/04/index.org][Civilization]]
 
- - 00. Human Nature
+ - 04. [[./foundations/04/index.org][Civilization]]
  - 06. [[./foundations/06/index.org][Estrangement]]
  - 07. [[./foundations/07/index.org][Human Scale]]
 
- - 08. [[./foundations/08/index.org][Boundries]]
+ - 08. [[./foundations/08/index.org][Boundries]]  -- need to break up and add to different chapters
 
 ** Principles
  - [[./fdn-principles/index.org][Contents]]
