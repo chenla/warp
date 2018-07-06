@@ -51,7 +51,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 *** Points of View
 *** Frameworks
 *** Scaffords
-*** Components
+*** Extensions
 *** Methodologies
 *** Interfaces
 
