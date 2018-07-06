@@ -89,7 +89,7 @@ bibliography:../hoard/bib.bib
    - secular arguments for ethical stances
    - moral hazzard anti-pattern (eg. same as seatbelts)    
  - 00. Principles
-** II. Points of View
+** 02. Points of View
  - [[./02/index.org][Contents]]
  - [[./02/abstract.org][Abstract]]
  -[[./02/intro.org][ Introduction]]
@@ -105,7 +105,7 @@ bibliography:../hoard/bib.bib
  - 10. [[./02/10/index.org][Narrative]]
  - 11. [[./02/11/index.org][Propagation]]
  - 12. [[./02/12/index.org][Process]]
-** III. Frameworks
+** 03. Frameworks
  - [[./03/index.org][Contents]]
  - [[./03/abstract.org][Abstract]]
  - [[./03/intro.org][Introduction]]
@@ -115,7 +115,7 @@ bibliography:../hoard/bib.bib
  - 04. [[./03/04/index.org][Patterns]]
  - 05. [[./03/05/index.org][Standards]]
  - 06. [[./03/06/index.org][Legibility]]
-** IV. Scaffolds
+** 04. Scaffolds
  - [[./04/index.org][Contents]]
  - [[./04/abstract.org][Abstract]]
  - [[./04/intro.org][Introduction]]
@@ -127,7 +127,7 @@ bibliography:../hoard/bib.bib
  - 06. [[./04/06/index.org][Goldilocks-Thresholds]]
  - 07. [[./04/07/index.org][Hard Soft Wet]]
  - 08. [[./04/08/index.org][World Models]]
-** V. Components
+** 05. Extensions
  - [[./05/index.org][Contents]]
  - [[./05/abstract.org][Abstract]]
  - [[./05/intro.org][Introduction]]
@@ -142,7 +142,7 @@ bibliography:../hoard/bib.bib
  - 09. [[./05/09/index.org][Distribution]]
  - 10. [[./05/10/index.org][Succession]]
  - 11. [[./05/11/index.org][Infrastructure]]
-** VI. Methodologies
+** 06. Methodologies
  - [[./06/index.org][Contents]]
  - [[./06/intro.org][Introduction]]
  - [[./06/abstract.org][Abstract]]
@@ -154,19 +154,19 @@ bibliography:../hoard/bib.bib
  - 06. [[./06/06/index.org][Fabrication]]
  - 07. [[./06/06/index.org][Agency]] 
  - 08. [[./06/08/index.org][Iteration]]
-** VII. Interfaces
+** 07. Interfaces
  - [[./07/index.org][Contents]]
  - [[./07/abstract.org][Abstract]]
  - [[./07/intro.org][Introduction]]
 * Components
-** VIII. Heliosphere
+** 08. Heliosphere
  - [[./08/index.org][Contents]]
  - [[./08/abstract.org][Abstract]]
  - [[./08/intro.org][Introduction]]
  - 01. [[./08/01/index.org][Habitats]]
  - 02. [[./08/02/index.org][Heliosphere]]
  - 03. [[./08/03/index.org][Biospheres]]
-** IX. Origins
+** 09. Origins
  - [[./09/index.org][Contents]]
  - [[./09/abstract.org][Abstract]]
  - [[./09/intro.org][Introduction]]
@@ -174,7 +174,7 @@ bibliography:../hoard/bib.bib
  - 02. [[./09/02/index.org][Big History]]
  - 03. [[./09/03/index.org][Regimes]]
  - 04. [[./09/04/index.org][Stack]]
-** X. Lingua Franca
+** 10. Lingua Franca
  - [[./10/index.org][Contents]]
  - [[./10/abstract.org][Abstract]]
  - [[./10/index.org][Introduction]]
@@ -183,7 +183,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./10/04/index.org][Incantation]]
  - 04. [[./10/04/index.org][Interoperability]]
  - 05. [[./10/05/index.org][A Common Language]]
-** XI. Curriculum
+** 11. Curriculum
  - [[./11/index.org][Contents]]
  - [[./11/abstract.org][Abstract]]
  - [[./11/intro.org][Introduction]]
@@ -192,7 +192,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./11/03/index.org][Methods]]
  - 04. [[./11/04/index.org][Mastery]]
  - 05. [[./11/05/index.org][Curriculum]]
-** XII. Governance
+** 12. Governance
  -[[./12/index.org][ Contents]]
  - [[./12/abstract.org][Abstract]]
  - [[./12/intro.org][Introduction]]
@@ -204,7 +204,7 @@ bibliography:../hoard/bib.bib
  - 06. [[./12/06/index.org][Constitution]]
  - 07. [[./12/07/index.org][Statutes]]
  - 08. [[./12/08/index.org][Electoral System]]
-** XIII. Infrastructure
+** 13. Infrastructure
  - [[./13/index.org][Contents]]
  - Abstract
  - [[./13/intro.org][Introduction]]
@@ -217,7 +217,7 @@ bibliography:../hoard/bib.bib
  - 07. [[./13/07/index.org][Health]]
  - 08. [[./13/08/index.org][Cultural]]
  - 09. [[./13/09/index.org][Individual]]
-** XIV. Economy
+** 14. Economy
  - [[./14/index.org][Contents]]
  - [[./14/abstract.org][Abstract]]
  - [[./14/intro.org][Introduction]]
@@ -234,7 +234,7 @@ bibliography:../hoard/bib.bib
  - 00. Commerce
  - 00. Consumption
  - 00. Recycling
-** XV. Culture
+** 15. Culture
  - [[./15/index.org][Contents]]
  - [[./15/abstract.org][Abstract]]
  - [[./15/intro.org][Introduction]]
@@ -244,7 +244,7 @@ bibliography:../hoard/bib.bib
  - 00. Memory
  - 00. Commons
  - 00. Continuity
-** XXI. Canon
+** 16. Canon
  - [[./21/index.org][Contents]]
  - [[./21/abstract.org][Abstract]]
  - [[./21/intro.org][Introduction]] 
@@ -256,13 +256,13 @@ bibliography:../hoard/bib.bib
 
   - epic narrative?
   - 
-** XXII. Origin Story
+** 17. Origin Story
  - [[./22/index.org][Contents]]
  - [[./22/abstract.org][Abstract]]
  - [[./22/intro.org][Introduction]]
 
  - Parables
-** XXIII. Archetypes
+** 23. Archetypes
  - [[./23/index.org][Contents]]
  - [[./23/abstract.org][Abstract]]
  - [[./23/intro.org][Introduction]]
@@ -270,7 +270,7 @@ bibliography:../hoard/bib.bib
  - 00. Events
  - 00. Figures
  - 00. Motifs
-** XXIV. Time
+** 24. Time
  - [[./24/index.org][Contents]]
  - [[./24/abstract.org][Abstract]]
  - [[./24/intro.org][Introduction]]
@@ -288,7 +288,7 @@ bibliography:../hoard/bib.bib
    - Years
  - Epochs
 
-** XXV. Calendar
+** 25. Calendar
  - [[./25/index.org][Contents]]
  - [[./25/abstract.org][Abstract]]
  - [[./25/intro.org][Introduction]]
@@ -300,10 +300,10 @@ bibliography:../hoard/bib.bib
  - 00. Seasons & Microseasons
  - 00. Festivals
 
-** XXVI. Space
+** 26. Space
  - euclidean, cartesian, hilbert
  - distances and time-to-destination (propagation)
-** XXVII. Maps
+** 27. Maps
  - [[./27/index.org][Contents]]
  - [[./27/abstract.org][Abstract]]
  - [[./27/intro.org][Introduction]]
@@ -314,13 +314,13 @@ bibliography:../hoard/bib.bib
  - 00. Metaphors
  - 00. Interoperability
  - 00. Territories
-** XXVIII. Population
+** 28. Population
  - [[./28/index.org][Contents]]
  - [[./28/abstract.org][Abstract]]
  - [[./28/intro.org][Introduction]]
  - Growth
  - Standard of Living
-** XXIX. Stages of Life
+** 29. Stages of Life
  - Contents
  - Abstract
  - Introduction
@@ -329,8 +329,8 @@ bibliography:../hoard/bib.bib
  - adulthood
  - old age
 
-**      Standard of Living
-** XXX. Family
+** 00. Standard of Living
+** 30. Family
  - [[./30/index.org][Contents]]
  - [[./30/abstract.org][Abstract]]
  - [[./30/intro.org][Introduction]] 
@@ -340,27 +340,27 @@ bibliography:../hoard/bib.bib
  - 00. Divorce
  - 00. Family
  - 00. Family Structures
-** XXXI. Tribe
+** 31. Tribe
  - Territorial
-**      Home
-** XXXII. Commerce
-** XXXIII. Work
-** XXXIV. Place
-** XXXV. Commerce
-** XXXVI. Polis
+** 00. Home
+** 32. Commerce
+** 33. Work
+** 34. Place
+** 35. Commerce
+** 36. Polis
 * Assembly
-** XVI. Branches
+** 16. Branches
  - [[./16/index.org][Contents]]
  - [[./16/abtract.org][Abstract]]
  - [[./16/intro.org][Introduction]]
  - 00. Middle
  - 00. Culture
  - 00. Scope
-** XVII. Stages
+** 17. Stages
  - [[./17/index.org][Contents]]
  - [[./17/abstract.org][Abstract]]
  - [[./17/intro.org][Introduction]]
-** XVIII. Provisioning
+** 18. Provisioning
  - [[./18/index.org][Contents]]
  - [[./18/abstract.org][Abstract]]
  - [[./18/intro.org][Introduction]]
@@ -370,12 +370,12 @@ bibliography:../hoard/bib.bib
  - 04. [[./18/04/index.org][The OS]]
  - 05. [[./18/05/index.org][Arc]]
  - 06. Toolchain
-** XIX. Scenarios
+** 19. Scenarios
  - Contents
  - Abstract
  - Introduction
  - 00. [[./19/ww-scenarios.org][Scenarios]]
-** XX. Window
+** 20. Window
  - [[./20/index.org][Contents]]
  - Abstract
  - [[./17/intro.org][Introduction]]
