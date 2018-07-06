@@ -37,7 +37,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - [[./auto-eco.org][Automation Economics]]
  - [[./spanners.org][Spanners]]  (On the Horizon; Space, Genetics and Life Extension)
  - [[./window.org][Fifty Year Window]] 
-*** Cantos
+*** Natures
  - 01. [[./01/index.org][Metis > Episteme]]
  - 02. [[./02/index.org][Mind]]
  - 03. [[./03/index.org][Sapiens]]
@@ -46,6 +46,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 06. [[./06/index.org][Estrangement]]
  - 07. [[./07/index.org][Human Scale]]
  - 08. [[./08/index.org][Boundries]]
+*** Principles
  - 09. [[./09/index.org][Principles]]
-
+*** Points of View
+*** Frameworks
+*** Scaffords
+*** Components
+*** Methodologies
+*** Interfaces
 
