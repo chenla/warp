@@ -58,7 +58,6 @@ bibliography:../hoard/bib.bib
  - [[./foundations/abstract.org][Abstract]]
  - [[./foundations/intro.org][Introduction]]
  - [[./foundations/window.org][Fifty-Year Window]]
-
 ** Natures
  - Contents
  - Abstract
@@ -137,7 +136,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./05/03/index.org][Polis]]
  - 04. [[./05/04/index.org][Tools]]
  - 05. [[./05/05/index.org][Machines]]
- - 06. [[./05/06/index.org][Energy]]
+ - 06. [[./05/06/index.org][Energy]] (Fire)
  - 07. [[./05/07/index.org][Structures]]
  - 08. [[./05/08/index.org][Surpluses]]
  - 09. [[./05/09/index.org][Distribution]]
@@ -245,49 +244,6 @@ bibliography:../hoard/bib.bib
  - 00. Memory
  - 00. Commons
  - 00. Continuity
-* Assembly
-** XVI. Branches
- - [[./16/index.org][Contents]]
- - [[./16/abtract.org][Abstract]]
- - [[./16/intro.org][Introduction]]
- - 00. Middle
- - 00. Culture
- - 00. Scope
-** XVII. Stages
- - [[./17/index.org][Contents]]
- - [[./17/abstract.org][Abstract]]
- - [[./17/intro.org][Introduction]]
-** XVIII. Provisioning
- - [[./18/index.org][Contents]]
- - [[./18/abstract.org][Abstract]]
- - [[./18/intro.org][Introduction]]
- - 01. [[./18/01/index.org][APPL]]
- - 02. [[./18/02/index.org][Hoard]]
- - 03. [[./18/03/index.org][Primer]]
- - 04. [[./18/04/index.org][The OS]]
- - 05. [[./18/05/index.org][Arc]]
- - 06. Toolchain
-** XIX. Scenarios
- - Contents
- - Abstract
- - Introduction
- - 00. [[./19/ww-scenarios.org][Scenarios]]
-** XX. Window
- - [[./20/index.org][Contents]]
- - Abstract
- - [[./17/intro.org][Introduction]]
- - 00. Inevitibility
- - 00. Milestones
- - 00. Threats
- - 00. Setbacks
- - 00. Canaries
- - 00. Boundries
- - 00. Metrics
- - 00. Models
- - 00. [[./17/ww-window.org][Window]]
- - 00. [[./17/ww-roadmap.org][Roadmap]]
-
-* Narratives
 ** XXI. Canon
  - [[./21/index.org][Contents]]
  - [[./21/abstract.org][Abstract]]
@@ -358,7 +314,6 @@ bibliography:../hoard/bib.bib
  - 00. Metaphors
  - 00. Interoperability
  - 00. Territories
-* Everyday Life
 ** XXVIII. Population
  - [[./28/index.org][Contents]]
  - [[./28/abstract.org][Abstract]]
@@ -375,9 +330,6 @@ bibliography:../hoard/bib.bib
  - old age
 
 **      Standard of Living
-
-
-
 ** XXX. Family
  - [[./30/index.org][Contents]]
  - [[./30/abstract.org][Abstract]]
@@ -396,6 +348,47 @@ bibliography:../hoard/bib.bib
 ** XXXIV. Place
 ** XXXV. Commerce
 ** XXXVI. Polis
+* Assembly
+** XVI. Branches
+ - [[./16/index.org][Contents]]
+ - [[./16/abtract.org][Abstract]]
+ - [[./16/intro.org][Introduction]]
+ - 00. Middle
+ - 00. Culture
+ - 00. Scope
+** XVII. Stages
+ - [[./17/index.org][Contents]]
+ - [[./17/abstract.org][Abstract]]
+ - [[./17/intro.org][Introduction]]
+** XVIII. Provisioning
+ - [[./18/index.org][Contents]]
+ - [[./18/abstract.org][Abstract]]
+ - [[./18/intro.org][Introduction]]
+ - 01. [[./18/01/index.org][APPL]]
+ - 02. [[./18/02/index.org][Hoard]]
+ - 03. [[./18/03/index.org][Primer]]
+ - 04. [[./18/04/index.org][The OS]]
+ - 05. [[./18/05/index.org][Arc]]
+ - 06. Toolchain
+** XIX. Scenarios
+ - Contents
+ - Abstract
+ - Introduction
+ - 00. [[./19/ww-scenarios.org][Scenarios]]
+** XX. Window
+ - [[./20/index.org][Contents]]
+ - Abstract
+ - [[./17/intro.org][Introduction]]
+ - 00. Inevitibility
+ - 00. Milestones
+ - 00. Threats
+ - 00. Setbacks
+ - 00. Canaries
+ - 00. Boundries
+ - 00. Metrics
+ - 00. Models
+ - 00. [[./17/ww-window.org][Window]]
+ - 00. [[./17/ww-roadmap.org][Roadmap]]
 * Back Matter 
  - Appendix
    - W&W meta
