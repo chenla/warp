@@ -50,7 +50,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - 09. [[./09/index.org][Principles]]
 *** Points of View
 *** Frameworks
-*** Scaffords
+*** Scaffolds
 *** Extensions
 *** Methodologies
 *** Interfaces
