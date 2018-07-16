@@ -183,6 +183,18 @@ bibliography:../hoard/bib.bib
  - 03. [[./10/04/index.org][Incantation]]
  - 04. [[./10/04/index.org][Interoperability]]
  - 05. [[./10/05/index.org][A Common Language]]
+** Horcrux
+
+The document manifests in many guises, as scroll, codex, web
+page or ebook.  But in every case its primacy is
+unchallenged.  Documents reflect how our brains process
+information, both as a linear narrative and a hierarchical
+structure.
+
+
+
+
+
 ** 11. Curriculum
  - [[./11/index.org][Contents]]
  - [[./11/abstract.org][Abstract]]
