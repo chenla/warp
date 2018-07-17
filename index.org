@@ -185,14 +185,35 @@ bibliography:../hoard/bib.bib
  - 05. [[./10/05/index.org][A Common Language]]
 ** Horcrux
 
-The document manifests in many guises, as scroll, codex, web
-page or ebook.  But in every case its primacy is
+The document manifests in many guises: as scroll, codex, web
+page, or ebook.  But in every case its primacy is
 unchallenged.  Documents reflect how our brains process
 information, both as a linear narrative and a hierarchical
 structure.
 
+In all their manifestations a document is externalized shard
+of the mind/s that created it.  And since a document can
+exist outside of and independent of the mind, that part of
+mind is imortal, so long as a copy exists.
 
+The web as blured this understanding -- with
+web-applications replacing web pages, or collections of
+pages into web sites.
 
+We need to reclaim the document and put it back where it
+belongs, as a natural extension and externalization of mind,
+which can gracefully degrade, be serialized in countless
+encodings and recorded on countless types of physical media.
+
+ But documents are not simply extensions and externalizations
+of memories, they allow us to offload and extend information
+from working, medium term and long memory.  In this way,
+documents are a an extension and externalization of
+cognition.
+
+Jupyter Notebooks and Org Babel make it possible to combine
+both narrative text and running code in documents in what is
+called literate computing.
 
 
 ** 11. Curriculum
