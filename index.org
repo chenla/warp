@@ -183,7 +183,7 @@ bibliography:../hoard/bib.bib
  - 03. [[./10/04/index.org][Incantation]]
  - 04. [[./10/04/index.org][Interoperability]]
  - 05. [[./10/05/index.org][A Common Language]]
-** Horcrux
+** XX. Horcrux
 
 The document manifests in many guises: as scroll, codex, web
 page, or ebook.  But in every case its primacy is
@@ -214,6 +214,15 @@ cognition.
 Jupyter Notebooks and Org Babel make it possible to combine
 both narrative text and running code in documents in what is
 called literate computing.
+
+** XX. Force
+
+The threat of physical force underpins pretty much all of
+nature.  Predation goes to the core of all ecosystems,
+living things feed off of each other, with a base layer of
+living things that purely transmute the elements, light and
+heat into living matter.  Each layer of complexity feeds off
+of the layer below it.
 
 
 ** 11. Curriculum
