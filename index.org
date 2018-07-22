@@ -215,6 +215,23 @@ Jupyter Notebooks and Org Babel make it possible to combine
 both narrative text and running code in documents in what is
 called literate computing.
 
+---
+
+We think of documents as immutable objects -- physical
+media; a paper book, magazine or newspaper, a pdf or epub
+file.  This is largely a good thing, because an immutable
+object is an exact copy, it can be transported, transfered
+to another person, locked up in a box etc.
+
+
+So let's rethink the document as a stack:
+
+
+
+
+
+
+
 ** XX. Force
 
 The threat of physical force underpins pretty much all of
