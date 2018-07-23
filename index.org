@@ -205,11 +205,10 @@ belongs, as a natural extension and externalization of mind,
 which can gracefully degrade, be serialized in countless
 encodings and recorded on countless types of physical media.
 
- But documents are not simply extensions and externalizations
+But documents are not simply extensions and externalizations
 of memories, they allow us to offload and extend information
 from working, medium term and long memory.  In this way,
-documents are a an extension and externalization of
-cognition.
+documents are an extension and externalization of cognition.
 
 Jupyter Notebooks and Org Babel make it possible to combine
 both narrative text and running code in documents in what is
@@ -223,6 +222,52 @@ file.  This is largely a good thing, because an immutable
 object is an exact copy, it can be transported, transfered
 to another person, locked up in a box etc.
 
+But there are other things we could do with documents.  They
+could be dynamic, as in =literate computing=, where code runs
+in the document that can accept manual input or pull in live
+streaming data from outside sources that dynamically update
+the document.  We could then flip this so that code in the
+document makes changes and runs things elsewhere as in
+=literate DevOps=.
+
+Last night I was reading a new term =GitOps= which uses push
+and merge requests to trigger testing and deployment
+pipelines as part of =continuous integration=.
+
+We can also create hierarchical libraries of documents which
+inherit properties from other documents.  A book can be
+thought of in this way, if each chapter is considered to
+also be a stand-alone document.
+
+We do this using a CSS-like cascading model of inheritance,
+where properties are set and inherited be those underneath
+it in the hierarchy unless it is explicitly (and-or
+conditionally) overridden locally.
+
+This is an especially powerful model because you can take a
+document and plug it into different hierarchies that provide
+different contexts.  Say you have a personal context at your
+desk that includes all of your notes, contacts, messages and
+personal library of documents.  You then want to present it
+at a meeting.  So you take the document to the meeting, plug
+in the document into the meeting context and each person in
+the meeting is able to see a group context, as well as plug
+it into their personal context at the same time.  Each
+person can then share context from their personl context and
+it becomes part of the group context.
+
+Now let's expand the concept of the reader.  We assume that
+documents have human readers, but over the next few years AI
+systems will read and interact with documents as well.  So
+we need documents that can be both human understandable, as
+hierarchical linear narratives that are made up of text,
+binary images, tables of data and live code.  But at the
+same time, the document is also represented as a Quad Store
+(triples + provenance) which is machine understandable.
+
+In this way, you AI personal assistant will not only respond
+to commands, but understand and interactively collaborate
+with documents.
 
 So let's rethink the document as a stack:
 
