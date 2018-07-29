@@ -265,14 +265,20 @@ binary images, tables of data and live code.  But at the
 same time, the document is also represented as a Quad Store
 (triples + provenance) which is machine understandable.
 
-In this way, you AI personal assistant will not only respond
+In this way, your AI personal assistant will not only respond
 to commands, but understand and interactively collaborate
 with documents.
 
 So let's rethink the document as a stack:
 
 
-
+  - Human Consumer format -- html
+  - Machine Consumer format -- QuadStore
+  - Source -- Org syntax
+  - -------------------------------------
+  - index -- graph db -- 
+  - 
+  
 
 
 
