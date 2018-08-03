@@ -40,7 +40,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 A massive linear narrative text is not the only way to
 go. We could combine APL with the Whole Earth Catalog?
 
-The TL;DRs could provide threads that pull the different
+The tl;dr's could provide threads that pull the different
 pieces together with each piece a stand-alone chunk of text.
 
 So in the print version each part of w&w has a tl;dr
@@ -54,7 +54,7 @@ thematic chunks of the narrative but something more
 organic.  Tell the story and then the rest is digging
 deeper, tell, show and teach; tell, show and teach.
 
-We back everything up with real world projects, that test
+We back everything up with real world projects that test
 and demonstrate ideas.  Patreons are supporting this as well
 as the published Cantos.
 
@@ -64,6 +64,13 @@ editions.  Electronically it all goes online....
 To make this work we need high level organizational
 structures for people to understand how it all fits together
 -- that's where the Pace-Layer model comes into play.
+
+Ideally we want to do the print version on bamboo paper
+printed locally.  I want each one to be a work of art.  How
+fine-grained can a CNC router cut?  Fine enough to cut
+letterpress?
+
+
 
 
 #+begin_quote
