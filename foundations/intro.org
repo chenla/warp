@@ -26,16 +26,44 @@ bibliography:~/proj/chenla/hoard/bib.bib
   |          |         +----------------+
   | NATURE   |         | CULTURE        |
   |          +---------+----------------+
-  |          |        BIOS              | 
+  |          |          BIOS            | 
   |          +---------+----------------+
-  |          |       LITHOS             |
+  |          |         LITHOS           |
   |          +---------+----------------+
-  |          |       HELIOS             |
+  |          |         HELIOS           |
   |          +---------+----------------+ 
-  |          |       COSMOS             |  
+  |          |         COSMOS           |  
   +----------+---------+----------------+
 
 
+
+A massive linear narrative text is not the only way to
+go. We could combine APL with the Whole Earth Catalog?
+
+The TL;DRs could provide threads that pull the different
+pieces together with each piece a stand-alone chunk of text.
+
+So in the print version each part of w&w has a tl;dr
+followed by all the stand alone sections.  And treat the
+stand-alones like a kind of Whole Earth. Mix concepts,
+patterns, parameters, designs, stories and prescriptions
+together.
+
+We release them as Cantos -- so Cantos are no longer
+thematic chunks of the narrative but something more
+organic.  Tell the story and then the rest is digging
+deeper, tell, show and teach; tell, show and teach.
+
+We back everything up with real world projects, that test
+and demonstrate ideas.  Patreons are supporting this as well
+as the published Cantos.
+
+Each Canto is released to Patreons first as dead tree
+editions.  Electronically it all goes online.... 
+
+To make this work we need high level organizational
+structures for people to understand how it all fits together
+-- that's where the Pace-Layer model comes into play.
 
 
 #+begin_quote
