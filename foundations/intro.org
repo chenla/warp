@@ -15,6 +15,29 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[./index.org][up]]] 
 
+  +----------+---------+----------------+
+  |          |         | FASHION        |
+  |          |         +----------------+  
+  |          |         | COMMERCE       |
+  |          |         +----------------+
+  |          | ANTHROS | INFRASTRUCTURE | 
+  |          |         +----------------+
+  |          |         | GOVERNANCE     |
+  |          |         +----------------+
+  | NATURE   |         | CULTURE        |
+  |          +---------+----------------+
+  |          |        BIOS              | 
+  |          +---------+----------------+
+  |          |       LITHOS             |
+  |          +---------+----------------+
+  |          |       HELIOS             |
+  |          +---------+----------------+ 
+  |          |       COSMOS             |  
+  +----------+---------+----------------+
+
+
+
+
 #+begin_quote
 Let me pick up by way of the polis.  Socrates put it sharply
 when he explained his choice of suicide over exile to his
