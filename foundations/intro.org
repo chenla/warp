@@ -38,7 +38,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 A massive linear narrative text is not the only way to
-go. We could combine APL with the Whole Earth Catalog?
+go.  It's too big, too dense -- too fucking much to fit in
+your head in anything less than a couple of years.  So we
+need to ease people into it, let them enter where they want
+and when they want and however they approach it, the yellow
+brick road will always arrive in Oz.
+
+We could combine APL with the Whole Earth Catalog?
 
 The tl;dr's could provide threads that pull the different
 pieces together with each piece a stand-alone chunk of text.
@@ -69,6 +75,8 @@ Ideally we want to do the print version on bamboo paper
 printed locally.  I want each one to be a work of art.  How
 fine-grained can a CNC router cut?  Fine enough to cut
 letterpress?
+
+SEE: http://www.briarpress.org/39804
 
 
 
