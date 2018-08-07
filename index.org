@@ -22,7 +22,7 @@ bibliography:../hoard/bib.bib
 :RESULTS:
 | dir  |  words | pages |
 |------+--------+-------|
-| warp | 179018 |   716 |
+| warp | 180966 |   723 |
 :END:
 
 [top]
