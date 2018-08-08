@@ -32,6 +32,25 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 ** TL;DR
+
+My original idea was to use pace-layers as the primary
+organizational scaffolds for w&w.  Then it all drifted into
+being a massive linear narrative -- too massive.  the whole
+fucking thing is too complex on two many levels to be a
+long-form linear narrative.  So let's return to a looser
+framework that combines sort of a whole earth catalog
+approach with the oringal loose-leaf binder concept behind
+APL.
+
+Cantos are no longer narratives -- but rather an
+introductory essay that provides a narrative and then a
+mashup of supporting patterns, parameters, events, people
+etc that create a kind of map for the introduction -- that
+taken together is a whole, though many of the different
+parts might also belong to other Cantos (tho at different
+LOD/POV etc.)
+
+
 ** References
 
 
