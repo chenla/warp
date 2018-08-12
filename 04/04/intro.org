@@ -30,6 +30,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Licence:  MIT/CC BY-SA 4.0
 :END:
 
+You really have to chew on pace-layers for a good long while
+before it starts to percolate into the synapses.
+
+In one sense pace-layers are all about finding your place,
+knowing where you are in relation to which direction the
+wind is blowing.  Close your eyes and attenuate -- let
+things seep in through the souls of your feet, like
+elephants /hearing/ the deep slow booming rhythm in the
+ground beneath them.
+
 
 #+begin_comment
 Questions:
@@ -163,7 +173,7 @@ passions, as it was felt, described, and lived by
 contemporaries whose lives were as short and as
 short-sighted as ours. It has the dimensions of their anger,
 dreams, or illusions. In the sixteenth century, after the
-true Renaissance, came the Renaissance ofthe poor, the
+true Renaissance, came the Renaissance of the poor, the
 humble, eager to write, to talk of themselves and of
 others. This 'precious mass of paper distorts, filling up
 the lost hours and assuming a false importance. The
@@ -263,5 +273,3 @@ even centuries later.
     saffo’s conversation at the interval, recap and full
     audio/ (2015).
     cite:em:2015pace-layer-thinkers
-
-
