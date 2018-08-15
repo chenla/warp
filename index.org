@@ -444,12 +444,21 @@ money is nearline, and information is often offline.
 So back to my question -- how does physical force chunk into
 symbolic power -- money.  Money is exchanged for the
 resources that are needed to inflict force -- food, shelter,
-weapons, intelligence etc.
+weapons, intelligence etc. So you are chunking potential
+energy that can be converted indirectly into force.
 
 I've always liked the idea of the volunteer fire department
 -- it is the closest you can come to maintaining kinetic
 force as potential force.  Instead of people waiting around
 they are engaged in other, unreleated activities.
+
+In our toy model civilization Culture is information, Middle
+is money and SC is force -- though SC always leverages
+information and money before resorting to force.
+
+The bottom line is that there is no real power unless you
+have resources that can be converted to or backed up by
+physical force.
 
 
 ** 11. Curriculum
