@@ -324,6 +324,50 @@ Fuchs stole nuclear secrets).
 — Powershift cite:toffler:1990power :p30
 #+end_quote
 
+#+begin_quote
+Power comes in varying grades, and some power is decidedly
+low in octane. In the fierce struggles soon to sweep through
+our schools, hospitals, businesses, trade unions, and
+governments, those who understand "quality" will gain a
+strategic edge.
+
+No one doubts that violence—embodied in a mugger's
+switchblade or a nuclear missile—can yield awesome results.
+The shadow of violence or force, embedded in the law, stands
+behind every act of government, and in the end every
+government relies on soldiers and police to enforce its
+will. This ever-present and necessary threat of official
+violence in society helps keep the system operating, making
+ordinary business contracts enforceable, reducing crime,
+providing machinery for the peaceful settlement of
+disputes. In this paradoxical sense, it is the veiled threat
+of violence that helps make daily life nonviolent.  But
+violence in general suffers from important drawbacks.  To
+begin with, it encourages us to carry a can of Mace, or to
+crank up an arms race that increases risks to everyone. Even
+when it "works," violence produces resistance. Its victims
+or their survivors look for the first chance to strike back.
+The main weakness of brute force or violence, however, is
+its sheer inflexibility. It can only be used to punish. It
+is, in short, low-quality power.
+
+Wealth, by contrast, is a far better tool of power. A fat
+wallet is much more versatile. Instead of just threatening
+or delivering punishment, it can also offer finely graded
+rewards— payments and payoffs, in cash or kind. Wealth can
+be used in either a positive or a negative way. It is,
+therefore, much more flexible than force. Wealth yields
+medium-quality power.  The highest-quality power, however,
+comes from the application of knowledge. Actor Sean Connery,
+in a movie set in Cuba during the reign of the dictator
+Batista, plays a British mercenary. In one memorable scene
+the tyrant's military chief says: "Major, tell what your
+favorite weapon is, and I'll get it for you." To which
+Connery replies: "Brains."
+
+— Powershift cite:toffler:1990power :p32
+#+end_quote
+
 The threat of physical force underpins pretty much all of
 nature.  Predation goes to the core of all ecosystems,
 living things feed off of each other, with a base layer of
@@ -376,6 +420,37 @@ reltionships in which is mututally benificial.  Perhaps you
 can trade information for force.  Information is far more
 flexible a tool than force, and those with force need that
 flexiblility to maintain control of their domain.
+
+---
+
+If hierarchy == chunking -- then what about Toffler's three
+grades of power?  Information is an abstraction of symbolic
+wealth -- wealth as in goods and resources that hold value.
+Money then becomes a kind of battery of potential
+eergy/force -- a rock at the top of a hill.  Force is
+kinetic, in the process of being expended.  To maintain the
+threat of violence one must have active agents and resources
+which can be deployed at any time -- police, soldiers,
+weapons, battlements and barbed wire.  This is very
+expensive to maintain.  Anyone who has served in the
+military or on the set of a movie being filmed know that
+most of your time is sitting around, with brief bursts of
+activity and terror.  For every minute spent between the
+director calling "action" and then "cut" there are tens of
+minutes sitting around waiting for lights and cameras to be
+moved or changes in wardrobe and makeup..  Force is online,
+money is nearline, and information is often offline.
+
+So back to my question -- how does physical force chunk into
+symbolic power -- money.  Money is exchanged for the
+resources that are needed to inflict force -- food, shelter,
+weapons, intelligence etc.
+
+I've always liked the idea of the volunteer fire department
+-- it is the closest you can come to maintaining kinetic
+force as potential force.  Instead of people waiting around
+they are engaged in other, unreleated activities.
+
 
 ** 11. Curriculum
  - [[./11/index.org][Contents]]
