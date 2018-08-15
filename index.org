@@ -285,6 +285,45 @@ So let's rethink the document as a stack:
 
 ** XX. Force
 
+#+begin_quote
+Yet among the numberless possibilities, the three sources of
+power symbolized in the western movie—violence, wealth, and
+knowledge—turn out to be most important. Each takes many
+different forms in power play. Violence, for example, need not
+be actual; the threat of its use is often enough to bring
+compliance. The threat of violence can also lurk behind the
+law. (We use the term violence in these pages in a figurative,
+rather than literal, sense—to include force as well as physical
+coercion.)
+
+Indeed, not only modern movies but also ancient myths
+support the view that violence, wealth, and knowledge are
+the ultimate sources of social power. Thus Japanese legend
+tells of sanshu no jingi—the three sacred objects given to
+the great sun goddess, Amaterasu-omi-kami—which to this day
+are still the symbols of imperial power. These are the
+sword, the jewel, and the mirror.
+
+The power implications of sword and jewel are clear enough;
+the mirror's, a bit less so. But the mirror, in which
+Amaterasu-omi- kami saw her own visage—or gained knowledge
+of herself— also reflects power. It came to symbolize her
+divinity, but it is not unreasonable to regard it as a
+symbol of imagination, consciousness, and knowledge as well.
+
+Furthermore, the sword or muscle, the jewel or money, and
+the mirror or mind together form a single interactive
+system.  Under certain conditions each can be converted int
+o the other. A gun can get you money or can force secret
+information from the lips of a victim. Money can buy you
+information—or a gun.  Information can be used to increase
+either the money available to you (as Ivan Boesky knew) or
+to multiply the force at your command (which is why Klaus
+Fuchs stole nuclear secrets).
+
+— Powershift cite:toffler:1990power :p30
+#+end_quote
+
 The threat of physical force underpins pretty much all of
 nature.  Predation goes to the core of all ecosystems,
 living things feed off of each other, with a base layer of
