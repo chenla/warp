@@ -460,6 +460,24 @@ The bottom line is that there is no real power unless you
 have resources that can be converted to or backed up by
 physical force.
 
+---
+
+So how can we use the volunteer fire department model as a
+core part infrastructure?  Will automation and augmentation
+give people enough of an edge to replace full time expertise
+with part time comptency?  Can telepresence be leveraged to
+bring in specialists on a just-in-time basis that together
+with part-timers with experience can replace many of these
+power structures?  Fire, Police, Military etc.  In small
+towns, of course, because that's what's there now, or at
+least was there up till recently.
+
+At national scales there is the concept of the national
+guard, and if we employ ideas from Mollison and Alexandar we
+could do it in large urban areas as well. 
+
+This doesnt' answer my question -- but it's important all
+the same.....
 
 ** 11. Curriculum
  - [[./11/index.org][Contents]]
