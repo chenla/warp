@@ -54,6 +54,64 @@ This is actually what I was trying to get at with the TL;DR
 idea but was thinking of them at that time as being sidebar
 rabbit-holes.  The whole earth approach is far better.
 
+---
+
+Whole Earth was organized around half a dozen or so major
+themes that tied together each section and worked well.
+Since w&w will be multi-volume each volume should be a
+keystone concept that is then broken into several sections.
+
+I've been thinking about making the first volume about
+pace-layers but I'm coming to the conclusion that this would
+not be digging deep enough.  What may work is the idea of
+"propagation" of information which pace-layers is built on
+top of.  Pace-layers, as originally laid out by Brand was
+about ROC, but ROC is only one aspect of what is really
+going on -- wwe must include how that change propagates both
+through space, time and vertically to higher and lower
+layers.
+
+This gives us a far more nuanced model -- becuase the faster
+the rate of change, the less stable it is, but also, the
+faster that those changes propagate.  The slower the ROC the
+slower the propagation -- at least that's what you'd think
+is the case -- is it actually true?  Is the pace of change
+correspond to the speed at which it propagates?  No.  The
+network layer -- the layer in the protocol stack that moves
+information is limited by physical laws -- the ultimate
+brake is the speed of light.  So at short distances the
+speed of light is effectively instantaneous -- so
+information propagates instantly irrespective of it's rate
+of change.  But as distance increases, this no longer holds.
+Most information does not travel at the speed of light.
+
+When you go to see a live rocket launch in person,
+spectators are kept at a considerable distance for safety
+reasons.  Rockets tend to be rather large affairs -- with
+most rockets today (circa 2018) being about the size of the
+twenty storey building.  So even if you are several
+kilometers away the rocket is easy to see.  When the rocket
+first ignites and begins to take off, there is no sound.
+That takes a few seconds longer for the sound and vibrations
+to reach you.  And other things take still further.  Smoke
+and ash from a volcano would arrive after seeing the
+eruption and then hearing it.
+
+This is not a bad way of thinking about pace-layers -- but
+it might be more useful to not think of layers as a curved
+stack as in Stewart Brand's diagram, but as layers in an
+onion -- where each layer is like the surface of a puddle in
+the rain with drops impacting the puddle creating concentric
+waves of rings that collide, combine and merge with those of
+other drops with the magnitude of the ripples decreasing the
+further they get from the center of impact.
+
+Changes, both large and small might take place anywhere and
+changes will eventually propagate over the entire surface of
+the sphere.
+
+
+
 
 
 ** References
