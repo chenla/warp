@@ -77,6 +77,8 @@ bibliography:../hoard/bib.bib
 
  - 08. [[./foundations/08/index.org][Boundries]]  -- need to break up and add to different chapters
 
+ - [[./strawberries.org][strawberries]] — notes
+
 ** Principles
  - [[./fdn-principles/index.org][Contents]]
  - [[./fdn-principles/abstract.org][Abstract]]

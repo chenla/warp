@@ -1,0 +1,131 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Strawberries 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Strawberries
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/strawberries.org
+  :Created:   2018-08-18T17:48@Prek Leap (11.642600N-104.919210W)
+  :ID:        5fb11d4b-4e79-4dd1-9331-015ddb3931c4
+  :VER:       587861371.536395623
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:JYT5-4201
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Generation
+
+At the moment automation still hasn't gotten that much further away
+from Henry Ford's assembly line as might be supposed.
+
+General AI is not interesting to me -- but intelligence that makes
+possible autonomous self-determination in carrying out tasks is.
+
+Let's take an example -- say you have a strawberry bed that produces
+enough strawberries for fresh consumption, processing into jams,
+jellies and preserves and as fresh produce sold to a local or even
+distant market.
+
+Each of these use cases determines how you time when you pick harvest,
+what you harvest and then what you immediately do with that harvest
+after it has been picked.
+
+If I had a strawberry picking robot I might tell it to go out and pick
+strawberries to eat at breakfast in the morning.  Or perhaps
+strawberries as a topping on icecream as a desert after dinner.  If
+you are going to consume the berries within minutes of their being
+eaten the robot would look for the most ripe and sweetest berries.
+These same berries would be no good for sale to a distant market
+because by the time they get to market, then sold and then taken to
+the buyier's home to be eaten they will have spoiled.  Perhaps the
+robot will be tasked with picking and sorting for multiple use cases
+at the same time -- pulling out the most ripe and sweet and attractive
+to be eated fresh, then other berries that are very ripe but not so
+attractive that would be suitible for home processing, and then
+finally berries that are just turning ripe and will be ready to eat
+after a few days which provides the time for them to make it to market
+and be sold when they are ready to be eaten.
+
+There is no single way to accomplish this scenario.  Indeed you can't
+even create proceedural routines for each usecase -- because
+temperature, rainfall, how sunny or cloudy the day is, the market
+price of strawberries projected for the next week, how many people
+will be eating strawberries for breakfast -- or if guests might be
+coming over for dinner or not, are all things that the robot would
+need to know and make allowances for.
+
+One approach would be to try and replicate human intelligence which
+has a collection of cognitive tools and memories that would do this
+well.  But the other way is to provide the robot with a collection of
+generative grammers that are combined with rulesets that tell the
+robot what it should attempt to do.  The rule sets would be based on
+use-case patterns.  So they are not proscriptive rules, so much as
+indicate a range of different possible conditions and outcomes that
+could be combined in different ways to achieve the set goal.  So there
+is no one way to get the job done -- but rather the patterns act like
+a theme in BeBop, that provides a structural range that the musician
+improvises within.
+
+Different observations by the robot would trigger recognition of
+different patterns.  By combining patterns in the field, the robot can
+then make choices about which berries to pick today, and how to sort
+what is picked that fulfill the objectives that it was given the night
+before.
+
+
+** Christopher Alexander Presentation
+
+  - https://www.dreamsongs.com/Files/AlexanderPresentation.pdf
+
+** The Bead Game: Herman Hesse
+
+#+begin_quote
+
+The Bead Game Conjecture
+
+That it is possible to invent a unifying concept of structure within
+which all the various concepts of structure now current in different
+fields of art and science, can be seen from a single point of
+view. This conjecture is not new. In one form or another people have
+been wondering about it, as long as they have been wondering about
+structure itself; but in our world, confused and fragmented by
+specialisation, the conjecture takes on special significance. If our
+grasp of the world is to remain coherent, we need a bead game; and it
+is therefore vital for us to ask ourselves whether or not a bead game
+can be invented.
+#+end_quote
+
+
+
+#+begin_quote
+The game is essentially an abstract synthesis of all arts and
+sciences. It proceeds by players making deep connections between
+seemingly unrelated topics.
+#+end_quote
+
+  - https://en.wikipedia.org/wiki/The_Glass_Bead_Game
+  - http://gen.lib.rus.ec/book/index.php?md5=D48308D922213931217630C96A9FFD16
+  - http://gen.lib.rus.ec/book/index.php?md5=E5763F7F5C184E938F7B5FBDE0F01B12
+
+
+** References
+
+

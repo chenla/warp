@@ -110,10 +110,6 @@ Changes, both large and small might take place anywhere and
 changes will eventually propagate over the entire surface of
 the sphere.
 
-
-
-
-
 ** References
 
 
