@@ -55,10 +55,23 @@ bibliography:../hoard/bib.bib
 
 * A Bead Game
 
-  - Chunking    : *SPACE* heirarchy, relationships, concepts,
-                  holons, rhizomes, graphs.
-  - Propagation : *TIME* pace/shearing-layers, light-cone
-  - Process     : *ENERGY* entropy, information
+#+begin_quote
+There was a passionate craving among all the intellectuals
+... for a means to express their new concepts. They longed
+for philosophy, for synthesis. The erstwhile happiness of
+pure withdrawal each into his own discipline was now felt to
+be inadequate. Here and there a scholar broke through the
+barriers of his specialty and tried to advance into the
+terrain of universality. Some dreamed of a new alphabet, a
+new language of symbols through which they could formulate
+and exchange their new intellectual experiences.
+#+end_quote
+
+
+  - Chunking    : *SPACE*  heirarchy, relationships, concepts,
+                           holons, rhizomes, graphs.
+  - Propagation : *TIME*   pace/shearing-layers, light-cone
+  - Process     : *ENERGY* entropy, information.
 
 
 * Foundations
