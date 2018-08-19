@@ -52,6 +52,15 @@ bibliography:../hoard/bib.bib
  - [[./plan.org][Plan of the Work]]
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
+
+* A Bead Game
+
+  - Chunking    : *SPACE* heirarchy, relationships, concepts,
+                  holons, rhizomes, graphs.
+  - Propagation : *TIME* pace/shearing-layers, light-cone
+  - Process     : *ENERGY* entropy, information
+
+
 * Foundations
  - [[./foundations/index.org][Contents]]
  - [[./foundations/abstract.org][Abstract]]
