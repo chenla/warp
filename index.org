@@ -67,11 +67,58 @@ new language of symbols through which they could formulate
 and exchange their new intellectual experiences.
 #+end_quote
 
+#+begin_quote
+He invented for the Glass Bead Game the principles of a new
+language, a language of symbols and formulas, in which
+mathematics and music played an equal part, so that it
+became possible to combine astronomical and musical
+formulas, to reduce mathematics and music to a common
+denominator, as it were. ...
+
+---
+
+The Glass Bead Game, formerly the specialized entertainment
+of mathematicians in one era, philologists or musicians in
+another era, now more and more cast its spell upon all true
+intellectuals. ... After Joculator Basiliensis' grand
+accomplishment, the Game rapidly evolved into what it is
+today: the quintessence of intellectuality and art, the
+sublime cult, the unio mystica of all separate members of
+the Universitas Litterarum. In our lives it has partially
+taken over the role of art, partially that of speculative
+philosophy.
+#+end_quote
+
+Our Bead Game is designed to provide a grammer and structure
+that can be used across disciplines -- 
 
   - Chunking    : *SPACE*  heirarchy, relationships, concepts,
-                           holons, rhizomes, graphs.
+                           holons, rhizomes, graphs, maps
+                           patterns.
   - Propagation : *TIME*   pace/shearing-layers, light-cone
-  - Process     : *ENERGY* entropy, information.
+  - Process     : *ENERGY* change, entropy, information
+
+---
+
+The Cardinal POVs are a toolbox for observation and
+understanding the Bead Game.
+
+  - POV  : LOD • ROC • POC • LOA • LOC
+
+---
+
+Combine these things together in the right way and we get
+generative grammers that spit out antifragile complex
+structures and systems that are greater than the sum of
+their parts.
+
+---
+
+  - QWAN : Beauty -- an innate ability that humans and other
+                     complex life are designed to recognize
+                     and respond to.
+  -  • Meaning • Purpose
+
 
 
 * Foundations
