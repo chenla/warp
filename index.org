@@ -205,6 +205,29 @@ the others the departed God took away with Him.
 Koyre, A., From the closed world to the infinite universe
 (1957), : Johns Hopkins Press.  cite:koyre:1957closed-world
 
+#+begin_quote
+Prior to the 17th century, God served as a reference point
+at which mind and matter followed the same laws; indeed
+their congruence provided the only rational explanation for
+the existence of an absolute standard of values.  But the
+removal of divinity from the analysis of the laws of the
+universe in the 17th and 18th centuries resulted in the
+separation of the world of facts from the world of values,
+leaving values stranded in a sea of "contingency."  By the
+19th century "positivism" had dominated scientific thought.
+But the victory was a hollow.  A universe without values only
+leads to a contingency of perception, a subjectivity against
+which both "productive necessity" and ordinary consciousness
+rebels, demanding the restoration of an objective, absolute
+standard of values. (cf Huxley's "Religion with
+revelation.")  By the 20th century, phenomenology reveals
+that positivism uncorrectly obscures the "real" real
+relationship between mind and matter, "bifurcating" nature
+into an artificial duality.
+
+— cite:koyre:1957closed-world p.81
+#+end_quote
+
 Grabow, S., Christopher alexander: the search for a new
 paradigm in architecture (1983), : Routledge Kegan \& Paul.
 cite:grabow:1983christopher
@@ -268,6 +291,17 @@ as individuals, groups and as societies within environments
 that are beautiful.  This is not subjective -- it's
 objective and reproducible.
 
+#+begin_quote
+... the real structure of the environment comes from
+overlapping sets of interconnected rules — rules
+representing relationships between patterns in the
+environment and which when properly adapted, correspond to
+the holistic perception of structure..."
+
+— Grabow p68. cite:grabow:1983christopher 
+#+end_quote
+
+
 I now want to take this further and extend this concept to
 all aspects of human life and understanding of the universe
 which will require a framework that bridges all disciplines
@@ -296,8 +330,6 @@ capacity to recognize beauty in a deep and essential way
 that is at the very core of our being and that what we
 percieve is and understand as the universe itself and our
 place in it.
-
-
 
 * Foundations
  - [[./foundations/index.org][Contents]]
