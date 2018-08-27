@@ -103,8 +103,9 @@ remain coherent, we need a bead game; and it is therefore
 vital for us to ask ourselves whether or not a bead game can
 be invented.
 
-— "The Bead Game Conjecture," Lotus, 5 (Milan: 1968), p.151.
-  cite:grabow:1983christopher p188.
+— Christopher Alexander, "The Bead Game Conjecture," Lotus,
+  5 (Milan: 1968), p.151.
+  quoted in cite:grabow:1983christopher p188.
 #+end_quote
 
 Our Bead Game is designed to provide a grammer and structure
