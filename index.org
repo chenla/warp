@@ -97,18 +97,43 @@ science, can be seen from a single point of view.  This
 conjecture is not new.  In one form or another people have
 been wondering about it, as long as they have been wondering
 about structure itself; but in our world, confused and
-fragmented by specialisation, the conjecture takes on
+fragmented by specialization, the conjecture takes on
 special significance.  If our grasp of the world is to
 remain coherent, we need a bead game; and it is therefore
 vital for us to ask ourselves whether or not a bead game can
 be invented.
 
-— Christopher Alexander, "The Bead Game Conjecture," Lotus,
-  5 (Milan: 1968), p.151.
-  quoted in cite:grabow:1983christopher p188.
+— Christopher Alexander, "The Bead Game Conjecture," 
+  Lotus, 5 (Milan: 1968), p.151.
+  Quoted in cite:grabow:1983christopher p188.
 #+end_quote
 
-Our Bead Game is designed to provide a grammer and structure
+Alexander was concerned with buildings and how they impact
+human individuals as well social structures that they live
+in.  The first pattern, INDEPENDENT REGIONS, even touched on
+a global structure.  He was also painfully aware of the fact
+that architecture can not be separate from the process of
+building so that you can't change architecture without
+changing the economics of building buildings which goes hand
+in hand with changing the political systems that regulate
+buildings and public spaces.  He also touched on education.
+Some patterns talked of the workplace and how shops, and
+offices and even industrial production can not be separated
+from other aspects of human life.
+
+What he had put on his plate was already so big that he
+really wasn't in a position to go the rest of the way --
+that the entire nature of work, production and market
+economics.  Alexander's vision was not compatible with
+anything that was outside of human scale.  This implies that
+mass-[anything], be it production, travel, communication,
+education etc was not compatible with his vision of human
+scale, living structures -- that modern industrial
+societies in almost every aspect was anathema to the quality
+of human life which constitutes the great estrangment.
+
+
+Our Bead Game is designed to provide a grammar and structure
 that can be used across disciplines -- 
 
   - Chunking    : *SPACE*  heirarchy, relationships, concepts,
