@@ -66,7 +66,14 @@ bibliography:~/proj/chenla/hoard/bib.bib
    - cultural
    - [[./ww-ages-of-man.org][Ages of Man]]
 
- - Succession stacks
+ - Cycles and Equilibria
+   Succession stacks cyclical, which actually is obvious in
+   that nothing lasts forever, after the last stage of
+   succession there is collapse and the cycle starts over
+   again.  This is true in ecological succession from grass
+   to mature forests. 
+
+ - Succession cycles
    use POC so that succession is treated as a stack, not
    one stage replacing another.  This is useful to apply LOD
    to a text, so that you can read a layer at a low LOD (say
