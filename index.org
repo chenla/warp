@@ -65,6 +65,8 @@ barriers of his specialty and tried to advance into the
 terrain of universality. Some dreamed of a new alphabet, a
 new language of symbols through which they could formulate
 and exchange their new intellectual experiences.
+
+— cite:hesse:1957magister-ludi
 #+end_quote
 
 #+begin_quote
@@ -75,8 +77,10 @@ became possible to combine astronomical and musical
 formulas, to reduce mathematics and music to a common
 denominator, as it were. ...
 
----
+— cite:hesse:1957magister-ludi
+#+end_quote
 
+#+begin_quote
 The Glass Bead Game, formerly the specialized entertainment
 of mathematicians in one era, philologists or musicians in
 another era, now more and more cast its spell upon all true
@@ -87,6 +91,8 @@ sublime cult, the unio mystica of all separate members of
 the Universitas Litterarum. In our lives it has partially
 taken over the role of art, partially that of speculative
 philosophy.
+
+— cite:hesse:1957magister-ludi
 #+end_quote
 
 #+begin_quote
@@ -385,7 +391,7 @@ place in it.
  - Abstract
  - Introduction  
  - 00. Physics
- - 05. [[./foundations/05/index.org][Nature of Order]]
+ - 05. [[./05/index.org][Nature of Order]]
  - 00. Life
  - 00. Biosphere
  - 00. Savannah, Primates, Apes

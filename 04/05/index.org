@@ -70,7 +70,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
    Succession stacks cyclical, which actually is obvious in
    that nothing lasts forever, after the last stage of
    succession there is collapse and the cycle starts over
-   again.  This is true in ecological succession from grass
+   again. This is true in ecological succession from grass
    to mature forests. 
 
  - Succession cycles
