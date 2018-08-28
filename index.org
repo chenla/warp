@@ -109,8 +109,7 @@ remain coherent, we need a bead game; and it is therefore
 vital for us to ask ourselves whether or not a bead game can
 be invented.
 
-— Christopher Alexander, "The Bead Game Conjecture," 
-  Lotus, 5 (Milan: 1968), p.151.
+— cite:alexander:1968bead
   Quoted in cite:grabow:1983christopher p188.
 #+end_quote
 
@@ -389,9 +388,9 @@ place in it.
 ** Natures
  - Contents
  - Abstract
- - Introduction  
+ - Introduction
  - 00. Physics
- - 05. [[./05/index.org][Nature of Order]]
+ - 05. [[./foundations/05/index.org][Nature of Order]]
  - 00. Life
  - 00. Biosphere
  - 00. Savannah, Primates, Apes

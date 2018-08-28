@@ -15,6 +15,16 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../index.org][top]]] [[[./index.org][up]]] 
 
+#+begin_quote
+Always try, at each moment, in every policy, in every
+action, in every line and every shape, to do that thing or
+take that action which increases the life of the place, in
+the people, and in their environment.
+
+— cite:alexander:2012battle p59.
+#+end_quote
+
+
   +----------+---------+----------------+
   |          |         | FASHION        |
   |          |         +----------------+  
@@ -26,7 +36,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   |          |         +----------------+
   | NATURE   |         | CULTURE        |
   |          +---------+----------------+
-  |          |          BIOS            | 
+  |          |         BIOS             | 
   |          +---------+----------------+
   |          |         LITHOS           |
   |          +---------+----------------+
