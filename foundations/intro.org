@@ -46,7 +46,6 @@ the people, and in their environment.
   +----------+---------+----------------+
 
 
-
 A massive linear narrative text is not the only way to
 go.  It's too big, too dense -- too fucking much to fit in
 your head in anything less than a couple of years.  So we

@@ -39,6 +39,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Pattern Languages
   - [[./ww-primitives.org][Primitives]]
 
+---
+Pattern Entity Group
+
+  - Nomothetic (qualitative) -- group/abstract/conceptual
+    - Ideographic (qanlitative/quantitive) class 
+      - Instative (quantitative) individual
+
+  - pattern types (primitive/keystone/design etc.)
+  
+---
+
   - Primitive Group Model
     - PT Primitive Class
       - NTI Primitive Group
