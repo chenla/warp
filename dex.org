@@ -94,11 +94,47 @@ counts. Appliances such as washing machines and fridges that
 used to last generations now are designed to break every 3-4
 years.
 
-
+--- patterns
 
 
 Almost anything can be thought of as a pattern.  A pattern
 is essence that identifies and bonds together any number of
 discrete parts into a whole.
 
+--- patterns that we percieve as objects are all physically
+actualized social interpersonal and socio-economic
+relationships.
+
+--- patterns in turn can be externalized and modeled as
+directed graphs which is serialized as a tuple that is made
+of edges and vertices.
+
+--- a map of relationships forms a graph which in turn
+represent objects, concepts, and memories
+
+--- we now can observe and manipulate these graphs using
+four tools that can then be used to understand and create
+anything from a hen's egg to copper kettle, a hula-hoop the
+Isse shrine to the UN Declaration of Human Rights to a
+shopping list or airline boarding pass.  In effect this
+constitutes a toolkit that we can use to build a human scale
+living distributed civilization.
+ 
+--- the four core tools are: /form/, /process/, /chunking/
+and /propagation/.
+
+
+
+
+
+---------
+
+Civilization
+
+  - Scattered Multi-Planet Civilization 
+  - 
+  - 
+  - 
+  - 
+  - Independent Bioregions
 
