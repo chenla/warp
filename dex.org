@@ -124,18 +124,25 @@ living distributed civilization.
 and /propagation/.
 
 --- *form* is geometric -- both shape of patterns/things and
-the differentiation of space; positive and negative
+the differentiation of space; positive and negative -- it is
+how collections of things take shape, become living wholes.
 
---- *process* is energy which results in change -- the
-continuous becoming of one thing to another.  But it is also
-manifest as systems governed by self-regulating negative and
-positive feedback loops
+--- *process* is energy which fuels change both positive
+adding, and negative difusion -- the continuous becoming of
+one thing to another.  But it is also manifest as systems
+governed by self-regulating negative and positive feedback
+loops. Process is violence, when too much energy rips things
+apart so they can recombine.  Process is about maintaining
+goldilock zones -- equilibria.  Process is about
+dissipation; entropy, as things cool and wind down towards
+an ultimate heat death.
 
 --- *chunking* is simplification -- manifest in the
 map-territory relationship -- it combines and compresses, it
 is how we break large difficult problems into many small
 easy parts -- it is the mechanism for creating hierarchy,
-holarchies and directed graphs.
+holarchies and directed graphs.  It's how small things are
+grouped together to create larger things.
 
 --- *propagation* is time -- more importantly is it about
 how change moves through time -- change is not simultaneous
@@ -144,8 +151,7 @@ when striking a match, or punching a button that connects a
 power circuit turns on a laptop.  Propagation is how
 information spreads through networks, how light travels
 between stars, how infections spreads through a body or
-population.  It's how small things are grouped together to
-create larger things.
+population. 
 
 
 
