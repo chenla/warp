@@ -28,12 +28,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-Before we can begin defining the patterns for building a human scale
-distributed civilization we will need to define the primitives that
-will be combined to create the tools for making that language as well
-as the generative processes that constitute the structures of every
-day life which are manifest in everything from a bedside table, to
-industrial production, to family life and social structures of
+Before we can begin defining the patterns for building a
+human scale distributed civilization we will need to define
+the primitives that will be combined to create the tools for
+making that language as well as the generative processes
+that constitute the structures of every day life which are
+manifest in everything from a bedside table, to industrial
+production, to family life and social structures of
 cooperation that we agree to abide by.
 
 #+begin_quote
@@ -46,20 +47,23 @@ the holistic perception of structure..."
 — Grabow p68. cite:grabow:1983christopher 
 #+end_quote
 
-Humans experience the world by recognizing patterns that we percieve
-as things that are distinct from other things.  We instinctively know
-when these patterns are calming, jarring, peacful, joyous, just
-plain broken or even sinister.
+Humans experience the world by recognizing patterns that we
+percieve as things that are distinct from other things.  We
+instinctively know when these patterns are calming, jarring,
+peacful, joyous, just plain broken or even sinister.
 
-A young girl throwing a frisbee to a golden retriever in a sunny
-summer field bordered by forests of rich browns and green.  A simple
-house on stilts that seems to grow out of a ridge line of palm trees
-in silhouette behind a checker board of browing october rice paddies
-waiting to be harvested, a single plain sheet of creamy white paper
-weighted down by an old fountain pen on a broad polished wooden
-desktop illuminated by a green glass bankers lamp -- a clean slate
-inviting you to write on it.
+A young girl throwing a frisbee to a golden retriever in a
+sunny summer field bordered by forests of rich browns and
+green.  A simple house on stilts that seems to grow out of a
+ridge line of palm trees in silhouette behind a checker
+board of browing october rice paddies waiting to be
+harvested, a single plain sheet of creamy white paper
+weighted down by an old fountain pen on a broad polished
+wooden desktop illuminated by a green glass bankers lamp --
+a clean slate inviting you to write on it.
 
 Almost anything can be thought of as a pattern.  A pattern
-is essence that identifies and bonds together any number of discrete
-parts into a whole.  
+is essence that identifies and bonds together any number of
+discrete parts into a whole.
+
+
