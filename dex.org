@@ -120,8 +120,14 @@ shopping list or airline boarding pass.  In effect this
 constitutes a toolbox that we can use to build a human scale
 living distributed civilization.
  
---- the four core tools are: /form/, /process/, /chunking/
-and /propagation/.
+--- we treat these as tools -- an extension and
+externalization of mind and hand as a means of building
+progressively more complex abstractions.  Complexity is
+inherently nested into hierarchies, stages, levels and
+layers.  These are the building blocks that all complexity
+ad life is built on. They are the foundation that everything
+from galaxies to human embryos are built on.  The four core
+tools are: /form/, /process/, /chunking/ and /propagation/.
 
 --- *form* is geometric -- both shape of patterns/things and
 the differentiation of space; positive and negative -- it is
@@ -133,7 +139,7 @@ one thing to another.  But it is also manifest as systems
 governed by self-regulating negative and positive feedback
 loops. Process is violence, when too much energy rips things
 apart so they can recombine.  Process is about maintaining
-goldilock zones -- equilibria.  Process is about
+goldilocks zones -- equilibria.  Process is about
 dissipation; entropy, as things cool and wind down towards
 an ultimate heat death.
 
@@ -146,14 +152,12 @@ grouped together to create larger things.
 
 --- *propagation* is time -- more importantly is it about
 how change moves through time -- change is not simultaneous
-it has a origin, be it the big bang, the chemical reaction
+it has an origin, be it the big bang, the chemical reaction
 when striking a match, or punching a button that connects a
-power circuit turns on a laptop.  Propagation is how
+electrical circuit powers up a laptop.  Propagation is how
 information spreads through networks, how light travels
 between stars, how infections spreads through a body or
 population. 
-
-
 
 ---------
 
