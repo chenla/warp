@@ -1,32 +1,14 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Bead Game Contents
+#+TITLE:   Bead Game
 #+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+#+HTML_HEAD: <link rel="stylesheet" href="tufte.css" type="text/css" />
+#+HTML_HEAD: <link rel="stylesheet" href="latex.css" type="text/css" />
+#+OPTIONS: toc:nil num:nil H:4 ^:nil pri:t
+#+OPTIONS: html-preamble:nil
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
 
-[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
-[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
-[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
-
-bibliography:~/proj/chenla/hoard/bib.bib
-
-[[[../../index.org][top]]] [[[../index.org][up]]]
-
-* Bead Game Contents
-  :PROPERTIES:
-  :CUSTOM_ID:
-  :Name:      /home/deerpig/proj/chenla/warp/dex.org
-  :Created:   2018-09-01T17:32@Prek Leap (11.642600N-104.919210W)
-  :ID:        d0605fec-e7e8-48a8-8742-dc28f39cdb01
-  :VER:       589069993.268590117
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:OPD7-3180
-  :Class:     primer
-  :Entity:    toc
-  :Status:    wip 
-  :Licence:   MIT/CC BY-SA 4.0
-  :END:
 
 Before we can begin defining the patterns for building a
 human scale distributed civilization we will need to define
@@ -44,7 +26,7 @@ representing relationships between patterns in the
 environment and which when properly adapted, correspond to
 the holistic perception of structure..."
 
-— Grabow p68. cite:grabow:1983christopher 
+— Steven Grabow cite:grabow:1983christopher p68.
 #+end_quote
 
 Humans experience the world by recognizing patterns that we
@@ -76,8 +58,8 @@ sheen broken only by white styrofoam shards from a discarded
 rice box.
 
 There is nothing subjective in any of this.  These are
-objective recognitions are triggered in any of us when
-seeing life and beauty or death, disfunction and ugliness.
+objective recognitions triggered in any of us when seeing
+life and beauty or death, disfunction and ugliness.
 
 And yet in the past two centuries Man has progressively
 increased the amount of disorder, ugliness and sterility of
@@ -96,10 +78,9 @@ counts. Appliances such as washing machines and fridges that
 used to last generations now are designed to break every 3-4
 years.
 
---- patterns
-Almost anything can be thought of as a pattern.  A pattern
-is an essence that identifies and bonds together any number
-of discrete parts into a whole.
+--- *patterns* Almost anything can be thought of as a
+pattern.  A pattern is an essence that identifies and bonds
+together any number of discrete parts into a whole.
 
 --- patterns that we percieve as objects are all physically
 actualized social interpersonal and socio-economic
@@ -129,11 +110,11 @@ ad life is built on. They are the foundation that everything
 from galaxies to human embryos are built on.  The four core
 tools are: /form/, /process/, /chunking/ and /propagation/.
 
---- *form* is geometric -- both shape of patterns/things and
+*form* is geometric -- both shape of patterns/things and
 the differentiation of space; positive and negative -- it is
 how collections of things take shape, become living wholes.
 
---- *process* is energy which fuels change both positive
+*process* is energy which fuels change both positive
 adding, and negative difusion -- the continuous becoming of
 one thing to another.  But it is also manifest as systems
 governed by self-regulating negative and positive feedback
@@ -143,14 +124,14 @@ goldilocks zones -- equilibria.  Process is about
 dissipation; entropy, as things cool and wind down towards
 an ultimate heat death.
 
---- *chunking* is simplification -- manifest in the
+*chunking* is simplification -- manifest in the
 map-territory relationship -- it combines and compresses, it
 is how we break large difficult problems into many small
 easy parts -- it is the mechanism for creating hierarchy,
 holarchies and directed graphs.  It's how small things are
 grouped together to create larger things.
 
---- *propagation* is time -- more importantly is it about
+*propagation* is time -- more importantly is it about
 how change moves through time -- change is not simultaneous
 it has an origin, be it the big bang, the chemical reaction
 when striking a match, or punching a button that connects a
@@ -159,7 +140,7 @@ information spreads through networks, how light travels
 between stars, how infections spreads through a body or
 population. 
 
----------
+---
 
 Civilization
 
@@ -170,3 +151,5 @@ Civilization
   - 
   - Independent Bioregions
 
+
+bibliography:~/proj/chenla/hoard/bib.bib

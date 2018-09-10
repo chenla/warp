@@ -53,6 +53,29 @@ bibliography:../hoard/bib.bib
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
 
+* 
+
+  - structures
+    - form
+    - process (attractors & repulsers)
+    - /propagation
+    - /chunking
+  - generation (spheres & systems)
+    - helio
+    - litho
+    - /bio-eco (bio-spheres & eco-systems)
+    - /anthro
+      - boundries
+        - cognition
+        - sensory
+        - physical
+        - environment
+  - polis
+    - scale
+    - cooperation
+    - /care
+    - /creation
+
 * A Bead Game
 
 #+begin_quote
