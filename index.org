@@ -59,14 +59,15 @@ bibliography:../hoard/bib.bib
    - /propagation
    - /chunking
  - creation (spheres & systems)
-   - helio
-   - litho
-   - /bio-eco (bio-spheres & eco-systems)
+   - helio (heat, light)
+   - litho (rock, gravity)
+   - /atmo-hydro
+   - bio-eco (bio-spheres & eco-systems)
    - /anthro
      - boundries
-       - cognition
-       - sensory
-       - physical
+       - mental & cognitive
+       - motor & sensory
+       - social
        - environment
  - polis
    - scale
