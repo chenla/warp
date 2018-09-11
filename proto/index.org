@@ -68,128 +68,193 @@ bibliography:~/proj/chenla/hoard/bib.bib
       harvest upgrade house and   
 
 
+** Domus Cluster General Character
 
+A cluster of 12 houses with 3-5 primary shops which might be a
+storefront, a workshop, office, and 5 or more secondary shops that are
+run as seasonal and or part time work.  The cluster shares a common
+power grid, potable water, sewage and ideally a transportation pool.
+Each cluster provides daycare and preschool for children (until the
+age of 11 when children begin taking the Trivium).
 
-  - *Domus Cluster*
-    - *General Character* a cluster of 12 houses with 3-5 primary
-      shops which might be a storefront, a workshop, office, and 5 or
-      more secondary shops that are run as seasonal and or part time
-      work.  The cluster shares a common power grid, potable water,
-      sewage and ideally a transportation pool.  Each cluster provides
-      daycare and preschool for children (until the age of 11 when
-      children begin taking the Trivium).
+#+begin_quote
+The cluster is, in essence, a group of a dozen families, legally
+constituted as a non--profit corporation. For the first fifteen years
+of the cluster's life, the members of the cluster, the builder, and
+the sponsor are financially and legally interdependent. During this
+period the title to the land is held in trust. At the end of fifteen
+years, the contracts are complete; the title of the land is
+transferred from the trust to the cluster itself: and the cluster
+becomes fully independent.
 
-    - *Housing for Guests & Journeymen Vistors* Each cluster will
-      provide journeyman apartments for outside staff, journeyman etc.
+Physically, a cluster will contain about twelve houses, on about an
+acre of land. Neither the density nor the size are absolutely
+critical. A similar cluster might be built at twice the density or
+half the density, for twice as many houses, or half as many, or even
+less. However, we consider a cluster of about a dozen houses as a
+basic unit, because it is an entity large enough to maintain itself as
+an identifiable social group, yet small enough to be able to maintain
+communication on a personal basis. A dozen families can sit around a
+table and discuss and resolve their own affairs and problems fairly
+easily. More cannot.
 
-    - Each house is called a domus which is a multigenerationl so that
-      any one domus might have any combination of children,
-      adolescents, masters, retired/sabbatical and elderly
-      individuals, couples and families.  Houses are designed to grow
-      and adapt over time as different members of the house hold join,
-      leave or raise children, or retire.
+— — cite:alexander:1973grass-roots
+#+end_quote
 
-    - *Common Property* clusters consolidate tools and other things
-      that are only used occasionally, so it will be common for a
-      cluster to have a workshop, and food processing and preservation
-      kitchen that anyone can use, a walk-in fridge for storing
-      cluster produce and meat, drying, smoking and grain store -- a
-      day care center, a community garden, perhaps even a swiming
-      pool.  There will be areas that can be used for large events
-      like weddings, funerals, holiday parties and for holding regular
-      communal meals.  There will be cluster owned cooking equipment,
-      a PA, Sound system, stage, plates, dishes, pots, pans, jumbo
-      rice cookers etc.
+** Housing for Guests & Journeymen Vistors 
 
-    - *Cluster Forest* Each cluster will have a forest, with a mix of
-      hardwoods and quick growing bamboo and pioneer spieces that will
-      hold plantings for specific people in the cluster that mark
-      birth, graduation from laurea, and death.  These trees and
-      bamboo will act as sort of saving banks for everyone in the
-      community.  For urban clusters, these food forests might be
-      located outside the urban area, but also act as a retreat with a
-      pond or lakefront housing to recompress from urban life and
-      recharge.
+Each cluster will provide journeyman apartments for outside staff,
+journeyman etc.
 
-    - *Sister Clusters* every rural cluster should have a sister
-      cluster in an urban area and every rural cluster should have a
-      sister cluster in an urban area.  Some people are content to
-      live their entire lives in either an urban or rural environment,
-      but mankind's earliest form of civilization was a cross between
-      sedentary and nomadic.  During certain seasons people foraged,
-      or managed flocks or hunted and then came together to form ad
-      hoc settlements sometimes for brief periods, or perhaps a whole
-      season.  Many of the problems of the sedentary life of the
-      farmer or city dweller is that it cuts us off from that we need
-      to remain healthy, both psychologically, physically and
-      socially.  Isolation breeds ignorance and fear of outsiders.
-      Urban life is stressful and intensive, with too little contact
-      with nature or space to relax, think and play.  A combination of
-      both is important for all people.  This pattern should provide
-      the ability for rural people to become metropolitan and ideally
-      cosmopolitan and for metropolitan people keep grounded and feel
-      their connectedness with the world outside of the things of man
-      -- the immensity of the land, the sky and the stars.  This
-      pattern is one possible solution to the town-gown problem.
+Each house is called a domus which is a multigenerationl so that any
+one domus might have any combination of children, adolescents,
+masters, retired/sabbatical and elderly individuals, couples and
+families.  Houses are designed to grow and adapt over time as
+different members of the house hold join, leave or raise children, or
+retire.
+
+** Common Property
+
+Clusters consolidate tools and other things that are only used
+occasionally, so it will be common for a cluster to have a workshop,
+and food processing and preservation kitchen that anyone can use, a
+walk-in fridge for storing cluster produce and meat, drying, smoking
+and grain store -- a day care center, a community garden, perhaps even
+a swiming pool.  There will be areas that can be used for large events
+like weddings, funerals, holiday parties and for holding regular
+communal meals.  There will be cluster owned cooking equipment, a PA,
+Sound system, stage, plates, dishes, pots, pans, jumbo rice cookers
+etc.
+
+** Cluster Forest
+
+Each cluster should have a forest, with a mix of hardwoods and quick
+growing bamboo and pioneer spieces that will hold plantings for
+specific people in the cluster that mark birth, graduation from
+laurea, and death.  These trees and bamboo will act as sort of saving
+banks for everyone in the community.  For urban clusters, these food
+forests might be located outside the urban area, but also act as a
+retreat with a pond or lakefront housing to recompress from urban life
+and recharge.
+
+** Sister Clusters
+
+Every rural cluster should have a sister cluster in an urban area and
+every rural cluster should have a sister cluster in an urban area.
+Some people are content to live their entire lives in either an urban
+or rural environment, but mankind's earliest form of civilization was
+a cross between sedentary and nomadic.  During certain seasons people
+foraged, or managed flocks or hunted and then came together to form ad
+hoc settlements sometimes for brief periods, or perhaps a whole
+season.  Many of the problems of the sedentary life of the farmer or
+city dweller is that it cuts us off from that we need to remain
+healthy, both psychologically, physically and socially.  Isolation
+breeds ignorance and fear of outsiders.  Urban life is stressful and
+intensive, with too little contact with nature or space to relax,
+think and play.  A combination of both is important for all people.
+This pattern should provide the ability for rural people to become
+metropolitan and ideally cosmopolitan and for metropolitan people keep
+grounded and feel their connectedness with the world outside of the
+things of man -- the immensity of the land, the sky and the stars.
+This pattern is one possible solution to the town-gown problem.
+
+Another possibility is that clusters are linked at the busines and
+production level as well.  If the rural cluster grows food it can
+supply it's sister, but also it's sister can sell on their behalf --
+so it becomes a value chain.  Now, if we add say two other sister
+relationships with other clusters we could end up with and end-to-end
+supply and production chain.  Then AI systems can coordinate,
+schedule, provide logistics, manage accounts and transactions etc so
+that there is no need for any one cluster to build up a bureaucracy or
+administrative layer or for any one of the clusters to become
+middlemen that control choke points in the chain.
       
-    - *Link Identity to Cluster* The breakdown of the extended
-      familily into the Nuclear family social structure in the 20th
-      century resulted couples and children that they had more
-      autonomy and mobility -- that was made possible by the education
-      of women and lowering of child mortality which result in birth
-      rates to lower to 2.5 or lower.  But it also meant that when
-      children left home to form nuclear families in new homes that
-      there was no extended family to help care for children -- this
-      was one factor in American suburbanization -- As Paul Graham
-      said, suburbs only exist for raising children and as the cost of
-      housing and living increased having a two paycheck household
-      became a necessary norm rather than an exception.  So school
-      systems were scaled up and turned into day care for children so
-      that parents could work.  This fractured the family even more as
-      schools separated children from their families so long that
-      children cultures emerged to fill the void.  Children belonged
-      to their own subculture, which revolved around school and adults
-      had their own subculture that revolved around the workplace --
-      with a brief period of time when the two worlds had to live with
-      each other in the evenings and briefly in the morning.  Parents
-      whose children had moved out, and who subsequently retired found
-      themselves cut off both from interaction with their children and
-      the culture of the workplace.  On the positive side --
-      traditionally when women married and moved in to their husband's
-      house they fell under the control of their new mother-in-law who
-      were established as matriarchs within the household.  This
-      reinforced the extended family as a social unit, but at the cost
-      of women marrying into the family and for boys who were not the
-      eldest and would take over the family home and or business were
-      under intense pressure to remain living physically close to
-      their mothers.  This was a contributing factor in why many
-      people never traveling even a moderate distance from where they
-      were born even once in their lifetime.
+** Link Identity to Cluster
 
-      There are any number of examples throughout history of
-      variations and alternates to extended families.  The New England
-      neighborhood in the 18th and 19th centuries -- the Kibutz in
-      Isreal, the Barcotta in Philippines and Polynesian culture.
+The breakdown of the extended familily into the Nuclear family social
+structure in the 20th century resulted couples and children that they
+had more autonomy and mobility -- that was made possible by the
+education of women and lowering of child mortality which result in
+birth rates to lower to 2.5 or lower.  But it also meant that when
+children left home to form nuclear families in new homes that there
+was no extended family to help care for children -- this was one
+factor in American suburbanization -- As Paul Graham said, suburbs
+only exist for raising children and as the cost of housing and living
+increased having a two paycheck household became a necessary norm
+rather than an exception.  So school systems were scaled up and turned
+into day care for children so that parents could work.  This fractured
+the family even more as schools separated children from their families
+so long that children cultures emerged to fill the void.  Children
+belonged to their own subculture, which revolved around school and
+adults had their own subculture that revolved around the workplace --
+with a brief period of time when the two worlds had to live with each
+other in the evenings and briefly in the morning.  Parents whose
+children had moved out, and who subsequently retired found themselves
+cut off both from interaction with their children and the culture of
+the workplace.  On the positive side -- traditionally when women
+married and moved in to their husband's house they fell under the
+control of their new mother-in-law who were established as matriarchs
+within the household.  This reinforced the extended family as a social
+unit, but at the cost of women marrying into the family and for boys
+who were not the eldest and would take over the family home and or
+business were under intense pressure to remain living physically close
+to their mothers.  This was a contributing factor in why many people
+never traveling even a moderate distance from where they were born
+even once in their lifetime.
 
-      The cluster has the potential of being a social unit -- in fact
-      this must happen for the communial property aspect of the
-      concept to work.  People have to share deeper relationships than
-      proximity between each other.  This means that work, child care,
-      and recreation must overlap to some extent.  And because up to
-      two thirds of people living in a cluster may not be working full
-      time, there are many opportunities for say, retiress or others
-      working part time and studing something new to help with
-      child care and with prechool education.  When a parent dies, or
-      divorces there is a social and economic support system in place.
+There are any number of examples throughout history of variations and
+alternates to extended families.  The New England neighborhood in the
+18th and 19th centuries -- the Kibutz in Isreal, the Barcotta in
+Philippines and Polynesian culture.
+
+The cluster has the potential of being a social unit -- in fact this
+must happen for the communial property aspect of the concept to work.
+People have to share deeper relationships than proximity between each
+other.  This means that work, child care, and recreation must overlap
+to some extent.  And because up to two thirds of people living in a
+cluster may not be working full time, there are many opportunities for
+say, retiress or others working part time and studing something new to
+help with child care and with prechool education.  When a parent dies,
+or divorces there is a social and economic support system in place.
       
-      Because everyone in a cluster has an equity stake in the cluster
-      and can sell their share and have someone else move into the
-      cluster there is social structure and security.
+Because everyone in a cluster has an equity stake in the cluster and
+can sell their share and have someone else move into the cluster there
+is social structure and security.
 
-      So there is the possibility that the cluster can become a sort
-      of hybrid social structure that takes the best of different
-      family and social models and combines them.  Even better is that
-      this is no one social structure that a cluster has to adapt --
-      the members can pick and choose what works for them and then
-      tweak and change it over time.
+So there is the possibility that the cluster can become a sort of
+hybrid social structure that takes the best of different family and
+social models and combines them.  Even better is that this is no one
+social structure that a cluster has to adapt -- the members can pick
+and choose what works for them and then tweak and change it over time.
       
+** Building Clusters
+
+Will largely follow the model outlined in Alexander's /Grassroots
+Houseing/ concept paper.  A master builder is hired as architect and
+builder to work with residents to build all structures on the
+property.
+
+#+begin_quote
+The cluster is a group of ten or twelve families, legally constituted
+as a non--profit corporation. The families will design their own
+houses, and help to build them if they want to; and together they will
+design and build the common areas between the houses. The houses will
+grow rather slowly -- it will take at least five years for a house to
+reach its full size; but the houses will be made in such a way that
+people can live in them from the very beginning. In return for monthly
+payments, and without a down payment, the families will own their
+houses, and will be able to sell them, when they leave, for 90% of the
+payments which they have made.
+
+The builder is a non--profit foundation, which helps the group of
+families design the public land between the houses, supervises all
+construction on the site, provides instruction for those families who
+wish to build for themselves, controls the monthly payments from the
+families, handles the seed money needed to start other similar
+clusters, and in later years, as the cluster reaches maturity, helps
+the families and the cluster diagnose those deficiencies in their
+surroundings which need to be repaired by new construction.
+
+— cite:alexander:1973grass-roots
+#+end_quote
+
