@@ -1,0 +1,47 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+#+TITLE:   APPL Prototype Patterns Contents
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* APPL Prototype Patterns Contents
+  :PROPERTIES:
+  :CUSTOM_ID:
+  :Name:      /home/deerpig/proj/chenla/warp/proto/index.org
+  :Created:   2018-09-11T08:39@Prek Leap (11.642600N-104.919210W)
+  :ID:        584e8cf7-98e2-446a-a4b0-b970969549c1
+  :VER:       589902024.668915974
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:XEN1-1557
+  :Class:     primer
+  :Entity:    toc
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+
+
+  - Lifetime Pattern Language
+
+    - General Character
+    - Birth
+    - Early Years
+    - Childhood
+    - Adolescence
+    - Education/Apprenticeship
+    - Journeyman
+    - Marriage
+    - Children
+    - Master
+    - Sabbatical
+    - Second Master
+    - 
