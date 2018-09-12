@@ -1,0 +1,120 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Vision 
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Vision
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/proto/vision.org
+  :Created:   2018-09-12T17:08@Prek Leap (11.642600N-104.919210W)
+  :ID:        424062ef-f72a-4a4e-bbf6-66fe013cb7c4
+  :VER:       590018995.692645476
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:YCE5-5712
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** First Facts (Scope)
+
+If we continue roughly on the path we are on now, in the next 50
+years:
+
+  - World Population will grow from 7.5 billion to somewhat over 10
+    billion. But the next 50 years will see population decline -- but
+    two factors will change the UN's scenarios -- extreme poverty will
+    decline faster in poorest nations with women's education and
+    decline in child mortality accelerating faster than is projected.
+    And second, breakthroughs in medical science will dramatically
+    expand lifespans in developed economies which will take 2-3
+    generations to propagate to the entire world.
+  - Reduce extreme poverty to less than 3%
+  - Carbon Level will reach XXppm, temperature will reach xxC and
+    the threshold will have long passed when sea level rise will be
+    inevitable and over the next century submerge land where 40-60% of
+    the world population live.
+   
+
+  - Automation will transform production, logistics and the nature of
+    work -- industrial education will keep people back
+  - Traditional economic stepping stones for nations and individuals
+    to move up the economic ladder will largely go away
+
+The final two changes will be thought by most people today as
+impossible, just as the inevitibility of self-driving cars and
+ubiquitious AI was even 10 years ago. The next two developments will
+gradually become understood and accepted over the next 10-15 years.
+Since the rate of change is still increasingly exponentially, the same
+amount of change that took place in the past ten years will happen in
+the next five, and so forth.  So changes that we intuitively /feel/
+will take 50 years will take less than 15.
+
+  - The foundations for industrialization of space will largely be in
+    place and will begin to increase exponentially over the next fifty
+    years -- so that 100 years from now heavy industry will be largely
+    off planet and automated.  The cost of launching payloads into
+    orbit will be equivilent to a long haul flight today.
+    Construction of large mass-habitats will be well underway and it
+    will be cheaper to move people up to a habitat than to move them
+    to somewhere away from the coast and rising sealevels.
+  - Lifespan will increase in developed countries far far higher than
+    is projected.
+
+
+
+  - Concentrate on 40%  
+
+    - move 98% of the world to $10/day.
+    - housing for $10 a day that can upgrade to $100/day.
+    - education that will move children from 10->100 in a single
+      generation.
+    - jobs for everyone with an education & basic income for those who
+      can not find or there are no jobs.
+    - create special economic zones for existing favelas -- provide
+      services, security, and materials to rebuild their homes as
+      temporary staging area for moving up the ladder.
+    - human scale jobs, housing and work
+
+  - Cut carbon footprint & resource hogging in developed countries by
+    two-thirds.  In large part this will be done by moving to
+    renewables and to replace consumer lifestyles and manufacturing.
+
+    - Fixable
+    - Upgradable
+    - Durable
+    - Restructure Regulation from National to regional and local
+    - Restrict Monopolies & Discourage Chains
+    - Revamp Education -- lifelong, info literacy, civic responsibility
+    - Architecture & construction: decommodify & build-as-you-grow
+    - Rebalance rural & urban
+
+  
+
+
+
+** TL;DR
+
+
+
+
+
+
+** References
+
+
