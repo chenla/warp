@@ -33,6 +33,22 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** First Facts (Scope)
 
+  - get everyone out of extreme poverty
+    - educate people (especially women)
+    - lower child mortality rates
+    - income of $10 a day -- moto stage
+
+  - automation is destroying traditional stepping stones to lift
+    people out of poverty, and then move from working to middle class
+    as well.
+  - commodification of housing cuts off people from owning their own
+    houses as two thirds of money goes into mortgages.
+  - centralized industrial production destroys local supply & 
+    production chains, 
+
+
+** TL;DR
+
 If we continue roughly on the path we are on now, in the next 50
 years:
 
@@ -44,7 +60,9 @@ years:
     And second, breakthroughs in medical science will dramatically
     expand lifespans in developed economies which will take 2-3
     generations to propagate to the entire world.
+
   - Reduce extreme poverty to less than 3%
+
   - Carbon Level will reach XXppm, temperature will reach xxC and
     the threshold will have long passed when sea level rise will be
     inevitable and over the next century submerge land where 40-60% of
@@ -52,7 +70,8 @@ years:
    
 
   - Automation will transform production, logistics and the nature of
-    work -- industrial education will keep people back
+    work -- industrial education will keep people back.
+
   - Traditional economic stepping stones for nations and individuals
     to move up the economic ladder will largely go away
 
@@ -108,7 +127,7 @@ will take 50 years will take less than 15.
 
 
 
-** TL;DR
+
 
 
 
