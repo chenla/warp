@@ -29,6 +29,8 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 
+  - [[./vision.org][Vision]] 
+
 
   - Lifetime Pattern Language
 
@@ -69,6 +71,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 ** Domus Cluster General Character
+:PROPERTIES:
+:ID:       bae16558-afd7-4fc8-ac06-9a5174c4d23e
+:END:
 
 A cluster of 12 houses with 3-5 primary shops which might be a
 storefront, a workshop, office, and 5 or more secondary shops that are
@@ -79,7 +84,7 @@ age of 11 when children begin taking the Trivium).
 
 #+begin_quote
 The cluster is, in essence, a group of a dozen families, legally
-constituted as a non--profit corporation. For the first fifteen years
+constituted as a non-profit corporation. For the first fifteen years
 of the cluster's life, the members of the cluster, the builder, and
 the sponsor are financially and legally interdependent. During this
 period the title to the land is held in trust. At the end of fifteen
@@ -98,7 +103,7 @@ communication on a personal basis. A dozen families can sit around a
 table and discuss and resolve their own affairs and problems fairly
 easily. More cannot.
 
-— — cite:alexander:1973grass-roots
+— cite:alexander:1973grass-roots
 #+end_quote
 
 ** Housing for Guests & Journeymen Vistors 
