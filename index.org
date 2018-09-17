@@ -53,12 +53,12 @@ bibliography:../hoard/bib.bib
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
 
- - structures  domí̱ (δομή)
+ - patterns (图案) & structures (构)  domí̱ (δομή)
    - form
    - process (attractors & repulsers)
    - /propagation
    - /chunking
- - cosmos  (spheres & systems)
+ - spheres & systems
    - helio (heat, light)
    - litho (rock, gravity)
    - /atmo-hydro
@@ -69,12 +69,7 @@ bibliography:../hoard/bib.bib
        - motor & sensory
        - social
        - environment
- - polis (social)
-   - human scale
-   - cooperation
-   - /creation
-   - /story                -- common story/worldview
- - dēmos (people)
+ - dēmos (people) /Mankind (人类/人間) / person (人間)
    - roof & rice
    - Shokunin kishitsu (職人気質)
      Five traits according to Masuhiro Yamamoto:
@@ -85,6 +80,11 @@ bibliography:../hoard/bib.bib
      - Jyonetsu (情熱)      -- passion, enthusiasm
    - /rationality
    - /learning
+ - polis (social)
+   - human scale
+   - cooperation
+   - /creation
+   - /story                -- common story/worldview
 
 * A Bead Game
 
