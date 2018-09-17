@@ -31,6 +31,36 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+Our approach is to try to articulate a vision for a better future
+without trying to paint what that world would look like.  When you
+plant a seed, if you know what species of plant it came from you'll
+have a rough idea of what it may look like -- but in a general sense,
+not specific.  But this is only because you have seen other seeds from
+that species and what they looked like.  But if you are creating seeds
+for new species, there is no way of knowing what it will look like
+until you atually score it's casing, stick it in the ground and add
+some water.  This is how you make a better world -- by having a vision
+of a better world and then getting down in the dirt and getting your
+hands dirty and start doing many small experiments.  Lot's and lot's
+and lot's of experiments.  They don't need to be expensive or fancy,
+but they need to be designed with the hope that you will uncover
+something that can contribute to making the world a better place.
+
+
+
+
+----
+
+I think we need to create two tracks -- one that is designed for
+establishment policy wonks -- so that we could play the same kind of
+games as the Rocky Mountain Institute.  Policy papers, business
+partnerships, government blah blah blah -- that get's us funding.  But
+the second track will be the grass roots bottom up approach.  The
+top-down track gives us cover to keep the bottom-up invisible to those
+above.  Bottom up can then build traction without drawing attention.
+
+But to do all of this we need a front man from the top-down world.
+
 ** First Facts (Scope)
 
   - get everyone out of extreme poverty
@@ -85,7 +115,7 @@ the next five, and so forth.  So changes that we intuitively /feel/
 will take 50 years will take less than 15.
 
   - The foundations for industrialization of space will largely be in
-    place and will begin to increase exponentially over the next fifty
+    place and will begin to increase exponentially over the next 50 
     years -- so that 100 years from now heavy industry will be largely
     off planet and automated.  The cost of launching payloads into
     orbit will be equivilent to a long haul flight today.
@@ -124,16 +154,6 @@ will take 50 years will take less than 15.
     - Rebalance rural & urban
 
   
-
-
-
-
-
-
-
-
-
-
 ** References
 
 

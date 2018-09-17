@@ -53,27 +53,38 @@ bibliography:../hoard/bib.bib
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
 
- - structures
+ - structures  domí̱ (δομή)
    - form
    - process (attractors & repulsers)
    - /propagation
    - /chunking
- - creation (spheres & systems)
+ - cosmos  (spheres & systems)
    - helio (heat, light)
    - litho (rock, gravity)
    - /atmo-hydro
-   - bio-eco (bio-spheres & eco-systems)
+   - /bio-eco (bio-spheres & eco-systems)
    - /anthro
      - boundries
        - mental & cognitive
        - motor & sensory
        - social
        - environment
- - polis
-   - scale
+ - polis (social)
+   - human scale
    - cooperation
-   - /care
    - /creation
+   - /story                -- common story/worldview
+ - dēmos (people)
+   - roof & rice
+   - Shokunin kishitsu (職人気質)
+     Five traits according to Masuhiro Yamamoto:
+     - Majime (真面目)      -- seriousness
+     - Kojoshin (向上心)    -- aspire to improve
+     - Seiketsukan (清潔感) -- clean feeling, freshness
+     - Ganko (頑固)         -- stubbornness, obstinacy
+     - Jyonetsu (情熱)      -- passion, enthusiasm
+   - /rationality
+   - /learning
 
 * A Bead Game
 

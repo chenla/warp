@@ -67,7 +67,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     
     - Leave Shop
     - Master
-      harvest upgrade house and   
+      harvest upgrade house
 
 
 ** Domus Cluster General Character
