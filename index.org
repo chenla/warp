@@ -90,8 +90,8 @@ bibliography:../hoard/bib.bib
    - human scale
      - empathy
    - cooperation
-   - creation
-   - story                -- common story/worldview
+   - production
+   - narrative/story  -- common story/worldview
 
 * A Bead Game
 
