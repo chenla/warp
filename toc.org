@@ -29,5 +29,48 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 
+ - Bits -- Patterns (图案) & Structures (构) domí̱ (δομή)
+
+   - form
+   - process (attractors & repulsers)
+   - propagation
+   - chunking
+ - Its -- Spheres & Systems
+   - Space, Time & Gravity
+   - Entropy: 2nd law - maxwell etc
+
+   - helio (heat, light)
+   - litho (rock, gravity)
+   - atmo-hydro
+   - bio-eco (bio-spheres & eco-systems)
+   - anthro
+     - boundries
+       - mental & cognitive
+       - motor & sensory
+       - social
+       - environment
+     - extend & externalize
+ - Dēmos (people) / Mankind (人类/人間)
+   - Roof & Rice
+     - Security -- a tommorow
+   - Mastery: Shokunin kishitsu (職人気質)
+     Five traits according to Masuhiro Yamamoto:
+     - Majime (真面目)      -- seriousness
+     - Kojoshin (向上心)    -- aspire to improve
+     - Seiketsukan (清潔感) -- clean feeling, freshness
+     - Ganko (頑固)         -- stubbornness, obstinacy
+     - Jyonetsu (情熱)      -- passion, enthusiasm
+   - Reason, Empiricism
+   - Humility, Manners & Dignity
+     [[https://aeon.co/essays/human-dignity-is-an-ideal-with-remarkably-shallow-roots?utm_medium=feed&utm_source=rss-feed][Dignity is delicate]],  Remy Debes, Aeon 2018-09-17
+     "Politeness, it's cheap as dirt" 
+      — Salesman drinking in "Old China Hand", Hong Kong 1995
+   - Otium
+ - Polis (social)
+   - human scale
+     - empathy
+   - cooperation
+   - production
+   - narrative/story  -- common story/worldview
 
 
