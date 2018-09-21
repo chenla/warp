@@ -53,12 +53,16 @@ bibliography:../hoard/bib.bib
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
 
- - Patterns (图案) & Structures (构) domí̱ (δομή)
+ - Bits -- Patterns (图案) & Structures (构) domí̱ (δομή)
+
    - form
    - process (attractors & repulsers)
    - propagation
    - chunking
- - Spheres & Systems
+ - Its -- Spheres & Systems
+   - Space, Time & Gravity
+   - Entropy: 2nd law - maxwell etc
+
    - helio (heat, light)
    - litho (rock, gravity)
    - atmo-hydro
