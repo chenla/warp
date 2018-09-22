@@ -29,7 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 
- - Bits -- Patterns (图案) & Structures (构) domí̱ (δομή)
+ - [[./ww01/index.org][Bits]] -- Patterns (图案) & Structures (构) domí̱ (δομή)
 
    - form
    - process (attractors & repulsers)
@@ -62,7 +62,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - Jyonetsu (情熱)      -- passion, enthusiasm
    - Reason, Empiricism
    - Humility, Manners & Dignity
-     [[https://aeon.co/essays/human-dignity-is-an-ideal-with-remarkably-shallow-roots?utm_medium=feed&utm_source=rss-feed][Dignity is delicate]],  Remy Debes, Aeon 2018-09-17
+     [[https://aeon.co/essays/human-dignity-is-an-ideal-with-remarkably-shallow-roots?utm_medium=feed&utm_source=rss-feed][Dignity is delicate]], Remy Debes, Aeon 2018-09-17
      "Politeness, it's cheap as dirt" 
       — Salesman drinking in "Old China Hand", Hong Kong 1995
    - Otium
