@@ -33,7 +33,24 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
+The problem of where to begin is always vexing.  Beginnings
+are arbitrary and subject to where you happen to be in
+relation to what you happen to be looking at.  There are no
+absolute beginnings -- you can always add or subtract
+something to or from a set.  The best you can do is start
+with what is known while knowing that we step into a river
+that can never be stepped in twice.
 
+We need to agree on a set of first facts, while being
+mindful that we won't all agree on some, and in time many
+will be replaced.
+
+So we wipe the slate clean, collect our first facts and
+starting from first principles begin to frame a narrative of
+who and where we are, where and when we came from, our
+strengths and weaknesses and how to go about building a
+sound foundation for a civilization that will serve
+Mankind's needs for the next century and beyond.
 
 ** TL;DR
 
@@ -48,16 +65,26 @@ constantly evolving civilzation we live our lives in.
 
 We start with first facts and build from first principles
 the best we can; obviate what separates us from ourselves,
-each other and clouds the mind and eye.  We Sapiens are but
-one species in a vast continuum of life spanning billions of
-years and trillions of species ranging in size from the
-micro to megascopic.  We are not one with nature or the
-universe because we are a tiny subset of the universe, not
-outside, not apart. The ghost and the machine are but tiny
-motes in the vastness of the heavens our ancestors saw in
-the majestic swath of the Milky Way on clear starry nights
-amid the cacophanic nocturn of insects and creatures about
-their business in the darkness.
+each other and clouds the mind and senses.  We Sapiens are
+but one species in a vast continuum of life spanning
+billions of years and trillions of species ranging in size
+from the micro to megascopic living in a shared biosphere.
+
+The strong force ... the weak force ... gravity gives us
+place to stand with an an up and down and keeps things from
+flying apart and at the right distence from the sun to keep
+water liquid, an atmosphere thick enough to sheild us from
+being cooked by cosmic and solar radiation and light enough
+for photosynthesis and to navigate using a narrow band of
+the electromagnetic spectrum.
+
+We are not /one with nature/.  We are simply a subset of
+time, space matter and energy, not outside, not apart. The
+ghost and the machine are but tiny motes of complexity in
+the vastness of the heavens our ancestors saw in the broad
+swath of the Milky Way on clear starry nights amid the
+cacophanic nocturn of insects and creatures about their
+business in the darkness.
 
 For this to work, our common narrative must necessarily be
 loose, yet spun from the toughest fibers into threads that
