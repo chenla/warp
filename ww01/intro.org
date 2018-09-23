@@ -41,26 +41,28 @@ This makes it possible for people from different disciplines,
 traditions and cultures making cross-discipline cooperation.
 
 ** It from Bit
-Informational basis of the universe
+Informational basis of the universe.
 
 ** Information
 What is information
 
+** Human & Machine Legibilty
+
 ** Symbols
 Binary bits grouped into bytes representing symbols. or in reverse, we
-encode symbols using bytes
+encode symbols using bytes.
 
 and bytes grouped into compound symbols (words).
 
 Symbols can then be broken down into different datatypes -- symbols,
-strings, numbers (integers, floats etc), lists
+strings, numbers (integers, floats etc), lists.
 
 ** Grammar
 Rules for manipulate symbols
 
 Requirements:
 
-  - homiconigraphic
+  - homoiconicity
   - unambiguous
   - datatypes
   - s-exps
@@ -74,6 +76,38 @@ N-Quads
 
 ** Fnords
 
+** Mechanisms
+  - form
+  - chunking
+  - process
+  - propagation
+*** Chunking
+LOD
+
+gives us:
+  - complexity
+  - wholes
+  - heirarchies
+  - holons and holarchies
+  - patterns
+  - maps
+  - sets
+
+*** Form
+matter
+differentiation of space
+*** Process
+energy
+things becoming something else
+entropy -- second law of thermodynamics
+motion
+time
+
+*** Propagation
+Time
+ROC
+
 ** References
 
-
+Hesse, H., Magister Ludi (1957), : F. Ungar Pub. Co.
+cite:hesse:1957magister-ludi
