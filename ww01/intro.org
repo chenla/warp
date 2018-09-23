@@ -33,12 +33,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 
 ** A Bead Game
-cross discipline synthesis and universality - a kind of meta narrative
+Cross discipline synthesis and universality - a kind of meta narrative
 or paradigm that provides interoperability between traditions,
 theoretical frameworks, vocabularies and cultures.
 
 This makes it possible for people from different disciplines,
-traditions and cultures making cross-discipline cooperation
+traditions and cultures making cross-discipline cooperation.
 
 ** It from Bit
 Informational basis of the universe
@@ -47,14 +47,32 @@ Informational basis of the universe
 What is information
 
 ** Symbols
-binary bits grouped into bytes representing symbols
+Binary bits grouped into bytes representing symbols. or in reverse, we
+encode symbols using bytes
 
 and bytes grouped into compound symbols (words).
 
-** 
+Symbols can then be broken down into different datatypes -- symbols,
+strings, numbers (integers, floats etc), lists
 
 ** Grammar
-Rules for 
+Rules for manipulate symbols
+
+Requirements:
+
+  - homiconigraphic
+  - unambiguous
+  - datatypes
+  - s-exps
+** Relationships
+We now have a symbol system but 
+
+** Tuples
+N-Quads
+
+** Graphs
+
+** Fnords
 
 ** References
 
