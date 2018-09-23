@@ -1,0 +1,61 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Bits Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Bits Introduction
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/warp/ww01/intro.org
+  :Created:   2018-09-23T09:01@Prek Leap (11.642600N-104.919210W)
+  :ID:        ff1b7867-bf2e-4f8e-9be6-9c803d594c6f
+  :VER:       590940148.683874232
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:XCF5-1347
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+
+** A Bead Game
+cross discipline synthesis and universality - a kind of meta narrative
+or paradigm that provides interoperability between traditions,
+theoretical frameworks, vocabularies and cultures.
+
+This makes it possible for people from different disciplines,
+traditions and cultures making cross-discipline cooperation
+
+** It from Bit
+Informational basis of the universe
+
+** Information
+What is information
+
+** Symbols
+binary bits grouped into bytes representing symbols
+
+and bytes grouped into compound symbols (words).
+
+** 
+
+** Grammar
+Rules for 
+
+** References
+
+
