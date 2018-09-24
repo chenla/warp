@@ -47,4 +47,5 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Form
     - Process (attractors & repulsers)
     - Propagation
+  - Systems
   - A Bead Game Language (ABGL)

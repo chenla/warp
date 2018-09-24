@@ -74,7 +74,35 @@ N-Quads
 
 ** Graphs
 
-** Fnords
+Graphs treat the relationships between things as just as
+important as the information that they link to.
+
+ - data        :: /list/, an random set of symbols and
+                  numbers.
+
+ - information :: /key-value pair/, a structured and labeled
+                  set of symbols and numbers.
+
+ - knowledge   :: /directed-graph/, a map of relationships
+                  of information in a set. 
+
+---------
+
+This does not belong here:
+
+ - insight     :: recognition of a correlation between two
+                  or more pieces of or classes of
+                  information and relationships.
+
+ - wisdom      :: or /wise-reasoning/ a multi-facet process
+                  that synthesizes of multiple graphs
+                  representing different LOC and POV and
+                  employ compound algorithmic queries.
+                  SEE: cite:grossmann:2016wise  
+                  — [[https://www.psychologytoday.com/us/blog/the-athletes-way/201606/what-is-wisdom-wise-reasoning-has-three-specific-facets][wise-reasoning]], Psychology Today, 2016-6-9.
+
+
+**** Fnords
 
 ** Mechanisms
   - form
@@ -107,6 +135,7 @@ time
 Time
 ROC
 
+** Systems
 ** References
 
 Hesse, H., Magister Ludi (1957), : F. Ungar Pub. Co.
