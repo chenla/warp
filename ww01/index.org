@@ -33,19 +33,19 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - [[./intro.org][Introduction]]
 
   - Bead Games
-  - It From Bit
-  - Information
-  - Human & Machine Legibility
-  - Symbols
-  - Grammars
-  - Relationships
-  - Tuples
-  - Graphs
-  - Fnords
+    - It From Bit
+    - Information
+    - Human & Machine Legibility
+    - Symbols
+    - Grammars
+    - Relationships
+    - Tuples
+    - Graphs
+    - Fnords
   - Mechanisms
     - Chunking
     - Form
     - Process (attractors & repulsers)
     - Propagation
   - Systems
-  - A Bead Game Language (ABGL)
+
