@@ -32,16 +32,36 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :END:
 
 
-** A Bead Game
-Cross discipline synthesis and universality - a kind of meta narrative
-or paradigm that provides interoperability between traditions,
-theoretical frameworks, vocabularies and cultures.
+The Chenla Institute is dedicated to research, publication,
+and consulting, on how to build a sustainable, distributed,
+human scale civilization, with a focus on profitable
+innovations for alleviating extreme poverty and providing a
+reliable path for moving up the economic ladder to form a
+new kind of sustainable middle-class with a standard of
+living and quality of life & work that is only rarely
+experienced even in developed economies today.  This is
+accomplished through /research/ and publication focused on a
+specific long-term vision for the future, while focusing
+/development/ on implemention of short and medium term
+projects which will materially improve the lives of people
+today.  Put simply, think and plan for a better world
+tomorrow while building that future, brick-by-brick from the
+bottom up today.
 
-This makes it possible for people from different disciplines,
-traditions and cultures making cross-discipline cooperation.
+** A Bead Game
+Cross discipline synthesis and universality - a kind of meta
+narrative or paradigm that provides interoperability between
+traditions, theoretical frameworks, vocabularies and
+cultures.
+
+This makes it possible for people from different
+disciplines, traditions and cultures making cooperation
+possible across disciplines.
 
 ** It from Bit
 Informational basis of the universe.
+
+cite:deutsch:2002it-to-qubit,wheeler:1992itfrombit
 
 ** Information
 What is information
@@ -99,6 +119,7 @@ This does not belong here:
                   representing different LOC and POV and
                   employ compound algorithmic queries.
                   SEE: cite:grossmann:2016wise  
+                       cite:weststrate:2016wisdom
                   — [[https://www.psychologytoday.com/us/blog/the-athletes-way/201606/what-is-wisdom-wise-reasoning-has-three-specific-facets][wise-reasoning]], Psychology Today, 2016-6-9.
 
 
