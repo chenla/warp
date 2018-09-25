@@ -71,7 +71,25 @@ cite:hesse:1957magister-ludi,alexander:1968bead,grabow:1983christopher
 Six numbers determine that we live in a universe that
 supports life.
 
+  - ε — Episilon = 0.007
+    Relative Amount of hydrogen that converts to Helium via
+    Fusion in the big Bang
+  - N=10^36
+    Strength of the electric force divided by the strength
+    of gravity
+  - Ω — Omega
+    Relative Density of the Universe
+  - Λ — Lambda
+    Cosmological Constant
+  - Q
+    Amplitude of Irregularities in the CMB
+  - D 
+    Number of Spatial Dimensions  
+
+
 cite:rees:1999six-numbers,radford:2012six-numbers
+
+- [[https://www.cheatography.com/davidpol/cheat-sheets/just-six-numbers/][Just Six Numbers Cheat Sheet]] by Davidpol
 
 ** It from Bit
 Informational basis of the universe.
