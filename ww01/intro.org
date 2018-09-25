@@ -31,6 +31,12 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
+#+begin_quote
+Service to others is the rent you pay for your room here on
+earth.
+
+— Muhammad Ali, Time magazine (Feb. 27,1978) 
+#+end_quote
 
 The Chenla Institute is dedicated to research, publication,
 and consulting, on how to build a sustainable, distributed,
@@ -46,7 +52,7 @@ specific long-term vision for the future, while focusing
 projects which will materially improve the lives of people
 today.  Put simply, think and plan for a better world
 tomorrow while building that future, brick-by-brick from the
-bottom up today.
+bottom up, today.
 
 ** A Bead Game
 Cross discipline synthesis and universality - a kind of meta
@@ -58,6 +64,15 @@ This makes it possible for people from different
 disciplines, traditions and cultures making cooperation
 possible across disciplines.
 
+cite:hesse:1957magister-ludi,alexander:1968bead,grabow:1983christopher
+
+** First Facts
+
+Six numbers determine that we live in a universe that
+supports life.
+
+cite:rees:1999six-numbers,radford:2012six-numbers
+
 ** It from Bit
 Informational basis of the universe.
 
@@ -65,6 +80,8 @@ cite:deutsch:2002it-to-qubit,wheeler:1992itfrombit
 
 ** Information
 What is information
+
+cite:floridi:2010information,gleick:2011information
 
 ** Human & Machine Legibilty
 
