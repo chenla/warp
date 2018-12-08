@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-10-08 Mon 16:10 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Bits Introduction</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Brad Collins" />
+</head>
+<body>
+<div id="content">
+<h1 class="title">Bits Introduction</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#">1. Bits Introduction</a>
+<ul>
+<li><a href="#org2f399a9">1.1. A Bead Game</a></li>
+<li><a href="#org097dde1">1.2. First Facts</a></li>
+<li><a href="#orgf86bc0a">1.3. It from Bit</a></li>
+<li><a href="#orga41f576">1.4. Information</a></li>
+<li><a href="#org044edec">1.5. Human &amp; Machine Legibilty</a></li>
+<li><a href="#org06cedec">1.6. Symbols</a></li>
+<li><a href="#org638bf50">1.7. Grammar</a></li>
+<li><a href="#orga2c88a7">1.8. Relationships</a></li>
+<li><a href="#orga1bb853">1.9. Tuples</a></li>
+<li><a href="#orga429cda">1.10. Graphs</a></li>
+<li><a href="#org6a7d20c">1.11. Mechanisms</a>
+<ul>
+<li><a href="#org34f4c8f">1.11.1. Chunking</a></li>
+<li><a href="#orga23ceef">1.11.2. Form</a></li>
+<li><a href="#org747dba4">1.11.3. Process</a></li>
+<li><a href="#org5ba47e6">1.11.4. Propagation</a></li>
+</ul>
+</li>
+<li><a href="#orga3f82e9">1.12. Systems</a></li>
+<li><a href="#org8f39ca3">1.13. References</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#">1. Bits Introduction</a>
+<ul>
+<li><a href="#org2f399a9">1.1. A Bead Game</a></li>
+<li><a href="#org097dde1">1.2. First Facts</a></li>
+<li><a href="#orgf86bc0a">1.3. It from Bit</a></li>
+<li><a href="#orga41f576">1.4. Information</a></li>
+<li><a href="#org044edec">1.5. Human &amp; Machine Legibilty</a></li>
+<li><a href="#org06cedec">1.6. Symbols</a></li>
+<li><a href="#org638bf50">1.7. Grammar</a></li>
+<li><a href="#orga2c88a7">1.8. Relationships</a></li>
+<li><a href="#orga1bb853">1.9. Tuples</a></li>
+<li><a href="#orga429cda">1.10. Graphs</a></li>
+<li><a href="#org6a7d20c">1.11. Mechanisms</a>
+<ul>
+<li><a href="#org34f4c8f">1.11.1. Chunking</a></li>
+<li><a href="#orga23ceef">1.11.2. Form</a></li>
+<li><a href="#org747dba4">1.11.3. Process</a></li>
+<li><a href="#org5ba47e6">1.11.4. Propagation</a></li>
+</ul>
+</li>
+<li><a href="#orga3f82e9">1.12. Systems</a></li>
+<li><a href="#org8f39ca3">1.13. References</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<p>
+<a href="https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square">https://img.shields.io/badge/made by-Chenla Institute-999999.svg?style=flat-square</a> 
+<a href="https://img.shields.io/badge/class-w%20&amp;%20w-56B4E9.svg?style=flat-square">https://img.shields.io/badge/class-w &amp; w-56B4E9.svg?style=flat-square</a>
+<a href="https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square">https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square</a>
+<a href="https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square">https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square</a>
+<a href="https://img.shields.io/badge/licence-MIT/CC%20BY--SA%204.0-000000.svg?style=flat-square">https://img.shields.io/badge/licence-MIT/CC BY--SA 4.0-000000.svg?style=flat-square</a>
+</p>
+
+<p>
+<h1 class='org-ref-bib-h1'>Bibliography</h1>
+<ul class='org-ref-bib'><li><a id="hesse:1957magister-ludi">[hesse:1957magister-ludi] Hermann Hesse, Magister Ludi, F. Ungar Pub. Co. (1957).</a></li>
+<li><a id="alexander:1968bead">[alexander:1968bead] Christopher Alexander, The Bead Game Conjecture, <i>Lotus, an International Review of Contemporary Architecture</i>, <b>5</b>, 151-154 (1968).</a></li>
+<li><a id="grabow:1983christopher">[grabow:1983christopher] Stephen Grabow, Christopher Alexander: the search for a new paradigm in architecture, Routledge Kegan & Paul (1983).</a></li>
+<li><a id="rees:1999six-numbers">[rees:1999six-numbers] Martin Rees, Just Six Numbers: The Deep Forces that Shape the Universe, Basic Books (1999).</a></li>
+<li><a id="radford:2012six-numbers">[radford:2012six-numbers] @miscradford:2012six-numbers,
+   title       = Just Six Numbers: The Deep Forces that Shape the Universe by Martin Rees – review ,
+   author      = Tim Radford,
+   publisher   = The Guardian,
+   month       = 6,
+   year        = 2012,
+   note        = "[Online; accessed 2018-09-25]",
+   url         = https://www.theguardian.com/science/2012/jun/08/just-six-numbers-martin-rees-review</a></li>
+<li><a id="deutsch:2002it-to-qubit">[deutsch:2002it-to-qubit] David Deutsch, It from qubit, <i>Science and ultimate reality: Quantum theory, cosmology, and complexity (Festschrift for John A. Wheeler)</i>, <b></b>, 90-102 (2002).</a></li>
+<li><a id="wheeler:1992itfrombit">[wheeler:1992itfrombit] Wheeler, Recent Thinking about the Nature of the Physical World: It from Bit, <i>Annals of the New York Academy of Sciences</i>, <b>655</b>, (1992). <a href="http://dx.doi.org/10.1111/j.1749-6632.1992.tb17083.x">doi</a>.</a></li>
+<li><a id="floridi:2010information">[floridi:2010information] Luciano Floridi, Information: A Very Short Introduction, Oxford University Press (2010).</a></li>
+<li><a id="gleick:2011information">[gleick:2011information] James Gleick, The information: a history, a theory, a flood, Pantheon Books (2011).</a></li>
+<li><a id="grossmann:2016wise">[grossmann:2016wise] Igor Grossmann, Tanja Gerlach & Jaap Denissen, Wise Reasoning in the Face of Everyday Life  Challenges, <i>Social Psychological and Personality Science</i>, <b>7(7)</b>, 611–622 (2016). <a href="http://dx.doi.org/10.1177/1948550616652206">link</a>. <a href="http://dx.doi.org/10.1177/1948550616652206">doi</a>.</a></li>
+<li><a id="weststrate:2016wisdom">[weststrate:2016wisdom] Nic Weststrate, Michel Ferrari & Monika Ardelt, The Many Faces of Wisdom, <i>Personality and Social Psychology Bulletin</i>, <b>42(5)</b>, 662–676 (2016). <a href="http://dx.doi.org/10.1177/0146167216638075">link</a>. <a href="http://dx.doi.org/10.1177/0146167216638075">doi</a>.</a></li>
+</ul>
+</p>
+
+<p>
+[<a href="../../index.html">top</a>] [<a href="../index.html">up</a>]
+</p>
+
+<div id="outline-container-org212ff0a" class="outline-2">
+<h2 id=""><a id="org212ff0a"></a><a id="ID-ff1b7867-bf2e-4f8e-9be6-9c803d594c6f"></a><span class="section-number-2">1</span> Bits Introduction</h2>
+<div class="outline-text-2" id="text-">
+<div class="epigraph"><blockquote>
+<p>
+Service to others is the rent you pay for your room here on
+earth.
+</p>
+
+<p>
+— Muhammad Ali, Time (Feb. 27,1978) 
+</p>
+
+</blockquote></div>
+
+<p>
+The Chenla Institute is dedicated to research, publication,
+and consulting, on how to build a sustainable, distributed,
+human scale civilization, with a focus on profitable
+innovations for alleviating extreme poverty and providing a
+reliable path for moving up the economic ladder to form a
+new kind of sustainable middle-class with a standard of
+living and quality of life &amp; work that is only rarely
+experienced even in developed economies today.  This is
+accomplished through <i>research</i> and publication focused on a
+specific long-term vision for the future, while focusing
+<i>development</i> on implemention of short and medium term
+projects which will materially improve the lives of people
+today.  Put simply, think and plan for a better world
+tomorrow while building that future, brick-by-brick from the
+bottom up, today.
+</p>
+</div>
+
+<div id="outline-container-org2f399a9" class="outline-3">
+<h3 id="org2f399a9"><span class="section-number-3">1.1</span> A Bead Game</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Cross discipline synthesis and universality - a kind of meta
+narrative or paradigm that provides interoperability between
+traditions, theoretical frameworks, vocabularies and
+cultures.
+</p>
+
+<p>
+This makes it possible for people from different
+disciplines, traditions and cultures making cooperation
+possible across disciplines.
+</p>
+
+<p>
+<a class='org-ref-reference' href="#hesse:1957magister-ludi">hesse:1957magister-ludi</a>,<a class='org-ref-reference' href="#alexander:1968bead">alexander:1968bead</a>,<a class='org-ref-reference' href="#grabow:1983christopher">grabow:1983christopher</a>
+</p>
+
+<p>
+In the end, any map is what is observed after territory
+collapses and becomes legible.
+</p>
+
+<p>
+Make no mistake, we're willfully tinkering with the
+World-System here, lobbing out generative grammars and
+observing the aftermath of each iteration to see how much
+you can push the world before some nameless horror in the
+void takes notice and begins to push back.
+</p>
+</div>
+</div>
+
+
+
+<div id="outline-container-org097dde1" class="outline-3">
+<h3 id="org097dde1"><span class="section-number-3">1.2</span> First Facts</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Six numbers determine that we live in a universe that
+supports life.
+</p>
+
+<ul class="org-ul">
+<li>ε — Episilon = 0.007
+Relative Amount of hydrogen that converts to Helium via
+Fusion in the big Bang</li>
+<li>N=10<sup>36</sup>
+Strength of the electric force divided by the strength
+of gravity</li>
+<li>Ω — Omega
+Relative Density of the Universe</li>
+<li>Λ — Lambda
+Cosmological Constant</li>
+<li>Q
+Amplitude of Irregularities in the CMB</li>
+<li>D 
+Number of Spatial Dimensions</li>
+</ul>
+
+
+<p>
+<a class='org-ref-reference' href="#rees:1999six-numbers">rees:1999six-numbers</a>,<a class='org-ref-reference' href="#radford:2012six-numbers">radford:2012six-numbers</a>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.cheatography.com/davidpol/cheat-sheets/just-six-numbers/">Just Six Numbers Cheat Sheet</a> by Davidpol</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf86bc0a" class="outline-3">
+<h3 id="orgf86bc0a"><span class="section-number-3">1.3</span> It from Bit</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Informational basis of the universe.
+</p>
+
+<p>
+<a class='org-ref-reference' href="#deutsch:2002it-to-qubit">deutsch:2002it-to-qubit</a>,<a class='org-ref-reference' href="#wheeler:1992itfrombit">wheeler:1992itfrombit</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga41f576" class="outline-3">
+<h3 id="orga41f576"><span class="section-number-3">1.4</span> Information</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+What is information
+</p>
+
+<p>
+<a class='org-ref-reference' href="#floridi:2010information">floridi:2010information</a>,<a class='org-ref-reference' href="#gleick:2011information">gleick:2011information</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org044edec" class="outline-3">
+<h3 id="org044edec"><span class="section-number-3">1.5</span> Human &amp; Machine Legibilty</h3>
+</div>
+
+<div id="outline-container-org06cedec" class="outline-3">
+<h3 id="org06cedec"><span class="section-number-3">1.6</span> Symbols</h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Binary bits grouped into bytes representing symbols. or in reverse, we
+encode symbols using bytes.
+</p>
+
+<p>
+and bytes grouped into compound symbols (words).
+</p>
+
+<p>
+Symbols can then be broken down into different datatypes &#x2013; symbols,
+strings, numbers (integers, floats etc), lists.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org638bf50" class="outline-3">
+<h3 id="org638bf50"><span class="section-number-3">1.7</span> Grammar</h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Rules for manipulate symbols
+</p>
+
+<p>
+Requirements:
+</p>
+
+<ul class="org-ul">
+<li>homoiconicity</li>
+<li>unambiguous</li>
+<li>datatypes</li>
+<li>s-exps</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga2c88a7" class="outline-3">
+<h3 id="orga2c88a7"><span class="section-number-3">1.8</span> Relationships</h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+We now have a symbol system but 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga1bb853" class="outline-3">
+<h3 id="orga1bb853"><span class="section-number-3">1.9</span> Tuples</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+N-Quads
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga429cda" class="outline-3">
+<h3 id="orga429cda"><span class="section-number-3">1.10</span> Graphs</h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Graphs treat the relationships between things as just as
+important as the information that they link to.
+</p>
+
+<dl class="org-dl">
+<dt>data       </dt><dd><i>list</i>, an random set of symbols and
+numbers.</dd>
+
+<dt>information</dt><dd><i>key-value pair</i>, a structured and labeled
+set of symbols and numbers.</dd>
+
+<dt>knowledge  </dt><dd><i>directed-graph</i>, a map of relationships
+of information in a set.</dd>
+</dl>
+
+<hr />
+
+<p>
+This does not belong here:
+</p>
+
+<dl class="org-dl">
+<dt>insight    </dt><dd>recognition of a correlation between two
+or more pieces of or classes of
+information and relationships.</dd>
+
+<dt>wisdom     </dt><dd>or <i>wise-reasoning</i> a multi-facet process
+that synthesizes of multiple graphs
+representing different LOC and POV and
+employ compound algorithmic queries.
+SEE: <a class='org-ref-reference' href="#grossmann:2016wise">grossmann:2016wise</a>  
+     <a class='org-ref-reference' href="#weststrate:2016wisdom">weststrate:2016wisdom</a>
+— <a href="https://www.psychologytoday.com/us/blog/the-athletes-way/201606/what-is-wisdom-wise-reasoning-has-three-specific-facets">wise-reasoning</a>, Psychology Today, 2016-6-9.</dd>
+</dl>
+</div>
+
+
+<ol class="org-ol">
+<li><a id="orgb947e35"></a>Fnords<br /></li>
+</ol>
+</div>
+
+<div id="outline-container-org6a7d20c" class="outline-3">
+<h3 id="org6a7d20c"><span class="section-number-3">1.11</span> Mechanisms</h3>
+<div class="outline-text-3" id="text-1-11">
+<ul class="org-ul">
+<li>form</li>
+<li>chunking</li>
+<li>process</li>
+<li>propagation</li>
+</ul>
+</div>
+<div id="outline-container-org34f4c8f" class="outline-4">
+<h4 id="org34f4c8f"><span class="section-number-4">1.11.1</span> Chunking</h4>
+<div class="outline-text-4" id="text-1-11-1">
+<p>
+LOD
+</p>
+
+<p>
+gives us:
+</p>
+<ul class="org-ul">
+<li>complexity</li>
+<li>wholes</li>
+<li>heirarchies</li>
+<li>holons and holarchies</li>
+<li>patterns</li>
+<li>maps</li>
+<li>sets</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orga23ceef" class="outline-4">
+<h4 id="orga23ceef"><span class="section-number-4">1.11.2</span> Form</h4>
+<div class="outline-text-4" id="text-1-11-2">
+<p>
+matter
+differentiation of space
+</p>
+</div>
+</div>
+<div id="outline-container-org747dba4" class="outline-4">
+<h4 id="org747dba4"><span class="section-number-4">1.11.3</span> Process</h4>
+<div class="outline-text-4" id="text-1-11-3">
+<p>
+energy
+things becoming something else
+entropy &#x2013; second law of thermodynamics
+motion
+time
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5ba47e6" class="outline-4">
+<h4 id="org5ba47e6"><span class="section-number-4">1.11.4</span> Propagation</h4>
+<div class="outline-text-4" id="text-1-11-4">
+<p>
+Time
+ROC
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga3f82e9" class="outline-3">
+<h3 id="orga3f82e9"><span class="section-number-3">1.12</span> Systems</h3>
+</div>
+<div id="outline-container-org8f39ca3" class="outline-3">
+<h3 id="org8f39ca3"><span class="section-number-3">1.13</span> References</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Hesse, H., Magister Ludi (1957), : F. Ungar Pub. Co.
+<a class='org-ref-reference' href="#hesse:1957magister-ludi">hesse:1957magister-ludi</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Brad Collins</p>
+<p class="date">Created: 2018-10-08 Mon 16:10</p>
+<p class="validation"></p>
+</div>
+</body>
+</html>

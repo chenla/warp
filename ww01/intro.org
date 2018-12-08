@@ -35,7 +35,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 Service to others is the rent you pay for your room here on
 earth.
 
-— Muhammad Ali, Time magazine (Feb. 27,1978) 
+— Muhammad Ali, Time (Feb. 27,1978) 
 #+end_quote
 
 The Chenla Institute is dedicated to research, publication,
@@ -65,6 +65,17 @@ disciplines, traditions and cultures making cooperation
 possible across disciplines.
 
 cite:hesse:1957magister-ludi,alexander:1968bead,grabow:1983christopher
+
+In the end, any map is what is observed after territory
+collapses and becomes legible.
+
+Make no mistake, we're willfully tinkering with the
+World-System here, lobbing out generative grammars and
+observing the aftermath of each iteration to see how much
+you can push the world before some nameless horror in the
+void takes notice and begins to push back.
+
+
 
 ** First Facts
 

@@ -33,14 +33,13 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-The problem of where to begin is ... vexing.  Arbitrary
-beginnings are subject to where you happen to be relative to
-what you might be looking at.  Beginnings are never
-absolute.  Something can always be added or subtracted from
-any given set.  I've always found that comforting.  Human's
-can't grasp infinities.  We loose grip, and are lost in
-things without end.  We do know madness all to well.  Deep
-down we know our limits, limits of knowing, limits of
+Where to begin is always... vexing.  Beginnings are where
+you are relative to what you're looking at.  Beginnings are
+never absolute.  Something can always be added or subtracted
+from any given set.  I've always found that comforting.
+Human's can't grasp infinities.  We loose grip, and are lost
+in things without end.  We do know madness all to well.
+Deep down we know our limits, limits of knowing, limits of
 seeing, limits of feeling when we stray too far from the
 narrow path of human scale.
 
@@ -95,9 +94,9 @@ darkness.
 
 For this to work, our common narrative must necessarily be
 loose, yet spun from the toughest fibers into threads that
-become stronger over time ra, conceptional framework that is
-resistent to being frozen into dogma and ideological roach
-motels.  Owning up to our ignorance also means being honest
+become stronger over time a, conceptional framework that is
+resistent to being frozen into dogmatic and ideological
+roach motels.  Owning up to our ignorance means being honest
 enough to admit that even our most cherished beliefs about
 the world must be challenged and periodically overturned
 without threatening our identity, dignity and moral

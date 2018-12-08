@@ -52,7 +52,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
      - extend & externalize
  - Dēmos (people) / Mankind (人类/人間)
    - Roof & Rice
-     - Security -- a tommorow
+     - Security -- a tomorrow
    - Mastery: Shokunin kishitsu (職人気質)
      Five traits according to Masuhiro Yamamoto:
      - Majime (真面目)      -- seriousness
