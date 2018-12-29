@@ -53,6 +53,10 @@ bibliography:../hoard/bib.bib
  - [[./synopsis.org][Synopsis]]
  - Prolegomenon
 
+
+
+
+
  - [[./toc.org][TOC]]
 
 * A Bead Game
