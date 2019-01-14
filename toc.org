@@ -28,29 +28,45 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-
+** Bead Game
  - [[./ww01/index.org][Bits]] -- Patterns (图案) & Structures (构) domí̱ (δομή)
 
-   - form
-   - process (attractors & repulsers)
-   - propagation
-   - chunking
- - Its -- Spheres & Systems
-   - Space, Time & Gravity
-   - Entropy: 2nd law - maxwell etc
+ - Bead Games
+   - It From Bit
+   - Information
+   - Legibility
+     - Human & Machine
+   - Symbols
+   - Grammars
+   - Relationships
+   - Tuples
+   - Graphs
+   - Fnords
+ - Mechanisms
+   - Chunking
+   - Form
+   - Process (attractors & repulsers)
+   - Propagation
+ - Systems
+   - feedback loops
 
-   - helio (heat, light)
-   - litho (rock, gravity)
-   - atmo-hydro
-   - bio-eco (bio-spheres & eco-systems)
-   - anthro
+** Its -- Spheres & Systems
+  - Space, Time & Gravity
+  - Entropy: 2nd law - maxwell etc
+
+  - helio (heat, light)
+  - litho (rock, gravity)
+  - atmo-hydro
+  - bio-eco (bio-spheres & eco-systems)
+  - anthro
      - boundries
        - mental & cognitive
        - motor & sensory
        - social
        - environment
      - extend & externalize
- - Dēmos (people) / Mankind (人类/人間)
+
+** Dēmos (people) / Mankind (人类/人間)
    - Roof & Rice
      - Security -- a tomorrow
    - Mastery: Shokunin kishitsu (職人気質)
@@ -65,12 +81,32 @@ bibliography:~/proj/chenla/hoard/bib.bib
      [[https://aeon.co/essays/human-dignity-is-an-ideal-with-remarkably-shallow-roots?utm_medium=feed&utm_source=rss-feed][Dignity is delicate]], Remy Debes, Aeon 2018-09-17
      "Politeness, it's cheap as dirt" 
       — Salesman drinking in "Old China Hand", Hong Kong 1995
-   - Otium
- - Polis (social)
-   - human scale
-     - empathy
-   - cooperation
-   - production
-   - narrative/story  -- common story/worldview
+   - Otium & Negotium
 
+** Polis (social)
+ - human scale
+   - empathy
+ - cooperation
+ - production
+ - narrative/story -- common story/worldview
+ - Mētis (local) 
+ - Global
+
+** Framework
+   - architecture
+   - spec
+   - plumbing
+     - internals
+       - filesystem
+       - protocols
+       - commands
+     - porcelain
+   - bmf
+   - shamanistic interface
+** Polity
+   - Compact
+   - 
+   - Institutions
+
+** - Patterns & Concepts
 
