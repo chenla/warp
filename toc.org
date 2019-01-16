@@ -28,10 +28,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-** Bead Game
+** A Bead Game (patterns & structures)
  - [[./ww01/index.org][Bits]] -- Patterns (图案) & Structures (构) domí̱ (δομή)
 
- - Bead Games
+ - Bead Game
    - It From Bit
    - Information
    - Legibility
@@ -50,7 +50,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - Systems
    - feedback loops
 
-** Its -- Spheres & Systems
+** Causal Spheres & Systems
   - Space, Time & Gravity
   - Entropy: 2nd law - maxwell etc
 
@@ -59,14 +59,17 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - atmo-hydro
   - bio-eco (bio-spheres & eco-systems)
   - anthro
-     - boundries
-       - mental & cognitive
-       - motor & sensory
-       - social
-       - environment
-     - extend & externalize
+    - boundries
+      - mental & cognitive
+      - motor & sensory
+      - social
+      - environment
+    - extend & externalize
 
-** Dēmos (people) / Mankind (人类/人間)
+
+** The Human Holarchy
+
+*** Dēmos (people) / Mankind (人类/人間)
    - Roof & Rice
      - Security -- a tomorrow
    - Mastery: Shokunin kishitsu (職人気質)
@@ -83,7 +86,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
       — Salesman drinking in "Old China Hand", Hong Kong 1995
    - Otium & Negotium
 
-** Polis (social)
+*** Polis (social)
  - human scale
    - empathy
  - cooperation
@@ -92,21 +95,36 @@ bibliography:~/proj/chenla/hoard/bib.bib
  - Mētis (local) 
  - Global
 
-** Framework
-   - architecture
-   - spec
-   - plumbing
-     - internals
-       - filesystem
-       - protocols
-       - commands
-     - porcelain
-   - bmf
-   - shamanistic interface
-** Polity
+** Core Utilities
+  - A Philosophy of Unix Programing
+    - Posix & coreutils
+    - Networking
+  - Hoard: a self-documenting, distributed, interoperable, semantic messaging &
+    storage platform  
+    - Architecture
+    - Specifications
+  - Plumbing
+    - internals
+      - filesystem
+      - protocols
+      - commands
+  - Porcelain
+    - editor, browser, shell
+  - Components
+    - BMF
+    - BXID
+    - Fnord
+    - Saltmine: a long-term, distributed persistent
+      semantic archive framework.
+    - Animic Interface
+** A Polity
    - Compact
    - 
    - Institutions
 
-** - Patterns & Concepts
-
+** A Hoard
+ - Patterns
+ - Concepts
+ - Designs
+ - Invocations
+ - Dictionary
