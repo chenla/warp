@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./03-objective-pov.org][prev]]] [[[./05-roc.org][next]]]
 
-* 04. Level of Detail (LOD)
+* 04. Level of Detail (LOD)                :SUPERCEDED:
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/04-lod.org
@@ -29,6 +29,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 :Status:   wip
 :Licence:  MIT/CC BY-SA 4.0
 :END:
+
 
 
 LOD is a concept and technique used in 3D modeling that
