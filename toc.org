@@ -28,7 +28,10 @@ bibliography:~/proj/chenla/hoard/bib.bib
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
-** A Bead Game (patterns & structures)
+
+The Warp & Woof; for a distributed civilization
+
+** A Bead Game; Patterns & Structures
  - [[./ww01/index.org][Bits]] -- Patterns (图案) & Structures (构) domí̱ (δομή)
 
  - Bead Game
@@ -67,7 +70,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - extend & externalize
 
 
-** The Human Holarchy
+** An Inclusive Holarchy
 
 *** Dēmos (people) / Mankind (人类/人間)
    - Roof & Rice
@@ -117,14 +120,20 @@ bibliography:~/proj/chenla/hoard/bib.bib
     - Saltmine: a long-term, distributed persistent
       semantic archive framework.
     - Animic Interface
-** A Polity
+** Polity & Polis
    - Compact
    - 
    - Institutions
-
-** A Hoard
+** Et Cetera, 等等, &c.
+** A Working Hoard
  - Patterns
  - Concepts
  - Designs
  - Invocations
  - Dictionary
+   - glyphs
+   - vocabulary
+     - Headwords
+     - neologisms
+     - metaphors
+ - Canon/Corpus/Library
