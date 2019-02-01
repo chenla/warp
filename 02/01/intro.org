@@ -15,7 +15,7 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 [[[../../index.org][top]]] [[[./index.org][up]]] [[[./intro.org][prev]]] [[[./02-cognitive-pov.org][next]]]
 
-* 01 Point of View Introduction
+* 01 Point of View Introduction             :SUPERCEDED:
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:     /home/deerpig/proj/chenla/warp/02/01/intro.org

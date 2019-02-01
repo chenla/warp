@@ -30,9 +30,9 @@ bibliography:~/proj/chenla/hoard/bib.bib
   - Contents
   - [[./abstract.org][Abstract]]
   -[[./intro.org][ Introduction]]
-  - 01. [[./01/index.org][Point of View]] (POV)
+  - 01. [[./01/index.org][Point of View]] (POV)  *Superceded* by <ww:Point_of_View--concept--4.org>
   - 02. [[./02/index.org][Cardinal Perspectives]]
-  - 03. [[./03/index.org][Level of Detail]] (LOD)  *Superceded* by < ww:Level_of_Detail--concept--4.org>
+  - 03. [[./03/index.org][Level of Detail]] (LOD)  *Superceded* by <ww:Level_of_Detail--concept--4.org>
   - 04. [[./04/index.org][Rate of Change]] (ROC)
   - 05. [[./05/index.org][Level of Abstraction]] (LOA)
   - 06. [[./06/index.org][Level of Complexity]] (LOC)
