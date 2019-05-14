@@ -25,7 +25,6 @@ bibliography:../hoard/bib.bib
 | warp | 189671 |   758 |
 :END:
 
-[top]
 
 * Warp & Woof Contents
 :PROPERTIES:

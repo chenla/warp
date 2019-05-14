@@ -83,7 +83,7 @@ the sensory information coming in from our eyes.
 
 We will use /perspective/ to mean a specific, defined POV
 POV that can be used as a cognitive tool.  We define what we
-call the Five Cardinal Perspectives which can be combined in
+call the Cardinal Perspectives which can be combined in
 different ways for different puposes.
 
 Context is when a given mental model of the world (in
